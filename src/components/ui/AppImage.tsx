@@ -6,6 +6,7 @@ import { cn } from "@/lib/format";
 type Props = {
   image?: SiteImage;
   sizes?: string;
+  /** Above-the-fold / LCP image: load eagerly with high fetch priority. */
   priority?: boolean;
   className?: string;
   /** Fallback alt text if the CMS image has none. */
@@ -26,7 +27,8 @@ export function AppImage({ image, sizes = "100vw", priority, className, alt }: P
       alt={image.alt || alt || ""}
       fill
       sizes={sizes}
-      priority={priority}
+      loading={priority ? "eager" : undefined}
+      fetchPriority={priority ? "high" : undefined}
       unoptimized={isSvg}
       className={cn("object-cover", className)}
     />

@@ -30,9 +30,13 @@ export default async function PackagesPage() {
           {/* Fallback (no-JS / first paint) renders the full list; the explorer adds filtering. */}
           <Suspense
             fallback={
-              <ul className="grid gap-7 sm:grid-cols-2 lg:grid-cols-3">
-                {packages.map((p) => <li key={p._id}><PackageCard pkg={p} /></li>)}
-              </ul>
+              <>
+                <div aria-hidden className="h-[154px] rounded-3xl bg-white shadow-card max-sm:h-[262px]" />
+                <p className="mb-6 mt-8 h-5 text-sm text-muted">{packages.length} packages</p>
+                <ul className="grid gap-7 sm:grid-cols-2 lg:grid-cols-3">
+                  {packages.map((p) => <li key={p._id}><PackageCard pkg={p} /></li>)}
+                </ul>
+              </>
             }
           >
             <PackageExplorer packages={packages} />

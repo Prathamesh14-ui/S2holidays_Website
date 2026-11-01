@@ -32,11 +32,13 @@ export function Header({
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
-  // Close menus on navigation
-  useEffect(() => {
+  // Close menus on navigation (state reset during render — see react.dev "you might not need an effect")
+  const [lastPath, setLastPath] = useState(pathname);
+  if (pathname !== lastPath) {
+    setLastPath(pathname);
     setOpen(false);
     setMenu(null);
-  }, [pathname]);
+  }
 
   // Lock body scroll while the mobile menu is open; close on Escape
   useEffect(() => {
