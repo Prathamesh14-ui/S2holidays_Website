@@ -53,7 +53,7 @@ export default async function ContactPage() {
             {wa && (
               <a href={wa} target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 rounded-2xl bg-whatsapp p-5 text-white shadow-card transition hover:brightness-110">
                 <WhatsAppIcon className="h-8 w-8" />
-                <span><span className="block text-xs uppercase tracking-wider text-white/80">WhatsApp</span><span className="font-medium">Chat with us now</span></span>
+                <span><span className="block text-xs uppercase tracking-wider text-white">WhatsApp</span><span className="font-medium">Chat with us now</span></span>
               </a>
             )}
           </div>

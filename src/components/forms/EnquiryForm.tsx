@@ -89,7 +89,7 @@ export function EnquiryForm({ enquiryType = "general", packageSlug, packageTitle
     return (
       <div role="status" className="rounded-3xl border border-line bg-white p-8 text-center shadow-card">
         <CheckCircle2 aria-hidden className="mx-auto h-12 w-12 text-teal" />
-        <h3 className="mt-4 text-3xl text-ink">Thank you — enquiry received</h3>
+        <h2 className="mt-4 text-3xl text-ink">Thank you — enquiry received</h2>
         <p className="mt-2 text-muted">Our team will get back to you soon.</p>
         {wa && (
           <a href={wa} target="_blank" rel="noopener noreferrer" className={buttonClass("whatsapp", "mt-6")}>
@@ -111,7 +111,7 @@ export function EnquiryForm({ enquiryType = "general", packageSlug, packageTitle
 
   return (
     <form ref={formRef} onSubmit={onSubmit} noValidate className={cn("rounded-3xl border border-line bg-white p-6 shadow-card sm:p-8")}>
-      {title && <h3 className="mb-1 text-3xl text-ink">{title}</h3>}
+      {title && <h2 className="mb-1 text-3xl text-ink">{title}</h2>}
       {packageTitle && <p className="mb-5 text-sm text-muted">Enquiring about <strong className="text-ink">{packageTitle}</strong></p>}
       {!packageTitle && title && <p className="mb-5 text-sm text-muted">We usually reply with an itinerary and quote.</p>}
 
