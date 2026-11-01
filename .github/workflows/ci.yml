@@ -1,0 +1,32 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run lint
+      - run: npm run typecheck
+      - run: npm test
+      # Builds with the bundled sample content (no secrets needed)
+      - run: npm run build
+        env:
+          NEXT_PUBLIC_SITE_URL: https://www.s2holidays.com
+      - name: End-to-end smoke tests
+        run: |
+          npx playwright install --with-deps chromium
+          (npm start &) && npx --yes wait-on http://localhost:3000 && npm run test:e2e
