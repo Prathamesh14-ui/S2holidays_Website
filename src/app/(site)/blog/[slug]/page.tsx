@@ -10,11 +10,12 @@ import { EnquiryBand } from "@/components/layout/EnquiryBand";
 import { getPost, getPosts, getSettings } from "@/lib/content";
 import { formatDate } from "@/lib/format";
 import { pageMetadata } from "@/lib/seo";
+import { slugParams } from "@/lib/static-params";
 import { siteUrl } from "@/lib/env";
 import { imageUrl } from "@/sanity/lib/image";
 
 export async function generateStaticParams() {
-  return (await getPosts()).map((p) => ({ slug: p.slug }));
+  return slugParams((await getPosts()).map((p) => p.slug));
 }
 
 export async function generateMetadata({ params }: PageProps<"/blog/[slug]">): Promise<Metadata> {

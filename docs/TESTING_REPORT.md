@@ -95,6 +95,11 @@ types. Each page is checked for:
    the non-descriptive "Learn more" link.
 6. A deprecated `priority` image prop was replaced by `loading="eager"` with `fetchPriority="high"`.
 7. Layout shift on `/packages` while the filter UI hydrates was reduced with a placeholder.
+8. **Found on the first real deployment:** the build failed on a brand-new, empty Sanity project,
+   because Next.js needs at least one entry per dynamic route. Empty lists now use a placeholder
+   slug that renders 404. Service pages show a minimal page until created in the CMS, empty home
+   sections are hidden, and list queries are null-safe. Verified against an empty mock project:
+   all 18 pages return 200.
 
 ## Limitations of this test run
 

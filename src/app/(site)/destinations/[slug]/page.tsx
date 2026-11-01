@@ -12,11 +12,11 @@ import { PackageCard } from "@/components/packages/PackageCard";
 import { EnquiryForm } from "@/components/forms/EnquiryForm";
 import { getDestination, getDestinations, getPackages, getSettings } from "@/lib/content";
 import { pageMetadata } from "@/lib/seo";
+import { slugParams } from "@/lib/static-params";
 import { siteUrl } from "@/lib/env";
 
 export async function generateStaticParams() {
-  const all = await getDestinations();
-  return all.map((d) => ({ slug: d.slug }));
+  return slugParams((await getDestinations()).map((d) => d.slug));
 }
 
 export async function generateMetadata({ params }: PageProps<"/destinations/[slug]">): Promise<Metadata> {

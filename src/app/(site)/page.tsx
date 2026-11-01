@@ -98,7 +98,8 @@ export default async function HomePage() {
         </Container>
       </section>
 
-      {/* FEATURED PACKAGES */}
+      {/* FEATURED PACKAGES (hidden until at least one package exists) */}
+      {featured.length > 0 && (
       <section className="py-24 sm:py-32">
         <Container>
           <div className="flex flex-col justify-between gap-6 sm:flex-row sm:items-end">
@@ -114,6 +115,7 @@ export default async function HomePage() {
           </ul>
         </Container>
       </section>
+      )}
 
       {/* DOMESTIC */}
       {domestic.length > 0 && (

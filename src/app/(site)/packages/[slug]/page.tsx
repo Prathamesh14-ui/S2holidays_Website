@@ -13,11 +13,11 @@ import { EnquiryForm } from "@/components/forms/EnquiryForm";
 import { getPackage, getPackages, getSettings } from "@/lib/content";
 import { formatDuration, formatPrice } from "@/lib/format";
 import { pageMetadata } from "@/lib/seo";
+import { slugParams } from "@/lib/static-params";
 import { siteUrl } from "@/lib/env";
 
 export async function generateStaticParams() {
-  const all = await getPackages();
-  return all.map((p) => ({ slug: p.slug }));
+  return slugParams((await getPackages()).map((p) => p.slug));
 }
 
 export async function generateMetadata({ params }: PageProps<"/packages/[slug]">): Promise<Metadata> {

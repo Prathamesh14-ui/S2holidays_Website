@@ -51,7 +51,7 @@ export async function getSettings(): Promise<SiteSettings> {
 
 export async function getDestinations(region?: Region): Promise<Destination[]> {
   const all = isSanityConfigured
-    ? await fetchSanity<Destination[]>(q.destinationsQuery)
+    ? ((await fetchSanity<Destination[] | null>(q.destinationsQuery)) ?? [])
     : sample.sampleDestinations;
   return region ? all.filter((d) => d.region === region) : all;
 }
@@ -62,7 +62,7 @@ export async function getDestination(slug: string): Promise<Destination | null> 
 }
 
 export async function getPackages(filter?: { region?: Region; destinationSlug?: string }): Promise<HolidayPackage[]> {
-  let all = isSanityConfigured ? await fetchSanity<HolidayPackage[]>(q.packagesQuery) : sample.samplePackages;
+  let all = isSanityConfigured ? ((await fetchSanity<HolidayPackage[] | null>(q.packagesQuery)) ?? []) : sample.samplePackages;
   all = all.map((p) => ({ ...p, destinations: p.destinations ?? [] }));
   if (filter?.region) all = all.filter((p) => p.region === filter.region);
   if (filter?.destinationSlug) all = all.filter((p) => p.destinations.some((d) => d.slug === filter.destinationSlug));
@@ -83,17 +83,25 @@ export async function getPackage(slug: string): Promise<HolidayPackage | null> {
   return p ? { ...p, destinations: p.destinations ?? [] } : null;
 }
 
-export async function getService(key: ServiceKey): Promise<Service | null> {
-  const all = isSanityConfigured ? await fetchSanity<Service[]>(q.servicesQuery) : sample.sampleServices;
-  return all.find((s) => s.key === key) ?? null;
+const SERVICE_TITLES: Record<ServiceKey, { title: string; tagline: string }> = {
+  "mumbai-sightseeing": { title: "Mumbai Sightseeing", tagline: "City tours in and around Mumbai" },
+  "car-rental": { title: "Car Rental", tagline: "Chauffeur-driven cars for transfers, local and outstation travel" },
+  "tourist-guide": { title: "Tourist Guide Services", tagline: "Local guides for sightseeing" },
+};
+
+export async function getService(key: ServiceKey): Promise<Service> {
+  const all = isSanityConfigured ? ((await fetchSanity<Service[] | null>(q.servicesQuery)) ?? []) : sample.sampleServices;
+  // Until the service page is created in the CMS, show a minimal page (title + enquiry form)
+  // so navigation links never 404. No details are invented.
+  return all.find((s) => s.key === key) ?? { _id: `service-${key}`, key, slug: key, ...SERVICE_TITLES[key] };
 }
 
 export async function getTestimonials(): Promise<Testimonial[]> {
-  return isSanityConfigured ? fetchSanity<Testimonial[]>(q.testimonialsQuery) : sample.sampleTestimonials;
+  return isSanityConfigured ? ((await fetchSanity<Testimonial[] | null>(q.testimonialsQuery)) ?? []) : sample.sampleTestimonials;
 }
 
 export async function getPosts(): Promise<Post[]> {
-  return isSanityConfigured ? fetchSanity<Post[]>(q.postsQuery) : sample.samplePosts;
+  return isSanityConfigured ? ((await fetchSanity<Post[] | null>(q.postsQuery)) ?? []) : sample.samplePosts;
 }
 
 export async function getPost(slug: string): Promise<Post | null> {
@@ -102,7 +110,7 @@ export async function getPost(slug: string): Promise<Post | null> {
 }
 
 export async function getFaqs(): Promise<Faq[]> {
-  return isSanityConfigured ? fetchSanity<Faq[]>(q.faqsQuery) : sample.sampleFaqs;
+  return isSanityConfigured ? ((await fetchSanity<Faq[] | null>(q.faqsQuery)) ?? []) : sample.sampleFaqs;
 }
 
 export async function getLegalPage(slug: "privacy-policy" | "terms"): Promise<LegalPage | null> {

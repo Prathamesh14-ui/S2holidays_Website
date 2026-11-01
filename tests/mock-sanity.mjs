@@ -30,6 +30,7 @@ const testimonials = [{ _id: "t1", name: "Mock Reviewer", location: "Test City",
 const mutations = [];
 
 function resolve(query, params) {
+  if (process.env.MOCK_EMPTY) return /\]\[0\]/.test(query) ? null : []; // brand-new, empty project
   const slug = params.slug;
   if (query.includes('"siteSettings"')) return settings;
   if (query.includes('_type == "holidayPackage" && slug.current == $slug][0]._id')) return pkgs.find((p) => p.slug === slug)?._id ?? null;
