@@ -41,7 +41,7 @@ export function PackageCard({ pkg, priority }: { pkg: HolidayPackage; priority?:
             {pkg.title}
           </Link>
         </h3>
-        {pkg.summary && <p className="mt-2 line-clamp-2 text-sm leading-relaxed text-muted">{pkg.summary}</p>}
+        {pkg.summary && <p className="mb-5 mt-2 line-clamp-2 text-sm leading-relaxed text-muted">{pkg.summary}</p>}
         <div className="mt-auto flex items-end justify-between gap-4 border-t border-line pt-4">
           <div>
             {price ? (
