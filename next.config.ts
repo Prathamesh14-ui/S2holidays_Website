@@ -15,8 +15,9 @@ const nextConfig: NextConfig = {
   partialPrefetching: false,
   poweredByHeader: false,
   images: {
-    formats: ["image/avif", "image/webp"],
-    remotePatterns: [{ protocol: "https", hostname: "cdn.sanity.io" }],
+    // Sanity's image CDN handles resizing + AVIF/WebP; see src/sanity/lib/image-loader.ts
+    loader: "custom",
+    loaderFile: "./src/sanity/lib/image-loader.ts",
   },
   async headers() {
     return [{ source: "/:path*", headers: securityHeaders }];

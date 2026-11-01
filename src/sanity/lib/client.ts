@@ -13,5 +13,9 @@ export const client: SanityClient | null = isSanityConfigured
       apiVersion: sanityApiVersion,
       useCdn: false,
       perspective: "published",
+      // Test-only: point the server at a local mock of the Sanity API (see tests/mock-sanity.mjs).
+      ...(process.env.SANITY_API_HOST_OVERRIDE
+        ? { apiHost: process.env.SANITY_API_HOST_OVERRIDE, useProjectHostname: false }
+        : {}),
     })
   : null;

@@ -1,0 +1,78 @@
+/**
+ * Minimal mock of the Sanity HTTP API for testing the CMS code path offline.
+ * Serves the sample content in the same shape our GROQ projections return and
+ * records mutations (lead creation) in memory.
+ *
+ *   node --experimental-strip-types tests/mock-sanity.mjs   (port 3333)
+ *   SANITY_API_HOST_OVERRIDE=http://localhost:3333 NEXT_PUBLIC_SANITY_PROJECT_ID=mockproj ... next start
+ *   GET http://localhost:3333/__mutations  → mutations received
+ */
+import http from "node:http";
+import * as s from "../src/data/sample.ts";
+
+const toSanityImg = (img) => (img ? { kind: "sanity", asset: { _ref: "image-abc123def456-1600x1000-jpg" }, alt: img.alt.replace(" (sample illustration)", "") } : null);
+const strip = (o) => {
+  const rest = { ...o };
+  delete rest.isSample;
+  return rest;
+};
+const dest = s.sampleDestinations.map((d) => ({ ...strip(d), heroImage: toSanityImg(d.heroImage), name: `${d.name}` }));
+const pkgs = s.samplePackages.map((p, i) => ({
+  ...strip(p),
+  heroImage: toSanityImg(p.heroImage),
+  // give two packages a CMS price to exercise price display
+  price: i === 0 ? { amount: 45999, currency: "INR", basis: "per person", show: true } : i === 1 ? { amount: 30000, show: false } : null,
+}));
+const settings = { ...strip(s.sampleSettings), companyName: "S2 Holidays", phone: "+91 00000 00000", email: "test@example.invalid", heroImage: toSanityImg(s.sampleSettings.heroImage), aboutImage: null };
+const services = s.sampleServices.map((x) => ({ ...strip(x), heroImage: toSanityImg(x.heroImage) }));
+const posts = s.samplePosts.map((x) => ({ ...strip(x), coverImage: toSanityImg(x.coverImage) }));
+const testimonials = [{ _id: "t1", name: "Mock Reviewer", location: "Test City", quote: "MOCK testimonial used only by the automated CMS test.", tripName: "Mock trip" }];
+const mutations = [];
+
+function resolve(query, params) {
+  const slug = params.slug;
+  if (query.includes('"siteSettings"')) return settings;
+  if (query.includes('_type == "holidayPackage" && slug.current == $slug][0]._id')) return pkgs.find((p) => p.slug === slug)?._id ?? null;
+  if (query.includes('_type == "destination" && slug.current == $slug')) return dest.find((d) => d.slug === slug) ?? null;
+  if (query.includes('_type == "destination"')) return dest;
+  if (query.includes('_type == "holidayPackage" && slug.current == $slug')) return pkgs.find((p) => p.slug === slug) ?? null;
+  if (query.includes('_type == "holidayPackage"')) return pkgs;
+  if (query.includes('_type == "service"')) return services;
+  if (query.includes('_type == "testimonial"')) return testimonials;
+  if (query.includes('_type == "post" && defined(slug.current) && slug.current == $slug') || query.includes('slug.current == $slug && publishedAt')) return posts.find((p) => p.slug === slug) ?? null;
+  if (query.includes('_type == "post"')) return posts;
+  if (query.includes('_type == "faq"')) return s.sampleFaqs;
+  if (query.includes('_type == "legalPage"')) return s.sampleLegal.map(strip).find((l) => l.slug === slug) ?? null;
+  console.warn("[mock-sanity] unhandled query", query.slice(0, 80));
+  return null;
+}
+
+http
+  .createServer(async (req, res) => {
+    const url = new URL(req.url, "http://x");
+    let body = "";
+    for await (const c of req) body += c;
+    const send = (obj, code = 200) => {
+      res.writeHead(code, { "content-type": "application/json" });
+      res.end(JSON.stringify(obj));
+    };
+    if (url.pathname === "/__mutations") return send(mutations);
+    if (url.pathname.includes("/data/query/")) {
+      let query = url.searchParams.get("query");
+      const params = {};
+      for (const [k, v] of url.searchParams) if (k.startsWith("$")) params[k.slice(1)] = JSON.parse(v);
+      if (req.method === "POST") {
+        const b = JSON.parse(body);
+        query = b.query;
+        Object.assign(params, b.params || {});
+      }
+      return send({ ms: 1, query, result: resolve(query, params) });
+    }
+    if (url.pathname.includes("/data/mutate/")) {
+      const b = JSON.parse(body);
+      mutations.push(...b.mutations);
+      return send({ transactionId: "tx1", results: b.mutations.map((m) => ({ id: (m.create || m.patch || {})._id || m.patch?.id, operation: "create" })) });
+    }
+    send({ error: "not found" }, 404);
+  })
+  .listen(3333, () => console.log("mock sanity on :3333"));

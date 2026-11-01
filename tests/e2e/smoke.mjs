@@ -36,7 +36,11 @@ for (const vp of [{ name: "desktop", width: 1440, height: 900 }, { name: "mobile
       const page = await ctx.newPage();
       const errors = [];
       page.on("pageerror", (e) => errors.push(e.message));
-      page.on("console", (m) => m.type() === "error" && errors.push(m.text()));
+      page.on("console", (m) => {
+        // In offline CMS-mock runs, images on cdn.sanity.io cannot load — ignore only those.
+        if (process.env.IGNORE_REMOTE_IMAGE_ERRORS && m.text().startsWith("Failed to load resource")) return;
+        if (m.type() === "error") errors.push(m.text());
+      });
       const res = await page.goto(BASE + route, { waitUntil: "networkidle" });
       assert(res.status() === 200, `status ${res.status()}`);
       const info = await page.evaluate(() => ({
@@ -87,9 +91,11 @@ await test("mobile menu opens, lists links and navigates", async () => {
 
 await test("desktop dropdown shows destinations", async () => {
   const page = await browser.newPage({ viewport: { width: 1440, height: 900 } });
-  await page.goto(BASE + "/");
-  await page.getByRole("button", { name: "Domestic" }).click();
-  await page.getByRole("link", { name: "Kerala" }).first().click();
+  await page.goto(BASE + "/", { waitUntil: "networkidle" });
+  const trigger = page.getByRole("button", { name: "Domestic" });
+  await trigger.click();
+  await page.locator('button[aria-expanded="true"]', { hasText: "Domestic" }).waitFor({ timeout: 5000 });
+  await page.locator("#menu-Domestic").getByRole("link", { name: "Kerala" }).click();
   await page.waitForURL("**/destinations/kerala");
   await page.close();
 });

@@ -30,6 +30,7 @@ export function AppImage({ image, sizes = "100vw", priority, className, alt }: P
       loading={priority ? "eager" : undefined}
       fetchPriority={priority ? "high" : undefined}
       unoptimized={isSvg}
+      quality={80}
       className={cn("object-cover", className)}
     />
   );

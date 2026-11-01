@@ -24,6 +24,7 @@ export function Header({
   const [menu, setMenu] = useState<string | null>(null);
   const pathname = usePathname();
   const navRef = useRef<HTMLElement>(null);
+  const hoverOpenedAt = useRef(0);
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 24);
@@ -90,8 +91,15 @@ export function Header({
                     type="button"
                     aria-expanded={menu === item.href}
                     aria-controls={`menu-${item.label}`}
-                    onClick={() => setMenu(menu === item.href ? null : item.href)}
-                    onMouseEnter={() => setMenu(item.href)}
+                    onClick={() => {
+                      // A mouse click right after hover-open should not immediately close the menu
+                      if (menu === item.href && Date.now() - hoverOpenedAt.current < 500) return;
+                      setMenu(menu === item.href ? null : item.href);
+                    }}
+                    onMouseEnter={() => {
+                      if (menu !== item.href) hoverOpenedAt.current = Date.now();
+                      setMenu(item.href);
+                    }}
                     className={cn(
                       "flex items-center gap-1 rounded-full px-3.5 py-2 text-sm font-medium transition-colors",
                       solid ? "text-ink hover:text-gold" : "text-white/90 hover:text-white",
