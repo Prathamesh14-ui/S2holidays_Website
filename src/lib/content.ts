@@ -63,7 +63,7 @@ export async function getDestination(slug: string): Promise<Destination | null> 
 
 export async function getPackages(filter?: { region?: Region; destinationSlug?: string }): Promise<HolidayPackage[]> {
   let all = isSanityConfigured ? ((await fetchSanity<HolidayPackage[] | null>(q.packagesQuery)) ?? []) : sample.samplePackages;
-  all = all.map((p) => ({ ...p, destinations: p.destinations ?? [] }));
+  all = all.map((p) => ({ ...p, destinations: (p.destinations ?? []).filter(Boolean) }));
   if (filter?.region) all = all.filter((p) => p.region === filter.region);
   if (filter?.destinationSlug) all = all.filter((p) => p.destinations.some((d) => d.slug === filter.destinationSlug));
   return all;
@@ -80,7 +80,7 @@ export async function getFeaturedPackages(limit = 6): Promise<HolidayPackage[]> 
 export async function getPackage(slug: string): Promise<HolidayPackage | null> {
   if (!isSanityConfigured) return sample.samplePackages.find((p) => p.slug === slug) ?? null;
   const p = await fetchSanity<HolidayPackage | null>(q.packageBySlugQuery, { slug });
-  return p ? { ...p, destinations: p.destinations ?? [] } : null;
+  return p ? { ...p, destinations: (p.destinations ?? []).filter(Boolean) } : null;
 }
 
 const SERVICE_TITLES: Record<ServiceKey, { title: string; tagline: string }> = {

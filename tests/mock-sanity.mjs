@@ -28,9 +28,13 @@ const services = s.sampleServices.map((x) => ({ ...strip(x), heroImage: toSanity
 const posts = s.samplePosts.map((x) => ({ ...strip(x), coverImage: toSanityImg(x.coverImage) }));
 const testimonials = [{ _id: "t1", name: "Mock Reviewer", location: "Test City", quote: "MOCK testimonial used only by the automated CMS test.", tripName: "Mock trip" }];
 const mutations = [];
+const assets = new Map();
+let assetBytes = 0;
 
 function resolve(query, params) {
-  if (process.env.MOCK_EMPTY) return /\]\[0\]/.test(query) ? null : []; // brand-new, empty project
+  if (query.startsWith("count(")) return mutations.filter((m) => params.id && [params.id, params.draft].includes((m.createIfNotExists || m.create || {})._id)).length;
+  if (query.includes("sanity.imageAsset")) return assets.get(params.url) ?? null;
+  if (process.env.MOCK_EMPTY) return /[\])]\[0\]/.test(query) ? null : []; // brand-new, empty project
   const slug = params.slug;
   if (query.includes('"siteSettings"')) return settings;
   if (query.includes('_type == "holidayPackage" && slug.current == $slug][0]._id')) return pkgs.find((p) => p.slug === slug)?._id ?? null;
@@ -58,6 +62,14 @@ http
       res.end(JSON.stringify(obj));
     };
     if (url.pathname === "/__mutations") return send(mutations);
+    if (url.pathname === "/__assets") return send({ count: assets.size, bytes: assetBytes });
+    if (url.pathname.includes("/assets/images/")) {
+      const id = `image-mock${assets.size + 1}-800x600-jpg`;
+      assetBytes += Buffer.byteLength(body, "binary");
+      const src = url.searchParams.get("sourceId");
+      if (src) assets.set(src, id);
+      return send({ document: { _id: id, _type: "sanity.imageAsset", url: "https://cdn.sanity.io/x.jpg" } });
+    }
     if (url.pathname.includes("/data/query/")) {
       let query = url.searchParams.get("query");
       const params = {};

@@ -1,0 +1,3335 @@
+{
+ "source": "https://www.s2holidays.com (copied 2026-11-02)",
+ "destinations": [
+  {
+   "slug": "goa",
+   "name": "Goa",
+   "state": "Goa",
+   "region": "domestic",
+   "country": "India",
+   "image": "https://www.s2holidays.com/upload/products/wp3218393.jpg20230416230406.jpg"
+  },
+  {
+   "slug": "himachal-pradesh",
+   "name": "Himachal Pradesh",
+   "state": "Himachal Pradesh",
+   "region": "domestic",
+   "country": "India",
+   "image": "https://www.s2holidays.com/upload/products/GIT Himachal group tour.jpeg20220611080632.jpg"
+  },
+  {
+   "slug": "kashmir",
+   "name": "Kashmir",
+   "state": "Jammu & Kashmir",
+   "region": "domestic",
+   "country": "India",
+   "image": "https://www.s2holidays.com/upload/no-img.jpg"
+  },
+  {
+   "slug": "kerala",
+   "name": "Kerala",
+   "state": "Kerala",
+   "region": "domestic",
+   "country": "India",
+   "image": "https://www.s2holidays.com/upload/no-img.jpg"
+  },
+  {
+   "slug": "rajasthan",
+   "name": "Rajasthan",
+   "state": "Rajasthan",
+   "region": "domestic",
+   "country": "India",
+   "image": "https://www.s2holidays.com/upload/no-img.jpg"
+  },
+  {
+   "slug": "uttarakhand",
+   "name": "Uttarakhand",
+   "state": "Uttarakhand",
+   "region": "domestic",
+   "country": "India",
+   "image": "https://www.s2holidays.com/upload/no-img.jpg"
+  }
+ ],
+ "packages": [
+  {
+   "slug": "goa-package-2n-3d",
+   "title": "Goa Package 2N & 3D",
+   "destination": "goa",
+   "region": "domestic",
+   "durationNights": 2,
+   "durationDays": 3,
+   "themes": [],
+   "price": {
+    "amount": 9500,
+    "currency": "INR",
+    "basis": "per couple",
+    "show": true
+   },
+   "priceNote": "Prices vary by hotel, season and group size — contact us for a quote.",
+   "image": "https://www.s2holidays.com/upload/products/wp3218393.jpg20230416230406.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Goa Arrival",
+     "description": "Welcome to Goa, Goa is known for its striking landscape, famous beaches in India, astounding monuments and churches and bustling Goa nightlife. Goa is one of the most visited tourist places in India, Arrive at Goa Meet & Assist at Goa Airport / Railway Station / Bus Stop, and Proceed to Hotel, Check inn at Hotel, after some Fresh up, you can Explore the Beaches, Local Markets, Night Life, Overnight Stay at Hotel Goa.",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 2,
+     "title": "South goa sightseen",
+     "description": "SOUTH GOA SIGHTSEEING:-\nMiramar beach: A bustling area within the capital Panjim, Miramar centres on its namesake beach, a palm-lined strip where shacks sell local fashion, jewellery, and food. Dolphin sightseeing by boat also at Miramar beach (extra charges)\nDona Pola beach: Dona Paula, named for a Portuguese romantic heroine popular in local folklore, is an affluent area at the mouth of the Zuari River known for its ocean views. Dona Paula View Point is a lookout and promenade, home to Baroness von Leistner’s 1969 “Image of India” statue.\nOld goa church: The Basilica of Bom Jesus is a Roman Catholic basilica located in Goa, India, and is part of the Churches and convents of Goa UNESCO World Heritage Site. The basilica is located in Old Goa, former capital of Portuguese India, and holds the mortal remains of St. Francis Xavier\nSe cathedral church: The Sé Cathedral de Santa Catarina, known as Se Cathedral, is the cathedral of the Latin Rite Roman Catholic Archdiocese of Goa and Daman and the seat of the Patriarch of the East Indies. It is part of the World Heritage Site, Churches and convents of Goa located in Old Goa, India.\nWax museum: Old Goa is the home to India's second wax museum. Each figurine is carefully sculpted of paraffin wax; the hair used is natural, although the eyes and teeth are artificial.\nThe museum has over 30 life-size, statues of famous personalities of Indian culture, heritage and religion. One of the main attractions is the sculpting of the 'last supper' which is 22 feet in length and weights 500 kilos. A guide talks you through the statues at the museum, and explains who the statues are of, what they represent and how long it took to make the sculpture. The guided tour is in English and Hindi. Other main attractions include Mahatma Gandhi, Radha Krishna and Bethlehem. There is a statue called 'say no to drugs' which shows you the side effects of taking drugs and this really brings the concept to life. The is a small gift shop where one can purchase candles of various designs and shapes and smells.\nMangeshi Temple: Shri Mangesh temple is located at Mangeshi Village in Priol, Ponda taluk, Goa. It is at a distance of 1 km from Mardol close to Nagueshi, 21 km from Panaji the capital of Goa, and 26 km from Margao. H.H.Shrimad Swamiji of Shri Kavale Math is Spiritual head Of Shri Manguesh Saunsthan Mangeshi.\nSt Agustin Tower: Church of St. Augustine is a ruined church complex located in Old Goa. The church was completed in 1602 and is part of the World Heritage Site, Churches and convents of Goa.\nDuration: 08 Hours",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "north goa sightseen & DROP AT GOA",
+     "description": "After Having a Breakfast at Hotel, Checkout from Hotel & Proceed for North Goa Sightseeing.\nNORTH GOA SIGHTSEEING:-\nSaligao church: Unique its architectural design and is being illuminated though out the tourist season.\nArpora: (by pass) famous for its Saturday night bazar where people buy and sell different types of goods.\nVagator beach: A beach famous for its seclusion with the chapora fort as its imposing backdrop.\nAnjuna beach: Very popular among the foreigners and is a beautiful picnic spot.\nCalangute & baga beach: Widely known as queen of goas’ beaches picnic and musical groups draw hundreds of people.\nAfter sightseen , At evening , with memorable memories of goa tour , drop at Goa Airport/Bus Stand/Railway Station.",
+     "meals": [
+      "Breakfast"
+     ]
+    }
+   ],
+   "inclusions": [],
+   "exclusions": [],
+   "notes": [
+    {
+     "heading": "Hotel-wise package cost (per couple)",
+     "lines": [
+      "Shivam Resort: ₹9,500",
+      "Delta residency: ₹10,500",
+      "Hotel Mannat: ₹10,900",
+      "Tranquil Inn: ₹10,600",
+      "Mulberry Inn: ₹12,000",
+      "Nazri Resort: ₹12,000",
+      "Sun City Resort: ₹12,600",
+      "Camelot Fantasy Resort: ₹12,800",
+      "Nitya Resort: ₹13,000",
+      "Amara Grand Inn: ₹13,100",
+      "WS Beach Resort & Spa: ₹13,300",
+      "Hotel golden sands: ₹13,300",
+      "Peninsula Beach Resort: ₹13,300",
+      "Sairaj Beach Resort: ₹13,900",
+      "Hotel Silver Shell: ₹14,700",
+      "The Baga Marine Resort: ₹14,800",
+      "The Verda demiranda resort: ₹15,900",
+      "Casa Ahaana By Jettwings Resort: ₹16,000",
+      "Paradise Village Beach Resort: ₹17,500"
+     ]
+    },
+    {
+     "heading": "Hotel Checkin & Checkout Policy",
+     "lines": [
+      "Please Carry valid identity proof (Passport, Driving License, Adhar-card) Required during check-in time.",
+      "Check in time 12.00/14.00 hours and check out time 10.00/12.00 hours.",
+      "Note: - Early check in is subject to availability and may be chargeable by the hotel."
+     ]
+    },
+    {
+     "heading": "Booking Condition and Booking Process",
+     "lines": [
+      "30% non-refundable booking amount of total tour cost to initiate a booking if travel date is more than 30 days from the date of booking",
+      "40% pay amount after the all confirmation of regarding your booking or before give you’re the Service Voucher",
+      "30% pay amount before 10 days of the departure date",
+      "The package cannot be combined with any other offers",
+      "The above package is not valid during national holidays, festivals & long weekends",
+      "Full payment is required on confirmation of all services and before departure."
+     ]
+    },
+    {
+     "heading": "Cancellation Policy",
+     "lines": [
+      "Cancellation within 30 Days prior to the arrival date of the tour packages / Hotel Booking / Transportation: No retention Charges.",
+      "Cancellation within 15 Days prior to the arrival date of the tour packages / Hotel Booking / Transportation :50 % retention.",
+      "Cancellation within 10 Days prior to the arrival date of the tour packages / Hotel Booking / Transportation or Non-Utilization of the same: 100 % Retention",
+      "There will be no retention charges for Hotel Bookings/Transportation if cancellation is done within 40 days prior to arrival of guests. After that 100% retention. This Cancellation Policy will be applicable only during Diwali, Christmas & New year Periods for the groups."
+     ]
+    },
+    {
+     "heading": "Terms & Conditions",
+     "lines": [
+      "The above itinerary is suggested Tour Plan. The Company is responsible for only those services which are charged from the guest. All other services which are not paid by the guest to the Company are Suggested services and Company is nowhere bound to provide that service or pay the cost for the same.",
+      "Checkin and checkout Timing of the Hotel will be according to the timing of the respective Hotels.",
+      "Company is not responsible for compensating any loss or additional cost incurred by the guest while taking the tour.",
+      "Company is not responsible, nor liable for any damage, loss or injury caused to incurred by the guest while taking the tour.",
+      "Dollar rates are applicable only to Foreign nationals & Indians possessing Dollar rates are applicable only to Foreign nationals & Indians possessing nationals."
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/goa/Goa-Package-2N-and-3D/143"
+  },
+  {
+   "slug": "goa-package-3n-4d",
+   "title": "Goa Package 3N & 4D",
+   "destination": "goa",
+   "region": "domestic",
+   "durationNights": 3,
+   "durationDays": 4,
+   "themes": [],
+   "price": {
+    "amount": 11900,
+    "currency": "INR",
+    "basis": "per couple",
+    "show": true
+   },
+   "priceNote": "Prices vary by hotel, season and group size — contact us for a quote.",
+   "image": "https://www.s2holidays.com/upload/products/goa web.jpeg20220613080625.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Goa Arrival",
+     "description": "Welcome to Goa, Goa is known for its striking landscape, famous beaches in India, astounding monuments and churches and bustling Goa nightlife. Goa is one of the most visited tourist places in India, Arrive at Goa Meet & Assist at Goa Airport / Railway Station / Bus Stop, and Proceed to Hotel, Check inn at Hotel, after some Fresh up, you can Explore the Beaches, Local Markets, Night Life, Overnight Stay at Hotel Goa.",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 2,
+     "title": "north GOA SIGHTSEEN",
+     "description": "After Having a Breakfast at Hotel, Proceed for North Goa Sightseeing Overnight Stay at Hotel Goa,\nNORTH GOA SIGHTSEEING:-\nSaligao church: Unique its architectural design and is being illuminated though out the tourist season.\nArpora: (by pass) famous for its Saturday night bazar where people buy and sell different types of goods.\nVagator beach: A beach famous for its seclusion with the chapora fort as its imposing backdrop.\nAnjuna beach: Very popular among the foreigners and is a beautiful picnic spot.\nCalangute & baga beach: Widely known as queen of goas’ beaches picnic and musical groups draw hundreds of people.\nAfter beach drop to hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "sOUTH GOA SIGHTSEEN",
+     "description": "After Having a Breakfast at Hotel, Proceed for South Goa Sightseeing Overnight Stay at Hotel Goa,\nSOUTH GOA SIGHTSEEING:-\nMiramar beach: A bustling area within the capital Panjim, Miramar centres on its namesake beach, a palm-lined strip where shacks sell local fashion, jewellery, and food. Dolphin sightseeing by boat also at Miramar beach (extra charges)\nDona Pola beach: Dona Paula, named for a Portuguese romantic heroine popular in local folklore, is an affluent area at the mouth of the Zuari River known for its ocean views. Dona Paula View Point is a lookout and promenade, home to Baroness von Leistner’s 1969 “Image of India” statue.\nOld goa church: The Basilica of Bom Jesus is a Roman Catholic basilica located in Goa, India, and is part of the Churches and convents of Goa UNESCO World Heritage Site. The basilica is located in Old Goa, former capital of Portuguese India, and holds the mortal remains of St. Francis Xavier\nSe cathedral church: The Sé Cathedral de Santa Catarina, known as Se Cathedral, is the cathedral of the Latin Rite Roman Catholic Archdiocese of Goa and Daman and the seat of the Patriarch of the East Indies. It is part of the World Heritage Site, Churches and convents of Goa located in Old Goa, India.\nWax museum: Old Goa is the home to India's second wax museum. Each figurine is carefully sculpted of paraffin wax; the hair used is natural, although the eyes and teeth are artificial.\nThe museum has over 30 life-size, statues of famous personalities of Indian culture, heritage and religion. One of the main attractions is the sculpting of the 'last supper' which is 22 feet in length and weights 500 kilos. A guide talks you through the statues at the museum, and explains who the statues are of, what they represent and how long it took to make the sculpture. The guided tour is in English and Hindi. Other main attractions include Mahatma Gandhi, Radha Krishna and Bethlehem. There is a statue called 'say no to drugs' which shows you the side effects of taking drugs and this really brings the concept to life. The is a small gift shop where one can purchase candles of various designs and shapes and smells.\nMangeshi Temple: Shri Mangesh temple is located at Mangeshi Village in Priol, Ponda taluk, Goa. It is at a distance of 1 km from Mardol close to Nagueshi, 21 km from Panaji the capital of Goa, and 26 km from Margao. H.H.Shrimad Swamiji of Shri Kavale Math is Spiritual head Of Shri Manguesh Saunsthan Mangeshi.\nSt Agustin Tower: Church of St. Augustine is a ruined church complex located in Old Goa. The church was completed in 1602 and is part of the World Heritage Site, Churches and convents of Goa.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Departure",
+     "description": "After breakfast check out from the hotel and drop at Goa Airport/Bus Stand/Railway Station.",
+     "meals": [
+      "Breakfast"
+     ]
+    }
+   ],
+   "inclusions": [],
+   "exclusions": [],
+   "notes": [
+    {
+     "heading": "Hotel-wise package cost (per couple)",
+     "lines": [
+      "Shivam Resort: ₹11,900",
+      "Delta Residency: ₹13,500",
+      "Hotel Mannat: ₹14,000",
+      "Tranquil Inn: ₹15,100",
+      "Mulberry Mint: ₹15,500",
+      "Nazri Resort: ₹15,800",
+      "Sun City Resort: ₹16,500",
+      "Cameplot fantasy resort: ₹16,800",
+      "Amara Grand: ₹17,200",
+      "Nitya Resort: ₹17,300",
+      "WS Beach Resort & Spa: ₹17,600",
+      "Hotel Golden Sands: ₹17,600",
+      "Peninsula Beach Resort: ₹17,600",
+      "Hotel Silver Shell: ₹17,900",
+      "Sairaj Beach Resort: ₹18,450",
+      "Baga Marine Resort: ₹19,700",
+      "Casa Ahaana by jetwing resort: ₹21,250",
+      "The Verda de miranda resort: ₹21,300",
+      "Beach Resort: ₹24,000"
+     ]
+    },
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "Paradise Village"
+     ]
+    },
+    {
+     "heading": "Hotel Checkin & Checkout Policy",
+     "lines": [
+      "Please Carry valid identity proof (Passport, Driving License, Adhar-card) Required during check-in time.",
+      "Check in time 12.00/14.00 hours and check out time 10.00/12.00 hours.",
+      "Note: - Early check in is subject to availability and may be chargeable by the hotel."
+     ]
+    },
+    {
+     "heading": "Booking Condition and Booking Process",
+     "lines": [
+      "30% non-refundable booking amount of total tour cost to initiate a booking if travel date is more than 30 days from the date of booking",
+      "40% pay amount after the all confirmation of regarding your booking or before give you’re the Service Voucher",
+      "30% pay amount before 10 days of the departure date",
+      "The package cannot be combined with any other offers",
+      "The above package is not valid during national holidays, festivals & long weekends",
+      "Full payment is required on confirmation of all services and before departure."
+     ]
+    },
+    {
+     "heading": "Cancellation Policy",
+     "lines": [
+      "Cancellation within 30 Days prior to the arrival date of the tour packages / Hotel Booking / Transportation: No retention Charges.",
+      "<span style=\"box-sizing: border-box; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inher"
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/goa/Goa-Package-3n-and-4d/125"
+  },
+  {
+   "slug": "himachal-group-tour-9n-10d",
+   "title": "Himachal Group Tour 9N & 10D",
+   "destination": "himachal-pradesh",
+   "region": "domestic",
+   "durationNights": 9,
+   "durationDays": 10,
+   "themes": [
+    "Group tour"
+   ],
+   "price": {
+    "amount": 13499,
+    "currency": "INR",
+    "basis": "per person",
+    "show": true
+   },
+   "priceNote": "Prices vary by hotel, season and group size — contact us for a quote.",
+   "image": "https://www.s2holidays.com/upload/products/GIT Himachal group tour.jpeg20220611080632.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Board the train from Bandra Terminus For Delhi @ 10.00 AM.",
+     "description": "Overnight Journey in Train\nInclusion Sleeper Class Train Ticket",
+     "meals": []
+    },
+    {
+     "day": 2,
+     "title": "Delhi Arrival – Delhi sightseeing",
+     "description": "Reach Delhi @ 10:30 Am.\nFreshen up\nVehicle waiting in Station Parking\nProceed for Delhi sightseeing &\nVisit Red Fort, India Gate. Qutub Minnar.\nIn Evening halt for Refreshment for\nTwo Hours\nProceed Overnight Journey Towards Manali.",
+     "meals": []
+    },
+    {
+     "day": 3,
+     "title": "Manali Arrival",
+     "description": "Checkin at Manali Hotel By 11.00 AM\nRelax for some time\nProceed to visit Local Sightseeing,\nof Hadimba Temple , Club House,\nVan Vihar,Tibetan Monastery,\nAnd Mall Road.\nDinner & Overnight stay at\nManali Hotel",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Manali -Solang Valley -Manali",
+     "description": "After Breakfast Proceed towards\nSolang Valley.\nROHTANG SNOW POINT\n(If Open Cost not included)\nDinner.\nOvernight Stay In Manali Hotel",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 5,
+     "title": "Manali – Kullu",
+     "description": "After Breakfast Proceed Towards\nKullu.\nCheck into Camps\nHave Luch & Relax\nEnjoy Raffting\nOvernight Stay in Camps\nInclusion Dj Night & Bon Fire",
+     "meals": [
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 6,
+     "title": "Kullu – Kasol - Dharamshala",
+     "description": "After Breakfast Proceed Towards\nKasol\nParagliding at Own Cost\nManikaran Gurudwara, Hot Water\nSpring, Parvati River, Kasol Market\nSightseeing.\nHalt for Refreshment\nOvernight Journey to Dharamshala",
+     "meals": [
+      "Breakfast"
+     ]
+    },
+    {
+     "day": 7,
+     "title": "Dharamshala Sightseeing",
+     "description": "Checkin at Hotel in Dharamshala By 11.00 Am.\nVisit Cricket Stadium, Dalai lama Temple (If Open)\nSightseeing of Mcleodganj, Sunset Point.\nDinner & Overnight Stay in Hotel",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 8,
+     "title": "Dharamshala – Amritsar",
+     "description": "Early Morning After Breakafast Leave for Amritsar\nVisit Wagah Border\nEvening Checkin To Hotel\nDinner & Overnight Stay in Hotel",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 9,
+     "title": "Amritsar - Return Journey",
+     "description": "After Breakfast Checkout From Hotel & Proceed Towards Golden Temple & Jallianwala Baugh.\nIn Evening Proceed towards Amritsar Railway Station to board the train towards Mumbai\nInclusion Sleeper Class Train Ticket",
+     "meals": [
+      "Breakfast"
+     ]
+    },
+    {
+     "day": 10,
+     "title": "Mumbai Arrival",
+     "description": "Train Journey\nMumbai Arrival",
+     "meals": []
+    }
+   ],
+   "inclusions": [
+    "Return Non AC Sleeper Train Tickets",
+    "Accomodation In Delux Hotels / Camps",
+    "Transportation in mini bus",
+    "Meals as Per Mentioned Itinerary",
+    "Bonfire & DJ Night.",
+    "River Raffting.",
+    "Assistance on arrival.",
+    "Driver Night Charges , Parking.",
+    "All Tolls & Taxes."
+   ],
+   "exclusions": [
+    "Train Meals & Insurance.",
+    "Any Activity, Paragliding, Rafting, Dhangri set etc or Guide charges.",
+    "Any Airfare.",
+    "Heater / Blower charges.",
+    "Atul Tunnel/Rohtang pass fee and cab are excluded",
+    "Extra Night in Hotel due to ill Health or any other Reasons.",
+    "Extension/ Diversion of the program for any reasons.",
+    "Anything which is not included in inclusions"
+   ],
+   "notes": [
+    {
+     "heading": "Cost per person",
+     "lines": [
+      "Quad Sharing: ₹13,499",
+      "Triple Sharing: ₹14,999",
+      "Double Sharing: ₹15,999"
+     ]
+    },
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "Hotel in Manali - Green Hills Or Similar",
+      "Camp Stay in Kasol - Deluxe Camp Stay",
+      "Hotel in Dharamashala - DLS Ansh hotel Or Similar",
+      "Hotel in Amritsar - Aman Residency Or Similar"
+     ]
+    },
+    {
+     "heading": "Notes",
+     "lines": [
+      "Cost Per Person"
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/group-tours/Himachal-Group-Tour-9n-and-10d/122"
+  },
+  {
+   "slug": "manali-shimla-amritsar-6n-7d",
+   "title": "Manali - Shimla - Amritsar 6N & 7D",
+   "destination": "himachal-pradesh",
+   "region": "domestic",
+   "durationNights": 6,
+   "durationDays": 7,
+   "themes": [],
+   "price": null,
+   "priceNote": null,
+   "image": "https://www.s2holidays.com/upload/products/WhatsApp Image 2023-04-15 at 11.39.42 AM.jpeg20230414230408.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "CHANDIGARH –manali (aprox.350 km)",
+     "description": "On Arrival at Chandigarh Airport at Evening meet our representative will receive you and drive to Manali. Overnight stay at Manali.",
+     "meals": [
+      "Breakfast"
+     ]
+    },
+    {
+     "day": 2,
+     "title": "manali LOCAL SIGHTSEEING",
+     "description": "Reach at Manali check into hotel Fresh up & proceed to sightseen Like Hadimba Devi Temple, Vashishth Temple, Club House, Monasteries. Evening Free to Visit Mall Road overnight stay at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Manali - Solang Valley – Manali",
+     "description": "After Breakfast Visit by Cab Solang Valley in Manali is located at a distance of 13 kms in a side valley at the top of the Kullu valley is a splendid valley between Solang village and Beas Kund. Solang valley offers the view of glaciers and snow-capped mountains and peaks. Solang Valley has fine ski slopes. The Mountaineering Institute of Manali has installed a ski lift for training purpose. Located here is a hut and guest house of the Mountaineering and Allied Sports Institute, Manali. Now a few hotels have also come up. The winter skiing festival is organised in Solang Valley. Sking and Paragliding are two main activities are organised here. Apart from these many other adventure sports are available like, Horse Riding etc. Evening time back to hotel. Over Night at Hotel. (Up to snow line in case road closed due to snow fall).",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Manali - Kullu Valley Sightseeing – Shimla",
+     "description": "After Breakfast, check out from the Hotel and Depart to Manali By Cab/via Sunder nagar Lake, Pandoh dam Kullu valley, On the way visit like Kullu Valley, Vaishno Devi. On Arrive at Shimla Check -in to hotel and Overnight Stay at hotel in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 5,
+     "title": "Shimla- Kufri – Shimla",
+     "description": "- Today morning after breakfast at proceed towards Kufri. After sight-seeing drive to Shimla Then you are free to explore The Mall Road,\nRidge, and Scandle Point. Lakkar Bazaar, Christ church and Lower Bazaar in evening free to Mall Road and after that drive to hotel and overnight stay at hotel.\n[About Shimla-The British Empire may have ceased to exist, but its echo lingers on in Shimla (2205m). As the Summer Capital of the British in India, Shimla was the country's focus for the better part of every year and now, is the state capital of Himachal Pradesh. Today, it has well developed facilities, easy accessibility and numerous attractions making it one of India's most popular hill destinations. Situated in the lower ranges of the Himalayan Mountains, it is surrounded by pine deodar, oak and rhododendron forests. Towards the north lie the snow-covered high-ranges, while the valleys breathe whispering streams and swaying fields. Within the town are host of splendid colonial edifices, quaint cottages and charming walks. Shimla offers a variety of shopping, sport and entertainment activities.]",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 6,
+     "title": "Shimla- Amritsar Sightseen(Aprox. 297 Km)",
+     "description": "After Breakfast & Check out from Shimla hotel,proceed to Amritsar. At afternoon time reach at Amritsar then visit Wagha Boarder, after pared return to Amritsar hotel. Overnight stay at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 7,
+     "title": "Amritsar Sightseen & Drop",
+     "description": "Morning after breakfast, checkout from hotel, proceed to Amritsar for sightseen Golden Temple & Jallianwala Baugh & then, after sightseen drop to the Amritsar airport or railway station.",
+     "meals": [
+      "Breakfast"
+     ]
+    }
+   ],
+   "inclusions": [
+    "Accommodation as per itinerary",
+    "Welcome Drink on Arrival",
+    "Meals as per itinerary",
+    "All transfers and sightseeing by car.",
+    "Car for 07 days - Chandigarh pickup, Manali local, Solang valley, Amritsar Wagha Boarder & hotel stay,Golden Temple, Jalianwala Bagh,drop to Amritsar.",
+    "Car fuel, permit, toll, parking & Driver allowance include in package."
+   ],
+   "exclusions": [
+    "Car night journey charges.",
+    "Mountain fees & camera fees extra.",
+    "Personal expense, laundry & driver or waiter trips etc.",
+    "Adventure activity like para riding,skiing,river rafting etc.",
+    "Meal other than specification.",
+    "Heater charges will be extra.",
+    "Gala Dinner - festival time like Christmas,Diwali, 31 Dec etc.",
+    "Anything not specifically mentioned under inclusions."
+   ],
+   "notes": [
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "[I] Hotel Option 1: Deluxe category",
+      "1.Shimla - Divine Inn or similar",
+      "2.Manali - Four Season Cottage , Timber Villa or similar",
+      "3.Amritsar - Aman Residency or similar",
+      "[II] Hotel Option 2: Super Deluxe category",
+      "1.Shimla - Alpine retreat,Moonlight or similar",
+      "2.Manali - Surya International, Green hills or similar",
+      "3.Amritsar - Savera Grand or similar",
+      "[III] Hotel Option 3: Luxury category",
+      "1.Shimla - Whistling Pine, Royal Regency or similar",
+      "2.Manali - Royal Park Resort, Sun Park Resort or similar",
+      "3.Amritsar - Greenwood Villa or similar"
+     ]
+    },
+    {
+     "heading": "Rohtang pass visit Instruction",
+     "lines": [
+      "National Green Tribunal (NGT) has implemented few restrictions & instructions for every traveller visiting Rohtang Pass which are as follows",
+      "The Number of vehicles to Rohtang pass restricted to 1200 per day, out of which is only 800 petrol taxis & 400 diesel taxis will be allowed due to restriction. Guest might have wait in stand by slot.",
+      "Rohtang pass cost not include in package. Guest themselves must pay the directly.",
+      "Visit at Rohtang pass can be on individual or sharing basis."
+     ]
+    },
+    {
+     "heading": "Car Package Note",
+     "lines": [
+      "Above Car package for 6 days if car journey days are increase extra cost will be charge",
+      "Pickup from Delhi Railway station, Airport & Bus Stand 4000/- extra for sedan Car cost",
+      "Extra person - Extra Person accommodation cost (Extra bed)",
+      "Manikaran Visit 2500 extra for sedan Car",
+      "Atal Tunnel & Sissu Visit cost Rs. 3,000 extra for sedan car.",
+      "Sghtseen as per itinerary."
+     ]
+    },
+    {
+     "heading": "Booking Instructions",
+     "lines": [
+      "50%Payment Advance at the time of booking",
+      "50% Payment at time of Journey."
+     ]
+    },
+    {
+     "heading": "Important Notes",
+     "lines": [
+      "All rates are Net & non-commissionable to you.",
+      "Rates are subject to change, without any prior notice.",
+      "Cancellation & other policies as per the hotel/company rule.",
+      "No cancellation & any refund will be made at any cost in case of bad weather or land slide which is beyond the control of the travel agent/hotel.",
+      "Above policy may vary during peak season and any changes will be communicated prior to confirmation.",
+      "No refund will be made for any unused accommodation, missed meals, transportation segments, sightseeing tours or any other service due to Bad weather, ill health, Strike, Road Blocks or any other factor beyond our Control. Such unused items are neither refundable nor exchangeable.",
+      "Package can be altered/change as per the customer’s requirement/ interest if possible (subject to availability)",
+      "Check out time of the hotel mentioned is 12:00 hrs. Check in time is 12:00 noon. (Early check in is subject to availability)",
+      "We may reschedule the sightseeing days’ subject to weather conditions & to ensure smooth execution of tours.",
+      "We shall not be responsible for any cancellation of cabs or buses due to bad weather & are not liable for it.",
+      "Though Himachal have been witnessing a huge tourist growth but the facilities available cannot be matched to those available in the Cities and other developed destination.",
+      "In Himachal, the facilities of Hotel, Services, and Aids etc cannot be matched to developed destinations. Hotels in Himachal are categorized on the basis of location, Services and costing and not as per Star Categorization i.e.;1*, 2*,3* and soon.",
+      "Verbal Commitments are not applicable"
+     ]
+    },
+    {
+     "heading": "Amendment/ Cancellation",
+     "lines": [
+      "<ul style=\"box-sizing: border-box; margin: 0px 0px 21.7375px 20px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-stretch: inherit; font-size: 1.2em; line-height: 30px; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; list-style-position: initial; list-style-image: initial; padding-right: 0px; padding-left: 0px; color: rgb(51, 51, 51); -webkit-tap-highlight-color: transparent; zoom: 1; letter-spacing: 0.2px;"
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/himachal/Manali---Shimla---Amritsar-6n-and-7d/138"
+  },
+  {
+   "slug": "manali-3nights-volvo-tour-package",
+   "title": "Manali 3nights Volvo Tour Package",
+   "destination": "himachal-pradesh",
+   "region": "domestic",
+   "durationNights": 3,
+   "durationDays": 5,
+   "themes": [],
+   "price": null,
+   "priceNote": null,
+   "image": "https://www.s2holidays.com/upload/products/WhatsApp Image 2023-04-15 at 10.57.18 AM.jpeg20230414230444.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "delhi –MANALI (APROX.560 KM)",
+     "description": "Arrival Delhi at evening come to The Boarding Point R.K Metro station 5pm Bus Start The 05.30pm. Overnight journey by Volvo bus form Delhi to Manali by road.",
+     "meals": []
+    },
+    {
+     "day": 2,
+     "title": "Manali Local",
+     "description": "Arrival Manali bus stand at Morning time meet our representative (Driver) he will receive you & drive to the hotel. Check in into hotel fresh up & rest. In afternoon proceed to local places like Hadimba Devi Temple, Vashishth Temple, Club House, Van Vihar, Monasteries. Evening back to the hotel overnight stay at hotel",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Manali - Solang Valley – Manali",
+     "description": "After Breakfast Visit by Cab Solang Valley in Manali is located at a distance of 13 kms in a side valley at the top of the Kullu valley is a splendid valley between Solang village and Beas Kund. Solang valley offers the view of glaciers and snow-capped mountains and peaks. Solang Valley has fine ski slopes. The Mountaineering Institute of Manali has installed a ski lift for training purpose. Located here is a hut and guest house of the Mountaineering and Allied Sports Institute, Manali. Now a few hotels have also come up. The winter skiing festival is organised in Solang Valley. Sking and Paragliding are two main activities are organised here. Apart from these many other adventure sports are available like, Horse Riding etc. Evening time back to hotel. Over Night at Hotel. (Up to snow line in case road closed due to snow fall).",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "MANALI local sightseen",
+     "description": "The Morning after proceed to On the way Kullu sightseen,shawl factory visit & Nagar Castle vening back to the hotel overnight stay at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 5,
+     "title": "Manali - Delhi",
+     "description": "Today morning breakfast & check out from hotel at time of evening 5pm come Shimla bus stand bus start 5.30pm Overnight journey by Volvo bus form Manali To Delhi by road.",
+     "meals": [
+      "Breakfast"
+     ]
+    }
+   ],
+   "inclusions": [
+    "Accommodation as per itinerary",
+    "Welcome Drink on Arrival",
+    "Meals as per itinerary.",
+    "All transfers and sightseeing by car(as per itinerary with Alto)",
+    "Volvo package return Volvo ticket delhi.",
+    "Car fuel, permit, toll, parking & Driver allowance include in package."
+   ],
+   "exclusions": [
+    "Car night journey charges.",
+    "Mountain fees & camera fees extra.",
+    "Personal expense, laundry & driver or waiter trips etc.",
+    "Adventure activity like para riding,skiing,river rafting etc.",
+    "Meal other than specification.",
+    "Luggage charges in Volvo.",
+    "Heater charges will be extra",
+    "Gala Dinner - festival time like Christmas,Diwali, 31 Dec etc.",
+    "Anything not specifically mentioned under inclusions."
+   ],
+   "notes": [
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "[I] Hotel Option 1:",
+      "Deluxe category - Manali - Four Season Cottage , Timber Villa or similar",
+      "[II] Hotel Option 2:",
+      "Super Deluxe category - Manali - Surya International, Green hills or similar",
+      "[III] Hotel Option 3:",
+      "Luxury category - Manali - Royal Park Resort, Sun Park Resort or similar"
+     ]
+    },
+    {
+     "heading": "Rohtang pass visit Instruction",
+     "lines": [
+      "National Green Tribunal (NGT) has implemented few restrictions & instructions for every traveller visiting Rohtang Pass which are as follows",
+      "The Number of vehicles to Rohtang pass restricted to 1200 per day, out of which is only 800 petrol taxis & 400 diesel taxis will be allowed due to restriction. Guest might have wait in stand by slot.",
+      "Rohtang pass cost not include in package. Guest themselves must pay the directly.",
+      "Visit at Rohtang pass can be on individual or sharing basis."
+     ]
+    },
+    {
+     "heading": "Volvo Package Note",
+     "lines": [
+      "Pick from R.K Metro Station & Drop at same",
+      "Volvo package given Private car all sightseeing & Manali to Shimla travel",
+      "Manali & Shimla pick at Volvo Bus Stand & Drop at same",
+      "We are provided private car for Manali & Shimla sightseeing & Manali to Shimla travel (Alto or Indica)",
+      "Manikaran Visit 2000/- extra for Car & Volvo packages",
+      "If Want Sedan car in Volvo Package – 3500 (Extra Cost)",
+      "If extra person in Volvo Package – Accommodation cost (Extra bed) + Volvo ticket cost will be charge."
+     ]
+    },
+    {
+     "heading": "Car Package Note",
+     "lines": [
+      "Above Car package for 6 days if car journey days are increase extra cost will be charge",
+      "Pickup from Delhi Railway station, Airport & Bus Stand 4000/- extra for sedan Car cost",
+      "Extra person - Extra Person accommodation cost (Extra bed)",
+      "Manikaran Visit 2500 extra for sedan Car",
+      "Atal Tunnel & Sissu Visit cost Rs. 3,000 extra for sedan car.",
+      "Sghtseen as per itinerary."
+     ]
+    },
+    {
+     "heading": "Booking Instructions",
+     "lines": [
+      "50%Payment Advance at the time of booking",
+      "50% Payment at time of Journey."
+     ]
+    },
+    {
+     "heading": "Important Notes",
+     "lines": [
+      "All rates are Net & non-commissionable to you.",
+      "Rates are subject to change, without any prior notice.",
+      "Cancellation & other policies as per the hotel/company rule.",
+      "No cancellation & any refund will be made at any cost in case of bad weather or land slide which is beyond the control of the travel agent/hotel.",
+      "<span style=\"font-family: geor"
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/himachal/Manali-3nights-Volvo-Tour-Package/137"
+  },
+  {
+   "slug": "shimla-manali-5n-6d",
+   "title": "Shimla & Manali 5N & 6D",
+   "destination": "himachal-pradesh",
+   "region": "domestic",
+   "durationNights": 5,
+   "durationDays": 6,
+   "themes": [],
+   "price": null,
+   "priceNote": null,
+   "image": "https://www.s2holidays.com/upload/products/WhatsApp Image 2023-04-15 at 10.57.19 AM.jpeg20230414230421.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Chandigarh –Manali (Aprox.360 Km)",
+     "description": "On Arrival at Chandigarh Railway station or Airport meet our representative (Driver) will receive you and drive to Manali. you reach Manali at evening time, Overnight stay at Manali hotel.",
+     "meals": [
+      "Breakfast"
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Manali Local Sightseeing",
+     "description": "Morning after breakfast visit local places like Hadimba Devi Temple, Vashishth Temple, Club House, Van Vihar, Monasteries. Evening free to visit mall road and after that drive to hotel and overnight stay at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Manali - Solang Valley – Manali",
+     "description": "After Breakfast Visit by Cab Solang Valley in Manali is located at a distance of 13 kms in a side valley at the top of the Kullu valley is a splendid valley between Solang village and Beas Kund. Solang valley offers the view of glaciers and snow-capped mountains and peaks. Solang Valley has fine ski slopes. The Mountaineering Institute of Manali has installed a ski lift for training purpose. Located here is a hut and guest house of the Mountaineering and Allied Sports Institute, Manali. Now a few hotels have also come up. The winter skiing festival is organised in Solang Valley. Sking and Paragliding are two main activities are organised here. Apart from these many other adventure sports are available like, Horse Riding etc. Evening time back to hotel. Over Night at Hotel. (Up to snow line in case road closed due to snow fall).",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Manali - Kullu Valley Sightseeing – Shimla",
+     "description": "After breakfast check out from hotel and depart to Shimla via Sunder nagar Lake, Pandoh dam, on the way visit Kullu Valley, Vaishno Devi etc. Evening time drive to Manali Check -in to hotel and Overnight Stay at hotel in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 5,
+     "title": "Shimla- Kufri – Shimla",
+     "description": "Today morning after breakfast at proceed towards Kufri. After sight-seeing drive to Shimla Then you are free to explore The Mall Road,\nRidge, and Scandle Point. Lakkar Bazaar, Christ church and Lower Bazaar in evening free to Mall Road and after that drive to hotel and overnight stay at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 6,
+     "title": "SHIMLA - chandigarh",
+     "description": "Today morning after breakfast , check out from the hotel and drive Shimla to Chandigarh. Evening time you reach at Chandigarh Railway Station/Airport and drop.",
+     "meals": [
+      "Breakfast"
+     ]
+    }
+   ],
+   "inclusions": [
+    "Accommodation as per itinerary",
+    "Welcome Drink on Arrival",
+    "Meals as per itinerary",
+    "All transfers and sightseeing by car.",
+    "Car for 06 days - Chandigarh pickup, Manali & Shimla local, Solang valley, Kufri, Kullu & Sundernagar on the way to Shimla or Manali or Chandigarh Drop.",
+    "Car fuel, permit, toll, parking & Driver allowance include in package."
+   ],
+   "exclusions": [
+    "Car night journey charges.",
+    "Mountain fees & camera fees extra.",
+    "Personal expense, laundry & driver or waiter trips etc.",
+    "Adventure activity like para riding,skiing,river rafting etc.",
+    "Meal other than specification.",
+    "Heater charges will be extra",
+    "Gala Dinner - festival time like Christmas,Diwali, 31 Dec etc.",
+    "Anything not specifically mentioned under inclusions."
+   ],
+   "notes": [
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "[I] Hotel Option 1: Deluxe category",
+      "1.Shimla - Divine Inn or similar",
+      "2.Manali - Four Season Cottage , Timber Villa or similar",
+      "[II] Hotel Option 2: Super Deluxe category",
+      "1.Shimla - Alpine retreat,Moonlight or similar",
+      "2.Manali - Surya International, Green hills or similar",
+      "[III] Hotel Option 3: Luxury category",
+      "1.Shimla - Whistling Pine, Royal Regency or similar",
+      "2.Manali - Royal Park Resort, Sun Park Resort or similar"
+     ]
+    },
+    {
+     "heading": "Rohtang pass visit Instruction",
+     "lines": [
+      "National Green Tribunal (NGT) has implemented few restrictions & instructions for every traveller visiting Rohtang Pass which are as follows",
+      "The Number of vehicles to Rohtang pass restricted to 1200 per day, out of which is only 800 petrol taxis & 400 diesel taxis will be allowed due to restriction. Guest might have wait in stand by slot.",
+      "Rohtang pass cost not include in package. Guest themselves must pay the directly.",
+      "Visit at Rohtang pass can be on individual or sharing basis."
+     ]
+    },
+    {
+     "heading": "Car Package Note",
+     "lines": [
+      "Above Car package for 6 days if car journey days are increase extra cost will be charge",
+      "Pickup from Delhi Railway station, Airport & Bus Stand 4000/- extra for sedan Car cost",
+      "Extra person - Extra Person accommodation cost (Extra bed)",
+      "Manikaran Visit 2500 extra for sedan Car",
+      "Atal Tunnel & Sissu Visit cost Rs. 3,000 extra for sedan car.",
+      "Sghtseen as per itinerary."
+     ]
+    },
+    {
+     "heading": "Booking Instructions",
+     "lines": [
+      "50%Payment Advance at the time of booking",
+      "50% Payment at time of Journey."
+     ]
+    },
+    {
+     "heading": "Important Notes",
+     "lines": [
+      "All rates are Net & non-commissionable to you.",
+      "Rates are subject to change, without any prior notice.",
+      "Cancellation & other policies as per the hotel/company rule.",
+      "No cancellation & any refund will be made at any cost in case of bad weather or land slide which is beyond the control of the travel agent/hotel.",
+      "Above policy may vary during peak season and any changes will be communicated prior to confirmation.",
+      "No refund will be made for any unused accommodation, missed meals, transportation segments, sightseeing tours or any other service due to Bad weather, ill health, Strike, Road Blocks or any other factor beyond our Control. Such unused items are neither refundable nor exchangeable.",
+      "Package can be altered/change as per the customer’s requirement/ interest if possible (subject to availability)",
+      "Check out time of the hotel mentioned is 12:00 hrs. Check in time is 12:00 noon. (Early check in is subject to availability)",
+      "We may reschedule the sightseeing days’ subject to weather conditions & to ensure smooth execution of tours.",
+      "We shall not be responsible for any cancellation of cabs or buses due to bad weather & are not liable for it.",
+      "Though Himachal have been witnessing a huge tourist growth but the facilities available cannot be matched to those available in the Cities and other developed destination.",
+      "In Himachal, the facilities of Hotel, Services, and Aids etc cannot be matched to developed destinations. Hotels in Himachal are categorized on the basis of location, Services and costing and not as per Star Categorization i.e.;1*, 2*,3* and soon.",
+      "Verbal Commitments are not applicable"
+     ]
+    },
+    {
+     "heading": "Amendment/ Cancellation",
+     "lines": [
+      "<span style=\"fo"
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/himachal/Shimla-and-Manali-5n-and-6d/139"
+  },
+  {
+   "slug": "shimla-manali-dharamshala-7n-8d",
+   "title": "Shimla - Manali - Dharamshala 7N & 8D",
+   "destination": "himachal-pradesh",
+   "region": "domestic",
+   "durationNights": 7,
+   "durationDays": 8,
+   "themes": [],
+   "price": null,
+   "priceNote": null,
+   "image": "https://www.s2holidays.com/upload/products/WhatsApp Image 2023-04-14 at 5.20.36 PM (1).jpeg20230414050428.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Day 1",
+     "description": "On Arrival at Chandigarh Railway station / Airport at morning meet our representative will receive you and drive to Shimla. On arrive at Shimla check in at hotel and overnight stay in Shimla.\nSHIMLA- KUFRI – SHIMLA",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Day 2",
+     "description": "Today morning after breakfast at proceed towards Kufri. After sight-seeing drive to Shimla Then you are free to explore The Mall Road, Ridge, and Scandle Point. Lakkar Bazaar, Christ church and Lower Bazaar In evening free to Mall Road and after that drive to hotel and overnight stay at hotel.\n[About Shimla-The British Empire may have ceased to exist, but its echo lingers on in Shimla (2205m). As the Summer Capital of the British in India, Shimla was the country's focus for the better part of every year and now, is the state capital of Himachal Pradesh. Today, it has well developed facilities, easy accessibility and numerous attractions making it one of India's most popular hill destinations. Situated in the lower ranges of the Himalayan Mountains, it is surrounded by pine deodar, oak and rhododendron forests. Towards the north lie the snow-covered high-ranges, while the valleys breathe whispering streams and swaying fields. Within the town are host of splendid colonial edifices, quaint cottages and charming walks. Shimla offers a variety of shopping, sport and entertainment activities.]",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "shimla - kullu valley sightseen – MANALI",
+     "description": "After Breakfast, check out from the Hotel and Depart to Shimla By Cab/via Sunder nagar Lake, Pandoh dam Kullu valley, On the way visit like Kullu Valley, Vaishno Devi. On Arrive at Manali Check -in to hotel and Overnight Stay at hotel in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "MANALI - solang valley – manali",
+     "description": "After Breakfast Visit by Cab Solang Valley in Manali is located at a distance of 13 kms in a side valley at the top of the Kullu valley is a splendid valley between Solang village and Beas Kund. Solang valley offers the view of glaciers and snow-capped mountains and peaks. Solang Valley has fine ski slopes. The Mountaineering Institute of Manali has installed a ski lift for training purpose. Located here is a hut and guest house of the Mountaineering and Allied Sports Institute, Manali. Now a few hotels have also come up. The winter skiing festival is organised in Solang Valley. Sking and Paragliding are two main activities are organised here. Apart from these many other adventure sports are available like, Horse Riding etc. Evening time back to hotel. Over Night at Hotel. (Up to snow line in case road closed due to snow fall).",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 5,
+     "title": "Manali Local Sightseen",
+     "description": "Morning, After Breakfast Visit Local Places Like Hadimba Devi Temple, Vashishth Temple, Club House, Monasteries. Evening Free to Visit Mall Road overnight stay at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 6,
+     "title": "Manali -Dharamshala (Aprox. 235 Km)",
+     "description": "After breakfast checkout from the hotel and drive Manali to Dharamsala. On arrival check in at hotel Overnight at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 7,
+     "title": "Dharamshala Sightseen",
+     "description": "Today After Breakfast, check out from Hotel and proceed to city tour of Dharamshala which includes-. cover official residence of Dalai Lama, Mcleodganj, Bhagsunath temple and Dal Lake .and drive to Dalhousie (It is also called as mini swizz of India due to its scenic beauty). Arrive & transfer to hotel. Rest of the day at leisure to explore the Market. Overnight stay at the Hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 8,
+     "title": "Dharamshal To Chandigarh (Aprox. 255 Km)",
+     "description": "Morning After breakfast checkout from hotel and proceed to the Chandigarh , drop at Chandigarh airport.",
+     "meals": [
+      "Breakfast"
+     ]
+    }
+   ],
+   "inclusions": [
+    "Accommodation as per itinerary",
+    "Welcome Drink on Arrival",
+    "Meals as per itinerary",
+    "All transfers and sightseeing by car.",
+    "Car for 08 days - Chandigarh pickup, Shimla local, Kufri, Manali local, Solang valley, Dharamshala Mall road, Mclod ganj.",
+    "Car fuel, permit, toll, parking & Driver allowance include in package."
+   ],
+   "exclusions": [
+    "Car night journey charges.",
+    "Mountain fees & camera fees extra.",
+    "Personal expense, laundry & driver or waiter trips etc.",
+    "Adventure activity like para riding,skiing,river rafting etc.",
+    "Meal other than specification.",
+    "Heater charges will be extra.",
+    "Gala Dinner - festival time like Christmas,Diwali, 31 Dec etc.",
+    "Anything not specifically mentioned under inclusions."
+   ],
+   "notes": [
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "[I] Hotel Option 1: Deluxe category",
+      "1.Shimla - Divine Inn or similar",
+      "2.Manali - Four Season Cottage , Timber Villa or similar",
+      "3.Dharamshala - Vakratunda , Hotel Seven seas or similar",
+      "[II] Hotel Option 2: Super Deluxe category",
+      "1.Shimla - Alpine retreat,Moonlight or similar",
+      "2.Manali - Surya International, Green hills or similar",
+      "3.Dharamshala - Sky Heaven Resort, AK Continental or similar",
+      "[III] Hotel Option 3: Luxury category",
+      "1.Shimla - Whistling Pine, Royal Regency or similar",
+      "2.Manali - Royal Park Resort, Sun Park Resort or similar",
+      "3.Dharamshala - Meghwan Holiday ,GK Conifer or similar"
+     ]
+    },
+    {
+     "heading": "Rohtang pass visit Instruction",
+     "lines": [
+      "National Green Tribunal (NGT) has implemented few restrictions & instructions for every traveller visiting Rohtang Pass which are as follows",
+      "The Number of vehicles to Rohtang pass restricted to 1200 per day, out of which is only 800 petrol taxis & 400 diesel taxis will be allowed due to restriction. Guest might have wait in stand by slot.",
+      "Rohtang pass cost not include in package. Guest themselves must pay the directly.",
+      "Visit at Rohtang pass can be on individual or sharing basis."
+     ]
+    },
+    {
+     "heading": "Car Package Note",
+     "lines": [
+      "Above Car package for 6 days if car journey days are increase extra cost will be charge",
+      "Pickup from Delhi Railway station, Airport & Bus Stand 4000/- extra for sedan Car cost",
+      "Extra person - Extra Person accommodation cost (Extra bed)",
+      "Manikaran Visit 2500 extra for sedan Car",
+      "Atal Tunnel & Sissu Visit cost Rs. 3,000 extra for sedan car.",
+      "Sghtseen as per itinerary."
+     ]
+    },
+    {
+     "heading": "Booking Instructions",
+     "lines": [
+      "50%Payment Advance at the time of booking",
+      "50% Payment at time of Journey."
+     ]
+    },
+    {
+     "heading": "Important Notes",
+     "lines": [
+      "All rates are Net & non-commissionable to you.",
+      "Rates are subject to change, without any prior notice.",
+      "Cancellation & other policies as per the hotel/company rule.",
+      "No cancellation & any refund will be made at any cost in case of bad weather or land slide which is beyond the control of the travel agent/hotel.",
+      "Above policy may vary during peak season and any changes will be communicated prior to confirmation.",
+      "No refund will be made for any unused accommodation, missed meals, transportation segments, sightseeing tours or any other service due to Bad weather, ill health, Strike, Road Blocks or any other factor beyond our Control. Such unused items are neither refundable nor exchangeable.",
+      "Package can be altered/change as per the customer’s requirement/ interest if possible (subject to availability)",
+      "Check out time of the hotel mentioned is 12:00 hrs. Check in time is 12:00 noon. (Early check in is subject to availability)",
+      "We may reschedule the sightseeing days’ subject to weather conditions & to ensure smooth execution of tours.",
+      "We shall not be responsible for any cancellation of cabs or buses due to bad weather & are not liable for it.",
+      "Though Himachal have been witnessing a huge tourist growth but the facilities available cannot be matched to those available in the Cities and other developed destination.",
+      "In Himachal, the facilities of Hotel, Services, and Aids etc cannot be matched to developed destinations. Hotels in Himachal are categorized on the basis of location, Services and costing and not as per Star Categorization i.e.;1*, 2*,3* and soon.",
+      "Verbal Commitments are not applicable"
+     ]
+    },
+    {
+     "heading": "Amendment/ Cancellation",
+     "lines": [
+      "<span style=\"fo"
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/himachal/Shimla---Manali---Dharamshala-7n-and-8d/140"
+  },
+  {
+   "slug": "shimla-manali-dharamshala-dalhousie-8n-9d",
+   "title": "Shimla-Manali-Dharamshala-Dalhousie 8N & 9D",
+   "destination": "himachal-pradesh",
+   "region": "domestic",
+   "durationNights": 8,
+   "durationDays": 9,
+   "themes": [],
+   "price": null,
+   "priceNote": null,
+   "image": "https://www.s2holidays.com/upload/products/WhatsApp Image 2023-04-15 at 11.39.43 AM (1).jpeg20230414230408.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Day 1",
+     "description": "On Arrival at Delhi Airport meet our representative (Driver) will receive you and drive to Shimla. you reach Shimla at evening time, Overnight stay at Shimla hotel.",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Shimla- Kufri – Shimla",
+     "description": "Today morning after breakfast at proceed toward Kufri. After sightseeing drive to Shimla then you are free to explore The Mall Road, Ridge & Scandle Point. Lakkar Bazaar, Christ church and Lower Bazaar In evening time visit Mall Road and after that drive to hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Shimla - Kullu - Manali (280 Km)",
+     "description": "After breakfast check out from hotel and depart to Manali via Sunder nagar Lake, Pandoh dam, on the way visit Kullu Valley, Vaishno Devi etc. Evening time drive to Manali Check-in to hotel and Overnight Stay at hotel in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "MANALI - solang valley – manali",
+     "description": "After Breakfast Visit by Cab Solang Valley in Manali is located at a distance of 13 kms in a side valley at the top of the Kullu valley is a splendid valley between Solang village and Beas Kund. Solang valley offers the view of glaciers and snow-capped mountains and peaks. Solang Valley has fine ski slopes. The Mountaineering Institute of Manali has installed a ski lift for training purpose. Located here is a hut and guest house of the Mountaineering and Allied Sports Institute, Manali. Now a few hotels have also come up. The winter skiing festival is organised in Solang Valley. Sking and Paragliding are two main activities are organised here. Apart from these many other adventure sports are available like, Horse Riding etc. Evening time back to hotel. Over Night at Hotel. (Up to snow line in case road closed due to snow fall).",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 5,
+     "title": "manali LOCAL SIGHTSEEN",
+     "description": "The Morning, After Breakfast Visit Local Places Like Hadimba Devi Temple, Vashishth Temple, Club House, Monasteries. Evening Free to Visit Mall Road overnight stay at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 6,
+     "title": "Manali - Dharamshala (235 Km)",
+     "description": "After breakfast checkout from the hotel and drive Manali to Dharamshala. On arrival check in at hotel Overnight at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 7,
+     "title": "Dharamshala Local Sightseen And Dalhousie",
+     "description": "After Morning breakfast leave for Dharamshala Sightseen Dal Lake, Sunset Point, St. John Church, International Cricket Stadium, Norbulingka Institute, War Memorial . visit McLeodGanj Sightseen Bhagsunath Temple, Bhagsu Lake, Namgyal Monastery and Mall Road, and transfer to Dalhousie check in hotel overnight at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 8,
+     "title": "Dalhousie - Khajjiar - Dalhousie",
+     "description": "Morning After breakfast,checkout from hotel, Proceed to full day sightseeing first drive to Subash Bowli then to Khajjiar via Bakrota hills and Lakkar mandi reach Khajjiar full day excursion. Evening visit mall road overnight at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 9,
+     "title": "Dalhousie - Delhi",
+     "description": "Morning after Breakfast ,checkout from hotel & proceed towards Delhi airport or railway station.",
+     "meals": [
+      "Breakfast"
+     ]
+    }
+   ],
+   "inclusions": [
+    "Accommodation as per itinerary",
+    "Welcome Drink on Arrival",
+    "Meals as per itinerary",
+    "All transfers and sightseeing by car.",
+    "Car for 09 days - Delhi pickup,Shimla ,Manali local, Solang valley, dharamshala sightseen - Mclod ganj, Tibetian monestry, Naddi lake, Kajjar, Dalhouise mall road & Delhi drop.",
+    "Car fuel, permit, toll, parking & Driver allowance include in package."
+   ],
+   "exclusions": [
+    "Car night journey charges.",
+    "Mountain fees & camera fees extra.",
+    "Personal expense, laundry & driver or waiter trips etc.",
+    "Adventure activity like para riding,skiing,river rafting etc.",
+    "Meal other than specification.",
+    "Heater charges will be extra",
+    "Gala Dinner - festival time like Christmas,Diwali, 31 Dec etc.",
+    "Anything not specifically mentioned under inclusions."
+   ],
+   "notes": [
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "[I] Hotel Option 1: Deluxe category",
+      "1.Shimla - Divine Inn or similar",
+      "2.Manali - Four Season Cottage , Timber Villa or similar",
+      "3.Dharamshala - Vakratunda , Hotel Seven seas or similar",
+      "4.Dalhousie - Nature Nest or similar",
+      "[II] Hotel Option 2: Super Deluxe category",
+      "1.Shimla - Alpine retreat,Moonlight or similar",
+      "2.Manali - Surya International, Green hills or similar",
+      "3.Dharamshala - Sky Heaven Resort, AK Continental or similar",
+      "3.Dalhousie - Shining Star, dalhousie grand or similar",
+      "[III] Hotel Option 3: Luxury category",
+      "1.Shimla - Whistling Pine, Royal Regency or similar",
+      "2.Manali - Royal Park Resort, Sun Park Resort or similar",
+      "3.Dharamshala - Meghwan Holiday ,GK Conifer or similar",
+      "3.Dalhousie - Grace mount , namaskar heights or similar"
+     ]
+    },
+    {
+     "heading": "Rohtang pass visit Instruction",
+     "lines": [
+      "National Green Tribunal (NGT) has implemented few restrictions & instructions for every traveller visiting Rohtang Pass which are as follows",
+      "The Number of vehicles to Rohtang pass restricted to 1200 per day, out of which is only 800 petrol taxis & 400 diesel taxis will be allowed due to restriction. Guest might have wait in stand by slot.",
+      "Rohtang pass cost not include in package. Guest themselves must pay the directly.",
+      "Visit at Rohtang pass can be on individual or sharing basis."
+     ]
+    },
+    {
+     "heading": "Car Package Note",
+     "lines": [
+      "Above Car package for 6 days if car journey days are increase extra cost will be charge",
+      "Pickup from Delhi Railway station, Airport & Bus Stand 4000/- extra for sedan Car cost",
+      "Extra person - Extra Person accommodation cost (Extra bed)",
+      "Manikaran Visit 2500 extra for sedan Car",
+      "Atal Tunnel & Sissu Visit cost Rs. 3,000 extra for sedan car.",
+      "Sghtseen as per itinerary."
+     ]
+    },
+    {
+     "heading": "Booking Instructions",
+     "lines": [
+      "<span style=\"box-sizing: border-box; border: 0px; font-style: inherit; font-"
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/himachal/Shimla-Manali-Dharamshala-Dalhousie-8n-and-9d/141"
+  },
+  {
+   "slug": "shimla-manali-dharamshala-dalhousie-amritsar-9n-10d",
+   "title": "Shimla-Manali-Dharamshala-Dalhousie-Amritsar 9N & 10D",
+   "destination": "himachal-pradesh",
+   "region": "domestic",
+   "durationNights": 9,
+   "durationDays": 10,
+   "themes": [],
+   "price": null,
+   "priceNote": null,
+   "image": "https://www.s2holidays.com/upload/products/WhatsApp Image 2023-04-15 at 12.35.20 PM.jpeg20230416230430.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "DELHI – shimla (APROX.350 KM)",
+     "description": "On Arrival at Delhi Airport meet our representative (Driver) will receive you and drive to Shimla. you reach Shimla at evening time, Overnight stay at Shimla hotel.",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Shimla - Kufri - Shimla",
+     "description": "Today morning after breakfast at proceed toward Kufri. After sightseeing drive to Shimla then you are free to explore The Mall Road, Ridge & Scandle Point. Lakkar Bazaar, Christ church and Lower Bazaar In evening time visit Mall Road and after that drive to hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Shimla – Kullu – Manali (280 Km)",
+     "description": "After breakfast check out from hotel and depart to Manali via Sunder nagar Lake, Pandoh dam, on the way visit Kullu Valley, Vaishno Devi etc. Evening time drive to Manali Check-in to hotel and Overnight Stay at hotel in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Manali - Solang Valley – Manali",
+     "description": "After Breakfast Visit by Cab Solang Valley in Manali is located at a distance of 13 kms in a side valley at the top of the Kullu valley is a splendid valley between Solang village and Beas Kund. Solang valley offers the view of glaciers and snow-capped mountains and peaks. Solang Valley has fine ski slopes. The Mountaineering Institute of Manali has installed a ski lift for training purpose. Located here is a hut and guest house of the Mountaineering and Allied Sports Institute, Manali. Now a few hotels have also come up. The winter skiing festival is organised in Solang Valley. Sking and Paragliding are two main activities are organised here. Apart from these many other adventure sports are available like, Horse Riding etc. Evening time back to hotel. Over Night at Hotel. (Up to snow line in case road closed due to snow fall).",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 5,
+     "title": "Manali Local Sightseen",
+     "description": "Morning, After Breakfast Visit Local Places Like Hadimba Devi Temple, Vashishth Temple, Club House, Monasteries. Evening Free to Visit Mall Road overnight stay at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 6,
+     "title": "mANALI - DHARAMSHALA (APROX. 235 KM)",
+     "description": "After breakfast checkout from the hotel and drive Manali to Dharamshala. On arrival check in at hotel Overnight at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 7,
+     "title": "Dharamshala Local Sightseen And Dalhousie",
+     "description": "After Morning breakfast leave for Dharamshala Sightseen Dal Lake, Sunset Point, St. John Church, International Cricket Stadium, Norbulingka Institute, War Memorial . visit McLeodGanj Sightseen Bhagsunath Temple, Bhagsu Lake, Namgyal Monastery and Mall Road, and transfer to Dalhousie check in hotel overnight at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 8,
+     "title": "Dalhousie - Khajjiar - Dalhousie",
+     "description": "Morning After breakfast,checkout from hotel, Proceed to full day sightseeing first drive to Subash Bowli then to Khajjiar via Bakrota hills and Lakkar mandi reach Khajjiar full day excursion. Evening visit mall road overnight at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 9,
+     "title": "Dalhousie - Amritsar",
+     "description": "Morning After Breakfast , Checkout from hotel & proceed to Amritsar. At afternoon time reach at Amritsar then visit Wagha Boarder, after pared return to Amritsar hotel. Overnight stay at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 10,
+     "title": "amritsar - DELHI drop",
+     "description": "Morning after Breakfast, checkout from hotel , proceed to visit to the golden temple, jalian wala bagh & by evening drop to Delhi airport or railway station.",
+     "meals": [
+      "Breakfast"
+     ]
+    }
+   ],
+   "inclusions": [
+    "Accommodation as per itinerary",
+    "Welcome Drink on Arrival",
+    "Meals as per itinerary",
+    "All transfers and sightseeing by car.",
+    "Car for 10 days - Delhi pickup,Shimla ,Manali local, Solang valley, Mclod ganj, Tibetian monestry, Naddi lake, Kajjar, Dalhouise mall road,Amritsar sightseen & Delhi drop.",
+    "Car fuel, permit, toll, parking & Driver allowance include in package."
+   ],
+   "exclusions": [
+    "Car night journey charges.",
+    "Mountain fees & camera fees extra.",
+    "Personal expense, laundry & driver or waiter trips etc.",
+    "Adventure activity like para riding,skiing,river rafting etc.",
+    "Meal other than specification.",
+    "Heater charges will be extra.",
+    "Gala Dinner - festival time like Christmas,Diwali, 31 Dec etc.",
+    "Anything not specifically mentioned under inclusions."
+   ],
+   "notes": [
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "[I] Hotel Option 1: Deluxe category",
+      "1.Shimla - Divine Inn or similar",
+      "2.Manali - Four Season Cottage , Timber Villa or similar",
+      "3.Dharamshala - Vakratunda , Hotel Seven seas or similar",
+      "4.Dalhousie - Nature Nest or similar",
+      "5.Amritsar - Aman Residency or similar",
+      "[II] Hotel Option 2: Super Deluxe category",
+      "1.Shimla - Alpine retreat,Moonlight or similar",
+      "2.Manali - Surya International, Green hills or similar",
+      "3.Dharamshala - Sky Heaven Resort, AK Continental or similar",
+      "4.Dalhousie - Shining Star, dalhousie grand or similar",
+      "5.Amritsar - Savera Grand or similar",
+      "[III] Hotel Option 3: Luxury category",
+      "1.Shimla - Whistling Pine, Royal Regency or similar",
+      "2.Manali - Royal Park Resort, Sun Park Resort or similar",
+      "3.Dharamshala - Meghwan Holiday ,GK Conifer or similar",
+      "4.Dalhousie - Grace mount , namaskar heights or similar",
+      "5.Amritsar - Greenwood Villa or similar"
+     ]
+    },
+    {
+     "heading": "Rohtang pass visit Instruction",
+     "lines": [
+      "National Green Tribunal (NGT) has implemented few restrictions & instructions for every traveller visiting Rohtang Pass which are as follows",
+      "The Number of vehicles to Rohtang pass restricted to 1200 per day, out of which is only 800 petrol taxis & 400 diesel taxis will be allowed due to restriction. Guest might have wait in stand by slot.",
+      "Rohtang pass cost not include in package. Guest themselves must pay the directly.",
+      "Visit at Rohtang pass can be on individual or sharing basis."
+     ]
+    },
+    {
+     "heading": "Car Package Note",
+     "lines": [
+      "Above Car package for 6 days if car journey days are increase extra cost will be charge",
+      "Pickup from Delhi Railway station, Airport & Bus Stand 4000/- extra for sedan Car cost",
+      "Extra person - Extra Person accommodation cost (Extra bed)",
+      "Manikaran Visit 2500 extra for sedan Car",
+      "Atal Tunnel & Sissu Visit cost Rs. 3,000 extra for sedan car.",
+      "Sghtseen as per itinerary."
+     ]
+    },
+    {
+     "heading": "Booking Instructions",
+     "lines": [
+      "<li style=\""
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/himachal/Shimla-Manali-Dharamshala-Dalhousie-Amritsar-9n-and-10d/142"
+  },
+  {
+   "slug": "spiti-valley-7n-8d",
+   "title": "Spiti Valley 7N & 8D",
+   "destination": "himachal-pradesh",
+   "region": "domestic",
+   "durationNights": 7,
+   "durationDays": 8,
+   "themes": [],
+   "price": null,
+   "priceNote": null,
+   "image": "https://www.s2holidays.com/upload/products/Road-Trip-to-Spiti-Valley-JustWravel-1677043805.png20230417210429.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "delhi - shimla(370 KM)",
+     "description": "Arrival At Delhi By Evening , Come To The Boarding Point at 09:00 P.M. Bus Start The010:00 P.M. Overnight Journey by Volvo Bus From Delhi To Shimla By Road.",
+     "meals": []
+    },
+    {
+     "day": 2,
+     "title": "Shimla- Narkanda-Sarahan(300 Km)",
+     "description": "On arrival at Shimla busstand our representative will pick-up you and will transfer to Narkanda (65 km from Shimla) famous for skiing and winter sports. Moving 8 km on the link road bifurcation from Narkanda is the Hatu Peak (3300 m). The highest motor able peak of this region gives the view of entire ranges of Himalayas. On the top is the Hatu Mata Temple. Moving 6km on Himachal Horticultural Land Kotgarh reaches Tani Jubbar Lake near Jarol. Crossing the apple orchards and having a glance at village houses reach Thanedaar. Riding forward from the famous Stokes Apple farm reach Bitthaal where the road connects to NH22. Move forward to Sarahan. On arrival at Sarahan check in at hotel and overnight stay at Sarahan hotel.",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Sarahan Mata Bhimakali Temple - Chitkul - Sangla(100 Km)",
+     "description": "Today morning after breakfast checkout from the hotel and visit Sarahan \"Historical Mata Bhimakali Temple\" after visit drive to Sangla. On the way visit Tranda Dhank and after that drive to Sangla Valley. Evening time you reach Sangla and visit \"Last Village Chitkul\". After that drive back to the hotel and check in at the hotel and overnight stay at Sangla hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Sangla - Chitkul - Nako Laek - Gue - Tabo(190 Km)",
+     "description": "Today morning, after breakfast, I checked out from the hotel and drive to Tabo, On the way visit Ribba, Moorang, Pooh, Khab Nako Lake and Gue Mummy. Full day enjoy the sightseeing after that drive to Tabo. On arrive at Tabo check in at hotel and overnight stay at Tabo hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 5,
+     "title": "Tabo - Pin Valley - Mud Village - Dhankar - Kaza(150 Km)",
+     "description": "Today morning after breakfast check out and move towards Crossing Hoorling you see Barren clay color hills with snow on peaks. \"Tabo Monestry\" on the left of road after that drive to \" Pin Valley and Mud Village\". After visit drive back to Kaza and on the way visit most beautiful \"Dhankar Village & Dhankar Monastery\" Full day enjoy the sightseeing evening time drive to Kaza, On arrive at Kaza check in at hotel and overnight stay at Kaza hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 6,
+     "title": "Kaza - Langza - Kommick - Hikkim - Key Monastery - Kibber Village - Chichim Bridge(80 Round Up Km)",
+     "description": "Today morning after breakfast visit drive to Kaza local sightseeing first visit Langza Village is a beautiful destination, located in one of the most majestic valleys in 'Spiti Valley' This picturesque village altitude is 14500 feet. After that drive Langza to \" Komic Village \" sightseeing This village is world’s highest village with a road. Roughly 20 km from Kaza, it is a small, beautiful village located at 18,000 feet above sea level. Hikkim village, at an altitude of about 4440 Mtrs, is about 4 KMs from Komic and about 16 KMs from Kaza. This makes the entire circuit from Kaza to Langza to Komic to Hikkim to Kaza of about 44 KMs, easily doable at comfort in a day. Hikkim village is popularly known for the \"Highest Post Office In The World\" and the highest polling station in the world. After visit drive to \"Key Monastery or Kye Gompa\" is one of the most popular places to visit in Spiti valley, located in the Kaza region. Overlooking the Spiti River at an altitude of 4112 m, Key Monastery is one of the biggest gompas known for the stunning Buddha shrine. Full day enjoy the sightseeing after that drive to hotel and overnight stay at Kaza hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 7,
+     "title": "Kaza - Kalpa(210 Km)",
+     "description": "Today morning after breakfast check out from the hotel and drive Kaza to Kalpa. Full day journey Kaza to Kalpa evening time you reach in Kalpa check in at hotel and overnight stay at Kalpa hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 8,
+     "title": "Kalpa - Shimla - Delhi Drop By Volvo (340 Km)",
+     "description": "Today morning after breakfast check out from the Hotel and proceed with your further journey to Delhi .On the way visit sightseeing of Kalpa Roghi Village, Kinner Kailash View Point, Suicide Point, Kamru Fort etc. After visiting that drive Kalpa to Chandigarh and evening time Come To The Boarding Point at 09:00 P.M. Bus Start The 09:30 P.M. Overnight Journey by Volvo Bus From Shimla to Delhi.",
+     "meals": [
+      "Breakfast"
+     ]
+    }
+   ],
+   "inclusions": [
+    "Welcome drink on arrival (Non Alcoholic i.e. Tea etc…)",
+    "For 06 Nights for 02 Adults In 01 Rooms.",
+    "02 Volvo Ticket Delhi Shimla Delhi.",
+    "MAP Meal Plan:- 06 Breakfast and 06 Dinner.",
+    "Dzire/Etios/Amaze 07 Days Narkanda, Sarahan, Sangla, Chitkul, Kalpa, Nako, Tabo, Dhankar, Kaza, Shimla.",
+    "Inclusive the Taxes (Parking, Toll Tax, Luxury Tax, Green Tax, Fuel Exp. and Driver Exp"
+   ],
+   "exclusions": [
+    "Any personal expensive – laundry, shopping, tip etc.",
+    "Any adventure activity skiing ,paragliding ,River Rafting etc.",
+    "Meal other than specified.",
+    "Heater charges will be extra",
+    "Gala Dinner",
+    "Anything not specifically mentioned under inclusions"
+   ],
+   "notes": [
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "*Hotel Option:",
+      "1)Sarahan:- Hotel Snow View or Similar",
+      "2)Sangla:- Hotel Rock View or Similar",
+      "3)Tabo:- Hotel Maitreya Regency or Similar",
+      "4)Kaza:- Hotel Serkhang or Similar",
+      "5)Kalpa:- Hotel Aucktong or Similar"
+     ]
+    },
+    {
+     "heading": "Rohtang pass visit Instruction",
+     "lines": [
+      "National Green Tribunal (NGT) has implemented few restrictions & instructions for every traveller visiting Rohtang Pass which are as follows",
+      "The Number of vehicles to Rohtang pass restricted to 1200 per day, out of which is only 800 petrol taxis & 400 diesel taxis will be allowed due to restriction. Guest might have wait in stand by slot.",
+      "Rohtang pass cost not include in package. Guest themselves must pay the directly.",
+      "Visit at Rohtang pass can be on individual or sharing basis."
+     ]
+    },
+    {
+     "heading": "Volvo Package Note",
+     "lines": [
+      "Pick from R.K Metro Station & Drop at same",
+      "Volvo package given Private car all sightseeing & Manali to Shimla travel",
+      "Manali & Shimla pick at Volvo Bus Stand & Drop at same",
+      "We are provided private car for Manali & Shimla sightseeing & Manali to Shimla travel (Alto or Indica)",
+      "Manikaran Visit 2000/- extra for Car & Volvo packages",
+      "If Want Sedan car in Volvo Package – 3500 (Extra Cost)",
+      "If extra person in Volvo Package – Accommodation cost (Extra bed) + Volvo ticket cost will be charge."
+     ]
+    },
+    {
+     "heading": "Car Package Note",
+     "lines": [
+      "<div class=\"small-border\" style=\"box-sizing: border-box; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 12.48px; line-height: inherit; font-family: Lato, Arial, Helvetica, sans-serif; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; color: rgb(51, 51, 51); letter-spacing: 0.8px; margin: -12px 0px 10px; padding: 0px; -webkit-tap-highlight-color: transparent; zoom: 1; height: 3px; width: 70px; backgroun"
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/himachal/Spiti-Valley-7N-and-8D/144"
+  },
+  {
+   "slug": "spiti-valley-9n-10d",
+   "title": "Spiti Valley 9N & 10D",
+   "destination": "himachal-pradesh",
+   "region": "domestic",
+   "durationNights": 9,
+   "durationDays": 10,
+   "themes": [],
+   "price": null,
+   "priceNote": null,
+   "image": "https://www.s2holidays.com/upload/products/Cover-pic-16.jpg20230417210405.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Day 1",
+     "description": "On arrival at Chandigarh Railway station, our representative will pick-up you and will transfer to Narkanda (65 km from Shimla) famous for skiing and winter sports. Moving 8 km on the link road bifurcation from Narkanda is the Hatu Peak (3300 m). The highest motor able peak of this region gives the view of entire ranges of Himalayas. On the top is the Hatu Mata Temple. Moving 6km on Himachal Horticultural Land Kotgarh reaches Tani Jubbar Lake near Jarol. Crossing the apple orchards and having a glance at village houses reach Thanedaar. Riding forward from the famous Stokes Apple farm reach Bitthaal where the road connects to NH22. Move forward to Sarahan. On arrival at Sarahan check in at hotel and overnight stay at Sarahan hotel.",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Sarahan Mata Bhimakali Timple - Sangla(95 Km)",
+     "description": "Today morning after breakfast checkout from the hotel and visit Sarahan \"Historical Mata Bhimakali Temple\" after visit drive to Sangla. On the way visit Tranda Dhank and after that drive to Sangla Valley. Evening time you reach in Sangla check in at hotel and overnight stay at Sangla hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Sangla - Chitkul -Kalpa(40 Km)",
+     "description": "In the morning visit a nearby village Chitkul(26 km) fully lush green and wide open valley with handful of houses. From here gear up yourself to Kalpa (62 km), crossing the deadliest road and high mountain view, crossing Hydro projects and Tapri reach Reckong Peo. Move 13 km upward to Kalpa (10,900ft.) in front of Kinnar Kailasha. The night stay in Kalpa gives you the serene view of Kinnar Kailasha and the air will energies you to move forward.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Kalpa - Nako Laek - Gue - Tabo(170 Km)",
+     "description": "Today morning after breakfast proceed with the sight seen of Kalpa visiting the locations like Roghi village, Kinner Kailash, Kamru FortSuicide Point. Kalpa can be visited in summer, monsoon or winter after that drive to Tabo on the way visit Ribba, Moorang, Pooh, Khab Nako Lake and Gue. After that drive to Tabo on arrive at Tabo check in at hotel and overnight stay at Tabo hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 5,
+     "title": "Tabo - Pin Valley - Mud Village - Dhankar - Kaza(150 Km)",
+     "description": "Today morning after breakfast check out and move towards Crossing Hurling you see Barren clay color hills with snow on peaks. \"Tabo Monestry\" on the left of road after that drive to \" Pin Valley and Mud Village\". After visit drive back to Kaza and on the way visit most beautiful \"Dhankar Village & Dhankar Monastery\" Full day enjoy the sightseeing evening time drive to Kaza, On arrive at Kaza check in at hotel and overnight stay at Kaza hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 6,
+     "title": "Kaza - Langza - Kommick - Hikkim - Key Monastery(80 Round Up Km)",
+     "description": "Today morning after breakfast visit drive to Kaza local sightseeing first visit Langza Village is a beautiful destination, located in one of the most majestic valleys in 'Spiti Valley' This picturesque village altitude is 14500 feet. After that drive Langza to \" Komic Village \" sightseeing This village is world’s highest village with a road. Roughly 20 km from Kaza, it is a small, beautiful village located at 18,000 feet above sea level. Hikkim village, at an altitude of about 4440 Mtrs, is about 4 KMs from Komic and about 16 KMs from Kaza. This makes the entire circuit from Kaza to Langza to Komic to Hikkim to Kaza of about 44 KMs, easily doable at comfort in a day. Hikkim village is popularly known for the \"Highest Post Office In The World\" and the highest polling station in the world. After visit drive to \"Key Monastery or Kye Gompa\" is one of the most popular places to visit in Spiti valley, located in the Kaza region. Overlooking the Spiti River at an altitude of 4112 m, Key Monastery is one of the biggest gompas known for the stunning Buddha shrine. Full day enjoy the sightseeing after that drive to hotel and overnight stay at Kaza hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 7,
+     "title": "Kaza - Kibber Village - Chicham Bridge - Kunzum Pass - Chandratal (100 Km)",
+     "description": "Today morning after breakfast drive to Chandratal on the way visit first \"Kibber Village\" after that \"Chichim Bridge\" afte that drive to \"Kunzum Pass\" Kunzam Pass (15,060 ft.) 78 km from Kaza. One of the highest motorable passes across the Kunzam range. Full day enjoy the sightseeing evening time drive to Chandratal Camp and overnight stay at Camp.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 8,
+     "title": "CHANDRATAL - batal - atal tunnel - manali (130 KM)",
+     "description": "Today morning After breakfast check out from camp and enjoy \"Chandratal Lake View\"and precede your journey to Manali. It will be a journey of 8 Hrs to 9 Hrs. This day we will cover the sight seen of Batal and Atal Tunnel on the way back to Manali. In the evening on arrival in Manali proceed with your check inn at hotel followed by dinner and overnight stay.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 9,
+     "title": "Manali Local Sightseen",
+     "description": "Today morning after breakfast drive to visit local place like Hadimba Mata Temple, Vashisht Temple, Club House and Mall Road full day enjoy the sightseeing evening time back to hotel and overnight stay at Manali hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 10,
+     "title": "Manali Local Sightseen",
+     "description": "Today morning check out from the Hotel and proceed with your further journey to Chandigarh. On arrival in Chandigarh take a transfer to the desired railway station or airport for your onward journey as per schedule.",
+     "meals": [
+      "Breakfast"
+     ]
+    }
+   ],
+   "inclusions": [
+    "Welcome drink on arrival (Non Alcoholic i.e. Tea etc…)",
+    "MAP Meal Plan:- 09 Breakfast and 09 Dinner.",
+    "Ertiga 10 Days Chandigarh, Narkanda, Sarahan, Sangla, Chitkul, Kalpa, Nako, Tabo, Dhankar, Kaza, Chandigarh.",
+    "Inclusive the Taxes (Parking, Toll Tax, Luxury Tax, Green Tax, Fuel Exp. and Driver Exp."
+   ],
+   "exclusions": [
+    "Any personal expensive – laundry, shopping, tip etc.",
+    "Any adventure activity skiing ,paragliding ,River Rafting etc.",
+    "Meal other than specified.",
+    "A/C Not working in hill area",
+    "Heater charges will be extra",
+    "Gala Dinner",
+    "Anything not specifically mentioned under inclusions."
+   ],
+   "notes": [
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "*Hotel Option:",
+      "1)Sarahan:- Hotel Snow View or Similar",
+      "2)Sangla:- Hotel Rock View or Similar",
+      "3)Kalpa:- Hotel Aucktong or Similar",
+      "4)Tabo:- Hotel Maitreya Regency or Similar Kaza:-",
+      "5)Hotel Serkhang or Similar",
+      "6)Chandratal:- Camp Stay or Similar",
+      "7)Manali:- Hotel Nirvana Premium or Similar"
+     ]
+    },
+    {
+     "heading": "Rohtang pass visit Instruction",
+     "lines": [
+      "National Green Tribunal (NGT) has implemented few restrictions & instructions for every traveller visiting Rohtang Pass which are as follows",
+      "The Number of vehicles to Rohtang pass restricted to 1200 per day, out of which is only 800 petrol taxis & 400 diesel taxis will be allowed due to restriction. Guest might have wait in stand by slot.",
+      "Rohtang pass cost not include in package. Guest themselves must pay the directly.",
+      "Visit at Rohtang pass can be on individual or sharing basis."
+     ]
+    },
+    {
+     "heading": "Car Package Note",
+     "lines": [
+      "Above Car package for 6 days if car journey days are increase extra cost will be charge",
+      "Pickup from Delhi Railway station, Airport & Bus Stand 4000/- extra for sedan Car cost",
+      "Extra person - Extra Person accommodation cost (Extra bed)",
+      "Manikaran Visit 2500 extra for sedan Car",
+      "Atal Tunnel & Sissu Visit cost Rs. 3,000 extra for sedan car.",
+      "Sghtseen as per itinerary."
+     ]
+    },
+    {
+     "heading": "Booking Instructions",
+     "lines": [
+      "<div class=\"small-border\" style=\"box-sizing: border-box; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-stretch: inherit; font-size: 12.48px; line-height: inherit; font-family: Lato, Arial, Helvetica, sans-serif; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: in"
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/himachal/Spiti-Valley-9N-and-10D/145"
+  },
+  {
+   "slug": "kashmir-7-nights-8-days",
+   "title": "Kashmir 7 Nights & 8 Days",
+   "destination": "kashmir",
+   "region": "domestic",
+   "durationNights": 7,
+   "durationDays": 8,
+   "themes": [],
+   "price": null,
+   "priceNote": null,
+   "image": "https://www.s2holidays.com/upload/no-img.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival Srinagar",
+     "description": "Arrive to Srinagar meet and Greet on Arrival. Our representative will meet you to pick you up and transfer to Hotel. Complete day free leisure in the evening. Overnight stay at Hotel.",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Srinagar - Sonmarg - Srinagar",
+     "description": "Morning breakfast and proceed to the Hotel for a full day tour of Sonamarg (Meadows of Gold), it has sheer scenic splendour. The very way-a Ametalled road snakes through massive mountains laden with forests and firs. After a breath-taking journey from Srinagar you come across River Sindh that is abounded with trout & Mahseer. Onwards the valley opens up to a meadow. Ponies can be hired for a trip up to Thajiwas glacier ; a major attraction during the summer months.\nSonamarg's importance lies in the fact that it is the last halt on the Kashmir side for the drive from Srinagar to Leh. You will be fascinated to see Snowy Mountains Magar a cerulean sky against its backdrop. Return to Srinagar for overnight stay at Hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Srinagar - Doodhpathri - Srinagar",
+     "description": "Doodhpathri Valley of milk, located in Budgam district, lies in a bowl shaped valley in Pir Panjal Range. It’s an alpine valley covered with snow-clad mountains. After some quiet and peaceful time at Doodhpathri, be back to Srinagar for overnight stay at the hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Srinagar -Gulmarg",
+     "description": "After breakfast check out from the Hotel & proceed to Gulmarg . On arrival in Gulmarg check-in Hotel .Gulmarg is also known as “Meadow Of Flowers “ & has a famous Golf course during summer (which is one if the highest 18-holes golf courses in the world) & Ski Resort during winter.One can have a gondola (cable car) ride from Gulmarg to Khilanmarg(own cost) to have a real view of the natural beauty of the summer and full snow view in winter. You can have a pony ride in the open fields to seven springs (own cost) and to a lake, which remains frozen until June. After free drive , Overnight stay in Gulmarg.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 5,
+     "title": "Gulmarg To Pahalgam",
+     "description": "After breakfast check –out from the hotel & proceed to pahalgam”VILLAGE OF SHEPHERDS “ enroute visiting the world famous Saffron growing fields , Awantipura ruins (9th century ) & Martand Temple (sun temple). Pahalgam is famous for the Indian film industry, some trekking routes & also base camp for Amarnath pilgrimage. Dinner & overnight stay in Pahalgam hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 6,
+     "title": "PAHALGAM sightseen",
+     "description": "After breakfast checkout from hotel,and proceed to pahalgam sightseen. We can go to chandanwari, Betab valley & Aru (own cost) has a fine Meadows of Picturesque scenery & starting point of trekking of (Liddarwat , Kolahoi Glacier , Tarsar Lake). After Sightseen, proceed to Srinagar , overnight stay at Srinagar hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 7,
+     "title": "SRINAGAR sightseen",
+     "description": "Morning after breakfast Srinagar Sightseen of famous mughal gardens visiting Nishat ( the garden of pleasure) and shalimar Bagh (abode of love) Cheshma Shahi ,Shankaracharya Temple in the evening enjoy shikara Ride on Dal Lake the beauty that god has graced this city which is often compared to venice. You will get a view of some very interesting places around the lake overnight stay at Srinagar Hotel. Breakfast | Dinner |",
+     "meals": []
+    },
+    {
+     "day": 8,
+     "title": "Departure To Srinagar Airport",
+     "description": "After breakfast check out from hotel & Proceed to Srinagar airport to board the flight for onward destination. Breakfast",
+     "meals": []
+    }
+   ],
+   "inclusions": [
+    "Accommodation as per itinerary.",
+    "Hotel stay 7 nights.",
+    "Meals as per itinerary.",
+    "Pickup & Drop and sightseeing by car.",
+    "Driver D.A., Fuel,Toll & Parking Charges Included."
+   ],
+   "exclusions": [
+    "Expenses of Personal nature such as tips, laundry, telephone",
+    "Services of a Guide / Entrance fee / Hotel Lunch at any place of Visit",
+    "Any other services not in the program",
+    "Air fare / Train fare",
+    "Personal expenses",
+    "Aru valley + Betaab Valley + Chandanari Cab",
+    "In case of heavy snow u need to hire chain cab from Tangmarg to reach Gulmarg",
+    "Zero point",
+    "Anything not specifically mentioned under inclusions."
+   ],
+   "notes": [
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "[I] Hotel Option 1:",
+      "1.Srinagar - Hotel Golden Leaf or similar",
+      "2.Gulmarg - Hotel Zahgeer Continental or simiar",
+      "3.Pahalgam - Sun N Shades or Similar",
+      "[II] Hotel Option 2:",
+      "1.Srinagar - Adlife Luxury / Royal Batoo or similar",
+      "2.Gulmarg - Khaleel Palace/ Mama Palace / Similar",
+      "3.Pahalgam - Sun N Shades / Fifth Season / Grand Akbar or Similar",
+      "[III] Hotel Option 3:",
+      "1.Srinagar - The Grand Kaisar / The Dewan By Royal Naqash or similar",
+      "2.Gulmarg - Hotel Green park or similar",
+      "3.Pahalgam - Pinespring or Similar"
+     ]
+    },
+    {
+     "heading": "Booking Instructions",
+     "lines": [
+      "50%Payment Advance at the time of booking",
+      "50% Payment at time of Journey."
+     ]
+    },
+    {
+     "heading": "Important Notes",
+     "lines": [
+      "All rates are Net & non-commissionable to you.",
+      "Rates are subject to change, without any prior notice.",
+      "Cancellation & other policies as per the hotel/company rule.",
+      "No cancellation & any refund will be made at any cost in case of bad weather or land slide which is beyond the control of the travel agent/hotel.",
+      "Above policy may vary during peak season and any changes will be communicated prior to confirmation.",
+      "No refund will be made for any unused accommodation, missed meals, transportation segments, sightseeing tours or any other service due to Bad weather, ill health, Strike, Road Blocks or any other factor beyond our Control. Such unused items are neither refundable nor exchangeable.",
+      "Package can be altered/change as per the customer’s requirement/ interest if possible (subject to availability)",
+      "Check out time of the hotel mentioned is 12:00 hrs. Check in time is 12:00 noon. (Early check in is subject to availability)",
+      "We may reschedule the sightseeing days’ subject to weather conditions & to ensure smooth execution of tours.",
+      "We shall not be responsible for any cancellation of cabs or buses due to bad weather & are not liable for it.",
+      "Though Himachal have been witnessing a huge tourist growth but the facilities available cannot be matched to those available in the Cities and other developed destination.",
+      "In Himachal, the facilities of Hotel, Services, and Aids etc cannot be matched to developed destinations. Hotels in Himachal are categorized on the basis of location, Services and costing and not as per Star Categorization i.e.;1*, 2*,3* and soon.",
+      "Verbal Commitments are not applicable"
+     ]
+    },
+    {
+     "heading": "Amendment/ Cancellation",
+     "lines": [
+      "<div class=\"small-border\" style=\"box-sizing: border-box; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-stretch: inherit; font-size: 12.48px; line-height: inherit; font-family: Lato, Arial, Helvetica, sans-"
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/kashmir/Kashmir--7-Nights-and-8-Days/151"
+  },
+  {
+   "slug": "kashmir-4-nights-5-days",
+   "title": "Kashmir 4 Nights & 5 Days",
+   "destination": "kashmir",
+   "region": "domestic",
+   "durationNights": 4,
+   "durationDays": 5,
+   "themes": [],
+   "price": null,
+   "priceNote": null,
+   "image": "https://www.s2holidays.com/upload/no-img.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival Srinagar Airport",
+     "description": "On arrival at Srinagar airport. Our representative will meet you to pick you up and transfer you to your hotel. Welcome to Srinagar, the Lake City. Being your tour of 'Exotic Kashmir.After rest leave for sightseeing tour of Mughal Gardens visiting Cheshmashahi (the royal spring ),Nishat (the garden of pleasure ) ,Shalimar (the abode of love) ,famous Shankaracharya temple, Dargah Hazratbal Shrine. Dinner & overnight in the Hotel.",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Srinagar - Sonmarg - Srinagar",
+     "description": "Morning breakfast and proceed to the Hotel for a full day tour of Sonamarg (Meadows of Gold), it has sheer scenic splendour. The very way-a Ametalled road snakes through massive mountains laden with forests and firs. After a breath-taking journey from Srinagar you come across River Sindh that is abounded with trout & Mahseer. Onwards the valley opens up to a meadow. Ponies can be hired for a trip up to Thajiwas glacier ; a major attraction during the summer months. Sonamarg's importance lies in the fact that it is the last halt on the Kashmir side for the drive from Srinagar to Leh. You will be fascinated to see Snowy Mountains Magar a cerulean sky against its backdrop. Return to Srinagar for overnight stay at Hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "SRINAGAR - doodhpathri - SRINAGAR",
+     "description": "Doodhpathri Valley of milk, located in Budgam district, lies in a bowl shaped valley in Pir Panjal Range. It’s an alpine valley covered with snow-clad mountains. After some quiet and peaceful time at Doodhpathri , be back to Srinagar for overnight stay at the hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "SRINAGAR - gulmarg - srinagar",
+     "description": "After breakfast check out from the Hotel & proceed to Gulmarg . On arrival in Gulmarg check-in Hotel .Gulmarg is also known as “Meadow Of Flowers “ & has a famous Golf course during summer (which is one if the highest 18-holes golf courses in the world) & Ski Resort during winter.One can have a gondola (cable car) ride from Gulmarg to Khilanmarg(own cost) to have a real view of the natural beauty of the summer and full snow view in winter. You can have a pony ride in the open fields to seven springs (own cost) and to a lake, which remains frozen until June. After free drive back to Srinagar and overnight in Srinagar.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 5,
+     "title": "Departure To Srinagar Airport",
+     "description": "After breakfast, check out from the hotel & proceed to srinagar airport to board the flight for onward destination.",
+     "meals": [
+      "Breakfast"
+     ]
+    }
+   ],
+   "inclusions": [
+    "Accommodation as per itinerary",
+    "Hotel stay 4 nights.",
+    "Meals as per itinerary.",
+    "Pickup & Drop and sightseeing by car.",
+    "Driver D.A., Fuel,Toll & Parking Charges Included."
+   ],
+   "exclusions": [
+    "Expenses of Personal nature such as tips, laundry, telephone",
+    "Services of a Guide / Entrance fee / Hotel Lunch at any place of Visit",
+    "Any other services not in the program",
+    "Air fare / Train fare",
+    "Personal expenses",
+    "Aru valley + Betaab Valley + Chandanari Cab",
+    "In case of heavy snow u need to hire chain cab from Tangmarg to reach Gulmarg",
+    "Zero point",
+    "Anything not specifically mentioned under inclusions."
+   ],
+   "notes": [
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "[I] Hotel Option 1: Srinagar - Hotel Golden Leaf or similar",
+      "[II] Hotel Option 2: Srinagar - Adlife Luxury/Royal Batoo or similar",
+      "[III] Hotel Option 3: Srinagar - The Grand Kaisar or The Dewan By Royal Naqash or similar"
+     ]
+    },
+    {
+     "heading": "Booking Instructions",
+     "lines": [
+      "50%Payment Advance at the time of booking",
+      "50% Payment at time of Journey."
+     ]
+    },
+    {
+     "heading": "Important Notes",
+     "lines": [
+      "All rates are Net & non-commissionable to you.",
+      "Rates are subject to change, without any prior notice.",
+      "Cancellation & other policies as per the hotel/company rule.",
+      "No cancellation & any refund will be made at any cost in case of bad weather or land slide which is beyond the control of the travel agent/hotel.",
+      "Above policy may vary during peak season and any changes will be communicated prior to confirmation.",
+      "No refund will be made for any unused accommodation, missed meals, transportation segments, sightseeing tours or any other service due to Bad weather, ill health, Strike, Road Blocks or any other factor beyond our Control. Such unused items are neither refundable nor exchangeable.",
+      "Package can be altered/change as per the customer’s requirement/ interest if possible (subject to availability)",
+      "Check out time of the hotel mentioned is 12:00 hrs. Check in time is 12:00 noon. (Early check in is subject to availability)",
+      "We may reschedule the sightseeing days’ subject to weather conditions & to ensure smooth execution of tours.",
+      "We shall not be responsible for any cancellation of cabs or buses due to bad weather & are not liable for it.",
+      "Though Himachal have been witnessing a huge tourist growth but the facilities available cannot be matched to those available in the Cities and other developed destination.",
+      "In Himachal, the facilities of Hotel, Services, and Aids etc cannot be matched to developed destinations. Hotels in Himachal are categorized on the basis of location, Services and costing and not as per Star Categorization i.e.;1*, 2*,3* and soon.",
+      "Verbal Commitments are not applicable"
+     ]
+    },
+    {
+     "heading": "Amendment/ Cancellation",
+     "lines": [
+      "<div class=\"small-border\" style=\"box-sizing: border-box; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-stretch: inherit; font-size: 12.48px; line-height: inherit; font-family: Lato, Arial, Helvetica, sans-"
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/kashmir/Kashmir-4-Nights-and-5-Days/153"
+  },
+  {
+   "slug": "kashmir-5-nights-6-days",
+   "title": "Kashmir 5 Nights & 6 Days",
+   "destination": "kashmir",
+   "region": "domestic",
+   "durationNights": 5,
+   "durationDays": 6,
+   "themes": [],
+   "price": null,
+   "priceNote": null,
+   "image": "https://www.s2holidays.com/upload/products/cbc25747-b9b3-4a80-969f-9804d41a8784.jpg20230426220442.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival Srinagar Airport",
+     "description": "On arrival at Srinagar airport. Our representative will meet you to pick you up and transfer you to your hotel. Welcome to Srinagar, the Lake City. Being your tour of 'Exotic Kashmir.After rest leave for sightseeing tour of Mughal Gardens visiting Cheshmashahi (the royal spring ),Nishat (the garden of pleasure ) ,Shalimar (the abode of love) ,famous Shankaracharya temple, Dargah Hazratbal Shrine. Dinner & overnight in the Hotel.",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Srinagar - Sonmarg - Srinagar",
+     "description": "Morning breakfast and proceed to the Hotel for a full day tour of Sonamarg (Meadows of Gold), it has sheer scenic splendour. The very way-a Ametalled road snakes through massive mountains laden with forests and firs. After a breath-taking journey from Srinagar you come across River Sindh that is abounded with trout & Mahseer. Onwards the valley opens up to a meadow. Ponies can be hired for a trip up to Thajiwas glacier ; a major attraction during the summer months. Sonamarg's importance lies in the fact that it is the last halt on the Kashmir side for the drive from Srinagar to Leh. You will be fascinated to see Snowy Mountains Magar a cerulean sky against its backdrop. Return to Srinagar for overnight stay at Hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Srinagar - Gulmarg - Srinagar",
+     "description": "After breakfast check out from the Hotel & proceed to Gulmarg . On arrival in Gulmarg check-in Hotel .Gulmarg is also known as “Meadow Of Flowers “ & has a famous Golf course during summer (which is one if the highest 18-holes golf courses in the world) & Ski Resort during winter.One can have a gondola (cable car) ride from Gulmarg to Khilanmarg(own cost) to have a real view of the natural beauty of the summer and full snow view in winter. You can have a pony ride in the open fields to seven springs (own cost) and to a lake, which remains frozen until June. After free drive back to Srinagar and overnight in Srinagar.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Srinagar - Pahalgam",
+     "description": "After breakfast check –out from the hotel & proceed to pahalgam”VILLAGE OF SHEPHERDS “ enroute visiting the world famous Saffron growing fields , Awantipura ruins (9th century ) & Martand Temple (sun temple). Pahalgam is famous for the Indian film industry, some trekking routes & also base camp for Amarnath pilgrimage. Dinner & overnight in a hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 5,
+     "title": "Pahalgam Full Day To Srinagar",
+     "description": "After breakfast FULL DAY TO ENJOY & EXPLORE THE BEAUTY OF PAHALGAM.\nOne can go to chandanwari, Betab valley & Aru (own cost) has a fine Meadows of Picturesque scenery & starting point of trekking of (Liddarwat , Kolahoi Glacier , Tarsar Lake). Return to Srinagar , Dinner & overnight stay at houseboat.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 6,
+     "title": "Departure To Srinagar Airport",
+     "description": "After breakfast check out from the house boat & Proceed to Srinagar airport to board the flight for onward destination.",
+     "meals": [
+      "Breakfast"
+     ]
+    }
+   ],
+   "inclusions": [
+    "Accommodation as per itinerary",
+    "Hotel stay 4 nights.",
+    "Housboat stay 1 night.",
+    "Meals as per itinerary.",
+    "Pickup & Drop and sightseeing by car.",
+    "Driver D.A., Fuel,Toll & Parking Charges Included."
+   ],
+   "exclusions": [
+    "Expenses of Personal nature such as tips, laundry, telephone",
+    "Services of a Guide / Entrance fee / Hotel Lunch at any place of Visit",
+    "Any other services not in the program",
+    "Air fare / Train fare",
+    "Personal expenses",
+    "Aru valley + Betaab Valley + Chandanari Cab",
+    "In case of heavy snow u need to hire chain cab from Tangmarg to reach Gulmarg",
+    "Zero point",
+    "Anything not specifically mentioned under inclusions."
+   ],
+   "notes": [
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "[I] Hotel Option 1:",
+      "1.Srinagar - Hotel Golden Leaf or similar",
+      "2.Pahalgam - Sun N Shades or Similar",
+      "3.Srinagar - Akbar Group of Housboats or similar",
+      "[II] Hotel Option 2:",
+      "1.Srinagar - Adlife Luxury/Royal Batoo or similar",
+      "2.Pahalgam - Sun N Shades / Fifth Season / Grand Akbar or Similar",
+      "3.Srinagar - Akbar Heritahe Housboats or similar",
+      "[III] Hotel Option 3:",
+      "1.Srinagar - The Grand Kaisar or similar",
+      "2.Pahalgam - Pinespring or Similar",
+      "3.Srinagar - Inshallah Hoseboat or similar"
+     ]
+    },
+    {
+     "heading": "Booking Instructions",
+     "lines": [
+      "50%Payment Advance at the time of booking",
+      "50% Payment at time of Journey."
+     ]
+    },
+    {
+     "heading": "Important Notes",
+     "lines": [
+      "All rates are Net & non-commissionable to you.",
+      "Rates are subject to change, without any prior notice.",
+      "Cancellation & other policies as per the hotel/company rule.",
+      "No cancellation & any refund will be made at any cost in case of bad weather or land slide which is beyond the control of the travel agent/hotel.",
+      "Above policy may vary during peak season and any changes will be communicated prior to confirmation.",
+      "No refund will be made for any unused accommodation, missed meals, transportation segments, sightseeing tours or any other service due to Bad weather, ill health, Strike, Road Blocks or any other factor beyond our Control. Such unused items are neither refundable nor exchangeable.",
+      "Package can be altered/change as per the customer’s requirement/ interest if possible (subject to availability)",
+      "Check out time of the hotel mentioned is 12:00 hrs. Check in time is 12:00 noon. (Early check in is subject to availability)",
+      "We may reschedule the sightseeing days’ subject to weather conditions & to ensure smooth execution of tours.",
+      "We shall not be responsible for any cancellation of cabs or buses due to bad weather & are not liable for it.",
+      "Though Himachal have been witnessing a huge tourist growth but the facilities available cannot be matched to those available in the Cities and other developed destination.",
+      "In Himachal, the facilities of Hotel, Services, and Aids etc cannot be matched to developed destinations. Hotels in Himachal are categorized on the basis of location, Services and costing and not as per Star Categorization i.e.;1*, 2*,3* and soon.",
+      "Verbal Commitments are not applicable"
+     ]
+    },
+    {
+     "heading": "Amendment/ Cancellation",
+     "lines": [
+      "<div class=\"small-border\" style=\"box-sizing: border-box; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-stretch: inherit; font-size: 12.48px; line-height: inherit; font-family: Lato, Arial, Helvetica, sans-"
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/kashmir/Kashmir-5-Nights-and-6-Days/149"
+  },
+  {
+   "slug": "kashmir-6-nights-7-days",
+   "title": "Kashmir 6 Nights & 7 Days",
+   "destination": "kashmir",
+   "region": "domestic",
+   "durationNights": 6,
+   "durationDays": 7,
+   "themes": [],
+   "price": null,
+   "priceNote": null,
+   "image": "https://www.s2holidays.com/upload/products/Kashmir 6n & 7d.jpg20230426220438.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival Srinagar Airport",
+     "description": "On arrival at Srinagar airport. Our representative will meet you to pick you up and transfer you to your hotel. Welcome to Srinagar, the Lake City. Being your tour of 'Exotic Kashmir.After rest leave for sightseeing tour of Mughal Gardens visiting Cheshmashahi (the royal spring ),Nishat (the garden of pleasure ) ,Shalimar (the abode of love) ,famous Shankaracharya temple, Dargah Hazratbal Shrine. Dinner & overnight in the Hotel.",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Srinagar - Sonmarg - Srinagar",
+     "description": "Morning breakfast and proceed to the Hotel for a full day tour of Sonamarg (Meadows of Gold), it has sheer scenic splendour. The very way-a Ametalled road snakes through massive mountains laden with forests and firs. After a breath-taking journey from Srinagar you come across River Sindh that is abounded with trout & Mahseer. Onwards the valley opens up to a meadow. Ponies can be hired for a trip up to Thajiwas glacier ; a major attraction during the summer months.\nSonamarg's importance lies in the fact that it is the last halt on the Kashmir side for the drive from Srinagar to Leh. You will be fascinated to see Snowy Mountains Magar a cerulean sky against its backdrop. Return to Srinagar for overnight stay at Hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Srinagar - Doodhpathri - Srinagar",
+     "description": "Doodhpathri Valley of milk, located in Budgam district, lies in a bowl shaped valley in Pir Panjal Range. It’s an alpine valley covered with snow-clad mountains. After some quiet and peaceful time at Doodhpathri, be back to Srinagar for overnight stay at the hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Srinagar -Gulmarg",
+     "description": "After breakfast check out from the Hotel & proceed to Gulmarg . On arrival in Gulmarg check-in Hotel .Gulmarg is also known as “Meadow Of Flowers “ & has a famous Golf course during summer (which is one if the highest 18-holes golf courses in the world) & Ski Resort during winter.One can have a gondola (cable car) ride from Gulmarg to Khilanmarg(own cost) to have a real view of the natural beauty of the summer and full snow view in winter. You can have a pony ride in the open fields to seven springs (own cost) and to a lake, which remains frozen until June. After free drive , Overnight stay in Gulmarg.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 5,
+     "title": "Gulmarg To Pahalgam",
+     "description": "After breakfast check –out from the hotel & proceed to pahalgam”VILLAGE OF SHEPHERDS “ enroute visiting the world famous Saffron growing fields , Awantipura ruins (9th century ) & Martand Temple (sun temple). Pahalgam is famous for the Indian film industry, some trekking routes & also base camp for Amarnath pilgrimage. Dinner & overnight in a hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 6,
+     "title": "Pahalgam Full Dy Srinagar",
+     "description": "After breakfast FULL DAY TO ENJOY & EXPLORE THE BEAUTY OF PAHALGAM.\nOne can go to chandanwari, Betab valley & Aru (own cost) has a fine Meadows of Picturesque scenery & starting point of trekking of (Liddarwat , Kolahoi Glacier , Tarsar Lake).Return to Srinagar, Dinner & overnight at hotel or houseboat.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 7,
+     "title": "Departureto Srinagar Airport",
+     "description": "After breakfast check out from hotel & Proceed to Srinagar airport to board the flight for onward destination. Breakfast",
+     "meals": []
+    }
+   ],
+   "inclusions": [
+    "Accommodation as per itinerary.",
+    "Hotel stay 5 nights.",
+    "Housboat stay 1 night.",
+    "Meals as per itinerary.",
+    "Pickup & Drop and sightseeing by car.",
+    "Driver D.A., Fuel,Toll & Parking Charges Included."
+   ],
+   "exclusions": [
+    "Expenses of Personal nature such as tips, laundry, telephone",
+    "Services of a Guide / Entrance fee / Hotel Lunch at any place of Visit",
+    "Any other services not in the program",
+    "Air fare / Train fare",
+    "Personal expenses",
+    "Aru valley + Betaab Valley + Chandanari Cab",
+    "In case of heavy snow u need to hire chain cab from Tangmarg to reach Gulmarg",
+    "Zero point",
+    "Anything not specifically mentioned under inclusions."
+   ],
+   "notes": [
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "[I] Hotel Option 1:",
+      "1.Srinagar - Hotel Golden Leaf or similar",
+      "2.Gulmarg - Hotel Zahgeer Continental or simiar",
+      "2.Pahalgam - Sun N Shades or Similar",
+      "3.Srinagar - Akbar Group of Housboats or similar",
+      "[II] Hotel Option 2:",
+      "1.Srinagar - Adlife Luxury/Royal Batoo or similar",
+      "2.Gulmarg - Khaleel Palace/ Mama Palace / Similar",
+      "3.Pahalgam - Sun N Shades / Fifth Season / Grand Akbar or Similar",
+      "4.Srinagar - Akbar Heritahe Housboats or similar",
+      "[III] Hotel Option 3:",
+      "1.Srinagar - The Grand Kaisar or similar",
+      "2.Gulmarg - Hotel Green park or similar",
+      "3.Pahalgam - Pinespring or Similar",
+      "3.Srinagar - Inshallah Hoseboat or similar"
+     ]
+    },
+    {
+     "heading": "Booking Instructions",
+     "lines": [
+      "50%Payment Advance at the time of booking",
+      "50% Payment at time of Journey."
+     ]
+    },
+    {
+     "heading": "Important Notes",
+     "lines": [
+      "All rates are Net & non-commissionable to you.",
+      "Rates are subject to change, without any prior notice.",
+      "Cancellation & other policies as per the hotel/company rule.",
+      "No cancellation & any refund will be made at any cost in case of bad weather or land slide which is beyond the control of the travel agent/hotel.",
+      "Above policy may vary during peak season and any changes will be communicated prior to confirmation.",
+      "No refund will be made for any unused accommodation, missed meals, transportation segments, sightseeing tours or any other service due to Bad weather, ill health, Strike, Road Blocks or any other factor beyond our Control. Such unused items are neither refundable nor exchangeable.",
+      "Package can be altered/change as per the customer’s requirement/ interest if possible (subject to availability)",
+      "Check out time of the hotel mentioned is 12:00 hrs. Check in time is 12:00 noon. (Early check in is subject to availability)",
+      "We may reschedule the sightseeing days’ subject to weather conditions & to ensure smooth execution of tours.",
+      "We shall not be responsible for any cancellation of cabs or buses due to bad weather & are not liable for it.",
+      "Though Himachal have been witnessing a huge tourist growth but the facilities available cannot be matched to those available in the Cities and other developed destination.",
+      "In Himachal, the facilities of Hotel, Services, and Aids etc cannot be matched to developed destinations. Hotels in Himachal are categorized on the basis of location, Services and costing and not as per Star Categorization i.e.;1*, 2*,3* and soon.",
+      "Verbal Commitments are not applicable"
+     ]
+    },
+    {
+     "heading": "Amendment/ Cancellation",
+     "lines": [
+      "<div class=\"small-border\" style=\"box-sizing: border-box; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-stretch: inherit; font-size: 12.48px; line-height: inherit; font-family: Lato, Arial, Helvetica, sans-"
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/kashmir/Kashmir-6-Nights-and-7-Days/150"
+  },
+  {
+   "slug": "kashmir-9-nights-10-days",
+   "title": "Kashmir 9 Nights & 10 Days",
+   "destination": "kashmir",
+   "region": "domestic",
+   "durationNights": 9,
+   "durationDays": 10,
+   "themes": [],
+   "price": null,
+   "priceNote": null,
+   "image": "https://www.s2holidays.com/upload/no-img.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "mumbai to SRINAGAR Arrive",
+     "description": "Arrive to Srinagar meet and Greet on Arrival and transfer to Houseboat. Overnight stay at Houseboat.",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 2,
+     "title": "SRINAGAR sightseen",
+     "description": "This morning after breakfast Srinagar Sightseen of famous mughal gardens visiting Nishat ( the garden of pleasure) and shalimar Bagh (abode of love) Cheshma Shahi ,Shankaracharya Temple in the evening enjoy shikara Ride on Dal Lake the beauty that god has graced this city which is often compared to venice. You will get a view of some very intresting places around the lake overnight stay at Hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "SRINAGAR - sonmarg sightseen - SRINAGAR",
+     "description": "This Morining after Breakfast, One can ride on horse to visit to Thajiwas Glaciers were snow remains round the year and sonmarg is known as gateway of ladakh. In the evening local sightseening and overnight stay in hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Srinagar - Gulmarg",
+     "description": "Checkout from Srinagar hotel, Morning after early breakfast drive to Gulmarg the meadows of flowers 2730 mtrs , above sea level. The distance of 60 kms will be covered in 2 hours it has delightfull ski slopes and the highest 18 hole golf course of the world. If wheather permits ,u can also have view of Nanga Parbat.The view enrote from Tangmarg to Gulmarg is magnificent. One can enjoy Gondola ride you can also take an sledge ride on the snow covered slopes. Evening back to Gulmarg, Overnight stay in hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 5,
+     "title": "Gulmarg - Pahagam",
+     "description": "Checkout from Gulmarg hotel, Morning after breakfast drive to Pahalgam, the valley of shepherds. Drive through saffron fields , visit Awantipura ruins of a 1100 years old lord Vishnu built of king awantiwareman . Drive through the pine forest and along lidder river. The total distance of 96 kms will be covered in about 3 hours. One can enjoy horse riding Pahalgam is the most famous place for Indian film industry. In the evening local sightseening and overnight stay in hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 6,
+     "title": ".",
+     "description": "pahalgam sightseen & nightstay\nThis morning after breakfast sightseen in pahalgam. Pahalgam the valley of shepherds and the most famous place for Indian film industry.One can visit Amusement park Aru, Betab valley and ChandanVari & can enjoy horse riding in the evening local sightseen & Overnight stay in hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 7,
+     "title": "Pahalgam - Katra",
+     "description": "Morning after breakfast, checkout from Pahalgam Hotel, drop at Katra hotel. Complete Day Leisure , overnight stay at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 8,
+     "title": "Katra Mata Vaishnodevi Darshan - Amritsar",
+     "description": "Early morning after breakfast, proceed for “Mata Vaishnodevi\" Darshan.Onward to Bhawan by foot or Ponies (to be arranged directly) OR by Chopper. After Darshan, on the way further , move to Amritsar, Evening time reach at Amritsar and overnight stay at the hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 9,
+     "title": "Amritsar Sightseen",
+     "description": "After Breakfast, Morning Get refreshen-up & Visit to the golden temple, jalian wala bagh & by evening visit to Wagha Border after sightseen return to hotel overnight stay at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 10,
+     "title": "Departure To Amritsar Airport",
+     "description": "Morning after breakfast , Explore Amritsar market area & At evening, drop at Amritsar airport or Railway station.",
+     "meals": [
+      "Breakfast"
+     ]
+    }
+   ],
+   "inclusions": [
+    "Accommodation as per itinerary",
+    "Hotel stay 8 nights",
+    "Houseboat stay 1 night.",
+    "Meals as per itinerary.",
+    "Pickup & Drop and sightseeing by car.",
+    "Driver D.A., Fuel,Toll & Parking Charges Included."
+   ],
+   "exclusions": [
+    "Expenses of Personal nature such as tips, laundry, telephone",
+    "Services of a Guide / Entrance fee / Hotel Lunch at any place of Visit",
+    "Any other services not in the program",
+    "Air fare / Train fare",
+    "Personal expenses",
+    "Aru valley + Betaab Valley + Chandanari Cab",
+    "In case of heavy snow u need to hire chain cab from Tangmarg to reach Gulmarg",
+    "Zero point",
+    "Anything not specifically mentioned under inclusions."
+   ],
+   "notes": [
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "[I] Hotel Option 1:",
+      "1.Srinagar - Akbar Group of Housboats or similar",
+      "2.Srinagar - Hotel Golden Leaf or similar",
+      "3.Gulmarg - Hotel Zahgeer Continental or simiar",
+      "4.Pahalgam - Sun N Shades or similar",
+      "5.Katra - Pushpa Villa or similar",
+      "6.Amritsar - Aman Residency or similar",
+      "[II] Hotel Option 2:",
+      "1.Srinagar - Akbar Heritahe Housboats or similar",
+      "2.Srinagar - Adlife Luxury/Royal Batoo or similar",
+      "3.Gulmarg - Khaleel Palace/ Mama Palace / Similar",
+      "4.Pahalgam - Sun N Shades / Fifth Season / Grand Akbar or Similar",
+      "5.Katra - Vaishnav devi heights or similar",
+      "6.Amritsar - Savera Grand or similar",
+      "[III] Hotel Option 3:",
+      "1.Srinagar - Inshallah Hoseboat / New Jacquline Heritage Houseboat or similar",
+      "2.Srinagar - The Grand Kaisar / The Dewan By Royal Naqash or similar",
+      "3.Gulmarg - Hotel Green park / Hill Top Group of Hotels or similar",
+      "4.Pahalgam - Pinespring / Hotel Chinar Resort or Similar",
+      "5.Katra - Hotel Rama Trident or similar",
+      "6.Amritsar - Fern Residency or similar"
+     ]
+    },
+    {
+     "heading": "Booking Instructions",
+     "lines": [
+      "50%Payment Advance at the time of booking",
+      "50% Payment at time of Journey."
+     ]
+    },
+    {
+     "heading": "Important Notes",
+     "lines": [
+      "All rates are Net & non-commissionable to you.",
+      "Rates are subject to change, without any prior notice.",
+      "Cancellation & other policies as per the hotel/company rule.",
+      "No cancellation & any refund will be made at any cost in case of bad weather or land slide which is beyond the control of the travel agent/hotel.",
+      "Above policy may vary during peak season and any changes will be communicated prior to confirmation.",
+      "No refund will be made for any unused accommodation, missed meals, transportation segments, sightseeing tours or any other service due to Bad weather, ill health, Strike, Road Blocks or any other factor beyond our Control. Such unused items are neither refundable nor exchangeable.",
+      "Package can be altered/change as per the customer’s requirement/ interest if possible (subject to availability)",
+      "Check out time of the hotel mentioned is 12:00 hrs. Check in time is 12:00 noon. (Early check in is subject to availability)",
+      "We may reschedule the sightseeing days’ subject to weather conditions & to ensure smooth execution of tours.",
+      "We shall not be responsible for any cancellation of cabs or buses due to bad weather & are not liable for it.",
+      "Though Himachal have been witnessing a huge tourist growth but the facilities available cannot be matched to those available in the Cities and other developed destination.",
+      "In Himachal, the facilities of Hotel, Services, and Aids etc cannot be matched to developed destinations. Hotels in Himachal are categorized on the basis of location, Services and costing and not as per Star Categorization i.e.;1*, 2*,3* and soon.",
+      "Verbal Commitments are not applicable"
+     ]
+    },
+    {
+     "heading": "Amendment/ Cancellation",
+     "lines": [
+      "<div class=\"small-border\" style=\"box-sizing: border-box; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-stretch: inherit; font-size: 12.48px; line-height: inherit; font-family: Lato, Arial, Helvetica, sans-"
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/kashmir/Kashmir-9-Nights-and-10-Days/154"
+  },
+  {
+   "slug": "kerala-6n-7d",
+   "title": "Kerala 6N & 7D",
+   "destination": "kerala",
+   "region": "domestic",
+   "durationNights": 6,
+   "durationDays": 7,
+   "themes": [],
+   "price": null,
+   "priceNote": null,
+   "image": "https://www.s2holidays.com/upload/no-img.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Cochin - Munnar (Aprox.126 Km)",
+     "description": "On arrival, meet our assistance at Cochin Airport or Railway Station anproceed to Munnar. On your way visit tea and spice plantations, Cheeyappara waterfalls, view point etc. Arrive Munnar and check in your hotel. Rest of the day free for your own activities. Overnight stay at hotel.",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Munnar Sightseeing",
+     "description": "After breakfast, proceed for Munnar full day Sightseeing–Anayirangal Dam, Mattupetty Dam, Echo point, Rajamalai–where we have ERAVIKULAM National Park, you could find NILGIRITHAR, an endangered species. Anamudi the highest peak in South Indiais situatedin the southern region of the park. Overnight at hotel in Munnar..",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Munnar - Thekkady (Aprox.110 Km)",
+     "description": "After breakfast, proceed to thekkady and check in to hotel & relax. Afternoon, proceed for sightseeing – The Periyar wildlife sanctuary is thick evergreen forest, declared a Tiger Reserve in1978.The splendid artificial lake formed by the Mullaperiyar Dam across the Periyar River adds to the charm of the park.\nYou can also do a thing in Thekkady like -Boat cruises on the Periyar Lake, visit cardamom, pepper, tea & coffee plantation. Overnight at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Thekkady - Alleppey (Aprox. 139 Km)",
+     "description": "After breakfast proceed to Alleppey, where you will be booked to stay overnight on the Hotel. While sailing down a maze of canals one sees different scenes from the villages, paddy fields, coconut palms, fisherman and local life. The cool breeze from the Lake make you sleep early in the night after anchoring in a fancy place. Overnight at Hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 5,
+     "title": "ALLEPPY - kovalam(APROX.160KM)",
+     "description": "After Breakfast, check out and Proceeding to Kovalam beach; the international beach destination of Kerala often called as the Paradise of South. Kovalam is extremely popular among westerners due to shallow waters and low tidal waves. It is also one of the oldest tourist enclaves in India, which known among tourist circuit right in 1930s. The larger of the beach and the most popular is called Lighthouse Beach. On arrival check in to the resort later spends time at the beach. Overnight stay at Hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 6,
+     "title": "kovalam - kanyakumari (APROX.100KM)",
+     "description": "After Breakfast proceed to Kanyakumari; The southernmost tip of Indian subcontinent also a fantastic tourist spot with the specialty as three major sea joints together there (Arabian Sea, Indian Ocean and Bay of Bengal). a holy place for Hindu Pilgrims too. Kanyakumari represents the site where the spiritual leader Swami Vivekananda spent days in meditation upon a rock off of the coast. on the way visit Suchindram temple then arrival & check-in to the hotel then Proceeding for Sightseeing visit Devi Kanyakumari Temple, Vivekananda rock Memorial temple, Kanyakumari Gandhi Mandapam, Kanyakumari beach and Kanyakumari Gandhi Mandapam (3 Oceans Joining) are some of the sightseeing attractions in Kanyakumari. Back to Hotel and Overnight stay.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 7,
+     "title": "kovalam - trivandrum (APROX.24KM)",
+     "description": "After breakfast proceed for sightseeing of Trivandrum; capital City of Kerala. Visit Padmanabhaswami Temple (Morning Darshan up to 12 pm, Evening 5 pm to 7.30pm) Then proceeding to Kuthiramalika palace, Sree Chithra Art Gallery, Napier Museum, Zoo, Planetarium (Closed on Mondays) Veli Tourist Village later Shangumugham beach. Etc Later Proceed to Trivandrum Airport /Railway station for your Departure Journey. End Of tour service Back to home with sweet & everlasting memories.",
+     "meals": [
+      "Breakfast"
+     ]
+    }
+   ],
+   "inclusions": [
+    "Accommodation as per itinerary",
+    "Hotel stay 6 nights.",
+    "Welcome Drink on Arrival",
+    "Meals as per itinerary.",
+    "Sightseeing by car.",
+    "Car fuel, permit, toll, parking & Driver allowance include in package."
+   ],
+   "exclusions": [
+    "Entry Fees to Monuments and Palaces.",
+    "Breakfast / Lunch / Dinner via going to Munnar.",
+    "Personal expense, laundry & driver or waiter tips etc",
+    "Sightseeing Visit Entry Cost.",
+    "Meal other than specification.",
+    "Ayurveda Charges.",
+    "Any additional Cost Arising Due To Natural Calamities like Landslides, Roadblocks, Etc.",
+    "All other Personal Expenses",
+    "Air Fare / Train Fare",
+    "Gala Dinner - festival time like Christmas,Diwali, 31 Dec etc.",
+    "Anything not specifically mentioned under inclusions."
+   ],
+   "notes": [
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "[I] Hotel Option 1:",
+      "1.Munnar - Whispering Meadows, Spices Jungle Resort or Similar",
+      "2.Thekkady - Jungle park resort or similar",
+      "3.Alleppy - Arcadia Regency Hotel / Kodai lip backwater heritage resort & Deluxe Houseboat stay or similar",
+      "4.Kovalam - Samudra thiram resort or similar.",
+      "[II] Hotel Option 2:",
+      "1.Munnar - Dew Drop,Spice Jungle or Similar",
+      "2.Thekkady - Jungle park resort or similar",
+      "3.Alleppy - Pagoda resort hotel / Deluxe Houseboat stay or similar",
+      "4.Kovalam - Poovar island resort or similar"
+     ]
+    },
+    {
+     "heading": "Booking Instructions",
+     "lines": [
+      "50%Payment Advance at the time of booking",
+      "50% Payment at time of Journey."
+     ]
+    },
+    {
+     "heading": "Important Notes",
+     "lines": [
+      "All rates are Net & non-commissionable to you.",
+      "Rates are subject to change, without any prior notice.",
+      "Cancellation & other policies as per the hotel/company rule.",
+      "No cancellation & any refund will be made at any cost in case of bad weather or land slide which is beyond the control of the travel agent/hotel.",
+      "Above policy may vary during peak season and any changes will be communicated prior to confirmation.",
+      "No refund will be made for any unused accommodation, missed meals, transportation segments, sightseeing tours or any other service due to Bad weather, ill health, Strike, Road Blocks or any other factor beyond our Control. Such unused items are neither refundable nor exchangeable.",
+      "Package can be altered/change as per the customer’s requirement/ interest if possible (subject to availability)",
+      "Check out time of the hotel mentioned is 12:00 hrs. Check in time is 12:00 noon. (Early check in is subject to availability)",
+      "We may reschedule the sightseeing days’ subject to weather conditions & to ensure smooth execution of tours.",
+      "We shall not be responsible for any cancellation of cabs or buses due to bad weather & are not liable for it.",
+      "Though Himachal have been witnessing a huge tourist growth but the facilities available cannot be matched to those available in the Cities and other developed destination.",
+      "In Himachal, the facilities of Hotel, Services, and Aids etc cannot be matched to developed destinations. Hotels in Himachal are categorized on the basis of location, Services and costing and not as per Star Categorization i.e.;1*, 2*,3* and soon.",
+      "Verbal Commitments are not applicable",
+      "<span style=\"box-sizing: border-box; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; -webkit-tap-highlight"
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/kerala/Kerala--6N-and-7D/148"
+  },
+  {
+   "slug": "kerala-4n-5d",
+   "title": "Kerala 4N & 5D",
+   "destination": "kerala",
+   "region": "domestic",
+   "durationNights": 4,
+   "durationDays": 5,
+   "themes": [],
+   "price": null,
+   "priceNote": null,
+   "image": "https://www.s2holidays.com/upload/products/kerala-tour-service-500x500-800x800.jpg20230419060423.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Cochin - Munnar (Aprox.126 Km)",
+     "description": "On arrival, meet our assistance at Cochin Airport or Railway Station anproceed to Munnar. On your way visit tea and spice plantations, Cheeyappara waterfalls, view point etc. Arrive Munnar and check in your hotel. Rest of the day free for your own activities. Overnight stay at hotel.",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Munnar Sightseeing",
+     "description": "After breakfast, proceed for Munnar full day Sightseeing–Anayirangal Dam, Mattupetty Dam, Echo point, Rajamalai–where we have ERAVIKULAM National Park, you could find NILGIRITHAR, an endangered species. Anamudi the highest peak in South Indiais situatedin the southern region of the park. Overnight at hotel in Munnar..",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Munnar - Thekkady (Aprox.110 Km)",
+     "description": "After breakfast, proceed to thekkady and check in to hotel & relax. Afternoon, proceed for sightseeing – The Periyar wildlife sanctuary is thick evergreen forest, declared a Tiger Reserve in1978.The splendid artificial lake formed by the Mullaperiyar Dam across the Periyar River adds to the charm of the park.\nYou can also do a thing in Thekkady like -Boat cruises on the Periyar Lake, visit cardamom, pepper, tea & coffee plantation. Overnight at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Thekkady - Alleppey (Aprox. 139 Km)",
+     "description": "After breakfast proceed to Alleppey, where you will be booked to stay overnight on the Hotel. While sailing down a maze of canals one sees different scenes from the villages, paddy fields, coconut palms, fisherman and local life. The cool breeze from the Lake make you sleep early in the night after anchoring in a fancy place. Overnight at Hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 5,
+     "title": "Alleppy - Cochin (Aprox.60Km)",
+     "description": "Morning After Breakfast, checkout from hotel and Proceeding to Cochin. Drop at Cochin Airport.",
+     "meals": [
+      "Breakfast"
+     ]
+    }
+   ],
+   "inclusions": [
+    "Accommodation as per itinerary",
+    "Hotel stay 4 nights.",
+    "Welcome Drink on Arrival",
+    "Meals as per itinerary.",
+    "All transfers and sightseeing by car.",
+    "Car fuel, permit, toll, parking & Driver allowance include in package."
+   ],
+   "exclusions": [
+    "Entry Fees to Monuments and Palaces.",
+    "Breakfast / Lunch / Dinner via going to Munnar.",
+    "Personal expense, laundry & driver or waiter tips etc",
+    "Sightseeing Visit Entry Cost.",
+    "Meal other than specification.",
+    "Ayurveda Charges.",
+    "Any additional Cost Arising Due To Natural Calamities like Landslides, Roadblocks, Etc.",
+    "All other Personal Expenses",
+    "Air Fare / Train Fare",
+    "Gala Dinner - festival time like Christmas,Diwali, 31 Dec etc.",
+    "Anything not specifically mentioned under inclusions."
+   ],
+   "notes": [
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "[I] Hotel Option 1:",
+      "1.Munnar - Whispering Meadows, Spices Jungle Resort or Similar",
+      "2.Thekkady - Jungle park resort or similar",
+      "3.Alleppy - Arcadia Regency or similar",
+      "[II] Hotel Option 2:",
+      "1.Munnar - Dew Drop,Spice Jungle or Similar",
+      "2.Thekkady - Jungle park resort or similar",
+      "3.Alleppy - Pagoda resort or similar"
+     ]
+    },
+    {
+     "heading": "Booking Instructions",
+     "lines": [
+      "50%Payment Advance at the time of booking",
+      "50% Payment at time of Journey."
+     ]
+    },
+    {
+     "heading": "Important Notes",
+     "lines": [
+      "All rates are Net & non-commissionable to you.",
+      "Rates are subject to change, without any prior notice.",
+      "Cancellation & other policies as per the hotel/company rule.",
+      "No cancellation & any refund will be made at any cost in case of bad weather or land slide which is beyond the control of the travel agent/hotel.",
+      "Above policy may vary during peak season and any changes will be communicated prior to confirmation.",
+      "No refund will be made for any unused accommodation, missed meals, transportation segments, sightseeing tours or any other service due to Bad weather, ill health, Strike, Road Blocks or any other factor beyond our Control. Such unused items are neither refundable nor exchangeable.",
+      "Package can be altered/change as per the customer’s requirement/ interest if possible (subject to availability)",
+      "Check out time of the hotel mentioned is 12:00 hrs. Check in time is 12:00 noon. (Early check in is subject to availability)",
+      "We may reschedule the sightseeing days’ subject to weather conditions & to ensure smooth execution of tours.",
+      "We shall not be responsible for any cancellation of cabs or buses due to bad weather & are not liable for it.",
+      "Though Himachal have been witnessing a huge tourist growth but the facilities available cannot be matched to those available in the Cities and other developed destination.",
+      "In Himachal, the facilities of Hotel, Services, and Aids etc cannot be matched to developed destinations. Hotels in Himachal are categorized on the basis of location, Services and costing and not as per Star Categorization i.e.;1*, 2*,3* and soon.",
+      "Verbal Commitments are not applicable"
+     ]
+    },
+    {
+     "heading": "Amendment/ Cancellation",
+     "lines": [
+      "<div class=\"small-border\" style=\"box-sizing: border-box; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-stretch: inherit; font-size: 12.48px; line-height: inherit; font-family: Lato, Arial, Helvetica, sans-serif; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; letter-spacing: 0.8px; color: rgb(51,"
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/kerala/Kerala-4N-and-5D/146"
+  },
+  {
+   "slug": "kerala-5n-6d",
+   "title": "Kerala 5N & 6D",
+   "destination": "kerala",
+   "region": "domestic",
+   "durationNights": 5,
+   "durationDays": 6,
+   "themes": [],
+   "price": null,
+   "priceNote": null,
+   "image": "https://www.s2holidays.com/upload/no-img.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "COCHIN pickup & stay",
+     "description": "Arrival assistance & transfer from Cochin airport.visit Chinese fishing nets, Fort Cochin, Jewish Synagogue, Mattancherry Palace , St. Francis Church, Marine Drive etc . Overnight stay at Cochin.",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Cochin - Munnar (126 Km)",
+     "description": "On arrival, meet our assistance at Cochin Airport or Railway Station and proceed to Munnar. On your way visit tea and spice plantations, Cheeyappara waterfalls, view point etc. Arrive Munnar and check in your hotel. Rest of the day free for your own activities. Overnight stay at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "MUNNAR sightseeing",
+     "description": "After breakfast, proceed for Munnar full day Sightseeing–Anayirangal Dam, Mattupetty Dam, Echo point, Rajamalai–where we have ERAVIKULAM National Park, you could find NILGIRITHAR, an endangered species. Anamudi the highest peak inSouth Indiais situatedin the southern region of the park. Overnight at hotel in Munnar.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "munnar - THEKKADY (APROX. 110 KM)",
+     "description": "After breakfast, proceed to thekkady and check in to hotel & relax. Afternoon, proceed for sightseeing – The Periyar wildlife sanctuary is thick evergreen forest, declared a Tiger Reserve in1978.The splendid artificial lake formed by the Mullaperiyar Dam across the Periyar River adds to the charm of the park. You can also do a thing in Thekkady like -Boat cruises on the Periyar Lake, visit cardamom, pepper, tea & coffee plantation. Overnight stay at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 5,
+     "title": "thekkady - alleppey (APROX.139KM)",
+     "description": "After breakfast proceed to Alleppey, where you will be booked to stay overnight on the Houseboat. Staying in Houseboat is breathtakingly stimulating experience. While sailing down a maze of canals one sees different scenes from the villages, paddy fields, coconut palms, fisherman and local life. Lunch, evening tea & snacks, dinner next day breakfast and will be provided in the boat. The cool breeze from the Lake make you sleep early in the night after anchoring in a fancy place. Overnight stay at Houseboat or Hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 6,
+     "title": "Alleppy - Cochin (Aprox.60Km)",
+     "description": "After morning breakfast check out from hotel and drop at airport or railway station.",
+     "meals": [
+      "Breakfast"
+     ]
+    }
+   ],
+   "inclusions": [
+    "Accommodation as per itinerary",
+    "Hotel stay 5 nights.",
+    "Welcome Drink on Arrival",
+    "Meals as per itinerary.",
+    "Pickup & Drop and sightseeing by car.",
+    "Car fuel, permit, toll, parking & Driver allowance include in package."
+   ],
+   "exclusions": [
+    "Entry Fees to Monuments and Palaces.",
+    "Breakfast / Lunch / Dinner via going to Munnar.",
+    "Personal expense, laundry & driver or waiter tips etc",
+    "Sightseeing Visit Entry Cost.",
+    "Meal other than specification.",
+    "Ayurveda Charges.",
+    "Any additional Cost Arising Due To Natural Calamities like Landslides, Roadblocks, Etc.",
+    "All other Personal Expenses",
+    "Air Fare / Train Fare",
+    "Gala Dinner - festival time like Christmas,Diwali, 31 Dec etc.",
+    "Anything not specifically mentioned under inclusions."
+   ],
+   "notes": [
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "[I] Hotel Option 1:",
+      "1.Cochin - Dunes Continental or similar",
+      "2.Munnar - Whispering Meadows, Spices Jungle Resort or Similar",
+      "3.Thekkady - Jungle park resort or similar",
+      "4.Alleppy - Arcadia Regency Hotel / Deluxe Houseboat stay or similar",
+      "[II] Hotel Option 2:",
+      "1.Cochin - Dunes Continental or similar",
+      "2.Munnar - Dew Drop,Spice Jungle or Similar",
+      "2.Thekkady - Jungle park resort or similar",
+      "3.Alleppy - Pagoda resort hotel / Deluxe Houseboat stay or similar"
+     ]
+    },
+    {
+     "heading": "Booking Instructions",
+     "lines": [
+      "50%Payment Advance at the time of booking",
+      "50% Payment at time of Journey."
+     ]
+    },
+    {
+     "heading": "Important Notes",
+     "lines": [
+      "All rates are Net & non-commissionable to you.",
+      "Rates are subject to change, without any prior notice.",
+      "Cancellation & other policies as per the hotel/company rule.",
+      "No cancellation & any refund will be made at any cost in case of bad weather or land slide which is beyond the control of the travel agent/hotel.",
+      "Above policy may vary during peak season and any changes will be communicated prior to confirmation.",
+      "No refund will be made for any unused accommodation, missed meals, transportation segments, sightseeing tours or any other service due to Bad weather, ill health, Strike, Road Blocks or any other factor beyond our Control. Such unused items are neither refundable nor exchangeable.",
+      "Package can be altered/change as per the customer’s requirement/ interest if possible (subject to availability)",
+      "Check out time of the hotel mentioned is 12:00 hrs. Check in time is 12:00 noon. (Early check in is subject to availability)",
+      "We may reschedule the sightseeing days’ subject to weather conditions & to ensure smooth execution of tours.",
+      "We shall not be responsible for any cancellation of cabs or buses due to bad weather & are not liable for it.",
+      "Though Himachal have been witnessing a huge tourist growth but the facilities available cannot be matched to those available in the Cities and other developed destination.",
+      "In Himachal, the facilities of Hotel, Services, and Aids etc cannot be matched to developed destinations. Hotels in Himachal are categorized on the basis of location, Services and costing and not as per Star Categorization i.e.;1*, 2*,3* and soon.",
+      "Verbal Commitments are not applicable"
+     ]
+    },
+    {
+     "heading": "Amendment/ Cancellation",
+     "lines": [
+      "<div class=\"small-border\" style=\"box-sizing: border-box; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-stretch: inherit; font-size: 12.48px; line-height: inherit; font-family: Lato, Arial, Helvetica, sans-serif; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; letter-spacing: 0.8px; color: rgb(51,"
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/kerala/Kerala-5N-and-6D/147"
+  },
+  {
+   "slug": "rajasthan-4-nights-5-days",
+   "title": "Rajasthan 4 Nights & 5 Days",
+   "destination": "rajasthan",
+   "region": "domestic",
+   "durationNights": 4,
+   "durationDays": 5,
+   "themes": [],
+   "price": null,
+   "priceNote": null,
+   "image": "https://www.s2holidays.com/upload/no-img.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrive At Jodhpur - Welcome Tothe Blue City",
+     "description": "Reach Jodhpur, where a representative will pick you and proceed to sightseen. Start from the Umaid Bhawan Palace Museum that houses some antique clocks, art deco furniture, dining and writing sets, etc. Witness the shades of this blue city from the top of the Mehrangarh Fort that is situated on a low sandstone hill. Also, visit JaswantThada - an imposing marble cenotaph built in memory of Maharaja Jaswant Singh II around 1899. Return back to your hotel for dinner.Overnight stay in Jodhpur.",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Jodhpur To Jaiselmar Via Nakkoda - Welcome To The Golden City",
+     "description": "Start your next day with a delicious breakfast then get ready to transfer to Jaisalmer, also known as the Golden City. You can visit to famous beautiful Nakoda teerth temple.On arrival in Jaisalmer, check in to your hotel and take some rest. The rest of the day is at leisure and you are free to explore the colorful markets and fairs. Once you are done exploring the markets, return back to the hotel for dinner. Overnight stay at the hotel in Jaisalmer.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Sightseeing In Jaisalmer - Travel To The Shimmering 'Golden City' Of Rajasthan",
+     "description": "After breakfast, you can proceed to uncover the secrets hidden behind the Golden Sands of the Thar Desert in Jaisalmer. You can visit the golden Jaisalmer Fort that looks like it has just risen from the sands with its golden limestone walls. And then, you can proceed to marvel at the beautiful royal Havelis including Patwon-Ki-Haveli, Nathmal-Ki-Haveli, and Salim Singh-Ki-Haveli that speaks of the royal past. Dating back from the 12th to 15th century, these Havelis feature exquisite carvings and filigree work. After experiencing the stunning architectural marvels you can take a short stopover at the beautiful Gadisar Lake that was once the only source of water in Jaisalmer. After a wonderful camel safari, the rest of the day is at leisure and you are free to explore the colorful markets and fairs. Once you are done exploring the markets, return back to the hotel for dinner. Overnight stay at the hotel in Jaisalmer.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Jaislmer To Jodhpurs Sightseeing - Visit To One Of The Strongest Forts In India",
+     "description": "Wake up in the morning, check out from hotel proceed to jodhpur. After Reaching Jodhpur, Start your remaining tour for Jodhpur. You can visit to famous beautiful Rao Jodha Rock Garden. After experiencing the beautiful garden you can take a short stopover at the beautiful Balsamand lake and kalyana Lake. In the evening, take a stroll around the Umaid public garden or shastri circle. Return to the hotel for dinner. overnight stay in Jodhpur.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 5,
+     "title": "drop AT JODDHPUR AIRPORT - END OFTRIP WISH A BAG OF LIFETIME MEMORIES",
+     "description": "Wake up at your hotels and enjoy a delicious breakfast. Check out from the hotels after packing your bags along with a bundle of memories. Conclude the tour with beautiful memories on reaching your desired destination at Jodhpur Airport.",
+     "meals": [
+      "Breakfast"
+     ]
+    }
+   ],
+   "inclusions": [
+    "Hotels and camps Stay in hygienic and sanitized rooms",
+    "Breakfast & Dinner as per itinerary.",
+    "Evening Tea/ Coffee, snacks, and dinner are served only in Camps.",
+    "Private transfers for sightseeing. Pickup & Drop from the Airport/Railway Station.",
+    "Highly - Experienced driver cum guide",
+    "Sightseeing in a comfortable and sanitized vehicle as per the itinerary",
+    "Complimentary 30 Minutes Camel Safari is included in the package. Enjoy your Rajasthani Folklore during Cultural Performances. Complete your Camping Experience with Bonfire.",
+    "All toll tax, parking, fuel and driver allowance."
+   ],
+   "exclusions": [
+    "Any meal unless specified above.",
+    "Any Air Fare/ Train Ticket.",
+    "Personal nature expenses like telephone / laundry bills etc.",
+    "Airports tax and travel insurance etc.",
+    "Services which not specified above.",
+    "Any Guide Service",
+    "Anything not specifically mentioned under inclusions."
+   ],
+   "notes": [
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "Hotel Options:",
+      "[I] JODHPUR - Hotel the Ummed,Jodhpur or similar",
+      "[II] JAISALMER - Hotel Sairafort Portico, Jaisalmer or similar"
+     ]
+    },
+    {
+     "heading": "Booking Instructions",
+     "lines": [
+      "50%Payment Advance at the time of booking",
+      "50% Payment at time of Journey."
+     ]
+    },
+    {
+     "heading": "Important Notes",
+     "lines": [
+      "All rates are Net & non-commissionable to you.",
+      "Rates are subject to change, without any prior notice.",
+      "Cancellation & other policies as per the hotel/company rule.",
+      "No cancellation & any refund will be made at any cost in case of bad weather or land slide which is beyond the control of the travel agent/hotel.",
+      "Above policy may vary during peak season and any changes will be communicated prior to confirmation.",
+      "No refund will be made for any unused accommodation, missed meals, transportation segments, sightseeing tours or any other service due to Bad weather, ill health, Strike, Road Blocks or any other factor beyond our Control. Such unused items are neither refundable nor exchangeable.",
+      "Package can be altered/change as per the customer’s requirement/ interest if possible (subject to availability)",
+      "Check out time of the hotel mentioned is 12:00 hrs. Check in time is 12:00 noon. (Early check in is subject to availability)",
+      "We may reschedule the sightseeing days’ subject to weather conditions & to ensure smooth execution of tours.",
+      "We shall not be responsible for any cancellation of cabs or buses due to bad weather & are not liable for it.",
+      "Though Himachal have been witnessing a huge tourist growth but the facilities available cannot be matched to those available in the Cities and other developed destination.",
+      "In Himachal, the facilities of Hotel, Services, and Aids etc cannot be matched to developed destinations. Hotels in Himachal are categorized on the basis of location, Services and costing and not as per Star Categorization i.e.;1*, 2*,3* and soon.",
+      "Verbal Commitments are not applicable"
+     ]
+    },
+    {
+     "heading": "Amendment/ Cancellation",
+     "lines": [
+      "<div class=\"small-border\" style=\"box-sizing: border-box; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-stretch: inherit; font-size: 12.48px; line-height: inherit; font-family: Lato, Arial, Helvetica, sans-"
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/rajasthan/Rajasthan-4-Nights-and-5-Days/155"
+  },
+  {
+   "slug": "rajasthan-6-nights-7-days",
+   "title": "Rajasthan 6 Nights & 7 Days",
+   "destination": "rajasthan",
+   "region": "domestic",
+   "durationNights": 6,
+   "durationDays": 7,
+   "themes": [],
+   "price": null,
+   "priceNote": null,
+   "image": "https://www.s2holidays.com/upload/no-img.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival At Jaipur - Welcome Tothe 'Pink City Of India'",
+     "description": "Reach Jaipur, where a representative will help you get transferred to the hotel. On reaching the hotel, complete the check-in process and take some rest.Once ready, you can depart for a sightseeing tour of Jaipur. You can explore the rich history of Jaipur as you proceed to visit the City Palace and Museum along with Jantar Mantar, which is a heritage site with fixed instruments for making astronomical observations. In the evening, you can proceed for a photo stop at Hawa Mahal and also opt to explore the nearby markets. Don't forget to visit Albert Hall where you can roam around and savor delicious street food. Then you can visit the famous Moti Doongri Ganesh Temple located on the hilltop and the beautiful Birla Mandir that's made solely of white marble. Later in the evening, you can proceed back to your hotel. Overnight stay at the hotel in Jaipur.",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Sightseeing In Jaipur",
+     "description": "Explore Amber Fort’s Sheesh Mahal, a Heart-Throb of Bollywood Films.Have a hearty breakfast before embarking on the full-day sightseeing tour to Jaipur.In the morning you can visit the Nahargarh Fort that offers some of the most stunning views of sunrise along with a panoramic view of all of Jaipur in all its splendor.After you are done exploring the beauty of Nahargarh Fort, you can proceed to Jaigarh Fort.Jaigarh houses the massive 18th-century cannon, Jaivana Cannon, a projectile of which made a small lake in Chaksu after traveling approx. 35 Km.Then you can visit the grand Amber Fort and Palace cradled on the top of the Aravali Hill overlooking the Pink City of Jaipur.Here, you can take an Elephant Safari to the top of the Amber Fort and then visit the beautiful Sheesh Mahal where Bollywood legendary movie \"Mughal-E-Azam's\" song \"Jab Pyar Kiya To Darna Kya\" was shot.Later in the evening, you can visit the traditional shopping mall where you can shop for beautiful souvenirs.Return back to the hotel in Jaipur for an overnight stay.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Jaipur To Jodhpur - Home To The Impregnable Mehrangarh Fort",
+     "description": "Enjoy a delicious breakfast in the morning and then get ready to transfer to Jodhpur. On reaching the hotel, complete the check-in process and take some rest. Once ready, you can proceed to explore the stunning blue city of Jodhpur.You can visit the beautiful Umaid Bhavan Palace, which is built on a vast 26 acres and is one of the world's largest private residences.Then you can proceed to the majestic Mehrangarh Fort that stands on a perpendicular cliff, four hundred feet above the skyline of Jodhpur.You can also visit the beautiful memorial made in marble, the Jaswant Thada, often described as the “Taj Mahal of Marwar”. Later in the evening, return back to the hotel in Jodhpur for an overnight stay.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Jodhpur To Jaisalmer - Travel To The Shimmering 'Golden City' Of Rajasthan Jaiselmer",
+     "description": "Start your next day with a delicious breakfast then get ready to transfer to Jaisalmer, also known as the Golden City. Take a short stopover at the Jaisalmer War Memorial, which honors the contributions and sacrifices of war heroes, and also traces the evolution of the Indian Army. On arrival in Jaisalmer, check in to your hotel and take some rest. The rest of the day is at leisure and you are free to explore the colorful markets and fairs. Once you are done exploring the markets, return back to the hotel. Overnight stay at the hotel in Jaisalmer.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 5,
+     "title": "Sightseeing In Jaisalmer - Explore The Secrets Hidden Behind The Beautiful Sand Dunes",
+     "description": "After breakfast, you can proceed to uncover the secrets hidden behind the Golden Sands of the Thar Desert in Jaisalmer. You can visit the golden Jaisalmer Fort that looks like it has just risen from the sands with its golden limestone walls. And then, you can proceed to marvel at the beautiful royal Havelis including Patwon-Ki-Haveli, Nathmal-Ki-Haveli, and Salim Singh-Ki-Haveli that speaks of the royal past. Dating back from the 12th to 15th century, these Havelis feature exquisite carvings and filigree work. After experiencing the stunning architectural marvels you can take a short stopover at the beautiful Gadisar Lake that was once the only source of water in Jaisalmer. You can then depart for a camel ride to the beautiful Sam Sand Dunes overlooking a spectacular sunset. After a wonderful camel safari, you can proceed to check in to the desert camps and enjoy folk performances by the locals while enjoying a bonfire. Have a scrumptious and authentic Rajasthani meal. Overnight stay at the Desert Camp in Jaisalmer.",
+     "meals": [
+      "Breakfast"
+     ]
+    },
+    {
+     "day": 6,
+     "title": "Jaisalmer - Bikaner - Witness The Process Of Cancel Breeding",
+     "description": "Wake up in the morning, have a delightful breakfast and check-out from the hotel. Upon reaching Bikaner, check-in at a pre-booked hotel and rest for some time. Visit Junagarh Fort, one of the most decorated forts in India built on a high rock and has lower ramparts and towers. Further visit Karni Mata Temple and the Camel- Breeding farm, Asia's biggest Camel breeding farm to watch different breeds of Camels. In the evening, visit local temples and roam around in the local markets and try world famous bikaneri bhujia. Return back to your hotel for scrumptious dinner. Overnight stay in Bikaner.",
+     "meals": [
+      "Breakfast"
+     ]
+    },
+    {
+     "day": 7,
+     "title": "Bikaner To Jaipur And Departure - End Of Trip With A Bag Full Of Life Time Memories",
+     "description": "Wake up at your camps to a beautiful morning in the desert and enjoy a delicious breakfast. Check out from the desert camps after packing your bags along with a bundle of memories. You can then proceed back towards Jaipur. Conclude the tour with beautiful memories on reaching your desired destination in Jaipur for your onward journey.",
+     "meals": [
+      "Breakfast"
+     ]
+    }
+   ],
+   "inclusions": [
+    "Hotels Stay in hygienic and sanitized rooms",
+    "1 Night Camp Stay in the Sam Sand Dunes Jaislmer.",
+    "Daily Delicious Breakfast & Dinner as per itinerary.",
+    "Camel Safari tour, Evening Tea, Bonfire, Live Rajasthani Folk Dance & Culture Programs during camp stay",
+    "Highly - Experienced driver cum guide",
+    "Comfortable hygienic vehicle for transfers & sightseen as per the itinerary.",
+    "All toll tax, parking, fuel and driver allowance."
+   ],
+   "exclusions": [
+    "Flight / Train tickets",
+    "Entry fee/activity fees",
+    "Services / facilities not mentioned in cost includes",
+    "Extra meals or Drinks",
+    "Tips",
+    "Telephone charges Laundry & other",
+    "Expenses of personal natures."
+   ],
+   "notes": [
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "Hotel Options:",
+      "[I] JAIPUR - Indo Prime or similar",
+      "[I] JODHPUR - Hotel the Balam / Hotel the Ummed,Jodhpur or similar",
+      "[III] JAISALMER - Hotel Jaigarh / Hotel Sairafort Portico, Jaisalmer or similar",
+      "[IV] JAISALMER DUNES - Khamma Ghani Resort A/C Swiss Tents",
+      "[V] BIKANER - Hotel Continental Blue - Deluxe Room"
+     ]
+    },
+    {
+     "heading": "Booking Instructions",
+     "lines": [
+      "50%Payment Advance at the time of booking",
+      "50% Payment at time of Journey."
+     ]
+    },
+    {
+     "heading": "Important Notes",
+     "lines": [
+      "All rates are Net & non-commissionable to you.",
+      "Rates are subject to change, without any prior notice.",
+      "Cancellation & other policies as per the hotel/company rule.",
+      "No cancellation & any refund will be made at any cost in case of bad weather or land slide which is beyond the control of the travel agent/hotel.",
+      "Above policy may vary during peak season and any changes will be communicated prior to confirmation.",
+      "No refund will be made for any unused accommodation, missed meals, transportation segments, sightseeing tours or any other service due to Bad weather, ill health, Strike, Road Blocks or any other factor beyond our Control. Such unused items are neither refundable nor exchangeable.",
+      "Package can be altered/change as per the customer’s requirement/ interest if possible (subject to availability)",
+      "Check out time of the hotel mentioned is 12:00 hrs. Check in time is 12:00 noon. (Early check in is subject to availability)",
+      "We may reschedule the sightseeing days’ subject to weather conditions & to ensure smooth execution of tours.",
+      "We shall not be responsible for any cancellation of cabs or buses due to bad weather & are not liable for it.",
+      "Though Himachal have been witnessing a huge tourist growth but the facilities available cannot be matched to those available in the Cities and other developed destination.",
+      "In Himachal, the facilities of Hotel, Services, and Aids etc cannot be matched to developed destinations. Hotels in Himachal are categorized on the basis of location, Services and costing and not as per Star Categorization i.e.;1*, 2*,3* and soon.",
+      "Verbal Commitments are not applicable"
+     ]
+    },
+    {
+     "heading": "Amendment/ Cancellation",
+     "lines": [
+      "<div class=\"small-border\" style=\"box-sizing: border-box; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-stretch: inherit; font-size: 12.48px; line-height: inherit; font-family: Lato, Arial, Helvetica, sans-"
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/rajasthan/Rajasthan-6-Nights-and-7-Days/157"
+  },
+  {
+   "slug": "uttarakhand-5-nights-6-days",
+   "title": "Uttarakhand 5 Nights & 6 Days",
+   "destination": "uttarakhand",
+   "region": "domestic",
+   "durationNights": 5,
+   "durationDays": 6,
+   "themes": [],
+   "price": null,
+   "priceNote": null,
+   "image": "https://www.s2holidays.com/upload/no-img.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Delhi To Haridwar",
+     "description": "New Delhi and start your journey to Haridwar. Check in to the hotel at arrival. Evening visit Har Ki Pauri for Famous Ganga Arti. Dinner and overnight stay at Haridwar.",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Haridwar Sightseeing",
+     "description": "Morning after breakfast, check out from hotel. Visit famous Mansa Devi and Chandi Devi Templs by cable car in Haridwar. Later visit other important temples of Haridwar such as Daksh Temple, Maya Devi Temple, Pawan Dham & Parad Shivling. Transfer to Rishikesh. Check in to hotel. Visit Triveni Ghat for Ganga Aarti. Dinner and night stay at Haridwar.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Haridwar To Rishikesh Tour",
+     "description": "Morning after breakfast & Check out from hotel proceed to enjoy full day Rishikesh sightseeing tour. Visit Bungi Jumping point Mohan Chatti ,Bharat Mandir, Neelkanth Mahadev, Lakshman Temple, Lakshman Jhula, Trambakeshwar Temple, Ram Jhula & Gita Bhawan. Evening you can relax or visit Ganga Aarti at Parmarth Niketan. Dinner and overnight stay at Rishikesh.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Rishikesh To Mussoorie",
+     "description": "Morning after breakfast, You can do Rafting in river ganga or relax. Later check out from hotel. Transfer to Mussoorie. Afternoon visit Mall Road & Came Back Road walk. Visit Gun Hill by cable car for sunset and himalaya view. Dinner and overnight stay at Mussoorie.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 5,
+     "title": "Mussoorie Tour",
+     "description": "Morning after breakfast enjoy full day Mussoorie sightseeing tour. Visit Kempty Falls. You can enjoy in water of this lovely waterfall. Later visit Dhanaulti and Surkanda Devi Temple. Return to Mussoorie. Dinner and overnight stay at Mussoorie.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 6,
+     "title": "MUSSOORIE to delhi",
+     "description": "Morning after breakfast, Check out from hotel and transfer to Delhi. Dropping at Delhi Airport.",
+     "meals": [
+      "Breakfast"
+     ]
+    }
+   ],
+   "inclusions": [
+    "Hotels and camps Stay in hygienic and sanitized rooms",
+    "Breakfast & Dinner as per itinerary.",
+    "Evening Tea/ Coffee, snacks, and dinner are served only in Camps.",
+    "Private transfers for sightseeing. Pickup & Drop from the Airport/Railway Station.",
+    "Highly - Experienced driver cum guide",
+    "Sightseeing in a comfortable and sanitized vehicle as per the itinerary",
+    "Complimentary 30 Minutes Camel Safari is included in the package. Enjoy your Rajasthani Folklore during Cultural Performances. Complete your Camping Experience with Bonfire.",
+    "All toll tax, parking, fuel and driver allowance."
+   ],
+   "exclusions": [
+    "Any meal unless specified above.",
+    "Any Air Fare/ Train Ticket.",
+    "Personal nature expenses like telephone / laundry bills etc.",
+    "Airports tax and travel insurance etc.",
+    "Services which not specified above.",
+    "Any Guide Service",
+    "Anything not specifically mentioned under inclusions."
+   ],
+   "notes": [
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "Hotel Options:",
+      "[I] Haridwar - Hotel Urmi or similar",
+      "[II] Cottage or camp stay in Rushikesh - H7 Stay Cottages or similar.",
+      "[III] Mussoorie - Sun Grace or similar"
+     ]
+    },
+    {
+     "heading": "Booking Instructions",
+     "lines": [
+      "50%Payment Advance at the time of booking",
+      "50% Payment at time of Journey."
+     ]
+    },
+    {
+     "heading": "Important Notes",
+     "lines": [
+      "All rates are Net & non-commissionable to you.",
+      "Rates are subject to change, without any prior notice.",
+      "Cancellation & other policies as per the hotel/company rule.",
+      "No cancellation & any refund will be made at any cost in case of bad weather or land slide which is beyond the control of the travel agent/hotel.",
+      "Above policy may vary during peak season and any changes will be communicated prior to confirmation.",
+      "No refund will be made for any unused accommodation, missed meals, transportation segments, sightseeing tours or any other service due to Bad weather, ill health, Strike, Road Blocks or any other factor beyond our Control. Such unused items are neither refundable nor exchangeable.",
+      "Package can be altered/change as per the customer’s requirement/ interest if possible (subject to availability)",
+      "Check out time of the hotel mentioned is 12:00 hrs. Check in time is 12:00 noon. (Early check in is subject to availability)",
+      "We may reschedule the sightseeing days’ subject to weather conditions & to ensure smooth execution of tours.",
+      "We shall not be responsible for any cancellation of cabs or buses due to bad weather & are not liable for it.",
+      "Though Himachal have been witnessing a huge tourist growth but the facilities available cannot be matched to those available in the Cities and other developed destination.",
+      "In Himachal, the facilities of Hotel, Services, and Aids etc cannot be matched to developed destinations. Hotels in Himachal are categorized on the basis of location, Services and costing and not as per Star Categorization i.e.;1*, 2*,3* and soon.",
+      "Verbal Commitments are not applicable"
+     ]
+    },
+    {
+     "heading": "Amendment/ Cancellation",
+     "lines": [
+      "<div class=\"small-border\" style=\"box-sizing: border-box; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-stretch: inherit; font-size: 12.48px; line-height: inherit; font-family: Lato, Arial, Helvetica, sans-"
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/uttarakhand/Uttarakhand-5-Nights-and-6-Days/156"
+  },
+  {
+   "slug": "uttarakhand-7-nights-8-days",
+   "title": "Uttarakhand 7 Nights & 8 Days",
+   "destination": "uttarakhand",
+   "region": "domestic",
+   "durationNights": 7,
+   "durationDays": 8,
+   "themes": [],
+   "price": null,
+   "priceNote": null,
+   "image": "https://www.s2holidays.com/upload/no-img.jpg",
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Delhi To Nainital",
+     "description": "Pickup from Delhi Railway Station/ airport & proceed to Nanital. Full day journey. At evening, On arrival , checkin to nanital hotel & overnight stay at hotel",
+     "meals": [
+      "Dinner"
+     ]
+    },
+    {
+     "day": 2,
+     "title": "nainital SIGHTSEEING",
+     "description": "Morning after breakfast, proceed to Nainital Sightseeing cover :Khurpatal lake view point, Mini waterfall, Sariyatal lake, Barapathar take a horse or trek for Dhorothy Seat and LandsEnd, Himalaya Darshan point, Nainital lake view Point ,Cave Garden, then drop to Mall Road, Boating in Naini lake (Charges Extra) ,Tibetan Market ,Naina Devi temple Mall all are walking distance then return to the hotel Cygnett mountain breeze.Return to hotel & overnight stay at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Nainital Tour",
+     "description": "At Morning, after breakfast, a taxi will cover sightseeing in Mukteshwar. It Covers Mukteshwar Sightseeing, Bhowali, Ghorakhal , Gagar Ramgarh, Tea Garden, Apple Garden, Panchachuli Peak. Return to hotel & overnight stay at hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Nainital To Haridwar",
+     "description": "Morning after breakfast, checkout from hotel and start your journey to Haridwar. Checkin to the hotel at arrival. Evening visit Har Ki Pauri for Famous Ganga Arti. Dinner and overnight stay at Haridwar.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 5,
+     "title": "Haridwar To Rishikesh Tour",
+     "description": "Morning after breakfast & Check out from hotel proceed to enjoy full day Rishikesh sightseeing tour. Visit Bungi Jumping point Mohan Chatti ,Bharat Mandir, Neelkanth Mahadev, Lakshman Temple, Lakshman Jhula, Trambakeshwar Temple, Ram Jhula & Gita Bhawan. Evening you can relax or visit Ganga Aarti at Parmarth Niketan. Return to hotel and overnight stay at Haridwar hotel.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 6,
+     "title": "Rishikesh To Mussoorie",
+     "description": "Morning after breakfast, You can do Rafting in river ganga or relax. Later check out from hotel. Transfer to Mussoorie. Afternoon visit Mall Road & Came Back Road walk. Visit Gun Hill by cable car for sunset and himalaya view. Dinner and overnight stay at Mussoorie.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ]
+    },
+    {
+     "day": 7,
+     "title": "MUSSOORIE TOur",
+     "description": "Morning after breakfast enjoy full day Mussoorie sightseeing tour. Visit Kempty Falls. You can enjoy in water of this lovely waterfall. Later visit Dhanaulti and Surkanda Devi Temple. Return to Mussoorie. Dinner and overnight stay at Mussoorie.",
+     "meals": [
+      "Breakfast"
+     ]
+    },
+    {
+     "day": 8,
+     "title": "MUSSOORIE TO Dehradun",
+     "description": "Morning after breakfast, Check out from hotel and transfer to Dehradun. Dropping at Dehradun Airport.",
+     "meals": [
+      "Breakfast"
+     ]
+    }
+   ],
+   "inclusions": [
+    "Welcome drink on a rrival",
+    "Breakfast & Dinner as per itinerary.",
+    "Sightseeing by Car or tempo traveller.",
+    "Car or tempo traveller - Delhi,nainital,nainital sightseen, haridwar, rushikesh,mussoorie sightseen as per itinerary.",
+    "All toll tax, parking, fuel and driver allowance."
+   ],
+   "exclusions": [
+    "Car night journey charges",
+    "Mountain fees & Camera fees extra",
+    "Personal expense, laundry & driver or waiter tips etc…",
+    "Adventure activity like Para riding, Skiing, River rafting etc…",
+    "Meal other than specification",
+    "Heater charges will be extra",
+    "Gala Dinner - festival time like Christmas, Diwali, 31 Dec etc...",
+    "Anything not specifically mentioned under inclusions."
+   ],
+   "notes": [
+    {
+     "heading": "Hotel options",
+     "lines": [
+      "Hotel Options:",
+      "[I] Nainital - Hotel Langdale Manor or similar",
+      "[II] Haridwar - Hotel Urmi or similar.",
+      "[III] Mussoorie - Sun Grace or similar",
+      "Note – Above hotel not Confirm its depend on availability."
+     ]
+    },
+    {
+     "heading": "Booking Instructions",
+     "lines": [
+      "50%Payment Advance at the time of booking",
+      "50% Payment at time of Journey."
+     ]
+    },
+    {
+     "heading": "Important Notes",
+     "lines": [
+      "All rates are Net & non-commissionable to you.",
+      "Rates are subject to change, without any prior notice.",
+      "Cancellation & other policies as per the hotel/company rule.",
+      "No cancellation & any refund will be made at any cost in case of bad weather or land slide which is beyond the control of the travel agent/hotel.",
+      "Above policy may vary during peak season and any changes will be communicated prior to confirmation.",
+      "No refund will be made for any unused accommodation, missed meals, transportation segments, sightseeing tours or any other service due to Bad weather, ill health, Strike, Road Blocks or any other factor beyond our Control. Such unused items are neither refundable nor exchangeable.",
+      "Package can be altered/change as per the customer’s requirement/ interest if possible (subject to availability)",
+      "Check out time of the hotel mentioned is 12:00 hrs. Check in time is 12:00 noon. (Early check in is subject to availability)",
+      "We may reschedule the sightseeing days’ subject to weather conditions & to ensure smooth execution of tours.",
+      "We shall not be responsible for any cancellation of cabs or buses due to bad weather & are not liable for it.",
+      "Though Himachal have been witnessing a huge tourist growth but the facilities available cannot be matched to those available in the Cities and other developed destination.",
+      "In Himachal, the facilities of Hotel, Services, and Aids etc cannot be matched to developed destinations. Hotels in Himachal are categorized on the basis of location, Services and costing and not as per Star Categorization i.e.;1*, 2*,3* and soon.",
+      "Verbal Commitments are not applicable"
+     ]
+    },
+    {
+     "heading": "Amendment/ Cancellation",
+     "lines": [
+      "<div class=\"small-border\" style=\"box-sizing: border-box; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-stretch: inherit; font-size: 12.48px; line-height: inherit; font-family: Lato, Arial, Helvetica, sans-"
+     ]
+    }
+   ],
+   "sourceUrl": "https://www.s2holidays.com/products-details/uttarakhand/Uttarakhand-7-Nights-and-8-Days/158"
+  }
+ ]
+}
