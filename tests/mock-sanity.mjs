@@ -28,10 +28,14 @@ const services = s.sampleServices.map((x) => ({ ...strip(x), heroImage: toSanity
 const posts = s.samplePosts.map((x) => ({ ...strip(x), coverImage: toSanityImg(x.coverImage) }));
 const testimonials = [{ _id: "t1", name: "Mock Reviewer", location: "Test City", quote: "MOCK testimonial used only by the automated CMS test.", tripName: "Mock trip" }];
 const mutations = [];
+const store = new Map();
 const assets = new Map();
 let assetBytes = 0;
 
 function resolve(query, params) {
+  const m = query.match(/_id match "drafts\.(destination|package)-\*"/);
+  if (m) return [...store.values()].filter((d) => d._id.startsWith(`drafts.${m[1]}-`));
+  if (query.startsWith("*[_id in $ids]._id")) return params.ids.filter((id) => store.has(id));
   if (query.startsWith("count(")) return mutations.filter((m) => params.id && [params.id, params.draft].includes((m.createIfNotExists || m.create || {})._id)).length;
   if (query.includes("sanity.imageAsset")) return assets.get(params.url) ?? null;
   if (process.env.MOCK_EMPTY) return /[\])]\[0\]/.test(query) ? null : []; // brand-new, empty project
@@ -84,6 +88,11 @@ http
     if (url.pathname.includes("/data/mutate/")) {
       const b = JSON.parse(body);
       mutations.push(...b.mutations);
+      for (const mu of b.mutations) {
+        const doc = mu.create || mu.createIfNotExists || mu.createOrReplace;
+        if (doc && !(mu.createIfNotExists && store.has(doc._id))) store.set(doc._id, doc);
+        if (mu.delete) store.delete(mu.delete.id);
+      }
       return send({ transactionId: "tx1", results: b.mutations.map((m) => ({ id: (m.create || m.patch || {})._id || m.patch?.id, operation: "create" })) });
     }
     send({ error: "not found" }, 404);
