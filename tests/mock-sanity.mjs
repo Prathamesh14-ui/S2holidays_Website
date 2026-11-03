@@ -23,7 +23,7 @@ const pkgs = s.samplePackages.map((p, i) => ({
   // give two packages a CMS price to exercise price display
   price: i === 0 ? { amount: 45999, currency: "INR", basis: "per person", show: true } : i === 1 ? { amount: 30000, show: false } : null,
 }));
-const settings = { ...strip(s.sampleSettings), companyName: "S2 Holidays", phone: "+91 00000 00000", email: "test@example.invalid", heroImage: toSanityImg(s.sampleSettings.heroImage), aboutImage: null };
+const settings = { ...strip(s.sampleSettings), companyName: "S2 Holidays", phone: "+91 00000 00000", email: "test@example.invalid", heroImage: process.env.MOCK_NO_HERO ? null : toSanityImg(s.sampleSettings.heroImage), aboutImage: null };
 const services = s.sampleServices.map((x) => ({ ...strip(x), heroImage: toSanityImg(x.heroImage) }));
 const posts = s.samplePosts.map((x) => ({ ...strip(x), coverImage: toSanityImg(x.coverImage) }));
 const testimonials = [{ _id: "t1", name: "Mock Reviewer", location: "Test City", quote: "MOCK testimonial used only by the automated CMS test.", tripName: "Mock trip" }];

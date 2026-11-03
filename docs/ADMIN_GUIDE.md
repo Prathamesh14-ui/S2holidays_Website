@@ -72,6 +72,18 @@ Give staff the lowest role they need.
   The homepage shows up to 6, ordered by *Homepage position*. If none are featured, the first six
   packages are shown.
 
+## Homepage slideshow
+
+The big photo at the top of the homepage is a slideshow that fades to a new, randomly chosen photo every
+few seconds.
+
+- **Site settings → Homepage hero → Hero slideshow photos:** click **Add item**, upload a photo, add the
+  alternative text, and optionally a short **Caption** (e.g. "Kerala backwaters") and a **Link to
+  destination**. Add 2–6 photos and click **Publish**.
+- Use wide landscape photos (at least 2400 px wide) **without text printed on them**: the heading sits on top.
+- If no slideshow photos are added, the main photos of your destinations are used automatically.
+- Visitors can pause it with the ⏸ button. Visitors who have "reduce motion" switched on see a still photo.
+
 ## Images: tips
 
 - Use your own photos or properly licensed stock. Don't copy images from other websites.

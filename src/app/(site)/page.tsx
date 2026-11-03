@@ -10,6 +10,8 @@ import { PackageCard } from "@/components/packages/PackageCard";
 import { DestinationCard } from "@/components/packages/DestinationCard";
 import { EnquiryBand } from "@/components/layout/EnquiryBand";
 import { TripFinder } from "@/components/home/TripFinder";
+import { HeroSlideshow } from "@/components/home/HeroSlideshow";
+import type { HeroSlide } from "@/lib/types";
 import { getDestinations, getFeaturedPackages, getPackages, getPosts, getService, getSettings, getTestimonials } from "@/lib/content";
 import { formatDate, cn } from "@/lib/format";
 import { pageMetadata } from "@/lib/seo";
@@ -47,6 +49,16 @@ export default async function HomePage() {
     const list = destinations.filter((d) => d.region === region);
     return [...list.filter((d) => d.featured), ...list.filter((d) => !d.featured)].slice(0, 5);
   };
+  // Hero slideshow: CMS slides → single hero image → destination photos (featured first)
+  const destinationSlides: HeroSlide[] = [...destinations.filter((d) => d.featured), ...destinations.filter((d) => !d.featured)]
+    .filter((d) => d.heroImage)
+    .slice(0, 6)
+    .map((d) => ({ image: d.heroImage!, caption: d.name, href: `/destinations/${d.slug}` }));
+  const heroSlides: HeroSlide[] = settings.heroSlides?.length
+    ? settings.heroSlides
+    : settings.heroImage
+      ? [{ image: settings.heroImage }]
+      : destinationSlides;
   const domestic = pick("domestic");
   const international = pick("international");
 
@@ -54,7 +66,7 @@ export default async function HomePage() {
     <>
       {/* HERO */}
       <section className="relative isolate flex min-h-[100svh] items-center overflow-hidden bg-ink">
-        <AppImage image={settings.heroImage} priority sizes="100vw" className="-z-10 scale-105 animate-[fade-up_1.6s_ease-out_both]" />
+        <HeroSlideshow slides={heroSlides} />
         <div aria-hidden className="absolute inset-0 -z-10 bg-gradient-to-r from-ink/85 via-ink/50 to-ink/10" />
         <div aria-hidden className="absolute inset-x-0 bottom-0 -z-10 h-40 bg-gradient-to-t from-ink/60 to-transparent" />
         <Container className="pb-24 pt-40">

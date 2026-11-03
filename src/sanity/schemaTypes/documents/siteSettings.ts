@@ -48,7 +48,31 @@ export const siteSettings = defineType({
     imageField("logo", "Logo", { group: "company" }),
     defineField({ name: "heroHeading", title: "Hero heading", type: "string", group: "home" }),
     defineField({ name: "heroSubheading", title: "Hero sub-heading", type: "text", rows: 2, group: "home" }),
-    imageField("heroImage", "Hero image", { group: "home", description: "Landscape photo, at least 2400 px wide." }),
+    imageField("heroImage", "Hero image (single)", {
+      group: "home",
+      description: "Used only if no slideshow photos are added below. Landscape photo, at least 2400 px wide.",
+    }),
+    defineField({
+      name: "heroSlides",
+      title: "Hero slideshow photos",
+      type: "array",
+      group: "home",
+      description:
+        "2–6 landscape photos (at least 2400 px wide, without text printed on them). They fade from one to the next in random order. If empty, destination photos are used.",
+      of: [
+        defineArrayMember({
+          type: "object",
+          name: "heroSlide",
+          fields: [
+            imageField("image", "Photo", { required: true }),
+            defineField({ name: "caption", title: "Caption", type: "string", description: "Short label shown in the corner, e.g. “Kerala backwaters”." }),
+            defineField({ name: "destination", title: "Link to destination", type: "reference", to: [{ type: "destination" }] }),
+          ],
+          preview: { select: { title: "caption", subtitle: "destination.name", media: "image" } },
+        }),
+      ],
+      validation: (r) => r.max(8),
+    }),
     defineField({ name: "aboutTitle", title: "About page title", type: "string", group: "about" }),
     richTextField("aboutBody", "About text", "about"),
     imageField("aboutImage", "About image", { group: "about" }),

@@ -159,9 +159,12 @@ export type SiteSettings = {
   heroHeading?: string;
   heroSubheading?: string;
   heroImage?: SiteImage;
+  heroSlides?: HeroSlide[];
   aboutTitle?: string;
   aboutBody?: RichText;
   aboutImage?: SiteImage;
   values?: { title: string; description?: string }[];
   isSample?: boolean;
 };
+
+export type HeroSlide = { image: SiteImage; caption?: string; href?: string };
