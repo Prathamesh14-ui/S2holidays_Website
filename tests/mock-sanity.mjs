@@ -36,6 +36,7 @@ function resolve(query, params) {
   const m = query.match(/_id match "drafts\.(destination|package)-\*"/);
   if (m) return [...store.values()].filter((d) => d._id.startsWith(`drafts.${m[1]}-`));
   if (query.startsWith("*[_id in $ids]._id")) return params.ids.filter((id) => store.has(id));
+  if (query.startsWith("*[_id in $ids]{")) return params.ids.filter((id) => store.has(id)).map((id) => store.get(id));
   if (query.startsWith("count(")) return mutations.filter((m) => params.id && [params.id, params.draft].includes((m.createIfNotExists || m.create || {})._id)).length;
   if (query.includes("sanity.imageAsset")) return assets.get(params.url) ?? null;
   if (process.env.MOCK_EMPTY) return /[\])]\[0\]/.test(query) ? null : []; // brand-new, empty project
