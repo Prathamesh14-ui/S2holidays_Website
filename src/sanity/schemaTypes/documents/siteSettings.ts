@@ -10,6 +10,7 @@ export const siteSettings = defineType({
   groups: [
     { name: "company", title: "Company & contact", default: true },
     { name: "home", title: "Homepage hero" },
+    { name: "announcement", title: "Announcement bar" },
     { name: "about", title: "About page" },
   ],
   fields: [
@@ -72,6 +73,19 @@ export const siteSettings = defineType({
         }),
       ],
       validation: (r) => r.max(8),
+    }),
+    defineField({
+      name: "announcement",
+      title: "Announcement bar",
+      type: "object",
+      group: "announcement",
+      description: "A thin bar at the very top of every page, e.g. for a festival sale. Hidden automatically after the “Show until” date.",
+      fields: [
+        defineField({ name: "active", title: "Show the bar", type: "boolean", initialValue: true }),
+        defineField({ name: "text", title: "Text", type: "string", description: "e.g. “🪔 Diwali sale: up to 15% off selected holidays — book by 15 Nov”", validation: (r) => r.max(120) }),
+        defineField({ name: "link", title: "Link (optional)", type: "string", description: "Page to open when clicked, e.g. /packages?offer=1 (all offers) or /packages/kerala-4n-5d" }),
+        defineField({ name: "validUntil", title: "Show until", type: "date", description: "Last day to show the bar. Leave empty to show until switched off." }),
+      ],
     }),
     defineField({ name: "aboutTitle", title: "About page title", type: "string", group: "about" }),
     richTextField("aboutBody", "About text", "about"),

@@ -10,6 +10,7 @@ export const holidayPackage = defineType({
   groups: [
     { name: "content", title: "Overview", default: true },
     { name: "pricing", title: "Price" },
+    { name: "offer", title: "Offer" },
     { name: "itinerary", title: "Itinerary" },
     { name: "details", title: "Inclusions" },
     { name: "media", title: "Images" },
@@ -51,6 +52,37 @@ export const holidayPackage = defineType({
     defineField({ name: "price", title: "Price", type: "price", group: "pricing" }),
     defineField({ name: "priceNote", title: "Price note", type: "string", group: "pricing", description: "e.g. “Prices vary by travel dates and hotel category.”" }),
     defineField({
+      name: "offer",
+      title: "Special offer",
+      type: "object",
+      group: "offer",
+      description:
+        "Optional limited-time offer. It shows on the website only while “Offer is on” is ticked and until the end of the “Valid until” date (India time). Leave empty for no offer.",
+      fields: [
+        defineField({ name: "active", title: "Offer is on", type: "boolean", initialValue: true, description: "Untick to hide the offer without deleting it." }),
+        defineField({ name: "title", title: "Offer name", type: "string", description: "e.g. “Diwali Special” or “Early-bird offer”.", validation: (r) => r.max(60) }),
+        defineField({
+          name: "offerPrice",
+          title: "Offer price",
+          type: "number",
+          description: "The discounted starting price. If a normal price is also set (Price tab), it is shown crossed out next to this.",
+          validation: (r) =>
+            r.min(1).precision(0).custom((v, ctx) => {
+              const normal = (ctx.document as { price?: { amount?: number } } | undefined)?.price?.amount;
+              return v && normal && v >= normal ? "The offer price should be lower than the normal price" : true;
+            }),
+        }),
+        defineField({ name: "badge", title: "Badge text", type: "string", description: "Short label on the package photo, e.g. “Save 15%” or “Free airport pickup”. If empty, “Save X%” is calculated automatically.", validation: (r) => r.max(30) }),
+        defineField({ name: "details", title: "Offer details", type: "text", rows: 3, description: "e.g. “Book before 15 Nov. Valid for travel till 31 Dec. Minimum 2 adults.”" }),
+        defineField({ name: "validUntil", title: "Valid until", type: "date", description: "Last day of the offer. Leave empty for no end date." }),
+        defineField({ name: "showOnHomepage", title: "Show in “Special offers” on the homepage", type: "boolean", initialValue: true }),
+      ],
+      validation: (r) =>
+        r.custom((o: { title?: string; offerPrice?: number; badge?: string; details?: string } | undefined) =>
+          o && !o.title && (o.offerPrice || o.badge || o.details) ? "Give the offer a name (Offer name)" : true
+        ),
+    }),
+    defineField({
       name: "itinerary",
       title: "Day-wise itinerary",
       type: "array",
@@ -75,10 +107,10 @@ export const holidayPackage = defineType({
     seoField,
   ],
   preview: {
-    select: { title: "title", nights: "durationNights", days: "durationDays", amount: "price.amount", featured: "featuredOnHomepage", media: "heroImage" },
-    prepare: ({ title, nights, days, amount, featured, media }) => ({
+    select: { title: "title", nights: "durationNights", days: "durationDays", amount: "price.amount", featured: "featuredOnHomepage", media: "heroImage", offer: "offer.title", offerOn: "offer.active" },
+    prepare: ({ title, nights, days, amount, featured, media, offer, offerOn }) => ({
       title,
-      subtitle: [nights && days ? `${nights}N/${days}D` : null, amount ? `₹${amount}` : "Price on request", featured ? "★ Homepage" : null].filter(Boolean).join(" · "),
+      subtitle: [nights && days ? `${nights}N/${days}D` : null, amount ? `₹${amount}` : "Price on request", featured ? "★ Homepage" : null, offer && offerOn !== false ? `🏷 ${offer}` : null].filter(Boolean).join(" · "),
       media,
     }),
   },

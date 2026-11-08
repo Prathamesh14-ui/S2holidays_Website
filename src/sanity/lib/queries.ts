@@ -13,7 +13,7 @@ const PKG_FIELDS = `_id, title, "slug": slug.current,
   themes, durationNights, durationDays, price, priceNote, startingCity, summary,
   "heroImage": heroImage${IMG}, "gallery": gallery[]${IMG}, highlights,
   itinerary[]{day, title, description, meals, overnight}, inclusions, exclusions, importantNotes,
-  featuredOnHomepage, homepageOrder, ${SEO}`;
+  featuredOnHomepage, homepageOrder, offer{active, title, offerPrice, badge, details, validUntil, showOnHomepage}, ${SEO}`;
 
 const POST_FIELDS = `_id, title, "slug": slug.current, excerpt, "coverImage": coverImage${IMG}, author, publishedAt, categories, ${SEO}`;
 
@@ -21,7 +21,7 @@ export const settingsQuery = defineQuery(`*[_type == "siteSettings"][0]{
   companyName, legalName, tagline, description, phone, whatsapp, email, address, mapUrl, officeHours, socials,
   "logo": logo${IMG}, heroHeading, heroSubheading, "heroImage": heroImage${IMG},
   "heroSlides": heroSlides[defined(image.asset)]{"image": image${IMG}, caption, "href": select(defined(destination->slug.current) => "/destinations/" + destination->slug.current)},
-  aboutTitle, aboutBody, "aboutImage": aboutImage${IMG}, values
+  announcement{active, text, link, validUntil}, aboutTitle, aboutBody, "aboutImage": aboutImage${IMG}, values
 }`);
 
 export const destinationsQuery = defineQuery(`*[_type == "destination" && defined(slug.current)] | order(featured desc, name asc){${DEST_FIELDS}}`);

@@ -76,6 +76,7 @@ export type HolidayPackage = {
   importantNotes?: RichText;
   featuredOnHomepage?: boolean;
   homepageOrder?: number;
+  offer?: PackageOffer;
   isSample?: boolean;
   seo?: Seo;
 };
@@ -160,6 +161,7 @@ export type SiteSettings = {
   heroSubheading?: string;
   heroImage?: SiteImage;
   heroSlides?: HeroSlide[];
+  announcement?: Announcement;
   aboutTitle?: string;
   aboutBody?: RichText;
   aboutImage?: SiteImage;
@@ -168,3 +170,17 @@ export type SiteSettings = {
 };
 
 export type HeroSlide = { image: SiteImage; caption?: string; href?: string };
+
+/** Limited-time offer on a package, managed in the CMS ("Offer" tab). */
+export type PackageOffer = {
+  active?: boolean;
+  title: string;
+  offerPrice?: number;
+  badge?: string;
+  details?: string;
+  validUntil?: string; // YYYY-MM-DD, inclusive (India time)
+  showOnHomepage?: boolean;
+};
+
+/** Optional site-wide announcement bar (e.g. a festival sale). */
+export type Announcement = { active?: boolean; text: string; link?: string; validUntil?: string };

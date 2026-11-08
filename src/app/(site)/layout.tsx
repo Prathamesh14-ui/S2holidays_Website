@@ -2,6 +2,7 @@ import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { WhatsAppFloat } from "@/components/layout/WhatsAppFloat";
 import { SampleBanner } from "@/components/layout/SampleBanner";
+import { AnnouncementBar } from "@/components/layout/AnnouncementBar";
 import { RevealObserver } from "@/components/ui/Reveal";
 import { JsonLd } from "@/components/ui/JsonLd";
 import { getDestinations, getSettings, usingSampleContent } from "@/lib/content";
@@ -29,7 +30,14 @@ export default async function SiteLayout({ children }: { children: React.ReactNo
       <a href="#main" className="sr-only z-[100] rounded bg-white px-4 py-2 text-ink focus:not-sr-only focus:fixed focus:left-4 focus:top-4">
         Skip to content
       </a>
-      <Header nav={nav} companyName={settings.companyName} phone={settings.phone} notice={showBanner ? <SampleBanner /> : undefined} />
+      <Header nav={nav} companyName={settings.companyName} phone={settings.phone} notice={
+          showBanner || settings.announcement ? (
+            <>
+              {settings.announcement && <AnnouncementBar announcement={settings.announcement} />}
+              {showBanner && <SampleBanner />}
+            </>
+          ) : undefined
+        } />
       <main id="main">{children}</main>
       <Footer settings={settings} />
       <WhatsAppFloat number={settings.whatsapp} companyName={settings.companyName} />

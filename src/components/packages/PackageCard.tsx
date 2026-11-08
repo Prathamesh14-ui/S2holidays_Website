@@ -1,12 +1,14 @@
 import Link from "next/link";
-import { CalendarDays, MapPin } from "lucide-react";
+import { CalendarDays, MapPin, Tag } from "lucide-react";
 import { AppImage } from "@/components/ui/AppImage";
 import { SampleBadge } from "@/components/ui/SampleBadge";
-import { formatDuration, formatPrice } from "@/lib/format";
+import { formatDuration } from "@/lib/format";
+import { offerBadge, priceView } from "@/lib/offers";
 import type { HolidayPackage } from "@/lib/types";
 
 export function PackageCard({ pkg, priority }: { pkg: HolidayPackage; priority?: boolean }) {
-  const price = formatPrice(pkg.price);
+  const { now: price, was, basis } = priceView(pkg);
+  const badge = offerBadge(pkg);
   const duration = formatDuration(pkg);
   return (
     <article className="group relative flex h-full flex-col overflow-hidden rounded-3xl bg-white shadow-card transition-all duration-500 hover:-translate-y-1 hover:shadow-lift">
@@ -22,7 +24,15 @@ export function PackageCard({ pkg, priority }: { pkg: HolidayPackage; priority?:
           <span className="rounded-full bg-white/90 px-3 py-1 text-[11px] font-semibold uppercase tracking-wider text-ink backdrop-blur">
             {pkg.region === "international" ? "International" : "India"}
           </span>
-          {pkg.isSample && <SampleBadge />}
+          {pkg.isSample ? (
+            <SampleBadge />
+          ) : (
+            badge && (
+              <span className="inline-flex max-w-[60%] items-center gap-1 rounded-full bg-offer px-3 py-1 text-[11px] font-semibold uppercase tracking-wide text-white shadow-card">
+                <Tag aria-hidden className="h-3 w-3 shrink-0" /> <span className="truncate">{badge}</span>
+              </span>
+            )
+          )}
         </div>
         {duration && (
           <span className="absolute bottom-4 left-4 inline-flex items-center gap-1.5 rounded-full bg-ink/80 px-3 py-1 text-xs font-medium text-white backdrop-blur">
@@ -44,12 +54,15 @@ export function PackageCard({ pkg, priority }: { pkg: HolidayPackage; priority?:
         {pkg.summary && <p className="mb-5 mt-2 line-clamp-2 text-sm leading-relaxed text-muted">{pkg.summary}</p>}
         <div className="mt-auto flex items-end justify-between gap-4 border-t border-line pt-4">
           <div>
+            {pkg.offer && <p className="mb-1 text-xs font-semibold text-offer">{pkg.offer.title}</p>}
             {price ? (
               <>
-                <p className="text-[11px] uppercase tracking-wider text-muted">From</p>
-                <p className="text-xl font-semibold text-ink">
+                <p className="text-[11px] uppercase tracking-wider text-muted">
+                  From {was && <s className="ml-1 normal-case tracking-normal">{was}</s>}
+                </p>
+                <p className={pkg.offer?.offerPrice ? "text-xl font-semibold text-offer" : "text-xl font-semibold text-ink"}>
                   {price}
-                  {pkg.price?.basis && <span className="ml-1 text-xs font-normal text-muted">{pkg.price.basis}</span>}
+                  {basis && <span className="ml-1 text-xs font-normal text-muted">{basis}</span>}
                 </p>
               </>
             ) : (

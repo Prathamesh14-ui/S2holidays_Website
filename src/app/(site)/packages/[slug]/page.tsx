@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { CalendarDays, Check, MapPin, Moon, Plane, Utensils, X } from "lucide-react";
+import { CalendarDays, Check, MapPin, Moon, Plane, Tag, Utensils, X } from "lucide-react";
 import { PageHero } from "@/components/layout/PageHero";
 import { Container } from "@/components/ui/Container";
 import { RichText } from "@/components/ui/RichText";
@@ -11,7 +11,8 @@ import { JsonLd } from "@/components/ui/JsonLd";
 import { PackageCard } from "@/components/packages/PackageCard";
 import { EnquiryForm } from "@/components/forms/EnquiryForm";
 import { getPackage, getPackages, getSettings } from "@/lib/content";
-import { formatDuration, formatPrice } from "@/lib/format";
+import { formatDate, formatDuration } from "@/lib/format";
+import { offerBadge, priceView } from "@/lib/offers";
 import { pageMetadata } from "@/lib/seo";
 import { slugParams } from "@/lib/static-params";
 import { siteUrl } from "@/lib/env";
@@ -39,7 +40,8 @@ export default async function PackagePage({ params }: PageProps<"/packages/[slug
   const [p, settings] = await Promise.all([getPackage(slug), getSettings()]);
   if (!p) notFound();
 
-  const price = formatPrice(p.price);
+  const { now: price, was } = priceView(p);
+  const badge = offerBadge(p);
   const duration = formatDuration(p);
   const related = (await getPackages({ region: p.region })).filter((x) => x._id !== p._id).slice(0, 3);
   const primaryDest = p.destinations[0];
@@ -102,8 +104,10 @@ export default async function PackagePage({ params }: PageProps<"/packages/[slug
             <div className="text-right">
               {price ? (
                 <>
-                  <span className="block text-[11px] uppercase tracking-wider text-muted">From</span>
-                  <span className="text-2xl font-semibold text-ink">{price}</span>
+                  <span className="block text-[11px] uppercase tracking-wider text-muted">
+                    {p.offer?.offerPrice ? "Offer price" : "From"} {was && <s className="ml-1 normal-case tracking-normal">{was}</s>}
+                  </span>
+                  <span className={p.offer?.offerPrice ? "text-2xl font-semibold text-offer" : "text-2xl font-semibold text-ink"}>{price}</span>
                   {p.price?.basis && <span className="block text-xs text-muted">{p.price.basis}</span>}
                 </>
               ) : (
@@ -119,6 +123,34 @@ export default async function PackagePage({ params }: PageProps<"/packages/[slug
 
       <Container className="grid gap-14 py-16 lg:grid-cols-[1fr_400px] lg:py-20">
         <div className="min-w-0">
+          {p.offer && (
+            <section aria-label="Special offer" className="mb-10 overflow-hidden rounded-3xl border border-offer/30 bg-white shadow-card">
+              <div className="flex flex-wrap items-center gap-3 bg-offer px-6 py-3 text-white">
+                <Tag aria-hidden className="h-5 w-5" />
+                <p className="font-display text-2xl font-semibold">{p.offer.title}</p>
+                {badge && badge !== p.offer.title && (
+                  <span className="rounded-full bg-white/20 px-3 py-0.5 text-xs font-semibold uppercase tracking-wide">{badge}</span>
+                )}
+              </div>
+              <div className="space-y-2 px-6 py-5">
+                {price && p.offer.offerPrice && (
+                  <p className="text-ink">
+                    Offer price <strong className="text-xl text-offer">{price}</strong>
+                    {was && <> instead of <s>{was}</s></>}
+                    {p.price?.basis && <span className="text-muted"> {p.price.basis}</span>}
+                  </p>
+                )}
+                {p.offer.details && <p className="whitespace-pre-line text-ink-soft">{p.offer.details}</p>}
+                {p.offer.validUntil && (
+                  <p className="text-sm font-medium text-offer">Offer valid until {formatDate(p.offer.validUntil)}</p>
+                )}
+                <a href="#enquire" className="mt-2 inline-block text-sm font-semibold text-gold underline-offset-4 hover:underline">
+                  Enquire about this offer →
+                </a>
+              </div>
+            </section>
+          )}
+
           {p.isSample && (
             <div className="mb-10 rounded-2xl border border-dashed border-amber-600/50 bg-amber-50 p-5 text-sm text-amber-900">
               <SampleBadge className="mb-2" label="Sample package" />
@@ -265,8 +297,16 @@ export default async function PackagePage({ params }: PageProps<"/packages/[slug
               }
             : {}),
           // Only publish an Offer when a real price has been entered in the CMS.
-          ...(price && p.price?.amount
-            ? { offers: { "@type": "Offer", price: p.price.amount, priceCurrency: p.price.currency || "INR", url: `${siteUrl}/packages/${p.slug}` } }
+          ...(price && (p.offer?.offerPrice || p.price?.amount)
+            ? {
+                offers: {
+                  "@type": "Offer",
+                  price: p.offer?.offerPrice || p.price?.amount,
+                  priceCurrency: p.price?.currency || "INR",
+                  url: `${siteUrl}/packages/${p.slug}`,
+                  ...(p.offer?.offerPrice && p.offer.validUntil ? { priceValidUntil: p.offer.validUntil } : {}),
+                },
+              }
             : {}),
         }}
       />

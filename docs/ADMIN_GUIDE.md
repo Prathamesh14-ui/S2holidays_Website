@@ -72,6 +72,36 @@ Give staff the lowest role they need.
   The homepage shows up to 6, ordered by *Homepage position*. If none are featured, the first six
   packages are shown.
 
+## Offers and discounts
+
+Every holiday package has an **Offer** tab. Offers appear on the website automatically and **disappear by
+themselves after their end date** (within about an hour).
+
+**Add an offer to a package**
+1. Holiday packages → open the package → **Offer** tab.
+2. Fill in:
+   - **Offer is on**: leave ticked (untick later to hide the offer without deleting it).
+   - **Offer name**: e.g. "Diwali Special" (required).
+   - **Offer price**: the discounted price. If the normal price is set on the **Price** tab, the website
+     shows it crossed out (~~₹45,999~~ **₹39,999**) and works out "Save 13%" automatically.
+   - **Badge text** (optional): short label on the photo, e.g. "Free airport pickup". Leave empty to show
+     "Save X%".
+   - **Offer details**: conditions, e.g. "Book before 15 Nov. Minimum 2 adults."
+   - **Valid until**: the last day of the offer.
+   - **Show in "Special offers" on the homepage**: ticked by default.
+3. Click **Publish**.
+
+**Where offers appear:** a red badge on the package photo, the offer price on package cards, an offer box on
+the package page, the **Special offers** section on the homepage (only while at least one offer is live),
+and the **Offers** filter on the Packages page (`/packages?offer=1`).
+
+**Announcement bar (festival sales):** Site settings → **Announcement bar** tab → tick **Show the bar**,
+write the text (e.g. "🪔 Diwali sale: up to 15% off — book by 15 Nov"), add a link such as
+`/packages?offer=1` (opens all offers), set **Show until**, and click **Publish**. It shows at the very top of
+every page and hides itself after the date.
+
+**Remove an offer:** untick **Offer is on** (keeps it for next year) or clear the fields, then **Publish**.
+
 ## Homepage slideshow
 
 The big photo at the top of the homepage is a slideshow that fades to a new, randomly chosen photo every

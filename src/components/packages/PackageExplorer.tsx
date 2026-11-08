@@ -2,7 +2,7 @@
 
 import { useMemo } from "react";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
-import { SlidersHorizontal, X } from "lucide-react";
+import { SlidersHorizontal, Tag, X } from "lucide-react";
 import { PackageCard } from "./PackageCard";
 import type { HolidayPackage } from "@/lib/types";
 import { cn } from "@/lib/format";
@@ -22,6 +22,8 @@ export function PackageExplorer({ packages }: { packages: HolidayPackage[] }) {
   const destination = params.get("destination") || "";
   const theme = params.get("theme") || "";
   const duration = params.get("duration") || "";
+  const offerOnly = params.get("offer") === "1";
+  const offerCount = packages.filter((p) => p.offer).length;
 
   const destinations = useMemo(() => {
     const m = new Map<string, string>();
@@ -31,6 +33,7 @@ export function PackageExplorer({ packages }: { packages: HolidayPackage[] }) {
   const themes = useMemo(() => [...new Set(packages.flatMap((p) => p.themes || []))].sort(), [packages]);
 
   const results = packages.filter((p) => {
+    if (offerOnly && !p.offer) return false;
     if (region && p.region !== region) return false;
     if (destination && !p.destinations.some((d) => d.slug === destination)) return false;
     if (theme && !(p.themes || []).includes(theme)) return false;
@@ -50,7 +53,7 @@ export function PackageExplorer({ packages }: { packages: HolidayPackage[] }) {
     const qs = next.toString();
     router.replace(qs ? `${pathname}?${qs}` : pathname, { scroll: false });
   };
-  const active = region || destination || theme || duration;
+  const active = region || destination || theme || duration || offerOnly;
 
   const select =
     "h-11 w-full cursor-pointer rounded-full border border-line bg-white px-4 text-sm text-ink focus:border-gold focus:outline-none";
@@ -80,6 +83,19 @@ export function PackageExplorer({ packages }: { packages: HolidayPackage[] }) {
               {l}
             </button>
           ))}
+          {(offerCount > 0 || offerOnly) && (
+            <button
+              type="button"
+              aria-pressed={offerOnly}
+              onClick={() => set("offer", offerOnly ? "" : "1")}
+              className={cn(
+                "inline-flex items-center gap-1.5 rounded-full px-5 py-2 text-sm font-semibold transition-colors",
+                offerOnly ? "bg-offer text-white" : "bg-offer/10 text-offer hover:bg-offer/20"
+              )}
+            >
+              <Tag aria-hidden className="h-4 w-4" /> Offers{offerCount > 0 && ` (${offerCount})`}
+            </button>
+          )}
         </div>
         <div className="mt-4 grid gap-3 sm:grid-cols-3">
           <label className="block">

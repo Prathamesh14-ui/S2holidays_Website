@@ -12,7 +12,7 @@ import { EnquiryBand } from "@/components/layout/EnquiryBand";
 import { TripFinder } from "@/components/home/TripFinder";
 import { HeroSlideshow } from "@/components/home/HeroSlideshow";
 import type { HeroSlide } from "@/lib/types";
-import { getDestinations, getFeaturedPackages, getPackages, getPosts, getService, getSettings, getTestimonials } from "@/lib/content";
+import { getDestinations, getFeaturedPackages, getOfferPackages, getPackages, getPosts, getService, getSettings, getTestimonials } from "@/lib/content";
 import { formatDate, cn } from "@/lib/format";
 import { pageMetadata } from "@/lib/seo";
 
@@ -35,7 +35,7 @@ const pillars = [
 ];
 
 export default async function HomePage() {
-  const [settings, destinations, featured, allPackages, posts, testimonials, mumbai] = await Promise.all([
+  const [settings, destinations, featured, allPackages, posts, testimonials, mumbai, offers] = await Promise.all([
     getSettings(),
     getDestinations(),
     getFeaturedPackages(6),
@@ -43,6 +43,7 @@ export default async function HomePage() {
     getPosts(),
     getTestimonials(),
     getService("mumbai-sightseeing"),
+    getOfferPackages(6),
   ]);
   const countFor = (slug: string) => allPackages.filter((p) => p.destinations.some((d) => d.slug === slug)).length;
   const pick = (region: "domestic" | "international") => {
@@ -129,9 +130,32 @@ export default async function HomePage() {
       </section>
       )}
 
+      {/* SPECIAL OFFERS (only while at least one offer is live) */}
+      {offers.length > 0 && (
+        <section aria-labelledby="offers-title" className="bg-offer/[0.06] py-20 sm:py-24">
+          <Container>
+            <div className="flex flex-col justify-between gap-6 sm:flex-row sm:items-end">
+              <div data-reveal className="max-w-2xl">
+                <p className="mb-3 text-xs font-semibold uppercase tracking-[0.28em] text-offer">Limited time</p>
+                <h2 id="offers-title" className="text-4xl leading-[1.1] text-ink sm:text-5xl">Special offers</h2>
+                <p className="mt-4 text-base leading-relaxed text-muted sm:text-lg">Seasonal deals on selected holidays — book before they end.</p>
+              </div>
+              <ButtonLink href="/packages?offer=1" variant="outline" className="shrink-0">All offers</ButtonLink>
+            </div>
+            <ul className="mt-12 grid gap-7 sm:grid-cols-2 lg:grid-cols-3">
+              {offers.map((p, i) => (
+                <li key={p._id} data-reveal style={{ transitionDelay: `${(i % 3) * 90}ms` }}>
+                  <PackageCard pkg={p} />
+                </li>
+              ))}
+            </ul>
+          </Container>
+        </section>
+      )}
+
       {/* DOMESTIC */}
       {domestic.length > 0 && (
-        <section className="pb-24 sm:pb-32">
+        <section className={cn("pb-24 sm:pb-32", offers.length > 0 && "pt-24 sm:pt-32")}>
           <Container>
             <div className="flex flex-col justify-between gap-6 sm:flex-row sm:items-end">
               <SectionHeading eyebrow="Discover India" title="From the Himalaya to the backwaters" />

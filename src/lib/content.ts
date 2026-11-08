@@ -10,6 +10,7 @@
  */
 import { cacheLife, cacheTag } from "next/cache";
 import { isSanityConfigured, envWhatsapp } from "./env";
+import { isOfferActive, offerEndsAt } from "./offers";
 import type {
   Destination,
   Faq,
@@ -37,13 +38,35 @@ async function fetchSanity<T>(query: string, params: Record<string, unknown> = {
 
 export const usingSampleContent = !isSanityConfigured;
 
+/**
+ * "Now" for offer/announcement expiry. Cached together with the content (refreshed at
+ * least hourly and whenever an editor publishes), so expired offers disappear within ~1 hour.
+ */
+async function cachedNow(): Promise<number> {
+  "use cache";
+  cacheLife("hours");
+  cacheTag("sanity");
+  return Date.now();
+}
+
+function normalizePackage(p: HolidayPackage, now: number): HolidayPackage {
+  return {
+    ...p,
+    destinations: (p.destinations ?? []).filter(Boolean),
+    offer: isOfferActive(p.offer, now) ? p.offer : undefined,
+  };
+}
+
 export async function getSettings(): Promise<SiteSettings> {
   if (!isSanityConfigured) {
     return { ...sample.sampleSettings, whatsapp: envWhatsapp || undefined };
   }
-  const s = await fetchSanity<Partial<SiteSettings> | null>(q.settingsQuery);
+  const [s, now] = await Promise.all([fetchSanity<Partial<SiteSettings> | null>(q.settingsQuery), cachedNow()]);
+  const a = s?.announcement;
+  const end = offerEndsAt(a?.validUntil);
   return {
     ...s,
+    announcement: a && a.active !== false && a.text?.trim() && (end === null || now <= end) ? a : undefined,
     companyName: s?.companyName || "S2 Holidays",
     whatsapp: (s?.whatsapp || envWhatsapp || "").replace(/\D/g, "") || undefined,
   } as SiteSettings;
@@ -62,8 +85,11 @@ export async function getDestination(slug: string): Promise<Destination | null> 
 }
 
 export async function getPackages(filter?: { region?: Region; destinationSlug?: string }): Promise<HolidayPackage[]> {
-  let all = isSanityConfigured ? ((await fetchSanity<HolidayPackage[] | null>(q.packagesQuery)) ?? []) : sample.samplePackages;
-  all = all.map((p) => ({ ...p, destinations: (p.destinations ?? []).filter(Boolean) }));
+  const [raw, now] = await Promise.all([
+    isSanityConfigured ? fetchSanity<HolidayPackage[] | null>(q.packagesQuery) : Promise.resolve(sample.samplePackages),
+    cachedNow(),
+  ]);
+  let all = (raw ?? []).map((p) => normalizePackage(p, now));
   if (filter?.region) all = all.filter((p) => p.region === filter.region);
   if (filter?.destinationSlug) all = all.filter((p) => p.destinations.some((d) => d.slug === filter.destinationSlug));
   return all;
@@ -77,10 +103,20 @@ export async function getFeaturedPackages(limit = 6): Promise<HolidayPackage[]> 
   return (featured.length ? featured : all).slice(0, limit);
 }
 
+/** Packages with a live offer, soonest-ending first (for the homepage "Special offers"). */
+export async function getOfferPackages(limit = 6): Promise<HolidayPackage[]> {
+  const all = await getPackages();
+  const end = (p: HolidayPackage) => offerEndsAt(p.offer?.validUntil) ?? Number.MAX_SAFE_INTEGER;
+  return all
+    .filter((p) => p.offer && p.offer.showOnHomepage !== false)
+    .sort((a, b) => end(a) - end(b))
+    .slice(0, limit);
+}
+
 export async function getPackage(slug: string): Promise<HolidayPackage | null> {
   if (!isSanityConfigured) return sample.samplePackages.find((p) => p.slug === slug) ?? null;
-  const p = await fetchSanity<HolidayPackage | null>(q.packageBySlugQuery, { slug });
-  return p ? { ...p, destinations: (p.destinations ?? []).filter(Boolean) } : null;
+  const [p, now] = await Promise.all([fetchSanity<HolidayPackage | null>(q.packageBySlugQuery, { slug }), cachedNow()]);
+  return p ? normalizePackage(p, now) : null;
 }
 
 const SERVICE_TITLES: Record<ServiceKey, { title: string; tagline: string }> = {
