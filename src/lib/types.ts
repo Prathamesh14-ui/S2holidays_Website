@@ -162,6 +162,7 @@ export type SiteSettings = {
   heroImage?: SiteImage;
   heroSlides?: HeroSlide[];
   announcement?: Announcement;
+  homepageSections?: string[];
   aboutTitle?: string;
   aboutBody?: RichText;
   aboutImage?: SiteImage;

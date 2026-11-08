@@ -30,7 +30,7 @@ if (process.env.MOCK_OFFERS) {
   pkgs[2].offer = { active: false, title: "Switched off" };
   pkgs[4].offer = { active: true, title: "Early-bird offer", badge: "Free desert safari", details: "Free desert safari on bookings this month." };
 }
-const settings = { ...strip(s.sampleSettings), companyName: "S2 Holidays", phone: "+91 00000 00000", email: "test@example.invalid", heroImage: process.env.MOCK_NO_HERO ? null : toSanityImg(s.sampleSettings.heroImage), aboutImage: null, announcement: process.env.MOCK_OFFERS ? { active: true, text: "🪔 Diwali sale: up to 15% off selected holidays — book by 15 Nov", link: "/packages?offer=1" } : null };
+const settings = { ...strip(s.sampleSettings), companyName: "S2 Holidays", phone: "+91 00000 00000", email: "test@example.invalid", heroImage: process.env.MOCK_NO_HERO ? null : toSanityImg(s.sampleSettings.heroImage), aboutImage: null, homepageSections: process.env.MOCK_ORDER ? process.env.MOCK_ORDER.split(",") : null, announcement: process.env.MOCK_OFFERS ? { active: true, text: "🪔 Diwali sale: up to 15% off selected holidays — book by 15 Nov", link: "/packages?offer=1" } : null };
 const services = s.sampleServices.map((x) => ({ ...strip(x), heroImage: toSanityImg(x.heroImage) }));
 const posts = s.samplePosts.map((x) => ({ ...strip(x), coverImage: toSanityImg(x.coverImage) }));
 const testimonials = [{ _id: "t1", name: "Mock Reviewer", location: "Test City", quote: "MOCK testimonial used only by the automated CMS test.", tripName: "Mock trip" }];

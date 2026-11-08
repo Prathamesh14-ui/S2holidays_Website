@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { Fragment } from "react";
 import type { Metadata } from "next";
 import { Car, Compass, Globe2, Landmark, Mountain, Quote } from "lucide-react";
 import { AppImage } from "@/components/ui/AppImage";
@@ -15,6 +16,7 @@ import type { HeroSlide } from "@/lib/types";
 import { getDestinations, getFeaturedPackages, getOfferPackages, getPackages, getPosts, getService, getSettings, getTestimonials } from "@/lib/content";
 import { formatDate, cn } from "@/lib/format";
 import { pageMetadata } from "@/lib/seo";
+import { resolveHomeOrder, type HomeSectionKey } from "@/lib/homepage-sections";
 
 export const metadata: Metadata = {
   ...pageMetadata({
@@ -62,6 +64,221 @@ export default async function HomePage() {
       : destinationSlides;
   const domestic = pick("domestic");
   const international = pick("international");
+
+  const sections: Record<HomeSectionKey, React.ReactNode> = {
+    featured: (
+      <>
+          {/* FEATURED PACKAGES (hidden until at least one package exists) */}
+          {featured.length > 0 && (
+          <section className="py-14 sm:py-16">
+            <Container>
+              <div className="flex flex-col justify-between gap-6 sm:flex-row sm:items-end">
+                <SectionHeading eyebrow="Featured holidays" title="Trips worth packing for" intro="A selection of itineraries to start from. Every trip can be adjusted to your dates and pace." />
+                <ButtonLink href="/packages" variant="outline" className="shrink-0">All packages</ButtonLink>
+              </div>
+              <ul className="mt-12 grid gap-7 sm:grid-cols-2 lg:grid-cols-3">
+                {featured.map((p, i) => (
+                  <li key={p._id} data-reveal style={{ transitionDelay: `${(i % 3) * 90}ms` }}>
+                    <PackageCard pkg={p} />
+                  </li>
+                ))}
+              </ul>
+            </Container>
+          </section>
+          )}
+      </>
+    ),
+    offers: (
+      <>
+          {/* SPECIAL OFFERS (only while at least one offer is live) */}
+          {offers.length > 0 && (
+            <section aria-labelledby="offers-title" className="bg-offer/[0.06] py-20 sm:py-24">
+              <Container>
+                <div className="flex flex-col justify-between gap-6 sm:flex-row sm:items-end">
+                  <div data-reveal className="max-w-2xl">
+                    <p className="mb-3 text-xs font-semibold uppercase tracking-[0.28em] text-offer">Limited time</p>
+                    <h2 id="offers-title" className="text-4xl leading-[1.1] text-ink sm:text-5xl">Special offers</h2>
+                    <p className="mt-4 text-base leading-relaxed text-muted sm:text-lg">Seasonal deals on selected holidays — book before they end.</p>
+                  </div>
+                  <ButtonLink href="/packages?offer=1" variant="outline" className="shrink-0">All offers</ButtonLink>
+                </div>
+                <ul className="mt-12 grid gap-7 sm:grid-cols-2 lg:grid-cols-3">
+                  {offers.map((p, i) => (
+                    <li key={p._id} data-reveal style={{ transitionDelay: `${(i % 3) * 90}ms` }}>
+                      <PackageCard pkg={p} />
+                    </li>
+                  ))}
+                </ul>
+              </Container>
+            </section>
+          )}
+      </>
+    ),
+    domestic: (
+      <>
+          {/* DOMESTIC */}
+          {domestic.length > 0 && (
+            <section className="py-14 sm:py-16">
+              <Container>
+                <div className="flex flex-col justify-between gap-6 sm:flex-row sm:items-end">
+                  <SectionHeading eyebrow="Discover India" title="From the Himalaya to the backwaters" />
+                  <ButtonLink href="/destinations/domestic" variant="outline" className="shrink-0">All India destinations</ButtonLink>
+                </div>
+                <div className="mt-12 grid gap-5 md:grid-cols-6">
+                  {domestic.map((d, i) => (
+                    <div key={d._id} data-reveal className={cn(i < 2 ? "md:col-span-3" : "md:col-span-2")}>
+                      <DestinationCard destination={d} size={i < 2 ? "lg" : "md"} packageCount={countFor(d.slug)} className="h-full" />
+                    </div>
+                  ))}
+                </div>
+              </Container>
+            </section>
+          )}
+      </>
+    ),
+    international: (
+      <>
+          {/* INTERNATIONAL */}
+          {international.length > 0 && (
+            <section className="bg-ink py-20 sm:py-24">
+              <Container>
+                <div className="flex flex-col justify-between gap-6 sm:flex-row sm:items-end">
+                  <SectionHeading light eyebrow="Beyond borders" title="International escapes" intro="Island resorts, city lights and alpine scenery." />
+                  <ButtonLink href="/destinations/international" variant="ghost-light" className="shrink-0">All international</ButtonLink>
+                </div>
+                <div className="mt-12 grid gap-5 md:grid-cols-6">
+                  {international.map((d, i) => (
+                    <div key={d._id} data-reveal className={cn(i < 2 ? "md:col-span-3" : "md:col-span-2")}>
+                      <DestinationCard destination={d} size={i < 2 ? "lg" : "md"} packageCount={countFor(d.slug)} className="h-full" />
+                    </div>
+                  ))}
+                </div>
+              </Container>
+            </section>
+          )}
+      </>
+    ),
+    services: (
+      <>
+          {/* MUMBAI SERVICES */}
+          <section className="py-14 sm:py-16">
+            <Container className="grid items-center gap-12 lg:grid-cols-2 lg:gap-20">
+              <div data-reveal className="relative aspect-[4/5] overflow-hidden rounded-[2rem] shadow-lift sm:aspect-[5/4] lg:aspect-[4/5]">
+                <AppImage image={mumbai?.heroImage} alt="Mumbai" sizes="(min-width: 1024px) 50vw, 100vw" />
+                <div className="absolute bottom-5 left-5 right-5 rounded-2xl bg-white/90 p-5 backdrop-blur sm:right-auto sm:max-w-xs">
+                  <p className="text-xs font-semibold uppercase tracking-[0.25em] text-gold">Based in Mumbai</p>
+                  <p className="mt-1 font-display text-2xl font-semibold text-ink">Local services, on the ground</p>
+                </div>
+              </div>
+              <div>
+                <SectionHeading eyebrow="In and around Mumbai" title="Sightseeing, cars and guides" intro="Whether you're visiting the city or setting off from it, we can arrange the local travel." />
+                <ul className="mt-10 space-y-4">
+                  {pillars.slice(2).map(({ icon: Icon, ...p }) => (
+                    <li key={p.href} data-reveal>
+                      <Link href={p.href} className="group flex items-start gap-5 rounded-2xl border border-line bg-white p-5 transition-all hover:border-gold/50 hover:shadow-card">
+                        <span className="flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-gold-soft text-gold-deep">
+                          <Icon aria-hidden className="h-5 w-5" />
+                        </span>
+                        <span>
+                          <span className="block font-display text-2xl font-semibold text-ink">{p.title}</span>
+                          <span className="mt-1 block text-sm text-muted">{p.text}</span>
+                        </span>
+                        <span aria-hidden className="ml-auto self-center text-gold transition-transform group-hover:translate-x-1">→</span>
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </Container>
+          </section>
+      </>
+    ),
+    values: (
+      <>
+          {/* VALUES */}
+          {!!settings.values?.length && (
+            <section className="border-y border-line bg-sand-deep/50 py-20 sm:py-24">
+              <Container>
+                <SectionHeading align="center" eyebrow="How we plan" title="Holidays, handled with care" />
+                {settings.isSample && (
+                  <p className="mt-4 text-center"><SampleBadge label="Sample wording — confirm with S2 Holidays" /></p>
+                )}
+                <ul className="mt-14 grid gap-10 md:grid-cols-3">
+                  {settings.values.map((v, i) => (
+                    <li key={v.title} data-reveal className="text-center">
+                      <span className="font-display text-5xl text-gold/70">0{i + 1}</span>
+                      <h3 className="mt-3 text-2xl text-ink">{v.title}</h3>
+                      {v.description && <p className="mx-auto mt-2 max-w-xs text-sm leading-relaxed text-muted">{v.description}</p>}
+                    </li>
+                  ))}
+                </ul>
+              </Container>
+            </section>
+          )}
+      </>
+    ),
+    testimonials: (
+      <>
+          {/* TESTIMONIALS — only verified, consented reviews from the CMS */}
+          {testimonials.length > 0 && (
+            <section className="py-14 sm:py-16">
+              <Container>
+                <SectionHeading align="center" eyebrow="Traveller stories" title="In their words" />
+                <ul className="mt-14 grid gap-6 md:grid-cols-3">
+                  {testimonials.slice(0, 3).map((t) => (
+                    <li key={t._id} data-reveal>
+                      <figure className="flex h-full flex-col rounded-3xl bg-white p-8 shadow-card">
+                        <Quote aria-hidden className="h-8 w-8 text-gold/60" />
+                        <blockquote className="mt-4 flex-1 font-display text-xl leading-relaxed text-ink">“{t.quote}”</blockquote>
+                        <figcaption className="mt-6 text-sm">
+                          <span className="font-semibold text-ink">{t.name}</span>
+                          {t.location && <span className="text-muted"> · {t.location}</span>}
+                          {t.tripName && <span className="block text-muted">{t.tripName}</span>}
+                        </figcaption>
+                      </figure>
+                    </li>
+                  ))}
+                </ul>
+              </Container>
+            </section>
+          )}
+      </>
+    ),
+    journal: (
+      <>
+          {/* JOURNAL */}
+          {posts.length > 0 && (
+            <section className="py-14 sm:py-16">
+              <Container>
+                <div className="flex flex-col justify-between gap-6 sm:flex-row sm:items-end">
+                  <SectionHeading eyebrow="Travel journal" title="Ideas and practical tips" />
+                  <ButtonLink href="/blog" variant="outline" className="shrink-0">Read the journal</ButtonLink>
+                </div>
+                <ul className="mt-12 grid gap-8 md:grid-cols-3">
+                  {posts.slice(0, 3).map((post) => (
+                    <li key={post._id} data-reveal>
+                      <article className="group relative">
+                        <div className="relative aspect-[3/2] overflow-hidden rounded-3xl">
+                          <AppImage image={post.coverImage} alt={post.title} sizes="(min-width: 768px) 33vw, 100vw" className="transition-transform duration-[1.2s] group-hover:scale-105" />
+                        </div>
+                        <p className="mt-5 text-xs uppercase tracking-wider text-muted">
+                          {formatDate(post.publishedAt)}{post.categories?.[0] && ` · ${post.categories[0]}`}
+                        </p>
+                        <h3 className="mt-2 text-2xl leading-snug text-ink transition-colors group-hover:text-gold-deep">
+                          <Link href={`/blog/${post.slug}`} className="after:absolute after:inset-0">{post.title}</Link>
+                        </h3>
+                        {post.excerpt && <p className="mt-2 line-clamp-2 text-sm text-muted">{post.excerpt}</p>}
+                      </article>
+                    </li>
+                  ))}
+                </ul>
+              </Container>
+            </section>
+          )}
+      </>
+    ),
+  };
+  const order = resolveHomeOrder(settings.homepageSections);
 
   return (
     <>
@@ -111,192 +328,12 @@ export default async function HomePage() {
         </Container>
       </section>
 
-      {/* FEATURED PACKAGES (hidden until at least one package exists) */}
-      {featured.length > 0 && (
-      <section className="py-24 sm:py-32">
-        <Container>
-          <div className="flex flex-col justify-between gap-6 sm:flex-row sm:items-end">
-            <SectionHeading eyebrow="Featured holidays" title="Trips worth packing for" intro="A selection of itineraries to start from. Every trip can be adjusted to your dates and pace." />
-            <ButtonLink href="/packages" variant="outline" className="shrink-0">All packages</ButtonLink>
-          </div>
-          <ul className="mt-12 grid gap-7 sm:grid-cols-2 lg:grid-cols-3">
-            {featured.map((p, i) => (
-              <li key={p._id} data-reveal style={{ transitionDelay: `${(i % 3) * 90}ms` }}>
-                <PackageCard pkg={p} />
-              </li>
-            ))}
-          </ul>
-        </Container>
-      </section>
-      )}
-
-      {/* SPECIAL OFFERS (only while at least one offer is live) */}
-      {offers.length > 0 && (
-        <section aria-labelledby="offers-title" className="bg-offer/[0.06] py-20 sm:py-24">
-          <Container>
-            <div className="flex flex-col justify-between gap-6 sm:flex-row sm:items-end">
-              <div data-reveal className="max-w-2xl">
-                <p className="mb-3 text-xs font-semibold uppercase tracking-[0.28em] text-offer">Limited time</p>
-                <h2 id="offers-title" className="text-4xl leading-[1.1] text-ink sm:text-5xl">Special offers</h2>
-                <p className="mt-4 text-base leading-relaxed text-muted sm:text-lg">Seasonal deals on selected holidays — book before they end.</p>
-              </div>
-              <ButtonLink href="/packages?offer=1" variant="outline" className="shrink-0">All offers</ButtonLink>
-            </div>
-            <ul className="mt-12 grid gap-7 sm:grid-cols-2 lg:grid-cols-3">
-              {offers.map((p, i) => (
-                <li key={p._id} data-reveal style={{ transitionDelay: `${(i % 3) * 90}ms` }}>
-                  <PackageCard pkg={p} />
-                </li>
-              ))}
-            </ul>
-          </Container>
-        </section>
-      )}
-
-      {/* DOMESTIC */}
-      {domestic.length > 0 && (
-        <section className={cn("pb-24 sm:pb-32", offers.length > 0 && "pt-24 sm:pt-32")}>
-          <Container>
-            <div className="flex flex-col justify-between gap-6 sm:flex-row sm:items-end">
-              <SectionHeading eyebrow="Discover India" title="From the Himalaya to the backwaters" />
-              <ButtonLink href="/destinations/domestic" variant="outline" className="shrink-0">All India destinations</ButtonLink>
-            </div>
-            <div className="mt-12 grid gap-5 md:grid-cols-6">
-              {domestic.map((d, i) => (
-                <div key={d._id} data-reveal className={cn(i < 2 ? "md:col-span-3" : "md:col-span-2")}>
-                  <DestinationCard destination={d} size={i < 2 ? "lg" : "md"} packageCount={countFor(d.slug)} className="h-full" />
-                </div>
-              ))}
-            </div>
-          </Container>
-        </section>
-      )}
-
-      {/* INTERNATIONAL */}
-      {international.length > 0 && (
-        <section className="bg-ink py-24 sm:py-32">
-          <Container>
-            <div className="flex flex-col justify-between gap-6 sm:flex-row sm:items-end">
-              <SectionHeading light eyebrow="Beyond borders" title="International escapes" intro="Island resorts, city lights and alpine scenery." />
-              <ButtonLink href="/destinations/international" variant="ghost-light" className="shrink-0">All international</ButtonLink>
-            </div>
-            <div className="mt-12 grid gap-5 md:grid-cols-6">
-              {international.map((d, i) => (
-                <div key={d._id} data-reveal className={cn(i < 2 ? "md:col-span-3" : "md:col-span-2")}>
-                  <DestinationCard destination={d} size={i < 2 ? "lg" : "md"} packageCount={countFor(d.slug)} className="h-full" />
-                </div>
-              ))}
-            </div>
-          </Container>
-        </section>
-      )}
-
-      {/* MUMBAI SERVICES */}
-      <section className="py-24 sm:py-32">
-        <Container className="grid items-center gap-12 lg:grid-cols-2 lg:gap-20">
-          <div data-reveal className="relative aspect-[4/5] overflow-hidden rounded-[2rem] shadow-lift sm:aspect-[5/4] lg:aspect-[4/5]">
-            <AppImage image={mumbai?.heroImage} alt="Mumbai" sizes="(min-width: 1024px) 50vw, 100vw" />
-            <div className="absolute bottom-5 left-5 right-5 rounded-2xl bg-white/90 p-5 backdrop-blur sm:right-auto sm:max-w-xs">
-              <p className="text-xs font-semibold uppercase tracking-[0.25em] text-gold">Based in Mumbai</p>
-              <p className="mt-1 font-display text-2xl font-semibold text-ink">Local services, on the ground</p>
-            </div>
-          </div>
-          <div>
-            <SectionHeading eyebrow="In and around Mumbai" title="Sightseeing, cars and guides" intro="Whether you're visiting the city or setting off from it, we can arrange the local travel." />
-            <ul className="mt-10 space-y-4">
-              {pillars.slice(2).map(({ icon: Icon, ...p }) => (
-                <li key={p.href} data-reveal>
-                  <Link href={p.href} className="group flex items-start gap-5 rounded-2xl border border-line bg-white p-5 transition-all hover:border-gold/50 hover:shadow-card">
-                    <span className="flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-gold-soft text-gold-deep">
-                      <Icon aria-hidden className="h-5 w-5" />
-                    </span>
-                    <span>
-                      <span className="block font-display text-2xl font-semibold text-ink">{p.title}</span>
-                      <span className="mt-1 block text-sm text-muted">{p.text}</span>
-                    </span>
-                    <span aria-hidden className="ml-auto self-center text-gold transition-transform group-hover:translate-x-1">→</span>
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-        </Container>
-      </section>
-
-      {/* VALUES */}
-      {!!settings.values?.length && (
-        <section className="border-y border-line bg-sand-deep/50 py-24">
-          <Container>
-            <SectionHeading align="center" eyebrow="How we plan" title="Holidays, handled with care" />
-            {settings.isSample && (
-              <p className="mt-4 text-center"><SampleBadge label="Sample wording — confirm with S2 Holidays" /></p>
-            )}
-            <ul className="mt-14 grid gap-10 md:grid-cols-3">
-              {settings.values.map((v, i) => (
-                <li key={v.title} data-reveal className="text-center">
-                  <span className="font-display text-5xl text-gold/70">0{i + 1}</span>
-                  <h3 className="mt-3 text-2xl text-ink">{v.title}</h3>
-                  {v.description && <p className="mx-auto mt-2 max-w-xs text-sm leading-relaxed text-muted">{v.description}</p>}
-                </li>
-              ))}
-            </ul>
-          </Container>
-        </section>
-      )}
-
-      {/* TESTIMONIALS — only verified, consented reviews from the CMS */}
-      {testimonials.length > 0 && (
-        <section className="py-24 sm:py-32">
-          <Container>
-            <SectionHeading align="center" eyebrow="Traveller stories" title="In their words" />
-            <ul className="mt-14 grid gap-6 md:grid-cols-3">
-              {testimonials.slice(0, 3).map((t) => (
-                <li key={t._id} data-reveal>
-                  <figure className="flex h-full flex-col rounded-3xl bg-white p-8 shadow-card">
-                    <Quote aria-hidden className="h-8 w-8 text-gold/60" />
-                    <blockquote className="mt-4 flex-1 font-display text-xl leading-relaxed text-ink">“{t.quote}”</blockquote>
-                    <figcaption className="mt-6 text-sm">
-                      <span className="font-semibold text-ink">{t.name}</span>
-                      {t.location && <span className="text-muted"> · {t.location}</span>}
-                      {t.tripName && <span className="block text-muted">{t.tripName}</span>}
-                    </figcaption>
-                  </figure>
-                </li>
-              ))}
-            </ul>
-          </Container>
-        </section>
-      )}
-
-      {/* JOURNAL */}
-      {posts.length > 0 && (
-        <section className={cn("pb-24 sm:pb-32", testimonials.length === 0 && "pt-24 sm:pt-32")}>
-          <Container>
-            <div className="flex flex-col justify-between gap-6 sm:flex-row sm:items-end">
-              <SectionHeading eyebrow="Travel journal" title="Ideas and practical tips" />
-              <ButtonLink href="/blog" variant="outline" className="shrink-0">Read the journal</ButtonLink>
-            </div>
-            <ul className="mt-12 grid gap-8 md:grid-cols-3">
-              {posts.slice(0, 3).map((post) => (
-                <li key={post._id} data-reveal>
-                  <article className="group relative">
-                    <div className="relative aspect-[3/2] overflow-hidden rounded-3xl">
-                      <AppImage image={post.coverImage} alt={post.title} sizes="(min-width: 768px) 33vw, 100vw" className="transition-transform duration-[1.2s] group-hover:scale-105" />
-                    </div>
-                    <p className="mt-5 text-xs uppercase tracking-wider text-muted">
-                      {formatDate(post.publishedAt)}{post.categories?.[0] && ` · ${post.categories[0]}`}
-                    </p>
-                    <h3 className="mt-2 text-2xl leading-snug text-ink transition-colors group-hover:text-gold-deep">
-                      <Link href={`/blog/${post.slug}`} className="after:absolute after:inset-0">{post.title}</Link>
-                    </h3>
-                    {post.excerpt && <p className="mt-2 line-clamp-2 text-sm text-muted">{post.excerpt}</p>}
-                  </article>
-                </li>
-              ))}
-            </ul>
-          </Container>
-        </section>
-      )}
+      {/* REORDERABLE SECTIONS (Site settings → Homepage → Homepage sections) */}
+      <div className="pb-10 pt-12 sm:pb-16 sm:pt-16">
+        {order.map((key) => (
+          <Fragment key={key}>{sections[key]}</Fragment>
+        ))}
+      </div>
 
       <EnquiryBand whatsapp={settings.whatsapp} />
     </>

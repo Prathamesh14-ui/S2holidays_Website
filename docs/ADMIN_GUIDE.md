@@ -102,6 +102,20 @@ every page and hides itself after the date.
 
 **Remove an offer:** untick **Offer is on** (keeps it for next year) or clear the fields, then **Publish**.
 
+## Homepage layout (section order)
+
+**Site settings → Homepage → Homepage sections (order)** controls the order of the sections under the big
+photo: Featured packages, Special offers, India destinations, International destinations, Mumbai services,
+How we plan, Testimonials and Travel journal.
+
+1. Click **Add item** and choose a section; repeat for each section you want.
+2. **Drag** the ⋮⋮ handle to change the order (e.g. put **Special offers** first during a sale).
+3. A section that is **not in the list is hidden**. An **empty list** shows all sections in the standard order.
+4. Click **Publish**.
+
+The big photo at the top, the five service tiles and the enquiry banner at the bottom always stay in place.
+"Special offers" and "Testimonials" only appear when there is at least one live offer / approved testimonial.
+
 ## Homepage slideshow
 
 The big photo at the top of the homepage is a slideshow that fades to a new, randomly chosen photo every

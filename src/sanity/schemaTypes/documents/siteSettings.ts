@@ -1,6 +1,7 @@
 import { defineArrayMember, defineField, defineType } from "sanity";
 import { CogIcon } from "@sanity/icons/Cog";
 import { imageField, richTextField } from "../helpers";
+import { HOME_SECTIONS } from "@/lib/homepage-sections";
 
 export const siteSettings = defineType({
   name: "siteSettings",
@@ -9,7 +10,7 @@ export const siteSettings = defineType({
   icon: CogIcon,
   groups: [
     { name: "company", title: "Company & contact", default: true },
-    { name: "home", title: "Homepage hero" },
+    { name: "home", title: "Homepage" },
     { name: "announcement", title: "Announcement bar" },
     { name: "about", title: "About page" },
   ],
@@ -52,6 +53,38 @@ export const siteSettings = defineType({
     imageField("heroImage", "Hero image (single)", {
       group: "home",
       description: "Used only if no slideshow photos are added below. Landscape photo, at least 2400 px wide.",
+    }),
+    defineField({
+      name: "homepageSections",
+      title: "Homepage sections (order)",
+      type: "array",
+      group: "home",
+      description:
+        "Drag to change the order of the sections below the big photo. Remove a section to hide it. Leave the list empty to use the standard order. (The photo at the top and the enquiry banner at the bottom always stay.)",
+      of: [
+        defineArrayMember({
+          type: "object",
+          name: "homeSection",
+          fields: [
+            defineField({
+              name: "section",
+              title: "Section",
+              type: "string",
+              options: { list: HOME_SECTIONS.map((s) => ({ title: s.title, value: s.value })) },
+              validation: (r) => r.required(),
+            }),
+          ],
+          preview: {
+            select: { section: "section" },
+            prepare: ({ section }) => ({ title: HOME_SECTIONS.find((s) => s.value === section)?.title ?? "Choose a section" }),
+          },
+        }),
+      ],
+      validation: (r) =>
+        r.custom((items: { section?: string }[] | undefined) => {
+          const keys = (items ?? []).map((i) => i.section).filter(Boolean);
+          return new Set(keys).size === keys.length ? true : "Each section can only be listed once";
+        }),
     }),
     defineField({
       name: "heroSlides",

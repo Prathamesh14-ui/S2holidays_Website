@@ -39,3 +39,15 @@ describe("discount and badge", () => {
     expect(priceView({ ...base })).toMatchObject({ now: "₹20,000", was: null });
   });
 });
+
+import { DEFAULT_HOME_ORDER, resolveHomeOrder } from "@/lib/homepage-sections";
+
+describe("resolveHomeOrder", () => {
+  it("uses the default order when nothing is chosen", () => {
+    expect(resolveHomeOrder(undefined)).toEqual(DEFAULT_HOME_ORDER);
+    expect(resolveHomeOrder([])).toEqual(DEFAULT_HOME_ORDER);
+  });
+  it("follows the editor's order, drops unknown/duplicate keys and hides unlisted sections", () => {
+    expect(resolveHomeOrder(["offers", "featured", "bogus", "offers", null])).toEqual(["offers", "featured"]);
+  });
+});
