@@ -42,7 +42,7 @@ export const holidayPackage = defineType({
       type: "array",
       group: "content",
       of: [defineArrayMember({ type: "string" })],
-      options: { list: ["Family", "Honeymoon", "Friends", "Group tour", "Adventure", "Beach", "Heritage", "Nature", "Pilgrimage", "Shopping", "Luxury", "Wildlife"] },
+      options: { list: ["Family", "Honeymoon", "Couples", "Friends", "Group tour", "Adventure", "Beach", "Heritage", "Nature", "Pilgrimage", "Weekend getaway", "Budget", "City tour", "Shopping", "Luxury", "Wildlife"] },
     }),
     defineField({ name: "durationNights", title: "Nights", type: "number", group: "content", validation: (r) => r.integer().min(0).max(60) }),
     defineField({ name: "durationDays", title: "Days", type: "number", group: "content", validation: (r) => r.integer().min(1).max(61) }),
