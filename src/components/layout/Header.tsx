@@ -78,8 +78,8 @@ export function Header({
       <div className="mx-auto flex h-18 max-w-7xl items-center justify-between gap-6 px-4 sm:px-6 lg:h-20 lg:px-8">
         <Link href="/" className="relative block shrink-0" aria-label={`${companyName} home`}>
           {/* Two versions: white ™ over the dark hero, standard once the header turns white */}
-          <Logo priority className={cn("h-10 transition-opacity duration-300 sm:h-12 lg:h-14", solid ? "opacity-0" : "opacity-100")} onDark />
-          <Logo priority className={cn("absolute inset-0 h-10 transition-opacity duration-300 sm:h-12 lg:h-14", solid ? "opacity-100" : "opacity-0")} />
+          <Logo priority className={cn("h-10 transition-opacity duration-300 sm:h-12 lg:h-11 xl:h-14", solid ? "opacity-0" : "opacity-100")} onDark />
+          <Logo priority className={cn("absolute inset-0 h-10 transition-opacity duration-300 sm:h-12 lg:h-11 xl:h-14", solid ? "opacity-100" : "opacity-0")} />
         </Link>
 
         <nav ref={navRef} aria-label="Main" className="hidden lg:block">
@@ -101,7 +101,7 @@ export function Header({
                       setMenu(item.href);
                     }}
                     className={cn(
-                      "flex items-center gap-1 rounded-full px-3.5 py-2 text-sm font-medium transition-colors",
+                      "flex items-center gap-1 rounded-full px-2.5 py-2 text-sm font-medium transition-colors xl:px-3.5",
                       solid ? "text-ink hover:text-gold" : "text-white/90 hover:text-white",
                       isActive(item.href) && (solid ? "text-gold" : "text-white")
                     )}
@@ -140,7 +140,7 @@ export function Header({
                     href={item.href}
                     aria-current={isActive(item.href) ? "page" : undefined}
                     className={cn(
-                      "rounded-full px-3.5 py-2 text-sm font-medium transition-colors",
+                      "rounded-full px-2.5 py-2 text-sm font-medium transition-colors xl:px-3.5",
                       solid ? "text-ink hover:text-gold" : "text-white/90 hover:text-white",
                       isActive(item.href) && (solid ? "text-gold" : "text-white underline decoration-gold decoration-2 underline-offset-8")
                     )}
@@ -157,12 +157,12 @@ export function Header({
           {phone && (
             <a
               href={`tel:${phone.replace(/[^\d+]/g, "")}`}
-              className={cn("hidden items-center gap-2 text-sm font-medium xl:flex", solid ? "text-ink" : "text-white")}
+              className={cn("hidden items-center gap-2 whitespace-nowrap text-sm font-medium 2xl:flex", solid ? "text-ink" : "text-white")}
             >
               <Phone aria-hidden className="h-4 w-4 text-gold" /> {phone}
             </a>
           )}
-          <Link href="/contact#enquiry" className={buttonClass("gold", "px-5 py-2.5 max-sm:hidden")}>
+          <Link href="/contact#enquiry" className={buttonClass("gold", "whitespace-nowrap px-5 py-2.5 max-sm:hidden")}>
             Plan my trip
           </Link>
           <button
