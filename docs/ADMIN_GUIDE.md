@@ -102,6 +102,24 @@ every page and hides itself after the date.
 
 **Remove an offer:** untick **Offer is on** (keeps it for next year) or clear the fields, then **Publish**.
 
+## Trip planner ("Plan my trip")
+
+Customers build their own trip at **/plan-my-trip**: they choose a destination, dates and travellers, add places
+with nights, tick sightseeing, pick hotel category, meals and vehicle, and get a **day-wise plan with dates**.
+They can **send it** (it arrives in **Enquiries** with the full plan, type "trip-planner"), share it on WhatsApp,
+or print / save it as PDF.
+
+**Edit it in Studio → Trip planner** (one document per destination):
+- **Basics:** name, arrival and departure points, link to the destination page, "Show in the trip planner".
+- **Places & sightseeing:** add/remove places (click **Generate** for the key), suggested nights, sightseeing list.
+  Add "(en route)" to a sightseeing name to show it on the travel day. Optional extra cost per person.
+- **Rates:** hotel rate **per room per night** for Standard / Deluxe / Premium (on each place), vehicle rate per day,
+  meal plan rate per person per night (0 = included), peak-season % supplements with dates, GST %, advance %.
+- **Show calculated prices to customers:** tick this ONLY when every rate is correct. Until then — or if any
+  rate needed for a customer's choice is missing — the planner shows **"Get your free quote"** instead of a price.
+
+Prices shown by the planner are estimates; the team confirms hotel names, availability and the final price.
+
 ## Homepage layout (section order)
 
 **Site settings → Homepage → Homepage sections (order)** controls the order of the sections under the big

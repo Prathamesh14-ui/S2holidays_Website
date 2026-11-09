@@ -47,3 +47,10 @@ export const postBySlugQuery = defineQuery(`*[_type == "post" && slug.current ==
 export const faqsQuery = defineQuery(`*[_type == "faq"] | order(coalesce(order, 999) asc){_id, question, answer, category}`);
 
 export const legalPageQuery = defineQuery(`*[_type == "legalPage" && slug.current == $slug][0]{_id, title, "slug": slug.current, body, "updatedAt": _updatedAt}`);
+
+export const plannerQuery = defineQuery(`*[_type == "plannerDestination" && active != false] | order(coalesce(order, 99) asc, title asc){
+  "slug": slug.current, title, intro, "destinationSlug": destination->slug.current, startPoint, endPoint,
+  "places": places[]{"key": key.current, name, description, defaultNights, sightseeing[]{name, extraPerPerson}, hotelRates},
+  "vehicles": coalesce(vehicles[]{name, seats, ratePerDay}, []), "mealPlans": coalesce(mealPlans[]{name, ratePerPersonPerNight}, []),
+  seasons[]{name, from, to, percent}, gstPercent, advancePercent, ratesConfirmed
+}`);

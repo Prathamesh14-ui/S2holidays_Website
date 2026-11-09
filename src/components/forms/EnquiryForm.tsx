@@ -17,6 +17,9 @@ type Props = {
   whatsapp?: string;
   compact?: boolean;
   title?: string;
+  /** Values supplied by the page (e.g. the trip planner) — sent with the enquiry and their fields hidden. */
+  extra?: { travelDate?: string; adults?: number; children?: number; destination?: string; plan?: string };
+  submitLabel?: string;
 };
 
 type Errors = Partial<Record<keyof EnquiryInput | "form", string>>;
@@ -25,7 +28,7 @@ const field =
   "w-full rounded-xl border border-line bg-white px-4 py-3 text-base text-ink placeholder:text-muted/70 transition-colors focus:border-gold focus:outline-none focus:ring-2 focus:ring-gold/20 aria-[invalid=true]:border-red-500";
 const labelCls = "mb-1.5 block text-sm font-medium text-ink";
 
-export function EnquiryForm({ enquiryType = "general", packageSlug, packageTitle, destination, whatsapp, compact, title }: Props) {
+export function EnquiryForm({ enquiryType = "general", packageSlug, packageTitle, destination, whatsapp, compact, title, extra, submitLabel }: Props) {
   const id = useId();
   const [errors, setErrors] = useState<Errors>({});
   const [status, setStatus] = useState<"idle" | "submitting" | "success">("idle");
@@ -45,6 +48,7 @@ export function EnquiryForm({ enquiryType = "general", packageSlug, packageTitle
       packageSlug: packageSlug || undefined,
       packageTitle: packageTitle || undefined,
       sourcePage: window.location.pathname,
+      ...(extra ? Object.fromEntries(Object.entries(extra).filter(([, v]) => v !== undefined && v !== "")) : {}),
       startedAt: startedAt.current,
     };
     const parsed = enquirySchema.safeParse(raw);
@@ -131,13 +135,14 @@ export function EnquiryForm({ enquiryType = "general", packageSlug, packageTitle
           <input id={`${id}-phone`} name="phone" type="tel" autoComplete="tel" inputMode="tel" required placeholder="+91" className={field} {...a11y("phone")} />
           {err("phone")}
         </div>
-        {!packageSlug && enquiryType === "general" && (
+        {!packageSlug && !extra && enquiryType === "general" && (
           <div className={cn(!compact && "sm:col-span-2")}>
             <label htmlFor={`${id}-destination`} className={labelCls}>Destination(s)</label>
             <input id={`${id}-destination`} name="destination" defaultValue={destination} placeholder="e.g. Kerala, Dubai, not sure yet" className={field} {...a11y("destination")} />
             {err("destination")}
           </div>
         )}
+        {!extra && (<>
         <div>
           <label htmlFor={`${id}-date`} className={labelCls}>{enquiryType === "car-rental" ? "Date required" : "Travel date"}</label>
           <input id={`${id}-date`} name="travelDate" type="date" className={field} {...a11y("travelDate")} />
@@ -155,6 +160,7 @@ export function EnquiryForm({ enquiryType = "general", packageSlug, packageTitle
             {err("children")}
           </div>
         </div>
+        </>)}
         <div className={cn(!compact && "sm:col-span-2")}>
           <label htmlFor={`${id}-message`} className={labelCls}>Message</label>
           <textarea
@@ -192,7 +198,7 @@ export function EnquiryForm({ enquiryType = "general", packageSlug, packageTitle
 
       <div className={cn("mt-6 flex flex-col gap-3", !compact && "sm:flex-row")}>
         <button type="submit" disabled={status === "submitting"} className={buttonClass("gold", "flex-1 py-3.5")}>
-          {status === "submitting" ? (<><Loader2 aria-hidden className="h-4 w-4 animate-spin" /> Sending…</>) : "Send enquiry"}
+          {status === "submitting" ? (<><Loader2 aria-hidden className="h-4 w-4 animate-spin" /> Sending…</>) : submitLabel || "Send enquiry"}
         </button>
         {wa && (
           <a href={wa} target="_blank" rel="noopener noreferrer" className={buttonClass("whatsapp", "flex-1 py-3.5")}>

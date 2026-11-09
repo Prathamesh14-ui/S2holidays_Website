@@ -23,9 +23,11 @@ export const enquirySchema = z.object({
   destination: trimmed(100).optional(),
   packageSlug: z.string().trim().regex(/^[a-z0-9-]*$/).max(120).optional(),
   packageTitle: trimmed(160).optional(),
-  enquiryType: z.enum(["package", "general", "mumbai-sightseeing", "car-rental", "tourist-guide"]).default("general"),
+  enquiryType: z.enum(["package", "general", "mumbai-sightseeing", "car-rental", "tourist-guide", "trip-planner"]).default("general"),
   budget: trimmed(60).optional(),
   message: trimmed(2000).optional(),
+  /** Full day-wise plan from the trip planner (plain text). */
+  plan: trimmed(8000).optional(),
   consent: z.literal(true, { message: "Please agree so we can contact you about your enquiry" }),
   sourcePage: trimmed(200).optional(),
   // Anti-spam: honeypot must stay empty; startedAt is when the form was rendered (ms epoch)

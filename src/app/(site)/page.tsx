@@ -305,6 +305,7 @@ export default async function HomePage() {
               <Link href="/destinations/domestic" className="underline-offset-4 hover:text-white hover:underline">India holidays</Link>
               <Link href="/destinations/international" className="underline-offset-4 hover:text-white hover:underline">International holidays</Link>
               <Link href="/services/mumbai-sightseeing" className="underline-offset-4 hover:text-white hover:underline">Mumbai sightseeing</Link>
+              <Link href="/plan-my-trip" className="font-semibold text-gold-soft underline-offset-4 hover:text-white hover:underline">Build your own trip →</Link>
             </div>
           </div>
         </Container>

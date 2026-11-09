@@ -24,7 +24,7 @@ const ROUTES = [
   "/", "/destinations", "/destinations/domestic", "/destinations/international", "/destinations/kerala",
   "/packages", "/packages/kashmir-valley-escape", "/services", "/services/mumbai-sightseeing",
   "/services/car-rental", "/services/tourist-guide", "/about", "/contact", "/blog",
-  "/blog/packing-for-a-hill-station-trip", "/faq", "/privacy-policy", "/terms",
+  "/blog/packing-for-a-hill-station-trip", "/faq", "/privacy-policy", "/terms", "/plan-my-trip",
 ];
 
 const browser = await chromium.launch();

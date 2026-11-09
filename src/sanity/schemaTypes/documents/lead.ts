@@ -59,6 +59,7 @@ export const lead = defineType({
     defineField({ name: "adults", title: "Adults", type: "number", ...ro }),
     defineField({ name: "children", title: "Children", type: "number", ...ro }),
     defineField({ name: "message", title: "Message", type: "text", rows: 5, ...ro }),
+    defineField({ name: "plan", title: "Trip plan (from the trip planner)", type: "text", rows: 14, ...ro }),
     defineField({ name: "sourcePage", title: "Submitted from page", type: "string", ...ro }),
     defineField({ name: "consent", title: "Consent given", type: "boolean", ...ro }),
     defineField({ name: "submittedAt", title: "Submitted at", type: "datetime", ...ro }),

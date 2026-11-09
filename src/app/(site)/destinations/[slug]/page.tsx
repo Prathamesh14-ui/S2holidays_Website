@@ -10,7 +10,8 @@ import { AppImage } from "@/components/ui/AppImage";
 import { JsonLd } from "@/components/ui/JsonLd";
 import { PackageCard } from "@/components/packages/PackageCard";
 import { EnquiryForm } from "@/components/forms/EnquiryForm";
-import { getDestination, getDestinations, getPackages, getSettings } from "@/lib/content";
+import { ButtonLink } from "@/components/ui/Button";
+import { getDestination, getDestinations, getPackages, getPlannerDestinations, getSettings } from "@/lib/content";
 import { pageMetadata } from "@/lib/seo";
 import { slugParams } from "@/lib/static-params";
 import { siteUrl } from "@/lib/env";
@@ -36,7 +37,8 @@ export default async function DestinationPage({ params }: PageProps<"/destinatio
   const { slug } = await params;
   const [d, settings] = await Promise.all([getDestination(slug), getSettings()]);
   if (!d) notFound();
-  const packages = await getPackages({ destinationSlug: d.slug });
+  const [packages, planners] = await Promise.all([getPackages({ destinationSlug: d.slug }), getPlannerDestinations()]);
+  const planner = planners.find((p) => p.destinationSlug === d.slug);
   const regionLabel = d.region === "international" ? "International Holidays" : "Domestic Holidays";
 
   return (
@@ -90,6 +92,21 @@ export default async function DestinationPage({ params }: PageProps<"/destinatio
           </aside>
         </Container>
       </section>
+
+      {planner && (
+        <section aria-label="Trip planner" className="pb-4">
+          <Container>
+            <div className="flex flex-col items-start justify-between gap-5 rounded-3xl bg-ink p-7 text-white sm:flex-row sm:items-center sm:p-9">
+              <div>
+                <p className="text-xs font-semibold uppercase tracking-[0.25em] text-gold-soft">Trip planner</p>
+                <p className="mt-2 font-display text-3xl">Customise your {d.name} trip</p>
+                <p className="mt-1 text-sm text-white/75">Pick places, nights, sightseeing and hotel category — get a day-wise plan instantly.</p>
+              </div>
+              <ButtonLink href={`/plan-my-trip?dest=${planner.slug}`} variant="gold" className="shrink-0">Build your own trip →</ButtonLink>
+            </div>
+          </Container>
+        </section>
+      )}
 
       <section className="border-t border-line bg-white/50 py-20">
         <Container>

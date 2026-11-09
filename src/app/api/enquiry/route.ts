@@ -4,7 +4,7 @@ import { storeLead, markLeadNotified } from "@/lib/enquiry/store";
 import { isEmailConfigured, sendLeadEmail } from "@/lib/enquiry/notify";
 import { rateLimit } from "@/lib/rate-limit";
 
-const MAX_BODY_BYTES = 10_000;
+const MAX_BODY_BYTES = 20_000;
 const MIN_FILL_MS = 2_500; // faster submissions are almost certainly bots
 
 const json = (body: unknown, status = 200, headers?: HeadersInit) =>

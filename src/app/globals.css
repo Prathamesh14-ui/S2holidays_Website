@@ -53,6 +53,13 @@
   .js-reveal [data-reveal] { opacity: 1; transform: none; }
 }
 
+/* Printing (trip planner "save as PDF") */
+@media print {
+  header, footer, [aria-label="Chat with us on WhatsApp"] { display: none !important; }
+  body { background: #fff; }
+  @page { margin: 14mm; }
+}
+
 /* Rich text from the CMS */
 .prose-s2 { color: var(--color-ink-soft); line-height: 1.8; font-size: 1.0625rem; }
 .prose-s2 > * + * { margin-top: 1.1em; }

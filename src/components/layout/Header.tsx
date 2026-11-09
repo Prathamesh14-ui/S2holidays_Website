@@ -162,7 +162,7 @@ export function Header({
               <Phone aria-hidden className="h-4 w-4 text-gold" /> {phone}
             </a>
           )}
-          <Link href="/contact#enquiry" className={buttonClass("gold", "whitespace-nowrap px-5 py-2.5 max-sm:hidden")}>
+          <Link href="/plan-my-trip" className={buttonClass("gold", "whitespace-nowrap px-5 py-2.5 max-sm:hidden")}>
             Plan my trip
           </Link>
           <button
@@ -219,7 +219,7 @@ export function Header({
               </li>
             ))}
           </ul>
-          <Link href="/contact#enquiry" className={buttonClass("gold", "mt-6 w-full")}>
+          <Link href="/plan-my-trip" className={buttonClass("gold", "mt-6 w-full")}>
             Plan my trip
           </Link>
           {phone && (

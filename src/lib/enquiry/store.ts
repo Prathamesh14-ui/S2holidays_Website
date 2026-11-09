@@ -42,6 +42,7 @@ export async function storeLead(e: Enquiry, meta: { userAgent?: string }): Promi
       adults: e.adults,
       children: e.children,
       message: e.message,
+      plan: e.plan,
       sourcePage: e.sourcePage,
       consent: e.consent,
       submittedAt,

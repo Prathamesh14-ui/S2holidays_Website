@@ -24,6 +24,8 @@ import type {
   Testimonial,
 } from "./types";
 import * as sample from "@/data/sample";
+import { plannerDefaults } from "@/data/planner-defaults";
+import type { PlannerDestination } from "./planner/types";
 import { getReadClient } from "@/sanity/lib/server-client";
 import * as q from "@/sanity/lib/queries";
 
@@ -152,4 +154,12 @@ export async function getFaqs(): Promise<Faq[]> {
 export async function getLegalPage(slug: "privacy-policy" | "terms"): Promise<LegalPage | null> {
   if (!isSanityConfigured) return sample.sampleLegal.find((p) => p.slug === slug) ?? null;
   return fetchSanity<LegalPage | null>(q.legalPageQuery, { slug });
+}
+
+/** Trip planner destinations from the CMS; falls back to the built-in starter data (no rates). */
+export async function getPlannerDestinations(): Promise<PlannerDestination[]> {
+  if (!isSanityConfigured) return plannerDefaults;
+  const list = (await fetchSanity<PlannerDestination[] | null>(q.plannerQuery)) ?? [];
+  const valid = list.filter((d) => d.slug && d.places?.length);
+  return valid.length ? valid.map((d) => ({ ...d, places: d.places.filter((p) => p.key && p.name) })) : plannerDefaults;
 }

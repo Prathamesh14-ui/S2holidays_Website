@@ -10,8 +10,9 @@ import { post } from "./documents/post";
 import { faq } from "./documents/faq";
 import { legalPage } from "./documents/legalPage";
 import { lead } from "./documents/lead";
+import { plannerDestination } from "./documents/plannerDestination";
 
-export const schemaTypes = [seo, itineraryDay, price, siteSettings, destination, holidayPackage, service, testimonial, post, faq, legalPage, lead];
+export const schemaTypes = [seo, itineraryDay, price, siteSettings, destination, holidayPackage, service, testimonial, post, faq, legalPage, lead, plannerDestination];
 
 /** Types that exist exactly once and must not be created/duplicated/deleted from the Studio. */
 export const SINGLETONS = ["siteSettings"];

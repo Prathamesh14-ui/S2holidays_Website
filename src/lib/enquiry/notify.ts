@@ -20,6 +20,7 @@ export function buildLeadEmail(e: Enquiry, leadId: string) {
     ["Travel date", e.travelDate],
     ["Travellers", `${e.adults} adult(s), ${e.children} child(ren)`],
     ["Message", e.message],
+    ["Trip plan", e.plan],
     ["Page", e.sourcePage ? `${siteUrl}${e.sourcePage}` : ""],
     ["Reference", leadId],
   ];
