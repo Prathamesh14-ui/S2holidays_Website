@@ -4,6 +4,7 @@ import { Container } from "@/components/ui/Container";
 import { footerLinks } from "@/lib/navigation";
 import type { SiteSettings } from "@/lib/types";
 import { SampleBadge } from "@/components/ui/SampleBadge";
+import { Logo } from "./Logo";
 
 export function Footer({ settings }: { settings: SiteSettings }) {
   const hasContact = settings.phone || settings.email || settings.address;
@@ -11,9 +12,8 @@ export function Footer({ settings }: { settings: SiteSettings }) {
     <footer className="bg-ink text-white/75">
       <Container className="grid gap-12 py-16 lg:grid-cols-[1.3fr_2fr] lg:py-20">
         <div>
-          <Link href="/" className="flex items-baseline gap-1" aria-label={`${settings.companyName} home`}>
-            <span className="font-display text-4xl font-bold text-white">S2</span>
-            <span className="text-xs font-semibold uppercase tracking-[0.35em] text-gold-soft">Holidays</span>
+          <Link href="/" className="inline-block" aria-label={`${settings.companyName} home`}>
+            <Logo onDark className="h-16" />
           </Link>
           {settings.tagline && <p className="mt-4 max-w-sm leading-relaxed">{settings.tagline}</p>}
           <ul className="mt-6 space-y-3 text-sm">

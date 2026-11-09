@@ -48,6 +48,7 @@ export default async function SiteLayout({ children }: { children: React.ReactNo
           "@type": "TravelAgency",
           name: settings.companyName,
           url: siteUrl,
+          logo: `${siteUrl}/brand/s2-holidays-logo.png`,
           ...(settings.description ? { description: settings.description } : {}),
           ...(settings.phone ? { telephone: settings.phone } : {}),
           ...(settings.email ? { email: settings.email } : {}),

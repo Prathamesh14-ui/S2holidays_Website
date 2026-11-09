@@ -7,6 +7,7 @@ import { ChevronDown, Menu, Phone, X } from "lucide-react";
 import { cn } from "@/lib/format";
 import type { NavItem } from "@/lib/navigation";
 import { buttonClass } from "@/components/ui/Button";
+import { Logo } from "./Logo";
 
 export function Header({
   nav,
@@ -75,11 +76,10 @@ export function Header({
     >
       {notice}
       <div className="mx-auto flex h-18 max-w-7xl items-center justify-between gap-6 px-4 sm:px-6 lg:h-20 lg:px-8">
-        <Link href="/" className="group flex items-baseline gap-1" aria-label={`${companyName} home`}>
-          <span className={cn("font-display text-3xl font-bold transition-colors", solid ? "text-ink" : "text-white")}>S2</span>
-          <span className={cn("text-[11px] font-semibold uppercase tracking-[0.35em] transition-colors", solid ? "text-gold" : "text-gold-soft")}>
-            Holidays
-          </span>
+        <Link href="/" className="relative block shrink-0" aria-label={`${companyName} home`}>
+          {/* Two versions: white ™ over the dark hero, standard once the header turns white */}
+          <Logo priority className={cn("h-10 transition-opacity duration-300 sm:h-12 lg:h-14", solid ? "opacity-0" : "opacity-100")} onDark />
+          <Logo priority className={cn("absolute inset-0 h-10 transition-opacity duration-300 sm:h-12 lg:h-14", solid ? "opacity-100" : "opacity-0")} />
         </Link>
 
         <nav ref={navRef} aria-label="Main" className="hidden lg:block">
