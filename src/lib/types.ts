@@ -164,6 +164,8 @@ export type SiteSettings = {
   heroSubheading?: string;
   heroImage?: SiteImage;
   heroSlides?: HeroSlide[];
+  /** Packages page banner photos (falls back to the homepage slideshow). */
+  packagesHeroSlides?: HeroSlide[];
   announcement?: Announcement;
   homepageSections?: string[];
   aboutTitle?: string;

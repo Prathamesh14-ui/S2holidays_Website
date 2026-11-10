@@ -151,6 +151,10 @@ few seconds.
 - If no slideshow photos are added, the main photos of your destinations are used automatically.
 - Visitors can pause it with the ⏸ button. Visitors who have "reduce motion" switched on see a still photo.
 
+**Packages page banner:** the top of the Packages page uses the same slideshow photos automatically.
+To show different photos there, add them under **Site settings → Homepage → Packages page photos**
+(one photo = still banner, two or more = slideshow). Leave it empty to keep using the homepage photos.
+
 ## Images: tips
 
 - Use your own photos or properly licensed stock. Don't copy images from other websites.

@@ -2,13 +2,15 @@ import { AppImage } from "@/components/ui/AppImage";
 import { Breadcrumbs, type Crumb } from "@/components/ui/Breadcrumbs";
 import { Container } from "@/components/ui/Container";
 import { cn } from "@/lib/format";
-import type { SiteImage } from "@/lib/types";
+import { HeroSlideshow } from "@/components/home/HeroSlideshow";
+import type { HeroSlide, SiteImage } from "@/lib/types";
 
 export function PageHero({
   title,
   eyebrow,
   intro,
   image,
+  slides,
   crumbs,
   size = "md",
   children,
@@ -17,6 +19,8 @@ export function PageHero({
   eyebrow?: string;
   intro?: string;
   image?: SiteImage;
+  /** Two or more photos turn the banner into a fading slideshow (like the homepage). */
+  slides?: HeroSlide[];
   crumbs?: Crumb[];
   size?: "sm" | "md" | "lg";
   children?: React.ReactNode;
@@ -30,7 +34,13 @@ export function PageHero({
         size === "lg" && "min-h-[34rem] sm:min-h-[40rem]"
       )}
     >
-      {image && <AppImage image={image} priority sizes="100vw" className="-z-10 animate-[fade-up_1.2s_ease-out_both]" />}
+      {slides && slides.length > 1 ? (
+        <HeroSlideshow slides={slides} />
+      ) : (
+        (slides?.[0]?.image ?? image) && (
+          <AppImage image={slides?.[0]?.image ?? image} priority sizes="100vw" className="-z-10 animate-[fade-up_1.2s_ease-out_both]" />
+        )
+      )}
       <div aria-hidden className="absolute inset-0 -z-10 bg-gradient-to-t from-ink via-ink/55 to-ink/30" />
       <Container className="pb-12 pt-36 sm:pb-16">
         {crumbs && <Breadcrumbs items={crumbs} light className="mb-6" />}

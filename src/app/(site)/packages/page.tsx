@@ -22,6 +22,7 @@ export default async function PackagesPage() {
         title="Holiday packages"
         eyebrow="Itineraries"
         intro="Day-wise itineraries to start your planning. Every package can be tailored to your dates, hotels and pace."
+        slides={settings.packagesHeroSlides?.length ? settings.packagesHeroSlides : settings.heroSlides}
         image={packages[0]?.heroImage}
         crumbs={[{ label: "Packages", href: "/packages" }]}
       />
