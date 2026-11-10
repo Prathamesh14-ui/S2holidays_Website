@@ -20,6 +20,15 @@
    "bestTimeToVisit": "Only during the official yatra season (about July–August)."
   },
   {
+   "slug": "gujarat",
+   "name": "Gujarat",
+   "region": "domestic",
+   "state": "Gujarat",
+   "country": "India",
+   "image": null,
+   "bestTimeToVisit": "November to March. The Gir jungle safari is closed 16 June – 15 October."
+  },
+  {
    "slug": "singapore",
    "name": "Singapore",
    "region": "international",
@@ -2272,6 +2281,1748 @@
      "heading": "Important notes",
      "lines": [
       "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. No China visa is needed – darshan is from the Nepal side at Lapcha La. Indian citizens can enter Nepal with a valid passport or voter ID. Mountain flights and helicopters depend on weather; extra days may be needed and are paid locally. The viewpoint is at high altitude (about 5,000 m) for a short time – consult a doctor if you have heart or lung conditions."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "GUJ-03",
+   "slug": "sasan-gir-lions-and-diu-beaches-3n-4d",
+   "title": "Sasan Gir Lions & Diu Beaches 3N/4D",
+   "destination": "gujarat",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Beach",
+    "Wildlife"
+   ],
+   "durationNights": 3,
+   "durationDays": 4,
+   "price": {
+    "amount": 9499,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Asiatic lions in their only wild home, Diu's Portuguese fort and beaches.",
+   "highlights": [
+    "Asiatic lions in their only wild home",
+    "Diu's Portuguese fort and beaches."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Ahmedabad – Sasan Gir",
+     "description": "Early pickup in Ahmedabad and drive to Sasan Gir (about 7 hrs). Evening at the resort on the forest edge. Overnight stay at Sasan Gir.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Sasan Gir resort"
+    },
+    {
+     "day": 2,
+     "title": "Gir Safari – Diu",
+     "description": "Early-morning Gir jungle safari (permit, gypsy and guide at own cost) or Devalia Safari Park. After breakfast drive to Diu (about 2.5 hrs). Evening at Diu Fort and Naida Caves. Overnight stay in Diu.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Diu hotel"
+    },
+    {
+     "day": 3,
+     "title": "Diu Island Day",
+     "description": "Breakfast. Visit St. Paul's Church, the Gangeshwar Mahadev seashore temple, the INS Khukri memorial and relax at Ghoghla and Nagoa beaches; optional water sports (own cost). Overnight stay in Diu.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Diu hotel"
+    },
+    {
+     "day": 4,
+     "title": "Departure from Diu",
+     "description": "Breakfast and drop at Diu airport, or drive back to Ahmedabad (about 8 hrs, extra). Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "3 nights hotel stay with breakfast and dinner",
+    "Private vehicle for transfers and sightseeing",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Gir jungle safari permit, gypsy and guide charges",
+    "Water sports in Diu"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Ahmedabad → Sasan Gir (1N) → Diu (2N)"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "1 night Sasan Gir resort + 2 nights Diu, 3★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Gir National Park / Devalia, Diu Fort, Naida Caves, St. Paul's Church, Gangeshwar Temple, INS Khukri memorial, Ghoghla and Nagoa beaches."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Asiatic lion safari; beach time; optional water sports."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (3 breakfasts + 3 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Ahmedabad pickup; drop at Diu airport (Ahmedabad drop extra)."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting at Ahmedabad and ending at Diu (Diu airport) or Ahmedabad (extra drive)."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "November to March. The Gir jungle safari is closed 16 June – 15 October."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Gir National Park jungle safaris need an online permit booked in advance (limited, sell out on holidays) and the park is closed from 16 June to 15 October; Devalia (Gir Interpretation Zone) runs most of the year. Gujarat is a dry state – alcohol needs a permit (Diu is outside this rule). Dress modestly at temples; phones and cameras are not allowed inside some temples (e.g. Dwarkadhish, Somnath)."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "GUJ-04",
+   "slug": "dwarka-somnath-and-junagadh-yatra-4n-5d",
+   "title": "Dwarka, Somnath & Junagadh Yatra 4N/5D",
+   "destination": "gujarat",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Pilgrimage"
+   ],
+   "durationNights": 4,
+   "durationDays": 5,
+   "price": {
+    "amount": 14499,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Dwarkadhish and Somnath, Bet Dwarka, Girnar ropeway at Junagadh.",
+   "highlights": [
+    "Dwarkadhish and Somnath",
+    "Bet Dwarka",
+    "Girnar ropeway at Junagadh."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Ahmedabad – Dwarka",
+     "description": "Early pickup in Ahmedabad and drive to Dwarka (about 7–8 hrs). Evening aarti at the Dwarkadhish Temple. Overnight stay in Dwarka.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Dwarka hotel"
+    },
+    {
+     "day": 2,
+     "title": "Dwarka Darshan",
+     "description": "Morning darshan at the Dwarkadhish Temple and Gomti Ghat. Drive across Sudarshan Setu to Bet Dwarka, then visit Nageshwar Jyotirlinga, Gopi Talav and Rukmini Temple. Evening aarti at Dwarkadhish. Overnight stay in Dwarka.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Dwarka hotel"
+    },
+    {
+     "day": 3,
+     "title": "Dwarka – Porbandar – Somnath",
+     "description": "Breakfast and drive along the coast to Porbandar to see Kirti Mandir, Gandhiji's birthplace, then via Madhavpur beach to Somnath (about 6 hrs in total). Evening aarti at Somnath Jyotirlinga and the sound & light show. Overnight stay in Somnath.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Somnath hotel"
+    },
+    {
+     "day": 4,
+     "title": "Somnath – Junagadh",
+     "description": "Early darshan at Somnath and Bhalka Tirth, then drive to Junagadh (about 2 hrs). Ride the Girnar ropeway to the Ambaji temple (own cost), visit Uparkot Fort, Mahabat Maqbara and Damodar Kund. Overnight stay in Junagadh.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Junagadh hotel"
+    },
+    {
+     "day": 5,
+     "title": "Junagadh – Ahmedabad Departure",
+     "description": "Breakfast and drive to Ahmedabad (about 6 hrs) for an evening flight or train. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "4 nights hotel stay with breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Boat ride to Bet Dwarka",
+    "Girnar ropeway ticket",
+    "Somnath sound & light show ticket"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Ahmedabad → Dwarka (2N) → Porbandar → Somnath (1N) → Junagadh (1N) → Ahmedabad"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "2 nights Dwarka, 1 night Somnath, 1 night Junagadh – 3★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Dwarkadhish Temple, Bet Dwarka, Nageshwar Jyotirlinga, Rukmini Temple, Porbandar Kirti Mandir, Somnath Temple, Bhalka Tirth, Junagadh Uparkot Fort, Girnar, Mahabat Maqbara, Damodar Kund."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Two Jyotirlinga darshans; Somnath light show; Girnar ropeway (own cost)."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (4 breakfasts + 4 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Ahmedabad airport / railway station pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Ahmedabad."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to March. Janmashtami at Dwarka and Kartik Purnima at Somnath are very crowded."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Gujarat is a dry state – alcohol needs a permit (Diu is outside this rule). Dress modestly at temples; phones and cameras are not allowed inside some temples (e.g. Dwarkadhish, Somnath)."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "GUJ-05",
+   "slug": "saurashtra-coast-jamnagar-to-bhavnagar-4n-5d",
+   "title": "Saurashtra Coast – Jamnagar to Bhavnagar 4N/5D",
+   "destination": "gujarat",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Pilgrimage",
+    "Heritage"
+   ],
+   "durationNights": 4,
+   "durationDays": 5,
+   "price": {
+    "amount": 13499,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Whole Saurashtra coast from Jamnagar to Bhavnagar, Nishkalank sea temple.",
+   "highlights": [
+    "Whole Saurashtra coast from Jamnagar to Bhavnagar",
+    "Nishkalank sea temple."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Jamnagar – Dwarka",
+     "description": "Pickup at Jamnagar and a short visit to Lakhota Lake and the Bala Hanuman Temple (known for its round-the-clock chanting). Drive to Dwarka (about 2.5 hrs). Evening aarti at Dwarkadhish. Overnight stay in Dwarka.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Dwarka hotel"
+    },
+    {
+     "day": 2,
+     "title": "Dwarka Darshan",
+     "description": "Morning darshan at the Dwarkadhish Temple and Gomti Ghat. Drive across Sudarshan Setu to Bet Dwarka, then visit Nageshwar Jyotirlinga, Gopi Talav and Rukmini Temple. Evening aarti at Dwarkadhish. Overnight stay in Dwarka.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Dwarka hotel"
+    },
+    {
+     "day": 3,
+     "title": "Dwarka – Porbandar – Somnath",
+     "description": "Breakfast and drive along the coast to Porbandar to see Kirti Mandir, Gandhiji's birthplace, then via Madhavpur beach to Somnath (about 6 hrs in total). Evening aarti at Somnath Jyotirlinga and the sound & light show. Overnight stay in Somnath.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Somnath hotel"
+    },
+    {
+     "day": 4,
+     "title": "Somnath – Bhavnagar",
+     "description": "Early darshan at Somnath, then drive to Bhavnagar (about 5 hrs). Evening at Takhteshwar Temple and Gaurishankar Lake. Overnight stay in Bhavnagar.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Bhavnagar hotel"
+    },
+    {
+     "day": 5,
+     "title": "Nishkalank Mahadev / Palitana & Departure",
+     "description": "Early visit to Nishkalank Mahadev in the sea at Koliyak (reachable at low tide) or the Palitana Jain temples (steep climb). Drop at Bhavnagar airport or railway station. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "4 nights hotel stay with breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Boat ride to Bet Dwarka",
+    "Doli at Palitana"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Jamnagar → Dwarka (2N) → Porbandar → Somnath (1N) → Bhavnagar (1N)"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "2 nights Dwarka, 1 night Somnath, 1 night Bhavnagar – 3★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Lakhota Lake, Bala Hanuman Temple, Dwarkadhish Temple, Bet Dwarka, Nageshwar, Porbandar, Somnath, Bhavnagar, Nishkalank Mahadev or Palitana."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Coastal temple circuit; optional Palitana climb."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (4 breakfasts + 4 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Jamnagar arrival and Bhavnagar departure."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting at Jamnagar and ending at Bhavnagar."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to March."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Gujarat is a dry state – alcohol needs a permit (Diu is outside this rule). Dress modestly at temples; phones and cameras are not allowed inside some temples (e.g. Dwarkadhish, Somnath). Nishkalank Mahadev can be reached on foot only at low tide – timings are checked on the day."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "GUJ-06",
+   "slug": "dwarka-and-somnath-from-jamnagar-4n-5d",
+   "title": "Dwarka & Somnath from Jamnagar 4N/5D",
+   "destination": "gujarat",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Pilgrimage"
+   ],
+   "durationNights": 4,
+   "durationDays": 5,
+   "price": {
+    "amount": 12999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Dwarka and Somnath with easy drives, ends in Ahmedabad for better flight options.",
+   "highlights": [
+    "Dwarka and Somnath with easy drives",
+    "ends in Ahmedabad for better flight options."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival in Jamnagar",
+     "description": "Pickup and check-in. Visit Lakhota Lake and palace, and the Bala Hanuman Temple. Overnight stay in Jamnagar.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Jamnagar hotel"
+    },
+    {
+     "day": 2,
+     "title": "Jamnagar – Dwarka",
+     "description": "Breakfast and drive to Dwarka. Darshan at Dwarkadhish, Bet Dwarka via Sudarshan Setu, Nageshwar Jyotirlinga and Rukmini Temple; evening aarti. Overnight stay in Dwarka.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Dwarka hotel"
+    },
+    {
+     "day": 3,
+     "title": "Dwarka – Porbandar – Somnath",
+     "description": "Breakfast and drive along the coast to Porbandar to see Kirti Mandir, Gandhiji's birthplace, then via Madhavpur beach to Somnath (about 6 hrs in total). Evening aarti at Somnath Jyotirlinga and the sound & light show. Overnight stay in Somnath.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Somnath hotel"
+    },
+    {
+     "day": 4,
+     "title": "Somnath – Ahmedabad",
+     "description": "Early darshan at Somnath, then drive to Ahmedabad (about 7–8 hrs). Overnight stay in Ahmedabad.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Ahmedabad hotel"
+    },
+    {
+     "day": 5,
+     "title": "Ahmedabad Sightseeing & Departure",
+     "description": "Breakfast and visit Sabarmati Ashram and the Adalaj Stepwell (Akshardham Gandhinagar if time permits). Drop at Ahmedabad airport or railway station. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "4 nights hotel stay with breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Boat ride to Bet Dwarka"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Jamnagar (1N) → Dwarka (1N) → Porbandar → Somnath (1N) → Ahmedabad (1N)"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "1 night Jamnagar, 1 night Dwarka, 1 night Somnath, 1 night Ahmedabad – 3★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Lakhota Lake, Bala Hanuman Temple, Dwarkadhish Temple, Bet Dwarka, Nageshwar, Rukmini Temple, Porbandar Kirti Mandir, Somnath, Sabarmati Ashram, Adalaj Stepwell."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Dwarka and Somnath darshan; Ahmedabad heritage."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (4 breakfasts + 4 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Jamnagar arrival and Ahmedabad departure."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting at Jamnagar and ending at Ahmedabad."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to March."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Gujarat is a dry state – alcohol needs a permit (Diu is outside this rule). Dress modestly at temples; phones and cameras are not allowed inside some temples (e.g. Dwarkadhish, Somnath)."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "GUJ-07",
+   "slug": "rann-of-kutch-and-bhuj-crafts-trail-4n-5d",
+   "title": "Rann of Kutch & Bhuj Crafts Trail 4N/5D",
+   "destination": "gujarat",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Heritage"
+   ],
+   "durationNights": 4,
+   "durationDays": 5,
+   "price": {
+    "amount": 18999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "White salt desert of Kutch, Rogan art and Bhujodi weaving, Mandvi's wooden ships.",
+   "highlights": [
+    "White salt desert of Kutch",
+    "Rogan art and Bhujodi weaving",
+    "Mandvi's wooden ships."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival in Bhuj",
+     "description": "Pickup and check-in. Visit Aina Mahal and Prag Mahal palaces and Hamirsar Lake. Overnight stay in Bhuj.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Bhuj hotel"
+    },
+    {
+     "day": 2,
+     "title": "Mandvi Day Trip",
+     "description": "Breakfast and day trip to Mandvi (about 1.5 hrs) – Vijay Vilas Palace, the traditional wooden-ship (dhow) building yard and Mandvi beach. Overnight stay in Bhuj.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Bhuj hotel"
+    },
+    {
+     "day": 3,
+     "title": "Bhuj – Craft Villages – White Rann",
+     "description": "Breakfast. Visit Bhujodi weavers and Nirona village (Rogan painting, copper bells), then continue to Dhordo. Collect the Rann permit at Bhirandiyara and see sunset over the White Rann. Overnight in a tent / bhunga.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Dhordo tent / bhunga"
+    },
+    {
+     "day": 4,
+     "title": "Kalo Dungar & Moonlit Rann",
+     "description": "Breakfast and drive to Kalo Dungar for views over the Rann. Afternoon rest; evening again on the White Rann (best near full moon). Overnight in a tent / bhunga.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Dhordo tent / bhunga"
+    },
+    {
+     "day": 5,
+     "title": "Dhordo – Bhuj Departure",
+     "description": "Breakfast and drive back to Bhuj; visit the Smritivan earthquake memorial and museum (closed Mondays). Drop at Bhuj airport or railway station. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "4 nights stay (hotel + tent / bhunga) with breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Rann permit processing assistance",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "White Rann permit fee",
+    "Rann Utsav tent-city supplement",
+    "Camel cart rides and craft purchases"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Bhuj (2N) → Dhordo / White Rann (2N) → Bhuj"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar) + tent / bhunga resort near the Rann",
+      "2 nights Bhuj (3★ or similar) + 2 nights Dhordo area (tent / bhunga resort). Exact stays confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Aina Mahal, Prag Mahal, Hamirsar Lake, Mandvi – Vijay Vilas Palace and beach, Bhujodi, Nirona, White Rann at Dhordo, Kalo Dungar, Smritivan."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "White Rann at sunset and by moonlight; craft-village visits; Mandvi beach."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (4 breakfasts + 4 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Bhuj airport / railway station pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Bhuj. Tent stay near the White Rann (Dhordo) – Rann Utsav tents cost more and are priced separately."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "November to February (Rann Utsav season). The Rann is flooded in the monsoon and very hot from April."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Gujarat is a dry state – alcohol needs a permit (Diu is outside this rule). Dress modestly at temples; phones and cameras are not allowed inside some temples (e.g. Dwarkadhish, Somnath). A permit is needed to enter the White Rann (issued at Bhirandiyara / online; carry ID). Full-moon dates sell out early."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "GUJ-08",
+   "slug": "dwarka-somnath-gir-and-diu-5n-6d",
+   "title": "Dwarka, Somnath, Gir & Diu 5N/6D",
+   "destination": "gujarat",
+   "region": "domestic",
+   "themes": [
+    "Pilgrimage",
+    "Beach",
+    "Wildlife"
+   ],
+   "durationNights": 5,
+   "durationDays": 6,
+   "price": {
+    "amount": 18499,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Dwarka and Somnath, lions at Gir and the beaches of Diu in one trip.",
+   "highlights": [
+    "Dwarka and Somnath, lions at Gir and the beaches of Diu in one trip."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Jamnagar – Dwarka",
+     "description": "Pickup at Jamnagar and drive to Dwarka (about 2.5 hrs). Evening aarti at Dwarkadhish and sunset at Gomti Ghat. Overnight stay in Dwarka.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Dwarka hotel"
+    },
+    {
+     "day": 2,
+     "title": "Dwarka Darshan",
+     "description": "Morning darshan at the Dwarkadhish Temple and Gomti Ghat. Drive across Sudarshan Setu to Bet Dwarka, then visit Nageshwar Jyotirlinga, Gopi Talav and Rukmini Temple. Evening aarti at Dwarkadhish. Overnight stay in Dwarka.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Dwarka hotel"
+    },
+    {
+     "day": 3,
+     "title": "Dwarka – Porbandar – Somnath",
+     "description": "Breakfast and drive along the coast to Porbandar to see Kirti Mandir, Gandhiji's birthplace, then via Madhavpur beach to Somnath (about 6 hrs in total). Evening aarti at Somnath Jyotirlinga and the sound & light show. Overnight stay in Somnath.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Somnath hotel"
+    },
+    {
+     "day": 4,
+     "title": "Somnath – Sasan Gir",
+     "description": "Early darshan at Somnath and visit Bhalka Tirth and Triveni Sangam. Drive to Sasan Gir (about 1.5 hrs); afternoon safari in Devalia Safari Park or Gir jungle safari if a permit is available (own cost). Overnight stay at Sasan Gir.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Sasan Gir resort"
+    },
+    {
+     "day": 5,
+     "title": "Sasan Gir – Diu",
+     "description": "Optional early-morning Gir jungle safari (permit and gypsy at own cost). After breakfast drive to Diu (about 2.5 hrs) and visit Diu Fort, Naida Caves, St. Paul's Church and Nagoa beach at sunset. Overnight stay in Diu.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Diu hotel"
+    },
+    {
+     "day": 6,
+     "title": "Diu Sightseeing & Departure",
+     "description": "Breakfast and visit Gangeshwar Mahadev and the INS Khukri memorial. Drop at Diu airport (or drive to Ahmedabad / Rajkot at extra cost). Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "5 nights hotel stay with breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Gir jungle safari permit, gypsy and guide charges",
+    "Boat ride to Bet Dwarka"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Jamnagar → Dwarka (2N) → Porbandar → Somnath (1N) → Sasan Gir (1N) → Diu (1N)"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "2 nights Dwarka, 1 night Somnath, 1 night Sasan Gir, 1 night Diu – 3★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Dwarkadhish Temple, Bet Dwarka, Nageshwar, Porbandar, Somnath, Bhalka Tirth, Sasan Gir, Diu Fort, Naida Caves, Nagoa beach, Gangeshwar Temple."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Temple darshan; lion safari; beach time in Diu."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (5 breakfasts + 5 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Jamnagar arrival and Diu departure."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting at Jamnagar and ending at Diu."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "November to March. Gir jungle safari closed 16 June – 15 October."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Gir National Park jungle safaris need an online permit booked in advance (limited, sell out on holidays) and the park is closed from 16 June to 15 October; Devalia (Gir Interpretation Zone) runs most of the year. Gujarat is a dry state – alcohol needs a permit (Diu is outside this rule). Dress modestly at temples; phones and cameras are not allowed inside some temples (e.g. Dwarkadhish, Somnath)."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "GUJ-09",
+   "slug": "gujarat-heritage-and-crafts-patan-bhuj-statue-of-unity-and-champaner-6n-7d",
+   "title": "Gujarat Heritage & Crafts – Patan, Bhuj, Statue of Unity & Champaner 6N/7D",
+   "destination": "gujarat",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Heritage"
+   ],
+   "durationNights": 6,
+   "durationDays": 7,
+   "price": {
+    "amount": 21999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Rani ki Vav, Modhera, Kutch crafts, Statue of Unity and Champaner in one week.",
+   "highlights": [
+    "Rani ki Vav, Modhera, Kutch crafts, Statue of Unity and Champaner in one week."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival in Ahmedabad",
+     "description": "Pickup and check-in. Visit Sabarmati Ashram and the Sidi Saiyyed Mosque's stone-lattice window; evening walk in the old pols (UNESCO heritage city). Overnight stay in Ahmedabad.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Ahmedabad hotel"
+    },
+    {
+     "day": 2,
+     "title": "Modhera – Patan – Bhuj",
+     "description": "Breakfast and drive to the Modhera Sun Temple and Rani ki Vav stepwell in Patan (UNESCO), with a visit to Patola silk weavers. Continue to Bhuj (about 5–6 hrs). Overnight stay in Bhuj.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Bhuj hotel"
+    },
+    {
+     "day": 3,
+     "title": "Bhuj, Craft Villages & Mandvi",
+     "description": "Breakfast. Visit Aina Mahal, then the craft villages of Bhujodi and Nirona; evening at Mandvi beach (or White Rann in season instead, permit extra). Overnight stay in Bhuj.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Bhuj hotel"
+    },
+    {
+     "day": 4,
+     "title": "Bhuj – Ahmedabad",
+     "description": "Breakfast and drive back to Ahmedabad (about 6–7 hrs), stopping at the Adalaj Stepwell. Overnight stay in Ahmedabad.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Ahmedabad hotel"
+    },
+    {
+     "day": 5,
+     "title": "Ahmedabad – Statue of Unity",
+     "description": "Breakfast and drive to Ekta Nagar (about 4 hrs). Visit the Statue of Unity viewing gallery, the Valley of Flowers and the evening laser show. Overnight stay at Ekta Nagar.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Ekta Nagar hotel"
+    },
+    {
+     "day": 6,
+     "title": "Ekta Nagar – Vadodara",
+     "description": "Breakfast and a stop at the Sardar Sarovar Dam viewpoint. Drive to Vadodara (about 2 hrs) and visit the Laxmi Vilas Palace. Overnight stay in Vadodara.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Vadodara hotel"
+    },
+    {
+     "day": 7,
+     "title": "Champaner–Pavagadh & Departure",
+     "description": "Breakfast and day visit to Champaner–Pavagadh (UNESCO) – Jama Masjid and the ropeway to the Kalika Mata temple (own cost). Drop at Vadodara airport or railway station. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "6 nights hotel stay with breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Statue of Unity, Laxmi Vilas Palace and monument tickets",
+    "Pavagadh ropeway ticket",
+    "White Rann permit (if chosen)"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Ahmedabad (1N) → Modhera & Patan → Bhuj (2N) → Ahmedabad (1N) → Ekta Nagar (1N) → Vadodara (1N)"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "1 night Ahmedabad, 2 nights Bhuj, 1 night Ahmedabad, 1 night Ekta Nagar (Kevadia), 1 night Vadodara – 3★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Sabarmati Ashram, Sidi Saiyyed Mosque, Ahmedabad pols, Modhera Sun Temple, Rani ki Vav, Patan Patola, Aina Mahal, Bhujodi, Nirona, Mandvi, Adalaj Stepwell, Statue of Unity, Sardar Sarovar, Laxmi Vilas Palace, Champaner–Pavagadh."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Three UNESCO sites; craft villages; Statue of Unity laser show."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (6 breakfasts + 6 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Ahmedabad arrival and Vadodara departure."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting at Ahmedabad and ending at Vadodara."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to March."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Gujarat is a dry state – alcohol needs a permit (Diu is outside this rule). Dress modestly at temples; phones and cameras are not allowed inside some temples (e.g. Dwarkadhish, Somnath). Statue of Unity is closed on Mondays; viewing-gallery tickets are limited – book early."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "GUJ-10",
+   "slug": "panch-dwarka-yatra-with-nishkalank-mahadev-7n-8d",
+   "title": "Panch Dwarka Yatra with Nishkalank Mahadev 7N/8D",
+   "destination": "gujarat",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Friends",
+    "Pilgrimage"
+   ],
+   "durationNights": 7,
+   "durationDays": 8,
+   "price": {
+    "amount": 24999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Complete Panch Dwarka yatra, Nishkalank Mahadev, Shrinathji at Nathdwara.",
+   "highlights": [
+    "Complete Panch Dwarka yatra",
+    "Nishkalank Mahadev",
+    "Shrinathji at Nathdwara."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Ahmedabad – Dwarka",
+     "description": "Early pickup in Ahmedabad and drive to Dwarka (about 7–8 hrs). Evening aarti at the Dwarkadhish Temple (Gomti Dwarka – first of the Panch Dwarka). Overnight stay in Dwarka.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Dwarka hotel"
+    },
+    {
+     "day": 2,
+     "title": "Bet Dwarka & Nageshwar",
+     "description": "Breakfast. Drive across Sudarshan Setu to Bet Dwarka (second of the Panch Dwarka), then Nageshwar Jyotirlinga and Rukmini Temple. Overnight stay in Dwarka.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Dwarka hotel"
+    },
+    {
+     "day": 3,
+     "title": "Dwarka – Porbandar – Somnath",
+     "description": "Breakfast and drive along the coast to Porbandar to see Kirti Mandir, Gandhiji's birthplace, then via Madhavpur beach to Somnath (about 6 hrs in total). Evening aarti at Somnath Jyotirlinga and the sound & light show. Overnight stay in Somnath.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Somnath hotel"
+    },
+    {
+     "day": 4,
+     "title": "Somnath – Nishkalank Mahadev – Bhavnagar",
+     "description": "Early darshan at Somnath and drive to Koliyak near Bhavnagar (about 5 hrs) for Nishkalank Mahadev – five Shivlings in the sea, reached on foot at low tide. Overnight stay in Bhavnagar.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Bhavnagar hotel"
+    },
+    {
+     "day": 5,
+     "title": "Bhavnagar – Dakor – Vadodara",
+     "description": "Breakfast and drive to Dakor for darshan at the Ranchhodraiji Temple (third of the Panch Dwarka), then continue to Vadodara. Overnight stay in Vadodara.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Vadodara hotel"
+    },
+    {
+     "day": 6,
+     "title": "Vadodara – Kankroli – Nathdwara",
+     "description": "Breakfast and drive into Rajasthan to Kankroli (fourth of the Panch Dwarka) by Rajsamand Lake, then Nathdwara (about 7 hrs in total). Evening darshan (jhanki). Overnight stay in Nathdwara.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Nathdwara hotel"
+    },
+    {
+     "day": 7,
+     "title": "Shrinathji Darshan – Udaipur",
+     "description": "Morning darshan of Shrinathji at Nathdwara (fifth of the Panch Dwarka). Drive to Udaipur (about 1 hr) and visit the City Palace; optional boat on Lake Pichola (own cost). Overnight stay in Udaipur.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Udaipur hotel"
+    },
+    {
+     "day": 8,
+     "title": "Departure from Udaipur",
+     "description": "Breakfast and drop at Udaipur airport or railway station. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "7 nights hotel stay with breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Driver allowance, fuel, tolls, parking and Rajasthan state tax"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Boat ride to Bet Dwarka",
+    "Lake Pichola boat ride",
+    "Special darshan / puja charges"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Ahmedabad → Dwarka (2N) → Somnath (1N) → Bhavnagar (1N) → Dakor → Vadodara (1N) → Kankroli → Nathdwara (1N) → Udaipur (1N)"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "2 nights Dwarka, 1 night Somnath, 1 night Bhavnagar, 1 night Vadodara, 1 night Nathdwara, 1 night Udaipur – 3★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Dwarkadhish (Gomti Dwarka), Bet Dwarka, Nageshwar, Rukmini Temple, Porbandar, Somnath, Nishkalank Mahadev, Dakor, Kankroli, Nathdwara Shrinathji, Udaipur City Palace."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "All five Dwarkas (Panch Dwarka); two Jyotirlingas; Nishkalank sea temple."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (7 breakfasts + 7 dinners), vegetarian."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Ahmedabad arrival and Udaipur departure."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting at Ahmedabad and ending at Udaipur (Rajasthan)."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to March."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Gujarat is a dry state – alcohol needs a permit (Diu is outside this rule). Dress modestly at temples; phones and cameras are not allowed inside some temples (e.g. Dwarkadhish, Somnath). Nishkalank Mahadev is reachable only at low tide; Shrinathji darshan happens in fixed short slots (jhankis) through the day."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "GUJ-11",
+   "slug": "gujarat-grand-saurashtra-circuit-7n-8d",
+   "title": "Gujarat Grand Saurashtra Circuit 7N/8D",
+   "destination": "gujarat",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Pilgrimage",
+    "Wildlife"
+   ],
+   "durationNights": 7,
+   "durationDays": 8,
+   "price": {
+    "amount": 24499,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Dwarka, Somnath, Gir lions, Diu and Palitana in one loop.",
+   "highlights": [
+    "Dwarka, Somnath, Gir lions, Diu and Palitana in one loop."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Jamnagar – Dwarka",
+     "description": "Pickup at Jamnagar, short stop at the Bala Hanuman Temple and drive to Dwarka. Evening aarti at Dwarkadhish. Overnight stay in Dwarka.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Dwarka hotel"
+    },
+    {
+     "day": 2,
+     "title": "Dwarka Darshan",
+     "description": "Morning darshan at the Dwarkadhish Temple and Gomti Ghat. Drive across Sudarshan Setu to Bet Dwarka, then visit Nageshwar Jyotirlinga, Gopi Talav and Rukmini Temple. Evening aarti at Dwarkadhish. Overnight stay in Dwarka.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Dwarka hotel"
+    },
+    {
+     "day": 3,
+     "title": "Dwarka – Porbandar – Somnath",
+     "description": "Breakfast and drive along the coast to Porbandar to see Kirti Mandir, Gandhiji's birthplace, then via Madhavpur beach to Somnath (about 6 hrs in total). Evening aarti at Somnath Jyotirlinga and the sound & light show. Overnight stay in Somnath.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Somnath hotel"
+    },
+    {
+     "day": 4,
+     "title": "Somnath – Sasan Gir",
+     "description": "Early darshan at Somnath and visit Bhalka Tirth and Triveni Sangam. Drive to Sasan Gir (about 1.5 hrs); afternoon safari in Devalia Safari Park or Gir jungle safari if a permit is available (own cost). Overnight stay at Sasan Gir.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Sasan Gir resort"
+    },
+    {
+     "day": 5,
+     "title": "Sasan Gir – Diu",
+     "description": "Optional early-morning Gir jungle safari (permit and gypsy at own cost). After breakfast drive to Diu (about 2.5 hrs) and visit Diu Fort, Naida Caves, St. Paul's Church and Nagoa beach at sunset. Overnight stay in Diu.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Diu hotel"
+    },
+    {
+     "day": 6,
+     "title": "Diu – Palitana – Bhavnagar",
+     "description": "Breakfast and drive to Palitana (about 4 hrs) for the Shatrunjaya Jain temples (about 3,500 steps; doli at own cost) or a lighter visit at the foot of the hill. Continue to Bhavnagar. Overnight stay in Bhavnagar.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Bhavnagar hotel"
+    },
+    {
+     "day": 7,
+     "title": "Bhavnagar – Ahmedabad",
+     "description": "Optional early visit to Nishkalank Mahadev (low tide). Drive to Ahmedabad (about 4 hrs); evening at the Sabarmati Riverfront. Overnight stay in Ahmedabad.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Ahmedabad hotel"
+    },
+    {
+     "day": 8,
+     "title": "Ahmedabad Sightseeing & Departure",
+     "description": "Breakfast and visit Sabarmati Ashram and Adalaj Stepwell. Drop at Ahmedabad airport or railway station. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "7 nights hotel stay with breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Gir jungle safari permit, gypsy and guide charges",
+    "Boat ride to Bet Dwarka",
+    "Doli at Palitana"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Jamnagar → Dwarka (2N) → Porbandar → Somnath (1N) → Sasan Gir (1N) → Diu (1N) → Bhavnagar (1N) → Ahmedabad (1N)"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "2 nights Dwarka, 1 night Somnath, 1 night Sasan Gir, 1 night Diu, 1 night Bhavnagar, 1 night Ahmedabad – 3★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Bala Hanuman, Dwarkadhish, Bet Dwarka, Nageshwar, Porbandar, Somnath, Sasan Gir, Diu, Palitana, Bhavnagar, Nishkalank Mahadev, Sabarmati Ashram, Adalaj Stepwell."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Temple darshan; lion safari; Diu beaches; Palitana Jain temples."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (7 breakfasts + 7 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Jamnagar arrival and Ahmedabad departure."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting at Jamnagar and ending at Ahmedabad."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "November to March. Gir jungle safari closed 16 June – 15 October."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Gir National Park jungle safaris need an online permit booked in advance (limited, sell out on holidays) and the park is closed from 16 June to 15 October; Devalia (Gir Interpretation Zone) runs most of the year. Gujarat is a dry state – alcohol needs a permit (Diu is outside this rule). Dress modestly at temples; phones and cameras are not allowed inside some temples (e.g. Dwarkadhish, Somnath)."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "GUJ-12",
+   "slug": "best-of-gujarat-statue-of-unity-to-kutch-9n-10d",
+   "title": "Best of Gujarat – Statue of Unity to Kutch 9N/10D",
+   "destination": "gujarat",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Heritage",
+    "Wildlife"
+   ],
+   "durationNights": 9,
+   "durationDays": 10,
+   "price": {
+    "amount": 29999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Gujarat from end to end – Statue of Unity, Gir, Diu, Dwarka, Somnath and Kutch.",
+   "highlights": [
+    "Gujarat from end to end – Statue of Unity, Gir, Diu, Dwarka, Somnath and Kutch."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival in Ahmedabad",
+     "description": "Pickup and check-in. Visit Sabarmati Ashram and Adalaj Stepwell; evening at the Sabarmati Riverfront. Overnight stay in Ahmedabad.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Ahmedabad hotel"
+    },
+    {
+     "day": 2,
+     "title": "Ahmedabad – Statue of Unity",
+     "description": "Breakfast and drive to Ekta Nagar (about 4 hrs). Statue of Unity viewing gallery and evening laser show. Overnight stay at Ekta Nagar.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Ekta Nagar hotel"
+    },
+    {
+     "day": 3,
+     "title": "Ekta Nagar – Vadodara – Bhavnagar",
+     "description": "Breakfast and drive via Vadodara (Laxmi Vilas Palace) to Bhavnagar (about 6–7 hrs in total). Overnight stay in Bhavnagar.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Bhavnagar hotel"
+    },
+    {
+     "day": 4,
+     "title": "Palitana – Sasan Gir",
+     "description": "Early visit to the Palitana Jain temples (climb or visit at the foot of the hill), then drive to Sasan Gir (about 4 hrs). Overnight stay at Sasan Gir.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Sasan Gir resort"
+    },
+    {
+     "day": 5,
+     "title": "Sasan Gir – Diu",
+     "description": "Optional early-morning Gir jungle safari (permit and gypsy at own cost). After breakfast drive to Diu (about 2.5 hrs) and visit Diu Fort, Naida Caves, St. Paul's Church and Nagoa beach at sunset. Overnight stay in Diu.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Diu hotel"
+    },
+    {
+     "day": 6,
+     "title": "Diu – Somnath",
+     "description": "Breakfast, a visit to Gangeshwar Mahadev in Diu and drive to Somnath (about 2 hrs). Evening aarti and sound & light show. Overnight stay in Somnath.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Somnath hotel"
+    },
+    {
+     "day": 7,
+     "title": "Somnath – Porbandar – Dwarka",
+     "description": "Morning darshan at Somnath, then drive along the coast via Porbandar to Dwarka. Evening aarti at Dwarkadhish. Overnight stay in Dwarka.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Dwarka hotel"
+    },
+    {
+     "day": 8,
+     "title": "Dwarka Darshan",
+     "description": "Morning darshan at the Dwarkadhish Temple and Gomti Ghat. Drive across Sudarshan Setu to Bet Dwarka, then visit Nageshwar Jyotirlinga, Gopi Talav and Rukmini Temple. Evening aarti at Dwarkadhish. Overnight stay in Dwarka.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Dwarka hotel"
+    },
+    {
+     "day": 9,
+     "title": "Dwarka – Jamnagar – Bhuj",
+     "description": "Breakfast and drive via Jamnagar (short stop at Lakhota Lake) into Kutch to Bhuj (about 6–7 hrs). Overnight stay in Bhuj.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Bhuj hotel"
+    },
+    {
+     "day": 10,
+     "title": "Bhuj Sightseeing & Departure",
+     "description": "Breakfast and visit Aina Mahal, Prag Mahal and the Bhujodi weaving village. Drop at Bhuj airport or railway station (White Rann extension available on request). Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "9 nights hotel stay with breakfast and dinner",
+    "Private vehicle for the whole tour",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Gir jungle safari permit, gypsy and guide charges",
+    "Boat ride to Bet Dwarka",
+    "Statue of Unity and palace tickets",
+    "Doli at Palitana"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Ahmedabad (1N) → Ekta Nagar (1N) → Vadodara → Bhavnagar (1N) → Sasan Gir (1N) → Diu (1N) → Somnath (1N) → Dwarka (2N) → Jamnagar → Bhuj (1N)"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "1 night Ahmedabad, 1 night Ekta Nagar, 1 night Bhavnagar, 1 night Sasan Gir, 1 night Diu, 1 night Somnath, 2 nights Dwarka, 1 night Bhuj – 3★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Sabarmati Ashram, Adalaj Stepwell, Statue of Unity, Laxmi Vilas Palace, Palitana, Sasan Gir, Diu, Somnath, Porbandar, Dwarkadhish, Bet Dwarka, Nageshwar, Jamnagar, Bhuj palaces, Bhujodi."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Statue of Unity; Palitana; lion safari; Diu beaches; Dwarka and Somnath darshan; Kutch crafts."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (9 breakfasts + 9 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Ahmedabad arrival and Bhuj departure."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting at Ahmedabad and ending at Bhuj."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "November to February."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Gir National Park jungle safaris need an online permit booked in advance (limited, sell out on holidays) and the park is closed from 16 June to 15 October; Devalia (Gir Interpretation Zone) runs most of the year. Gujarat is a dry state – alcohol needs a permit (Diu is outside this rule). Dress modestly at temples; phones and cameras are not allowed inside some temples (e.g. Dwarkadhish, Somnath). Statue of Unity is closed on Mondays; viewing-gallery tickets are limited – book early."
      ]
     }
    ],
