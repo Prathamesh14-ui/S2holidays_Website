@@ -150,7 +150,7 @@ export const plannerDestination = defineType({
       type: "boolean",
       group: "rates",
       initialValue: false,
-      description: "Tick ONLY when all rates above are correct. Until then the planner offers a free quote instead of a price.",
+      description: "Tick ONLY when all rates above are correct. Until then the planner shows the rough estimate below.",
     }),
   ],
   orderings: [{ title: "Order", name: "order", by: [{ field: "order", direction: "asc" }] }],
