@@ -2,6 +2,10 @@ import "server-only";
 import { timingSafeEqual } from "node:crypto";
 import { getWriteClient } from "@/sanity/lib/server-client";
 import { serverEnv } from "@/lib/server-env";
+import newTrips from "@/data/new-trips-import.json";
+
+/** The 32 trips added in Nov 2026 have PROPOSED prices – never switch those on from here. */
+const NOT_APPROVED = newTrips.packages.flatMap((p) => [`kb-${p.kbId.toLowerCase()}`, `drafts.kb-${p.kbId.toLowerCase()}`]);
 
 /**
  * ONE-TIME: the owner approved the knowledge-base prices, so switch "Show price on website" ON
@@ -21,7 +25,8 @@ export async function showAllPrices() {
   if (!c) throw new Error("SANITY_API_WRITE_TOKEN is not configured");
   const docs = await c.fetch<{ _id: string; title?: string; amount?: number }[]>(
     `*[_type == "holidayPackage" && (string::startsWith(_id, "kb-") || string::startsWith(_id, "drafts.kb-"))
-      && defined(price.amount) && price.show != true]{_id, title, "amount": price.amount}`
+      && defined(price.amount) && price.show != true && !(_id in $skip)]{_id, title, "amount": price.amount}`,
+    { skip: NOT_APPROVED }
   );
   const results: { name: string; status: string }[] = [];
   for (let i = 0; i < docs.length; i += 25) {
