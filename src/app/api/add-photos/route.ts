@@ -1,13 +1,13 @@
 import { revalidateTag } from "next/cache";
 import { NextResponse, type NextRequest } from "next/server";
-import { checkPassword, runBatch } from "@/lib/import-new-trips";
+import { checkPassword, runBatch } from "@/lib/add-photos";
 import { rateLimit } from "@/lib/rate-limit";
 
 export const maxDuration = 60;
 
 export async function POST(req: NextRequest) {
   const ip = req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown";
-  if (!rateLimit(`import-new-trips:${ip}`, 120, 10 * 60 * 1000).ok) return NextResponse.json({ error: "Too many attempts" }, { status: 429 });
+  if (!rateLimit(`add-photos:${ip}`, 120, 10 * 60 * 1000).ok) return NextResponse.json({ error: "Too many attempts" }, { status: 429 });
   const body = await req.json().catch(() => ({}));
   if (!checkPassword(body.password)) return NextResponse.json({ error: "Wrong password" }, { status: 401 });
   try {

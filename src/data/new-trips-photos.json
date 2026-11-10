@@ -1,0 +1,496 @@
+{
+ "packages": {
+  "GOA-06": {
+   "label": "Mumbai – Goa – Mumbai Cruise 2N/3D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sunset_from_the_cruise_ship_in_the_Arabian_Sea.jpg/1920px-Sunset_from_the_cruise_ship_in_the_Arabian_Sea.jpg",
+   "alt": "Sunset seen from a cruise ship on the Arabian Sea",
+   "credit": "Jyoti Chiring / Wikimedia Commons, CC BY 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Sunset_from_the_cruise_ship_in_the_Arabian_Sea.jpg"
+  },
+  "PIL-08": {
+   "label": "Amarnath Yatra via Baltal from Srinagar 3N/4D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Amarnath_cave_view.jpg/1920px-Amarnath_cave_view.jpg",
+   "alt": "Amarnath holy cave in the mountains of Kashmir",
+   "credit": "Kasisripada17 / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Amarnath_cave_view.jpg"
+  },
+  "PIL-09": {
+   "label": "Amarnath Yatra by Helicopter 3N/4D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/BaltalAmarnath.jpg/1920px-BaltalAmarnath.jpg",
+   "alt": "Baltal valley, base of the Amarnath Yatra",
+   "credit": "Nckumbhkar / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:BaltalAmarnath.jpg"
+  },
+  "PIL-10": {
+   "label": "Vaishno Devi & Amarnath Yatra 8N/9D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Shri_Mata_Vaishno_Devi_Bhawan%2C_Katra_Jammu_%26_Kashmir_INDIA.jpg/1920px-Shri_Mata_Vaishno_Devi_Bhawan%2C_Katra_Jammu_%26_Kashmir_INDIA.jpg",
+   "alt": "Mata Vaishno Devi Bhawan on the Trikuta hills near Katra",
+   "credit": "KDhruv406 / Wikimedia Commons, CC BY 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Shri_Mata_Vaishno_Devi_Bhawan,_Katra_Jammu_%26_Kashmir_INDIA.jpg"
+  },
+  "PIL-11": {
+   "label": "Tirupati Balaji Darshan 1N/2D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/A_View_of_Tirumala_Venkateswara_Temple.JPG/1920px-A_View_of_Tirumala_Venkateswara_Temple.JPG",
+   "alt": "Tirumala Venkateswara Temple, Tirupati",
+   "credit": "Adityamadhav83 / Wikimedia Commons, CC BY-SA 3.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:A_View_of_Tirumala_Venkateswara_Temple.JPG"
+  },
+  "PIL-12": {
+   "label": "Kerala Temple Tour – Guruvayur to Thiruvananthapuram 6N/7D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/009392022_Guruvayur_temple%2C_Kerala_024.jpg/1920px-009392022_Guruvayur_temple%2C_Kerala_024.jpg",
+   "alt": "Guruvayur Sri Krishna Temple, Kerala",
+   "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:009392022_Guruvayur_temple,_Kerala_024.jpg"
+  },
+  "PIL-13": {
+   "label": "Char Dham Yatra by Helicopter 5N/6D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kedarnath_Temple.jpg/1920px-Kedarnath_Temple.jpg",
+   "alt": "Kedarnath Temple below the Himalayan peaks",
+   "credit": "Shaq774 at en.wikipedia / Wikimedia Commons (Public domain)",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Kedarnath_Temple.jpg"
+  },
+  "PIL-14": {
+   "label": "Do Dham Yatra by Helicopter – Kedarnath & Badrinath 2N/3D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Badrinath_Temple%2C_Uttarakhand_%28Photo-_Vishwanath_Negi%29.jpg/1920px-Badrinath_Temple%2C_Uttarakhand_%28Photo-_Vishwanath_Negi%29.jpg",
+   "alt": "Badrinath Temple, Uttarakhand",
+   "credit": "Vishwanath Negi / Wikimedia Commons, CC BY 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Badrinath_Temple,_Uttarakhand_(Photo-_Vishwanath_Negi).jpg"
+  },
+  "PIL-15": {
+   "label": "Kedarnath Fixed Departure Group Yatra from Haridwar 4N/5D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kedarnath_trekking.jpg/1920px-Kedarnath_trekking.jpg",
+   "alt": "Pilgrims on the trek to Kedarnath",
+   "credit": "Imjha1 / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Kedarnath_trekking.jpg"
+  },
+  "PIL-16": {
+   "label": "Adi Kailash & Om Parvat Yatra from Kathgodam 7N/8D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Parvati_Kund_at_Adi-Kailash.jpg/1920px-Parvati_Kund_at_Adi-Kailash.jpg",
+   "alt": "Parvati Kund with Adi Kailash in the background",
+   "credit": "Kcsr.ntl / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Parvati_Kund_at_Adi-Kailash.jpg"
+  },
+  "PIL-17": {
+   "label": "Kailash Mansarovar Yatra Overland via Nepal 13N/14D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mt.Kailash_north_face_view.jpg/1920px-Mt.Kailash_north_face_view.jpg",
+   "alt": "North face of Mount Kailash, Tibet",
+   "credit": "Levinly Travel / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Mt.Kailash_north_face_view.jpg"
+  },
+  "PIL-18": {
+   "label": "Mount Kailash Darshan from Nepal (Lapcha La) by Flight & Helicopter 4N/5D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/ManasarovarKailashPrayerFlags.jpg/1920px-ManasarovarKailashPrayerFlags.jpg",
+   "alt": "Mount Kailash above Lake Manasarovar with prayer flags",
+   "credit": "Jean-Marie Hullot / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:ManasarovarKailashPrayerFlags.jpg"
+  },
+  "SG-03": {
+   "label": "Singapore City & Cruise Combo 5N/6D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg/1920px-Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg",
+   "alt": "Supertree Grove at Gardens by the Bay, Singapore",
+   "credit": "Mustang Joe / Wikimedia Commons (CC0)",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Supertree_Grove,_Gardens_by_the_Bay,_Singapore1.jpg"
+  },
+  "ARU-01": {
+   "label": "Arunachal Tawang Monastery Trail 5N/6D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Tawang_Monastery_%28Tibetan_Buddhist%29.jpg/1920px-Tawang_Monastery_%28Tibetan_Buddhist%29.jpg",
+   "alt": "Tawang Monastery, Arunachal Pradesh",
+   "credit": "Vikramjit Kakati / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Tawang_Monastery_(Tibetan_Buddhist).jpg"
+  },
+  "ARU-02": {
+   "label": "Tawang Quick Escape 4N/5D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dirang_Valley.jpg/1920px-Dirang_Valley.jpg",
+   "alt": "Dirang valley, Arunachal Pradesh",
+   "credit": "Itrajib / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Dirang_Valley.jpg"
+  },
+  "ARU-03": {
+   "label": "Tawang Unhurried 6N/7D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Nuranang_Waterfall.jpg/1920px-Nuranang_Waterfall.jpg",
+   "alt": "Nuranang waterfall near Tawang",
+   "credit": "Sdasamdabad / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Nuranang_Waterfall.jpg"
+  },
+  "ARU-04": {
+   "label": "Tawang & Bum La Pass with Nameri 7N/8D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bum_La_Pass.jpg/1920px-Bum_La_Pass.jpg",
+   "alt": "Bum La pass on the India–China border, Tawang",
+   "credit": "Itrajib / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Bum_La_Pass.jpg"
+  },
+  "ARU-05": {
+   "label": "Tawang & Zemithang Valley 7N/8D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Gorsam_Stupa%2C_Zemithang_India.jpg/1920px-Gorsam_Stupa%2C_Zemithang_India.jpg",
+   "alt": "Gorsam Chorten stupa at Zemithang",
+   "credit": "Prof Ranga Sai / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Gorsam_Stupa,_Zemithang_India.jpg"
+  },
+  "ARU-06": {
+   "label": "Aalo & Mechuka Valley 4N/5D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mechuka_overview_2.jpg/1920px-Mechuka_overview_2.jpg",
+   "alt": "Mechuka valley, Arunachal Pradesh",
+   "credit": "Quentin Talon &amp; Mario Geiger / Wikimedia Commons, CC BY-SA 3.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Mechuka_overview_2.jpg"
+  },
+  "ARU-07": {
+   "label": "Pasighat, Aalo & Mechuka 5N/6D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Siang_River_Pasighat.jpg/1920px-Siang_River_Pasighat.jpg",
+   "alt": "Siang river at Pasighat",
+   "credit": "Rashid Jorvee / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Siang_River_Pasighat.jpg"
+  },
+  "ARU-08": {
+   "label": "Dibang Valley – Roing, Mayodia Pass & Anini 4N/5D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mayodia_8.jpg/1920px-Mayodia_8.jpg",
+   "alt": "Mayodia, Dibang Valley",
+   "credit": "ঈশান জ্যোতি বৰা / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Mayodia_8.jpg"
+  },
+  "ARU-09": {
+   "label": "Ziro Valley, Aalo & Mechuka Circuit 9N/10D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ziro_and_its_green_valley.jpg/1920px-Ziro_and_its_green_valley.jpg",
+   "alt": "Green rice fields of Ziro valley",
+   "credit": "Arunachal2007 / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Ziro_and_its_green_valley.jpg"
+  },
+  "ARU-10": {
+   "label": "Best of Arunachal Pradesh Grand Tour 17N/18D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sela_Lake_near_Sela_pass%2C_Arunachal_Pradesh%2C_India.jpg/1920px-Sela_Lake_near_Sela_pass%2C_Arunachal_Pradesh%2C_India.jpg",
+   "alt": "Sela Lake near Sela Pass",
+   "credit": "Rohit Sharma / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Sela_Lake_near_Sela_pass,_Arunachal_Pradesh,_India.jpg"
+  },
+  "LAK-01": {
+   "label": "Lakshadweep Agatti Island Lagoon Escape 3N/4D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lakshadweep_-_Agatti_Islands.jpg/1920px-Lakshadweep_-_Agatti_Islands.jpg",
+   "alt": "Turquoise lagoon at Agatti island, Lakshadweep",
+   "credit": "Asssagar / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Lakshadweep_-_Agatti_Islands.jpg"
+  },
+  "ODI-01": {
+   "label": "Odisha Golden Triangle – Bhubaneswar, Puri & Konark 4N/5D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Konark_Sun_Temple_Puri_district%2C_Odisha%2C_India_3.jpg/1920px-Konark_Sun_Temple_Puri_district%2C_Odisha%2C_India_3.jpg",
+   "alt": "Konark Sun Temple, Odisha",
+   "credit": "Joydeep Chakraborty / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Konark_Sun_Temple_Puri_district,_Odisha,_India_3.jpg"
+  },
+  "PUN-01": {
+   "label": "Amritsar Golden Temple, Wagah & Chandigarh 3N/4D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Golden_Temple%2C_Amritsar_01.jpg/1920px-Golden_Temple%2C_Amritsar_01.jpg",
+   "alt": "Golden Temple (Harmandir Sahib), Amritsar",
+   "credit": "Bernard Gagnon / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Golden_Temple,_Amritsar_01.jpg"
+  },
+  "DEL-01": {
+   "label": "Delhi Heritage City Break 2N/3D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Humayun%27s_Tomb-Delhi_front_view.jpg/1920px-Humayun%27s_Tomb-Delhi_front_view.jpg",
+   "alt": "Humayun's Tomb, Delhi",
+   "credit": "Komal Sambhudas / Wikimedia Commons (CC0)",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Humayun%27s_Tomb-Delhi_front_view.jpg"
+  },
+  "TAJ-01": {
+   "label": "Taj Mahal Sunrise Tour from Delhi 1N/2D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Taj_Mahal%2C_Agra%2C_India_edit2.jpg/1920px-Taj_Mahal%2C_Agra%2C_India_edit2.jpg",
+   "alt": "Taj Mahal, Agra",
+   "credit": "Yann; edited by King of Hearts / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit2.jpg"
+  },
+  "UP-01": {
+   "label": "Lucknow Nawabi Heritage & Agra 3N/4D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/View_of_Bara_Imambara%2C_Lucknow.jpg/1920px-View_of_Bara_Imambara%2C_Lucknow.jpg",
+   "alt": "Bara Imambara, Lucknow",
+   "credit": "Slyronit / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:View_of_Bara_Imambara,_Lucknow.jpg"
+  },
+  "NI-01": {
+   "label": "North India Highlights – Amritsar, Delhi, Agra & Jaipur 6N/7D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Amber_Fort%2C_Jaipur%2C_20191219_1011_9509.jpg/1920px-Amber_Fort%2C_Jaipur%2C_20191219_1011_9509.jpg",
+   "alt": "Amber Fort, Jaipur",
+   "credit": "Jakub Hałun / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Amber_Fort,_Jaipur,_20191219_1011_9509.jpg"
+  },
+  "SI-01": {
+   "label": "South India Heritage Coast – Chennai, Mahabalipuram & Pondicherry 3N/4D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mamallapuram%2C_Shore_Temple%2C_India.jpg/1920px-Mamallapuram%2C_Shore_Temple%2C_India.jpg",
+   "alt": "Shore Temple, Mahabalipuram",
+   "credit": "Vyacheslav Argenberg / Wikimedia Commons, CC BY 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Mamallapuram,_Shore_Temple,_India.jpg"
+  },
+  "GUJ-03": {
+   "label": "Sasan Gir Lions & Diu Beaches 3N/4D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Asiatic_lion_03.jpg/1920px-Asiatic_lion_03.jpg",
+   "alt": "Asiatic lion, the big cat of Gir",
+   "credit": "Bernard Gagnon / Wikimedia Commons, CC BY-SA 3.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Asiatic_lion_03.jpg"
+  },
+  "GUJ-04": {
+   "label": "Dwarka, Somnath & Junagadh Yatra 4N/5D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Dwarkadhish_Temple%2C_Dwarka%2C_Gujarat.JPG/1920px-Dwarkadhish_Temple%2C_Dwarka%2C_Gujarat.JPG",
+   "alt": "Dwarkadhish Temple, Dwarka",
+   "credit": "Kunalmehra7 / Wikimedia Commons, CC BY-SA 3.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Dwarkadhish_Temple,_Dwarka,_Gujarat.JPG"
+  },
+  "GUJ-05": {
+   "label": "Saurashtra Coast – Jamnagar to Bhavnagar 4N/5D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Somanath_mandir_%28cropped%29.jpg/1920px-Somanath_mandir_%28cropped%29.jpg",
+   "alt": "Somnath Temple on the Gujarat coast",
+   "credit": "B. SurajPatro1997 / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Somanath_mandir_(cropped).jpg"
+  },
+  "GUJ-06": {
+   "label": "Dwarka & Somnath from Jamnagar 4N/5D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/DWARKADHISH_TEMPLE.jpg/1920px-DWARKADHISH_TEMPLE.jpg",
+   "alt": "Dwarkadhish Temple, Dwarka",
+   "credit": "Abhi1901 / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:DWARKADHISH_TEMPLE.jpg"
+  },
+  "GUJ-07": {
+   "label": "Rann of Kutch & Bhuj Crafts Trail 4N/5D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/%27WHITE_DESERT%27_at_Dhordo_in_Great_Rann_of_Kutch.JPG/1920px-%27WHITE_DESERT%27_at_Dhordo_in_Great_Rann_of_Kutch.JPG",
+   "alt": "White salt desert of the Great Rann of Kutch at Dhordo",
+   "credit": "Rudolph.A.furtado / Wikimedia Commons (CC0)",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:%27WHITE_DESERT%27_at_Dhordo_in_Great_Rann_of_Kutch.JPG"
+  },
+  "GUJ-08": {
+   "label": "Dwarka, Somnath, Gir & Diu 5N/6D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Diu_fort%2C_India.JPG/1920px-Diu_fort%2C_India.JPG",
+   "alt": "Diu Fort by the sea",
+   "credit": "Aditya Mahar / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Diu_fort,_India.JPG"
+  },
+  "GUJ-09": {
+   "label": "Gujarat Heritage & Crafts – Patan, Bhuj, Statue of Unity & Champaner 6N/7D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rani_ki_vav_10.jpg/1920px-Rani_ki_vav_10.jpg",
+   "alt": "Rani ki Vav stepwell, Patan",
+   "credit": "Bernard Gagnon / Wikimedia Commons, CC BY-SA 3.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Rani_ki_vav_10.jpg"
+  },
+  "GUJ-10": {
+   "label": "Panch Dwarka Yatra with Nishkalank Mahadev 7N/8D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/N-GJ-126_Dwarkadhish_Temple%2C_Dwarka_Flag_Hoisting.jpg/1920px-N-GJ-126_Dwarkadhish_Temple%2C_Dwarka_Flag_Hoisting.jpg",
+   "alt": "Flag on the Dwarkadhish Temple spire, Dwarka",
+   "credit": "MADHURANTHAKAN JAGADEESAN / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:N-GJ-126_Dwarkadhish_Temple,_Dwarka_Flag_Hoisting.jpg"
+  },
+  "GUJ-11": {
+   "label": "Gujarat Grand Saurashtra Circuit 7N/8D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Palitana_temples_05.jpg/1920px-Palitana_temples_05.jpg",
+   "alt": "Jain temples on Shatrunjaya hill, Palitana",
+   "credit": "Bernard Gagnon / Wikimedia Commons, CC BY-SA 3.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Palitana_temples_05.jpg"
+  },
+  "GUJ-12": {
+   "label": "Best of Gujarat – Statue of Unity to Kutch 9N/10D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Full_Length_shot_of_The_Statue_of_Unity.jpg/1920px-Full_Length_shot_of_The_Statue_of_Unity.jpg",
+   "alt": "Statue of Unity, Ekta Nagar",
+   "credit": "Veera.sj / Wikimedia Commons (CC0)",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Full_Length_shot_of_The_Statue_of_Unity.jpg"
+  },
+  "AFR-01": {
+   "label": "Kenya Safari – Masai Mara & Lake Naivasha 5N/6D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Three_zebras_in_Masai_Mara_National_Park%2C_Kenya.jpg/1920px-Three_zebras_in_Masai_Mara_National_Park%2C_Kenya.jpg",
+   "alt": "Zebras in the Masai Mara, Kenya",
+   "credit": "Volodymyr Burdiak / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Three_zebras_in_Masai_Mara_National_Park,_Kenya.jpg"
+  },
+  "BLK-01": {
+   "label": "Balkans Discovery – Dubrovnik, Montenegro, Mostar & Sarajevo 5N/6D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Dubrovnik_Old_Town_1.jpg/1920px-Dubrovnik_Old_Town_1.jpg",
+   "alt": "Dubrovnik old town and city walls",
+   "credit": "kallerna / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Dubrovnik_Old_Town_1.jpg"
+  },
+  "IDN-01": {
+   "label": "Java & Bali – Borobudur, Prambanan and Bali 6N/7D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Borobudur-Temple-Park_Indonesia_Stupas-of-Borobudur-12.jpg/1920px-Borobudur-Temple-Park_Indonesia_Stupas-of-Borobudur-12.jpg",
+   "alt": "Stupas of Borobudur temple, Java",
+   "credit": "CEphoto, Uwe Aranas / Wikimedia Commons, CC BY-SA 3.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Borobudur-Temple-Park_Indonesia_Stupas-of-Borobudur-12.jpg"
+  },
+  "MNG-01": {
+   "label": "Mongolia Steppe & Ger Camp Experience 5N/6D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Konie_mongolskie_w_Parku_Narodowym_Gorchi-Tereld%C5%BC_01.JPG/1920px-Konie_mongolskie_w_Parku_Narodowym_Gorchi-Tereld%C5%BC_01.JPG",
+   "alt": "Mongolian horses in Gorkhi-Terelj National Park",
+   "credit": "Marcin Konsek / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Konie_mongolskie_w_Parku_Narodowym_Gorchi-Tereld%C5%BC_01.JPG"
+  },
+  "NZ-01": {
+   "label": "New Zealand North & South – Auckland, Rotorua & Queenstown 6N/7D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Milford_Sound_in_Fiordland_National_Park_01.jpg/1920px-Milford_Sound_in_Fiordland_National_Park_01.jpg",
+   "alt": "Milford Sound, Fiordland, New Zealand",
+   "credit": "Krzysztof Golik / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Milford_Sound_in_Fiordland_National_Park_01.jpg"
+  },
+  "RUS-01": {
+   "label": "Russia Classic – Moscow & St Petersburg 6N/7D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Saint_Basil%27s_Cathedral%2C_Red_Square%2C_Moscow%2C_Russia.jpg/1920px-Saint_Basil%27s_Cathedral%2C_Red_Square%2C_Moscow%2C_Russia.jpg",
+   "alt": "Saint Basil's Cathedral on Red Square, Moscow",
+   "credit": "Vyacheslav Argenberg / Wikimedia Commons, CC BY 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Saint_Basil%27s_Cathedral,_Red_Square,_Moscow,_Russia.jpg"
+  },
+  "ESP-01": {
+   "label": "Spain Highlights – Barcelona & Madrid 6N/7D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sagrada_Familia_March_2015-10a.jpg/1920px-Sagrada_Familia_March_2015-10a.jpg",
+   "alt": "Sagrada Família, Barcelona",
+   "credit": "Alvesgaspar / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Sagrada_Familia_March_2015-10a.jpg"
+  },
+  "CH-01": {
+   "label": "Swiss Alps Explorer – Lucerne, Titlis & Interlaken 5N/6D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kapellbr%C3%BCcke_Luzern_2022-10-01_04.jpg/1920px-Kapellbr%C3%BCcke_Luzern_2022-10-01_04.jpg",
+   "alt": "Chapel Bridge (Kapellbrücke), Lucerne",
+   "credit": "Leonhard Lenz / Wikimedia Commons (CC0)",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Kapellbr%C3%BCcke_Luzern_2022-10-01_04.jpg"
+  },
+  "REU-01": {
+   "label": "Réunion Island Volcanoes & Lagoons 5N/6D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Piton_de_La_Fournaise_-_Paysage_de_l%27%C3%AEle_de_La_R%C3%A9union.jpg/1920px-Piton_de_La_Fournaise_-_Paysage_de_l%27%C3%AEle_de_La_R%C3%A9union.jpg",
+   "alt": "Piton de la Fournaise volcano landscape, Réunion",
+   "credit": "Alexandre Péribé / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Piton_de_La_Fournaise_-_Paysage_de_l%27%C3%AEle_de_La_R%C3%A9union.jpg"
+  },
+  "SEY-01": {
+   "label": "Seychelles Mahé & Praslin Island Hop 5N/6D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Anse_Source_d%27Argent_-_La_Digue_-_Seychelles_-_04.jpg/1920px-Anse_Source_d%27Argent_-_La_Digue_-_Seychelles_-_04.jpg",
+   "alt": "Anse Source d'Argent beach, La Digue, Seychelles",
+   "credit": "NorbertNagel / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Anse_Source_d%27Argent_-_La_Digue_-_Seychelles_-_04.jpg"
+  }
+ },
+ "destinations": {
+  "arunachal-pradesh": {
+   "label": "Destination: Arunachal Pradesh",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Landscape_as_seen_Sela_Pass%2C_Tawang_Dist%2C_Arunachal_Pradesh_1.jpg/1920px-Landscape_as_seen_Sela_Pass%2C_Tawang_Dist%2C_Arunachal_Pradesh_1.jpg",
+   "alt": "Mountain landscape at Sela Pass, Arunachal Pradesh",
+   "credit": "Kingshuk Mondal / Wikimedia Commons, CC BY 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Landscape_as_seen_Sela_Pass,_Tawang_Dist,_Arunachal_Pradesh_1.jpg"
+  },
+  "lakshadweep": {
+   "label": "Destination: Lakshadweep",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bangaram_Island%2C_Lakshadweep_20160325-_DSC1780.jpg/1920px-Bangaram_Island%2C_Lakshadweep_20160325-_DSC1780.jpg",
+   "alt": "Bangaram island lagoon, Lakshadweep",
+   "credit": "The.chhayachitrakar / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Bangaram_Island,_Lakshadweep_20160325-_DSC1780.jpg"
+  },
+  "odisha": {
+   "label": "Destination: Odisha",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jagannath_Temple%2C_Puri_04.jpg/1920px-Jagannath_Temple%2C_Puri_04.jpg",
+   "alt": "Jagannath Temple, Puri",
+   "credit": "Bernard Gagnon / Wikimedia Commons, CC BY-SA 3.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Jagannath_Temple,_Puri_04.jpg"
+  },
+  "punjab": {
+   "label": "Destination: Punjab",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wagah_border_ceremony2.jpg/1920px-Wagah_border_ceremony2.jpg",
+   "alt": "Beating Retreat ceremony at the Attari–Wagah border",
+   "credit": "Guilhem Vellut / Wikimedia Commons, CC BY 2.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Wagah_border_ceremony2.jpg"
+  },
+  "delhi": {
+   "label": "Destination: Delhi",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/India_Gate%2C_New_Delhi.jpg/1920px-India_Gate%2C_New_Delhi.jpg",
+   "alt": "India Gate, New Delhi",
+   "credit": "Yann / Wikimedia Commons, CC BY-SA 3.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:India_Gate,_New_Delhi.jpg"
+  },
+  "uttar-pradesh": {
+   "label": "Destination: Uttar Pradesh",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rumi_Darwaza_-_DSC2797-01.jpg/1920px-Rumi_Darwaza_-_DSC2797-01.jpg",
+   "alt": "Rumi Darwaza, Lucknow",
+   "credit": "Rishabhgpt / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Rumi_Darwaza_-_DSC2797-01.jpg"
+  },
+  "north-india": {
+   "label": "Destination: North India",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hawa_Mahal_in_Jaipur_India.jpg/1920px-Hawa_Mahal_in_Jaipur_India.jpg",
+   "alt": "Hawa Mahal, Jaipur",
+   "credit": "Wander-earth / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Hawa_Mahal_in_Jaipur_India.jpg"
+  },
+  "south-india": {
+   "label": "Destination: South India",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/S-TN-34_Meenakshi_Amman_Temple_South_Gopuram_enriched_with_delicate_Stucco_works.jpg/1920px-S-TN-34_Meenakshi_Amman_Temple_South_Gopuram_enriched_with_delicate_Stucco_works.jpg",
+   "alt": "South gopuram of Meenakshi Amman Temple, Madurai",
+   "credit": "MADHURANTHAKAN JAGADEESAN / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:S-TN-34_Meenakshi_Amman_Temple_South_Gopuram_enriched_with_delicate_Stucco_works.jpg"
+  },
+  "africa": {
+   "label": "Destination: Africa (Kenya)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wildebeest_and_Thomson_gazelle_in_Maasai_Mara%2C_Kenya.jpg/1920px-Wildebeest_and_Thomson_gazelle_in_Maasai_Mara%2C_Kenya.jpg",
+   "alt": "Wildebeest and gazelles in the Maasai Mara, Kenya",
+   "credit": "Daniel Case / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Wildebeest_and_Thomson_gazelle_in_Maasai_Mara,_Kenya.jpg"
+  },
+  "balkans": {
+   "label": "Destination: Balkans",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bay_of_Kotor_3.jpg/1920px-Bay_of_Kotor_3.jpg",
+   "alt": "Bay of Kotor, Montenegro",
+   "credit": "kallerna / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Bay_of_Kotor_3.jpg"
+  },
+  "indonesia": {
+   "label": "Destination: Indonesia (Java & Bali)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Yogyakarta_Indonesia_Prambanan-temple-complex-24.jpg/1920px-Yogyakarta_Indonesia_Prambanan-temple-complex-24.jpg",
+   "alt": "Prambanan temple complex, Java",
+   "credit": "CEphoto, Uwe Aranas / Wikimedia Commons, CC BY-SA 3.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Yogyakarta_Indonesia_Prambanan-temple-complex-24.jpg"
+  },
+  "mongolia": {
+   "label": "Destination: Mongolia",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Genghis_Khan_Equestrian_Statue.jpg/1920px-Genghis_Khan_Equestrian_Statue.jpg",
+   "alt": "Chinggis Khaan Equestrian Statue, Mongolia",
+   "credit": "Martin Vorel / Wikimedia Commons (CC0)",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Genghis_Khan_Equestrian_Statue.jpg"
+  },
+  "new-zealand": {
+   "label": "Destination: New Zealand",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Queenstown_Bay_Lake_Wakatipu_04.jpg/1920px-Queenstown_Bay_Lake_Wakatipu_04.jpg",
+   "alt": "Queenstown Bay on Lake Wakatipu",
+   "credit": "Krzysztof Golik / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Queenstown_Bay_Lake_Wakatipu_04.jpg"
+  },
+  "russia": {
+   "label": "Destination: Russia",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Grand_Cascade_of_Peterhof_01.jpg/1920px-Grand_Cascade_of_Peterhof_01.jpg",
+   "alt": "Grand Cascade fountains at Peterhof",
+   "credit": "Florstein (Telegram:WikiPhoto.Space) / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Grand_Cascade_of_Peterhof_01.jpg"
+  },
+  "spain": {
+   "label": "Destination: Spain",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Plaza_de_Espa%C3%B1a%2C_Seville_3.jpg/1920px-Plaza_de_Espa%C3%B1a%2C_Seville_3.jpg",
+   "alt": "Plaza de España, Seville",
+   "credit": "kallerna / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a,_Seville_3.jpg"
+  },
+  "switzerland": {
+   "label": "Destination: Switzerland",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jungfraujoch%2C_Swiss_Alps%28_Ank_Kumar_%2C_Infosys_Limited_%29_11.jpg/1920px-Jungfraujoch%2C_Swiss_Alps%28_Ank_Kumar_%2C_Infosys_Limited_%29_11.jpg",
+   "alt": "Jungfraujoch in the Swiss Alps",
+   "credit": "Ank Kumar / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Jungfraujoch,_Swiss_Alps(_Ank_Kumar_,_Infosys_Limited_)_11.jpg"
+  },
+  "reunion-island": {
+   "label": "Destination: Réunion Island",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cilaos_Circus.jpg/1920px-Cilaos_Circus.jpg",
+   "alt": "Cirque de Cilaos, Réunion",
+   "credit": "Patrick Portes / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Cilaos_Circus.jpg"
+  },
+  "seychelles": {
+   "label": "Destination: Seychelles",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Anse_Lazio_Praslin_Seychelles_1.jpg/1920px-Anse_Lazio_Praslin_Seychelles_1.jpg",
+   "alt": "Anse Lazio beach, Praslin",
+   "credit": "Radosław Botev / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Anse_Lazio_Praslin_Seychelles_1.jpg"
+  },
+  "gujarat": {
+   "label": "Destination: Gujarat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Adalaj_Vav_01.jpg/1920px-Adalaj_Vav_01.jpg",
+   "alt": "Adalaj stepwell near Ahmedabad",
+   "credit": "Tejal Acharya / Wikimedia Commons, CC BY-SA 3.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Adalaj_Vav_01.jpg"
+  }
+ }
+}
