@@ -1,0 +1,2102 @@
+{
+ "source": "S2_Holidays_Travel_Knowledge_Base_3.xlsx (new trips)",
+ "destinations": [
+  {
+   "slug": "kullu-manali",
+   "name": "Kullu Manali",
+   "region": "domestic",
+   "state": "Himachal Pradesh",
+   "country": "India",
+   "image": null,
+   "bestTimeToVisit": "All year – March to June for pleasant weather, December to February for snow."
+  },
+  {
+   "slug": "taj-mahal",
+   "name": "Taj Mahal",
+   "region": "domestic",
+   "state": "Uttar Pradesh",
+   "country": "India",
+   "image": null,
+   "bestTimeToVisit": "October to March. The Taj is closed on Fridays."
+  }
+ ],
+ "packages": [
+  {
+   "kbId": "MAN-01",
+   "slug": "manali-overnight-getaway-1n-2d",
+   "title": "Manali Overnight Getaway 1N/2D",
+   "destination": "kullu-manali",
+   "region": "domestic",
+   "themes": [
+    "Couples",
+    "Friends",
+    "Weekend getaway"
+   ],
+   "durationNights": 1,
+   "durationDays": 2,
+   "price": {
+    "amount": 4999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Quick taste of Manali and the Kullu valley.",
+   "highlights": [
+    "Quick taste of Manali and the Kullu valley."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival in Manali – Local Sights",
+     "description": "Meet at the Manali bus stand or your arrival point and check in. Visit Hadimba Devi Temple, the Vashisht hot springs and spend the evening on Mall Road. Overnight stay in Manali.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 2,
+     "title": "Kullu Valley & Departure",
+     "description": "Breakfast and check-out. Drive down the Kullu valley to the shawl factories and the Beas rafting point (rafting at own cost). Drop at Kullu–Bhuntar airport or Manali bus stand. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "1 night hotel stay with dinner and breakfast",
+    "Sightseeing car in Manali and Kullu as per itinerary"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Solang / Atal Tunnel / Sissu local taxi",
+    "Rohtang Pass permit and taxi",
+    "Adventure activities (paragliding, rafting, skiing, snow gear)"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Manali (1N)"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "1 night in a 3★ or similar hotel in Manali. Exact hotel confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Hadimba Devi Temple, Vashisht hot springs, Mall Road, Kullu valley, shawl factories."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Temple visits; optional river rafting."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Dinner and breakfast."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – within Manali / Kullu (Bhuntar airport or Manali bus stand)."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Starts and ends in Manali (travel to Manali not included)."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "All year – March to June for pleasant weather, December to February for snow."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Solang Valley, Atal Tunnel and Sissu are usually visited by a Manali-registered local taxi (union rule), charged locally. Rohtang Pass needs a separate government permit (limited, closed in winter). Snow, road closures and traffic in peak season (May–June, Christmas–New Year) can change the plan."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "MAN-02",
+   "slug": "manali-weekend-with-solang-and-atal-tunnel-2n-3d",
+   "title": "Manali Weekend with Solang & Atal Tunnel 2N/3D",
+   "destination": "kullu-manali",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Friends",
+    "Weekend getaway"
+   ],
+   "durationNights": 2,
+   "durationDays": 3,
+   "price": {
+    "amount": 7499,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Snow at Solang and Sissu, Atal Tunnel, Old Manali cafés.",
+   "highlights": [
+    "Snow at Solang and Sissu",
+    "Atal Tunnel",
+    "Old Manali cafés."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival in Manali",
+     "description": "Meet at the Manali bus stand and check in. Rest after the journey; evening walk on Mall Road. Overnight stay in Manali.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 2,
+     "title": "Solang Valley & Atal Tunnel",
+     "description": "Breakfast and excursion by local taxi to Solang Valley (ropeway, paragliding, snow activities in season at own cost), then through the Atal Tunnel to Sissu in Lahaul for snow views and the waterfall. Return to Manali. Overnight stay in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 3,
+     "title": "Manali Local Sightseeing & Departure",
+     "description": "Breakfast and check-out. Visit Hadimba Devi Temple, Vashisht hot springs and Old Manali, then drop at the Manali bus stand for your evening bus. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "2 nights hotel stay with breakfast and dinner",
+    "Sightseeing car for Manali local tour",
+    "Bus stand transfers"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Solang / Atal Tunnel / Sissu local taxi",
+    "Rohtang Pass permit and taxi",
+    "Adventure activities (paragliding, rafting, skiing, snow gear)"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Manali (2N)"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "2 nights in a 3★ or similar hotel in Manali. Exact hotel confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Mall Road, Solang Valley, Atal Tunnel, Sissu, Hadimba Temple, Vashisht, Old Manali."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Snow point at Solang; Atal Tunnel drive; optional paragliding and ropeway."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (2 each)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Manali bus stand pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Starts and ends in Manali (travel to Manali not included)."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "December to February for snow; March to June for pleasant weather."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Solang Valley, Atal Tunnel and Sissu are usually visited by a Manali-registered local taxi (union rule), charged locally. Rohtang Pass needs a separate government permit (limited, closed in winter). Snow, road closures and traffic in peak season (May–June, Christmas–New Year) can change the plan."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "MAN-03",
+   "slug": "manali-igloo-night-experience-1n-2d",
+   "title": "Manali Igloo Night Experience 1N/2D",
+   "destination": "kullu-manali",
+   "region": "domestic",
+   "themes": [
+    "Couples",
+    "Friends",
+    "Adventure"
+   ],
+   "durationNights": 1,
+   "durationDays": 2,
+   "price": {
+    "amount": 8999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "A night inside a real snow igloo near Manali.",
+   "highlights": [
+    "A night inside a real snow igloo near Manali."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Manali – Igloo Camp",
+     "description": "Meet in Manali and drive to the road head, then a short snow walk to the igloo camp. Afternoon snow play (sledging, snowshoe walk), bonfire and hot dinner under the stars. Overnight in an igloo.",
+     "meals": [
+      "Lunch",
+      "Dinner"
+     ],
+     "overnight": "Igloo camp"
+    },
+    {
+     "day": 2,
+     "title": "Sunrise in the Snow – Manali",
+     "description": "Watch sunrise over the snow peaks, breakfast at camp and return to Manali by late morning. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "1 night in an igloo with meals",
+    "Snow gear (boots, gaiters) as provided by the camp",
+    "4x4 transfer Manali – road head – Manali",
+    "Camp guide"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Travel to Manali",
+    "Adventure activities not mentioned",
+    "Personal medicines and extra warm clothing"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Manali → igloo camp (1N) → Manali"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Snow igloo camp (shared washroom facilities)",
+      "1 night in a snow igloo at a camp near Manali (e.g. Hamta / Sethan area), operator confirmed at booking – Team Confirmation Required.",
+      "Igloo on twin sharing with sleeping bags and blankets"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Snow valley near Manali, Himalayan sunrise."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Igloo stay, snow walk, sledging, bonfire."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Lunch, dinner and breakfast at camp."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Manali to camp and back."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing in a snow igloo, minimum 2 adults. Starts and ends in Manali. Runs only in snow season (about January to March)."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "January to March (depends on snowfall)."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Igloos are built only when there is enough snow; dates are confirmed about two weeks ahead. Temperatures fall well below zero at night – carry thermals. Not suitable for small children or people with heart or breathing problems. Solang Valley, Atal Tunnel and Sissu are usually visited by a Manali-registered local taxi (union rule), charged locally. Rohtang Pass needs a separate government permit (limited, closed in winter). Snow, road closures and traffic in peak season (May–June, Christmas–New Year) can change the plan."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "MAN-04",
+   "slug": "manali-and-igloo-stay-3n-4d",
+   "title": "Manali & Igloo Stay 3N/4D",
+   "destination": "kullu-manali",
+   "region": "domestic",
+   "themes": [
+    "Couples",
+    "Adventure"
+   ],
+   "durationNights": 3,
+   "durationDays": 4,
+   "price": {
+    "amount": 14999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Snow igloo night plus Manali's sights.",
+   "highlights": [
+    "Snow igloo night plus Manali's sights."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival in Manali",
+     "description": "Meet at the Manali bus stand and check in. Evening on Mall Road. Overnight stay in Manali.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 2,
+     "title": "Manali – Igloo Camp",
+     "description": "Breakfast and drive to the road head, then a short snow walk to the igloo camp. Snow play, bonfire and dinner. Overnight in an igloo.",
+     "meals": [
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+     ],
+     "overnight": "Igloo camp"
+    },
+    {
+     "day": 3,
+     "title": "Igloo – Solang Valley – Manali",
+     "description": "Sunrise and breakfast at camp, return to Manali and continue by local taxi to Solang Valley (own cost). Overnight stay in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 4,
+     "title": "Manali Sightseeing & Departure",
+     "description": "Breakfast, Hadimba Devi Temple and Vashisht hot springs, then drop at the Manali bus stand. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "2 nights hotel + 1 night igloo with meals as per itinerary",
+    "4x4 transfers to the igloo camp",
+    "Sightseeing car for Manali local tour",
+    "Bus stand transfers"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Solang / Atal Tunnel / Sissu local taxi",
+    "Rohtang Pass permit and taxi",
+    "Adventure activities (paragliding, rafting, skiing, snow gear)"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Manali (1N) → igloo camp (1N) → Manali (1N)"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar) + snow igloo camp",
+      "2 nights Manali hotel (3★ or similar) + 1 night snow igloo camp. Exact stays confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Mall Road, igloo snow camp, Solang Valley, Hadimba Temple, Vashisht, Old Manali."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Igloo night, snow play, bonfire, Solang snow point."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Breakfast and dinner daily; all meals at the igloo camp."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Manali bus stand pickup and drop; camp 4x4."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Starts and ends in Manali. Igloo night runs only in snow season (about January to March)."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "January to March (depends on snowfall)."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Igloos depend on snowfall; dates confirmed about two weeks ahead. Night temperatures are well below zero. Solang Valley, Atal Tunnel and Sissu are usually visited by a Manali-registered local taxi (union rule), charged locally. Rohtang Pass needs a separate government permit (limited, closed in winter). Snow, road closures and traffic in peak season (May–June, Christmas–New Year) can change the plan."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "MAN-05",
+   "slug": "best-of-kullu-manali-from-chandigarh-3n-4d",
+   "title": "Best of Kullu Manali from Chandigarh 3N/4D",
+   "destination": "kullu-manali",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Weekend getaway"
+   ],
+   "durationNights": 3,
+   "durationDays": 4,
+   "price": {
+    "amount": 12499,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Solang, Atal Tunnel and Manikaran in one short trip.",
+   "highlights": [
+    "Solang, Atal Tunnel and Manikaran in one short trip."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Chandigarh – Manali",
+     "description": "Early pickup in Chandigarh and drive (about 8–9 hrs) via Bilaspur and Pandoh Dam into the Kullu valley to Manali. Overnight stay in Manali.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 2,
+     "title": "Solang Valley & Atal Tunnel",
+     "description": "Breakfast and excursion by local taxi to Solang Valley (ropeway, paragliding, snow activities in season at own cost), then through the Atal Tunnel to Sissu in Lahaul for snow views and the waterfall. Return to Manali. Overnight stay in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 3,
+     "title": "Kullu, Manikaran & Kasol",
+     "description": "Breakfast and drive down the Kullu valley – shawl factories, river rafting at Babeli/Pirdi (own cost), the Manikaran Sahib gurudwara and its hot springs, and the riverside village of Kasol. Return to Manali. Overnight stay in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 4,
+     "title": "Manali Local – Chandigarh",
+     "description": "Early visit to Hadimba Devi Temple and Vashisht, then drive back to Chandigarh (about 8–9 hrs) for a late-evening drop. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "3 nights hotel stay with breakfast and dinner",
+    "Private vehicle Chandigarh – Manali – Chandigarh and Kullu sightseeing",
+    "Driver allowance, fuel, tolls, parking and state taxes"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Solang / Atal Tunnel / Sissu local taxi",
+    "Rohtang Pass permit and taxi",
+    "Adventure activities (paragliding, rafting, skiing, snow gear)"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Chandigarh → Manali (3N) → Chandigarh"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "3 nights in a 3★ or similar hotel in Manali. Exact hotel confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Pandoh Dam, Kullu valley, Solang Valley, Atal Tunnel, Sissu, Manikaran Sahib, Kasol, Hadimba Temple, Vashisht."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Snow point; hot springs at Manikaran; optional rafting and paragliding."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (3 each)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Chandigarh pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Chandigarh."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "March to June and October to February."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Solang Valley, Atal Tunnel and Sissu are usually visited by a Manali-registered local taxi (union rule), charged locally. Rohtang Pass needs a separate government permit (limited, closed in winter). Snow, road closures and traffic in peak season (May–June, Christmas–New Year) can change the plan."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "MAN-06",
+   "slug": "manali-and-kasol-riverside-escape-5n-6d",
+   "title": "Manali & Kasol Riverside Escape 5N/6D",
+   "destination": "kullu-manali",
+   "region": "domestic",
+   "themes": [
+    "Couples",
+    "Friends",
+    "Nature"
+   ],
+   "durationNights": 5,
+   "durationDays": 6,
+   "price": {
+    "amount": 15999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Two nights by the Parvati river at Kasol plus the best of Manali.",
+   "highlights": [
+    "Two nights by the Parvati river at Kasol plus the best of Manali."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Chandigarh – Kasol",
+     "description": "Pickup in Chandigarh and drive (about 7–8 hrs) to Bhuntar and up the Parvati valley to Kasol on the river. Overnight in Kasol.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Kasol riverside stay"
+    },
+    {
+     "day": 2,
+     "title": "Manikaran & Chalal Village",
+     "description": "Breakfast and visit the Manikaran Sahib gurudwara and hot springs. Afternoon riverside walk to Chalal village and evening in Kasol's cafés. Overnight in Kasol.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Kasol riverside stay"
+    },
+    {
+     "day": 3,
+     "title": "Kasol – Kullu – Manali",
+     "description": "Breakfast and drive via Kullu (shawl factories, optional Beas rafting) to Manali. Evening on Mall Road. Overnight stay in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 4,
+     "title": "Solang Valley & Atal Tunnel",
+     "description": "Breakfast and excursion by local taxi to Solang Valley (ropeway, paragliding, snow activities in season at own cost), then through the Atal Tunnel to Sissu in Lahaul for snow views and the waterfall. Return to Manali. Overnight stay in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 5,
+     "title": "Manali Local Sightseeing",
+     "description": "Breakfast and visit the wooden Hadimba Devi Temple in the cedar forest, the Vashisht hot springs and temple, Manu Temple and the Club House; evening in Old Manali and on Mall Road. Overnight stay in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 6,
+     "title": "Manali – Chandigarh Departure",
+     "description": "Breakfast and drive to Chandigarh (about 8–9 hrs) for your onward journey. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "5 nights stay with breakfast and dinner",
+    "Private vehicle for transfers and Kullu–Kasol sightseeing",
+    "Driver allowance, fuel, tolls, parking and state taxes"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Solang / Atal Tunnel / Sissu local taxi",
+    "Rohtang Pass permit and taxi",
+    "Adventure activities (paragliding, rafting, skiing, snow gear)"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Chandigarh → Kasol (2N) → Manali (3N) → Chandigarh"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "3 nights Manali + 2 nights Kasol riverside stay, 3★ or similar. Exact stays confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Kasol, Manikaran Sahib, Chalal village, Kullu, Solang Valley, Atal Tunnel, Sissu, Hadimba Temple, Vashisht, Old Manali."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Riverside stay in the Parvati valley; hot springs; snow point; optional rafting."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (5 each)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Chandigarh pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Chandigarh."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "March to June and September to November."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Solang Valley, Atal Tunnel and Sissu are usually visited by a Manali-registered local taxi (union rule), charged locally. Rohtang Pass needs a separate government permit (limited, closed in winter). Snow, road closures and traffic in peak season (May–June, Christmas–New Year) can change the plan."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "MAN-07",
+   "slug": "delhi-manali-kullu-by-volvo-5n-6d",
+   "title": "Delhi – Manali – Kullu by Volvo 5N/6D",
+   "destination": "kullu-manali",
+   "region": "domestic",
+   "themes": [
+    "Friends",
+    "Budget"
+   ],
+   "durationNights": 5,
+   "durationDays": 6,
+   "price": {
+    "amount": 11499,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Budget-friendly Manali trip by overnight Volvo.",
+   "highlights": [
+    "Budget-friendly Manali trip by overnight Volvo."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Delhi – Overnight Volvo to Manali",
+     "description": "Board the evening AC Volvo bus from Delhi to Manali (about 12–14 hrs). Overnight journey.",
+     "meals": [],
+     "overnight": "Overnight Volvo bus"
+    },
+    {
+     "day": 2,
+     "title": "Arrival in Manali",
+     "description": "Arrive in Manali in the morning, transfer to the hotel and rest. Evening on Mall Road. Overnight stay in Manali.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 3,
+     "title": "Solang Valley & Atal Tunnel",
+     "description": "Breakfast and excursion by local taxi to Solang Valley (ropeway, paragliding, snow activities in season at own cost), then through the Atal Tunnel to Sissu in Lahaul for snow views and the waterfall. Return to Manali. Overnight stay in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 4,
+     "title": "Kullu, Manikaran & Kasol",
+     "description": "Breakfast and drive down the Kullu valley – shawl factories, river rafting at Babeli/Pirdi (own cost), the Manikaran Sahib gurudwara and its hot springs, and the riverside village of Kasol. Return to Manali. Overnight stay in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 5,
+     "title": "Manali Local – Evening Volvo to Delhi",
+     "description": "Breakfast and check-out. Visit Hadimba Devi Temple, Vashisht and Old Manali, then board the evening Volvo to Delhi. Overnight journey.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Overnight Volvo bus"
+    },
+    {
+     "day": 6,
+     "title": "Arrival in Delhi",
+     "description": "Arrive in Delhi in the morning. Tour ends.",
+     "meals": [],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "Delhi – Manali – Delhi AC Volvo / semi-sleeper bus",
+    "3 nights hotel stay with breakfast and dinner",
+    "Sightseeing car for Manali local tour and Kullu–Manikaran",
+    "Bus stand transfers in Manali"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Solang / Atal Tunnel / Sissu local taxi",
+    "Rohtang Pass permit and taxi",
+    "Adventure activities (paragliding, rafting, skiing, snow gear)",
+    "Meals during bus journeys"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Delhi → overnight Volvo → Manali (3N) → overnight Volvo → Delhi"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "3 nights in a 3★ or similar hotel in Manali + 2 overnight bus journeys. Exact hotel and bus operator confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing; bus seats as allotted"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Mall Road, Solang Valley, Atal Tunnel, Sissu, Kullu, Manikaran, Kasol, Hadimba Temple, Vashisht, Old Manali."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Overnight bus journeys; snow point; hot springs."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Breakfast and dinner on hotel days (3 dinners + 3 breakfasts)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Manali bus stand transfers."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Includes Delhi – Manali – Delhi AC Volvo / semi-sleeper bus (2 nights on the bus + 3 hotel nights in Manali)."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "December to February for snow; March to June for pleasant weather."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Solang Valley, Atal Tunnel and Sissu are usually visited by a Manali-registered local taxi (union rule), charged locally. Rohtang Pass needs a separate government permit (limited, closed in winter). Snow, road closures and traffic in peak season (May–June, Christmas–New Year) can change the plan."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "MAN-08",
+   "slug": "shimla-kullu-and-manali-grand-holiday-9n-10d",
+   "title": "Shimla, Kullu & Manali Grand Holiday 9N/10D",
+   "destination": "kullu-manali",
+   "region": "domestic",
+   "themes": [
+    "Family"
+   ],
+   "durationNights": 9,
+   "durationDays": 10,
+   "price": {
+    "amount": 24999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Shimla, Kullu and Manali in a relaxed ten days.",
+   "highlights": [
+    "Shimla, Kullu and Manali in a relaxed ten days."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Delhi – Shimla",
+     "description": "Pickup in Delhi and drive (about 8 hrs) via the Chandigarh highway and the Kalka hills to Shimla. Evening on the Mall Road. Overnight stay in Shimla.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Shimla hotel"
+    },
+    {
+     "day": 2,
+     "title": "Shimla & Kufri",
+     "description": "Breakfast and excursion to Kufri (pony rides and adventure park at own cost). Afternoon on Shimla's Mall Road and The Ridge, Christ Church and the Jakhu Temple. Overnight stay in Shimla.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Shimla hotel"
+    },
+    {
+     "day": 3,
+     "title": "Shimla – Chail & Naldehra",
+     "description": "Breakfast and day trip to Chail with its palace and one of the world's highest cricket grounds, or to the golf meadows of Naldehra. Overnight stay in Shimla.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Shimla hotel"
+    },
+    {
+     "day": 4,
+     "title": "Shimla – Kullu",
+     "description": "Breakfast and drive via Sundernagar and Pandoh Dam to Kullu (about 7 hrs). Evening by the Beas. Overnight stay in Kullu.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Kullu hotel"
+    },
+    {
+     "day": 5,
+     "title": "Kullu – Manikaran – Manali",
+     "description": "Breakfast and visit Manikaran Sahib and Kasol in the Parvati valley, then continue to Manali. Overnight stay in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 6,
+     "title": "Manali Local Sightseeing",
+     "description": "Breakfast and visit the wooden Hadimba Devi Temple in the cedar forest, the Vashisht hot springs and temple, Manu Temple and the Club House; evening in Old Manali and on Mall Road. Overnight stay in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 7,
+     "title": "Solang Valley & Atal Tunnel",
+     "description": "Breakfast and excursion by local taxi to Solang Valley (ropeway, paragliding, snow activities in season at own cost), then through the Atal Tunnel to Sissu in Lahaul for snow views and the waterfall. Return to Manali. Overnight stay in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 8,
+     "title": "Naggar Castle & Jana Falls",
+     "description": "Breakfast and a drive along the left bank of the Beas to Naggar Castle and the Nicholas Roerich Art Gallery (closed Mondays), and the village waterfall at Jana (local Himachali lunch at own cost). Return to Manali. Overnight stay in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 9,
+     "title": "Manali – Chandigarh Departure",
+     "description": "Breakfast and drive to Chandigarh (about 8–9 hrs) for your onward journey. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Chandigarh hotel"
+    },
+    {
+     "day": 10,
+     "title": "Chandigarh – Delhi Departure",
+     "description": "Breakfast, a visit to the Rock Garden and Sukhna Lake, then drive to Delhi (about 5 hrs) for your departure. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "9 nights hotel stay with breakfast and dinner",
+    "Private vehicle for the whole tour",
+    "Driver allowance, fuel, tolls, parking and state taxes"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Solang / Atal Tunnel / Sissu local taxi",
+    "Rohtang Pass permit and taxi",
+    "Adventure activities (paragliding, rafting, skiing, snow gear)"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Delhi → Shimla (3N) → Kullu (1N) → Manali (4N) → Chandigarh (1N) → Delhi"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "3 nights Shimla, 1 night Kullu, 4 nights Manali, 1 night Chandigarh – 3★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Shimla Mall Road, Ridge, Jakhu, Kufri, Chail, Pandoh Dam, Kullu, Manikaran, Kasol, Manali temples, Solang, Atal Tunnel, Sissu, Naggar Castle, Chandigarh Rock Garden."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Hill stations at an easy pace; snow point; heritage castle; hot springs."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (9 each)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Delhi pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending in Delhi."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "March to June and October to February."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Solang Valley, Atal Tunnel and Sissu are usually visited by a Manali-registered local taxi (union rule), charged locally. Rohtang Pass needs a separate government permit (limited, closed in winter). Snow, road closures and traffic in peak season (May–June, Christmas–New Year) can change the plan."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "MAN-09",
+   "slug": "kullu-manali-honeymoon-with-shimla-7n-8d",
+   "title": "Kullu Manali Honeymoon with Shimla 7N/8D",
+   "destination": "kullu-manali",
+   "region": "domestic",
+   "themes": [
+    "Honeymoon",
+    "Couples"
+   ],
+   "durationNights": 7,
+   "durationDays": 8,
+   "price": {
+    "amount": 22999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "A slow honeymoon with four nights in Manali and romantic extras.",
+   "highlights": [
+    "A slow honeymoon with four nights in Manali and romantic extras."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Delhi – Shimla",
+     "description": "Pickup in Delhi and drive (about 8 hrs) via the Chandigarh highway and the Kalka hills to Shimla. Evening on the Mall Road. Overnight stay in Shimla.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Shimla hotel"
+    },
+    {
+     "day": 2,
+     "title": "Shimla & Kufri",
+     "description": "Breakfast and excursion to Kufri (pony rides and adventure park at own cost). Afternoon on Shimla's Mall Road and The Ridge, Christ Church and the Jakhu Temple. Overnight stay in Shimla.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Shimla hotel"
+    },
+    {
+     "day": 3,
+     "title": "Shimla – Kullu – Manali",
+     "description": "Breakfast and drive (about 8 hrs) via Sundernagar lake and Pandoh Dam into the Kullu valley along the Beas river to Manali. Overnight stay in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 4,
+     "title": "Manali Local Sightseeing",
+     "description": "Breakfast and visit the wooden Hadimba Devi Temple in the cedar forest, the Vashisht hot springs and temple, Manu Temple and the Club House; evening in Old Manali and on Mall Road. Overnight stay in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 5,
+     "title": "Solang Valley & Atal Tunnel",
+     "description": "Breakfast and excursion by local taxi to Solang Valley (ropeway, paragliding, snow activities in season at own cost), then through the Atal Tunnel to Sissu in Lahaul for snow views and the waterfall. Return to Manali. Overnight stay in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 6,
+     "title": "Naggar & Leisure Day",
+     "description": "Breakfast and a relaxed visit to Naggar Castle and the Roerich Art Gallery (closed Mondays), then free time. Candle-light dinner at the hotel. Overnight stay in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 7,
+     "title": "Manali – Chandigarh Departure",
+     "description": "Breakfast and drive to Chandigarh (about 8–9 hrs) for your onward journey. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Chandigarh hotel"
+    },
+    {
+     "day": 8,
+     "title": "Chandigarh – Delhi Departure",
+     "description": "Breakfast, a short stop at the Rock Garden and drive to Delhi for your departure. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "7 nights hotel stay with breakfast and dinner",
+    "Honeymoon cake, flower bed decoration and one candle-light dinner",
+    "Private vehicle for the whole tour",
+    "Driver allowance, fuel, tolls, parking and state taxes"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Solang / Atal Tunnel / Sissu local taxi",
+    "Rohtang Pass permit and taxi",
+    "Adventure activities (paragliding, rafting, skiing, snow gear)"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Delhi → Shimla (2N) → Manali (4N) → Chandigarh (1N) → Delhi"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Deluxe (3★ / 4★ or similar)",
+      "2 nights Shimla, 4 nights Manali, 1 night Chandigarh – 3★/4★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Shimla, Kufri, Jakhu, Pandoh Dam, Manali temples, Solang, Atal Tunnel, Sissu, Naggar Castle, Chandigarh Rock Garden."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Snow point; heritage castle; candle-light dinner; honeymoon cake and flower decoration."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (7 each), one candle-light dinner."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Delhi pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing (couple), land package starting and ending in Delhi."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to June."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Solang Valley, Atal Tunnel and Sissu are usually visited by a Manali-registered local taxi (union rule), charged locally. Rohtang Pass needs a separate government permit (limited, closed in winter). Snow, road closures and traffic in peak season (May–June, Christmas–New Year) can change the plan."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "MAN-10",
+   "slug": "kullu-manali-with-naggar-and-atal-tunnel-4n-5d",
+   "title": "Kullu Manali with Naggar & Atal Tunnel 4N/5D",
+   "destination": "kullu-manali",
+   "region": "domestic",
+   "themes": [
+    "Couples",
+    "Family"
+   ],
+   "durationNights": 4,
+   "durationDays": 5,
+   "price": {
+    "amount": 13999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Four unhurried nights in Manali with Naggar and the Atal Tunnel.",
+   "highlights": [
+    "Four unhurried nights in Manali with Naggar and the Atal Tunnel."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Chandigarh – Manali",
+     "description": "Early pickup in Chandigarh and drive (about 8–9 hrs) along the Beas to Manali. Overnight stay in Manali.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 2,
+     "title": "Manali Local Sightseeing",
+     "description": "Breakfast and visit the wooden Hadimba Devi Temple in the cedar forest, the Vashisht hot springs and temple, Manu Temple and the Club House; evening in Old Manali and on Mall Road. Overnight stay in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 3,
+     "title": "Solang Valley & Atal Tunnel",
+     "description": "Breakfast and excursion by local taxi to Solang Valley (ropeway, paragliding, snow activities in season at own cost), then through the Atal Tunnel to Sissu in Lahaul for snow views and the waterfall. Return to Manali. Overnight stay in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 4,
+     "title": "Naggar Castle & Jana Falls",
+     "description": "Breakfast and a drive along the left bank of the Beas to Naggar Castle and the Nicholas Roerich Art Gallery (closed Mondays), and the village waterfall at Jana (local Himachali lunch at own cost). Return to Manali. Overnight stay in Manali.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Manali hotel"
+    },
+    {
+     "day": 5,
+     "title": "Manali – Chandigarh Departure",
+     "description": "Breakfast and drive to Chandigarh (about 8–9 hrs) for your onward journey. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "4 nights hotel stay with breakfast and dinner",
+    "Private vehicle Chandigarh – Manali – Chandigarh and local sightseeing",
+    "Driver allowance, fuel, tolls, parking and state taxes"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Solang / Atal Tunnel / Sissu local taxi",
+    "Rohtang Pass permit and taxi",
+    "Adventure activities (paragliding, rafting, skiing, snow gear)"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Chandigarh → Manali (4N) → Chandigarh"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "4 nights in a 3★ or similar hotel in Manali. Exact hotel confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Pandoh Dam, Manali temples, Old Manali, Solang Valley, Atal Tunnel, Sissu, Naggar Castle, Roerich Art Gallery, Jana falls."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Snow point; heritage castle; village waterfall."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (4 each)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Chandigarh pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Chandigarh."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "March to June and October to February."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Solang Valley, Atal Tunnel and Sissu are usually visited by a Manali-registered local taxi (union rule), charged locally. Rohtang Pass needs a separate government permit (limited, closed in winter). Snow, road closures and traffic in peak season (May–June, Christmas–New Year) can change the plan."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "TAJ-02",
+   "slug": "taj-mahal-and-old-delhi-discovery-2n-3d",
+   "title": "Taj Mahal & Old Delhi Discovery 2N/3D",
+   "destination": "taj-mahal",
+   "region": "domestic",
+   "themes": [
+    "Couples",
+    "Family",
+    "Weekend getaway"
+   ],
+   "durationNights": 2,
+   "durationDays": 3,
+   "price": {
+    "amount": 7499,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Taj Mahal at sunrise and sunset, Old Delhi lanes.",
+   "highlights": [
+    "Taj Mahal at sunrise and sunset",
+    "Old Delhi lanes."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival in Delhi – City Tour",
+     "description": "Pickup in Delhi. Afternoon tour of Old Delhi – Red Fort (outside), Jama Masjid and a rickshaw ride in Chandni Chowk (own cost) – then India Gate and Qutub Minar. Overnight stay in Delhi.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Delhi hotel"
+    },
+    {
+     "day": 2,
+     "title": "Delhi – Agra",
+     "description": "Breakfast and drive to Agra (about 3.5 hrs). Visit Agra Fort and watch sunset over the Taj Mahal from Mehtab Bagh. Overnight stay in Agra.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Agra hotel"
+    },
+    {
+     "day": 3,
+     "title": "Taj Mahal Sunrise – Delhi",
+     "description": "Sunrise visit to the Taj Mahal (closed Fridays), breakfast and drive back to Delhi for drop at the airport, station or hotel. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "2 nights hotel stay with breakfast and dinner",
+    "Private car Delhi – Agra – Delhi and sightseeing",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Monument entry tickets",
+    "Licensed guide at the Taj (can be added)"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Delhi (1N) → Agra (1N) → Delhi"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "1 night Delhi + 1 night Agra, 3★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Red Fort (outside), Jama Masjid, Chandni Chowk, India Gate, Qutub Minar, Agra Fort, Mehtab Bagh, Taj Mahal."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Old Delhi rickshaw ride (own cost); Taj sunrise; Mehtab Bagh sunset."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (2 each)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Delhi pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Private car from Delhi and back."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to March. The Taj is closed on Fridays."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. The Taj Mahal is closed on Fridays. Only small bags, phones and water are allowed inside; tripods, food and drones are not."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "TAJ-03",
+   "slug": "taj-mahal-fatehpur-sikri-and-mathura-from-mumbai-2n-3d",
+   "title": "Taj Mahal, Fatehpur Sikri & Mathura from Mumbai 2N/3D",
+   "destination": "taj-mahal",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Pilgrimage",
+    "Weekend getaway"
+   ],
+   "durationNights": 2,
+   "durationDays": 3,
+   "price": {
+    "amount": 8499,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Taj Mahal, Fatehpur Sikri and Mathura–Vrindavan in a long weekend – works from Mumbai, Chennai or any city by flight.",
+   "highlights": [
+    "Taj Mahal, Fatehpur Sikri and Mathura–Vrindavan in a long weekend – works from Mumbai, Chennai or any city by flight."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival – Agra Fort & Mehtab Bagh",
+     "description": "Arrive by flight at Agra (or Delhi, then drive about 3.5 hrs). Visit Agra Fort and watch sunset over the Taj from Mehtab Bagh. Overnight stay in Agra.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Agra hotel"
+    },
+    {
+     "day": 2,
+     "title": "Taj Mahal Sunrise & Fatehpur Sikri",
+     "description": "Sunrise visit to the Taj Mahal (closed Fridays). After breakfast, drive to Akbar's red-sandstone city of Fatehpur Sikri and the Buland Darwaza (about 1 hr each way). Overnight stay in Agra.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Agra hotel"
+    },
+    {
+     "day": 3,
+     "title": "Mathura – Vrindavan & Departure",
+     "description": "Breakfast and visit Mathura's Krishna Janmabhoomi and Vrindavan's Banke Bihari Temple and Prem Mandir, then drop at Agra or Delhi airport for your flight home. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "2 nights hotel stay with breakfast and dinner",
+    "Private car for all transfers and sightseeing",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Flights from Mumbai (or any city)",
+    "Monument entry tickets",
+    "Temple puja charges"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Fly Mumbai → Agra / Delhi → Agra (2N) → Agra / Delhi airport"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "2 nights in a 3★ or similar hotel in Agra. Exact hotel confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Agra Fort, Mehtab Bagh, Taj Mahal, Fatehpur Sikri, Buland Darwaza, Mathura, Vrindavan."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Taj sunrise; Mughal heritage; Krishna temples."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (2 each)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Agra or Delhi airport pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Agra airport or Delhi airport (flights from Mumbai or any city extra – can be booked on request)."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to March. The Taj is closed on Fridays."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. The Taj Mahal is closed on Fridays. Only small bags, phones and water are allowed inside; tripods, food and drones are not. Phones and leather items may not be allowed inside some temples; temple timings close in the afternoon."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "TAJ-04",
+   "slug": "taj-mahal-golden-triangle-and-varanasi-7n-8d",
+   "title": "Taj Mahal, Golden Triangle & Varanasi 7N/8D",
+   "destination": "taj-mahal",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Pilgrimage",
+    "Heritage"
+   ],
+   "durationNights": 7,
+   "durationDays": 8,
+   "price": {
+    "amount": 27999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Taj Mahal, Jaipur and the ghats of Varanasi in one week.",
+   "highlights": [
+    "Taj Mahal, Jaipur and the ghats of Varanasi in one week."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival in Delhi – City Tour",
+     "description": "Pickup and an afternoon tour of Humayun's Tomb, India Gate and Qutub Minar. Overnight stay in Delhi.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Delhi hotel"
+    },
+    {
+     "day": 2,
+     "title": "Delhi – Agra",
+     "description": "Breakfast and drive to Agra. Agra Fort and sunset over the Taj from Mehtab Bagh. Overnight stay in Agra.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Agra hotel"
+    },
+    {
+     "day": 3,
+     "title": "Taj Mahal Sunrise – Fatehpur Sikri – Jaipur",
+     "description": "Sunrise visit to the Taj Mahal (closed Fridays), then drive to Jaipur via Fatehpur Sikri (about 5 hrs). Overnight stay in Jaipur.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Jaipur hotel"
+    },
+    {
+     "day": 4,
+     "title": "Jaipur Sightseeing",
+     "description": "Breakfast and full-day tour – Amber Fort, Jal Mahal, City Palace, Jantar Mantar and Hawa Mahal. Overnight stay in Jaipur.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Jaipur hotel"
+    },
+    {
+     "day": 5,
+     "title": "Jaipur – Varanasi – Ganga Aarti",
+     "description": "Breakfast and flight to Varanasi (extra). Check-in and evening Ganga Aarti at Dashashwamedh Ghat. Overnight stay in Varanasi.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Varanasi hotel"
+    },
+    {
+     "day": 6,
+     "title": "Sunrise Boat & Kashi Vishwanath",
+     "description": "Sunrise boat ride along the ghats (included), darshan at Kashi Vishwanath Temple and a walk through the old lanes. Overnight stay in Varanasi.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Varanasi hotel"
+    },
+    {
+     "day": 7,
+     "title": "Sarnath Excursion",
+     "description": "Breakfast and half-day excursion to Sarnath, where the Buddha gave his first sermon – Dhamek Stupa and the museum (closed Fridays). Afternoon free for silk shopping. Overnight stay in Varanasi.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Varanasi hotel"
+    },
+    {
+     "day": 8,
+     "title": "Departure from Varanasi",
+     "description": "Breakfast and drop at Varanasi airport or railway station. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "7 nights hotel stay with breakfast and dinner",
+    "Private car for all transfers and sightseeing",
+    "Sunrise boat ride in Varanasi",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Jaipur → Varanasi flight",
+    "Monument entry tickets",
+    "Special darshan / puja charges"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Delhi (1N) → Agra (1N) → Jaipur (2N) → flight → Varanasi (3N)"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "1 night Delhi, 1 night Agra, 2 nights Jaipur, 3 nights Varanasi – 3★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Humayun's Tomb, India Gate, Qutub Minar, Agra Fort, Mehtab Bagh, Taj Mahal, Fatehpur Sikri, Amber Fort, City Palace, Hawa Mahal, Varanasi ghats, Kashi Vishwanath, Sarnath."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Taj sunrise; Pink City; Ganga Aarti and sunrise boat; Sarnath."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (7 each)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Delhi arrival and Varanasi departure."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting in Delhi and ending in Varanasi; Jaipur → Varanasi flight extra."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to March. The Taj and Sarnath museum are closed on Fridays."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. The Taj Mahal is closed on Fridays. Only small bags, phones and water are allowed inside; tripods, food and drones are not. Kashi Vishwanath has strict security – phones and bags are kept in lockers."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  }
+ ]
+}
