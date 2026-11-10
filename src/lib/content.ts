@@ -161,5 +161,12 @@ export async function getPlannerDestinations(): Promise<PlannerDestination[]> {
   if (!isSanityConfigured) return plannerDefaults;
   const list = (await fetchSanity<PlannerDestination[] | null>(q.plannerQuery)) ?? [];
   const valid = list.filter((d) => d.slug && d.places?.length);
-  return valid.length ? valid.map((d) => ({ ...d, places: d.places.filter((p) => p.key && p.name) })) : plannerDefaults;
+  return valid.length
+    ? valid.map((d) => ({
+        ...d,
+        places: d.places.filter((p) => p.key && p.name),
+        // Planner documents created before the estimate existed fall back to the built-in estimate
+        estimate: d.estimate?.perNightPerPerson ? d.estimate : (d.estimate?.active === false ? d.estimate : plannerDefaults.find((x) => x.slug === d.slug)?.estimate),
+      }))
+    : plannerDefaults;
 }

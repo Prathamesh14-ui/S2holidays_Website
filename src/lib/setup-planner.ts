@@ -56,6 +56,7 @@ export async function setupPlanner() {
       vehicles: d.vehicles.map((v) => ({ _type: "plannerVehicle", _key: k(), name: v.name, seats: v.seats })),
       mealPlans: d.mealPlans.map((m) => ({ _type: "plannerMeal", _key: k(), name: m.name })),
       gstPercent: d.gstPercent,
+      ...(d.estimate ? { estimate: { ...d.estimate } } : {}),
       ratesConfirmed: false,
     });
     results.push({ name: d.title, status: "set up (add rates in Studio → Trip planner)" });

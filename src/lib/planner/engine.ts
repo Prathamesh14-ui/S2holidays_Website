@@ -164,6 +164,31 @@ export function calculatePrice(dest: PlannerDestination, c: TripChoice): PriceBr
   };
 }
 
+/**
+ * Rough estimate (used until real rates are confirmed): per-person price from the destination's
+ * package-price model, Standard hotel, twin sharing. Children 5–11 at childPercent; under-5s free.
+ */
+export function estimatePrice(dest: PlannerDestination, c: TripChoice): PriceBreakdown | null {
+  const e = dest.estimate;
+  const nights = totalNights(c);
+  if (!e || e.active === false || !nights || e.perNightPerPerson <= 0) return null;
+  const round100 = (n: number) => Math.round(n / 100) * 100;
+  const adultPP = round100(e.basePerPerson + e.perNightPerPerson * nights);
+  const childPP = round100((adultPP * (e.childPercent ?? 65)) / 100);
+  const lines: PriceLine[] = [{ label: `${c.adults} adult${c.adults > 1 ? "s" : ""} × ${inr(adultPP)}`, amount: adultPP * c.adults }];
+  if (c.children) lines.push({ label: `${c.children} child${c.children > 1 ? "ren" : ""} (5–11) × ${inr(childPP)}`, amount: childPP * c.children });
+  const subtotal = lines.reduce((t, l) => t + l.amount, 0);
+  const gstPercent = dest.gstPercent ?? 0;
+  const gst = Math.round((subtotal * gstPercent) / 100);
+  const total = subtotal + gst;
+  return { lines, subtotal, gstPercent, gst, total, perPerson: Math.round(total / chargeablePax(c)), estimate: true };
+}
+
+/** Confirmed-rate price if available, otherwise the rough estimate, otherwise null (free quote). */
+export function tripPrice(dest: PlannerDestination, c: TripChoice): PriceBreakdown | null {
+  return calculatePrice(dest, c) ?? estimatePrice(dest, c);
+}
+
 const inr = (n: number) => `₹${n.toLocaleString("en-IN")}`;
 
 /** Plain-text summary used for the enquiry, WhatsApp and the PDF title. */
@@ -176,7 +201,9 @@ export function planText(dest: PlannerDestination, c: TripChoice, days: PlanDay[
     `Travellers: ${c.adults} adult(s)${c.children ? `, ${c.children} child(ren) 5–11` : ""}${c.infants ? `, ${c.infants} under 5` : ""}; ${c.rooms} room(s)`,
     `Route: ${route}`,
     `Hotel: ${HOTEL_CATEGORIES.find((h) => h.value === c.hotel)?.label}${c.meal ? ` · Meals: ${c.meal}` : ""}${c.vehicle ? ` · Vehicle: ${c.vehicle}` : ""}`,
-    price ? `Estimated total: ${inr(price.total)} incl. GST (${inr(price.perPerson)} per person)` : "Price: quote requested",
+    price
+      ? `${price.estimate ? "Rough estimate (Standard hotel)" : "Estimated total"}: ${inr(price.total)} incl. GST (${inr(price.perPerson)} per person)`
+      : "Price: quote requested",
   ];
   if (opts.short) return head.join("\n");
   const body = days.map((d) => `Day ${d.day}${d.date ? ` (${formatDay(d.date)})` : ""}: ${d.title}${d.lines.length ? ` — ${d.lines.join("; ")}` : ""}`);

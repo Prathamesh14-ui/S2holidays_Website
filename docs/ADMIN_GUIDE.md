@@ -116,7 +116,12 @@ or print / save it as PDF.
 - **Rates:** hotel rate **per room per night** for Standard / Deluxe / Premium (on each place), vehicle rate per day,
   meal plan rate per person per night (0 = included), peak-season % supplements with dates, GST %, advance %.
 - **Show calculated prices to customers:** tick this ONLY when every rate is correct. Until then — or if any
-  rate needed for a customer's choice is missing — the planner shows **"Get your free quote"** instead of a price.
+  rate needed for a customer's choice is missing — the planner shows the **rough estimate** below instead.
+- **Rough estimate** (Rates tab): until real rates are confirmed, the planner shows an estimated price per person
+  worked out from your approved package prices (Standard hotel, twin sharing): *base price + price per night × nights*.
+  Children 5–11 pay the "child %" of the adult price; under-5s are free. The customer sees a "Rough estimate" label.
+  You can change the two numbers, or untick **Show the estimate** to show "Get your free quote" instead.
+  Once you tick "Show calculated prices to customers" and all rates are filled in, the real calculation replaces the estimate automatically.
 
 Prices shown by the planner are estimates; the team confirms hotel names, availability and the final price.
 

@@ -1,7 +1,8 @@
 /**
  * Starting data for the trip planner (6 destinations). Places and sightseeing come from the
  * owner's "S2 Holidays Travel Knowledge Base" itineraries. NO RATES are included — the owner adds
- * hotel, vehicle and meal rates in Studio → Trip planner; until then the planner offers a free quote.
+ * hotel, vehicle and meal rates in Studio → Trip planner. Until then the planner shows a rough ESTIMATE
+ * derived from the owner-approved package prices (see `estimate`; fitted per destination).
  * GST 5% is from the knowledge base ("GST currently 5% on tour packages").
  */
 import type { PlannerDestination } from "@/lib/planner/types";
@@ -17,6 +18,7 @@ const indiaMeals = [{ name: "Breakfast" }, { name: "Breakfast + dinner" }, { nam
 export const plannerDefaults: PlannerDestination[] = [
   {
     slug: "goa",
+    estimate: { active: true, basePerPerson: 3070, perNightPerPerson: 2179, childPercent: 65, basedOn: "Goa packages GOA-01, GOA-04, GOA-05" },
     title: "Goa",
     destinationSlug: "goa",
     intro: "Beaches, forts, churches and Goan food.",
@@ -44,6 +46,7 @@ export const plannerDefaults: PlannerDestination[] = [
   },
   {
     slug: "kerala",
+    estimate: { active: true, basePerPerson: 604, perNightPerPerson: 3211, childPercent: 65, basedOn: "Kerala packages KER-01, KER-02, KER-04, KER-05" },
     title: "Kerala",
     destinationSlug: "kerala",
     intro: "Tea hills, spice gardens, backwaters and beaches.",
@@ -62,6 +65,7 @@ export const plannerDefaults: PlannerDestination[] = [
   },
   {
     slug: "kashmir",
+    estimate: { active: true, basePerPerson: 979, perNightPerPerson: 2910, childPercent: 65, basedOn: "Kashmir packages KAS-01, KAS-02, KAS-03, KAS-05" },
     title: "Kashmir",
     destinationSlug: "kashmir",
     intro: "Dal Lake, Mughal gardens and Himalayan meadows.",
@@ -78,6 +82,7 @@ export const plannerDefaults: PlannerDestination[] = [
   },
   {
     slug: "himachal",
+    estimate: { active: true, basePerPerson: 3524, perNightPerPerson: 1425, childPercent: 65, basedOn: "Himachal packages HIM-01, HIM-04, HIM-05" },
     title: "Himachal",
     destinationSlug: "himachal-pradesh",
     intro: "Shimla, Manali, Dharamshala and Dalhousie.",
@@ -96,6 +101,7 @@ export const plannerDefaults: PlannerDestination[] = [
   },
   {
     slug: "rajasthan",
+    estimate: { active: true, basePerPerson: 3229, perNightPerPerson: 2541, childPercent: 65, basedOn: "Rajasthan packages RAJ-01 to RAJ-05" },
     title: "Rajasthan",
     destinationSlug: "rajasthan",
     intro: "Forts, palaces, lakes and desert camps.",
@@ -114,6 +120,7 @@ export const plannerDefaults: PlannerDestination[] = [
   },
   {
     slug: "dubai",
+    estimate: { active: true, basePerPerson: 3713, perNightPerPerson: 5643, childPercent: 75, basedOn: "Dubai packages DXB-01, DXB-03, DXB-04" },
     title: "Dubai",
     destinationSlug: "dubai",
     intro: "Skyline, desert and a day in Abu Dhabi.",

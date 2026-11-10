@@ -38,6 +38,20 @@ export type PlannerDestination = {
   advancePercent?: number;
   /** Only when ticked in Studio are calculated prices shown to customers. */
   ratesConfirmed?: boolean;
+  /**
+   * Rough per-person estimate used until real rates are confirmed. Derived from the owner-approved
+   * package prices: price per person ≈ basePerPerson + perNightPerPerson × nights (Standard hotel, twin sharing).
+   */
+  estimate?: PlannerEstimate;
+};
+
+export type PlannerEstimate = {
+  active?: boolean;
+  basePerPerson: number;
+  perNightPerPerson: number;
+  /** Child 5–11 price as % of the adult price. */
+  childPercent?: number;
+  basedOn?: string;
 };
 
 /** What the visitor chose. */
@@ -64,4 +78,6 @@ export type PriceBreakdown = {
   total: number;
   perPerson: number;
   advance?: number;
+  /** True when this is the rough estimate (not calculated from confirmed rates). */
+  estimate?: boolean;
 };

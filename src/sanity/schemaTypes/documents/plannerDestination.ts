@@ -130,6 +130,21 @@ export const plannerDestination = defineType({
     defineField({ name: "gstPercent", title: "GST %", type: "number", group: "rates", initialValue: 5 }),
     defineField({ name: "advancePercent", title: "Advance to confirm booking (%)", type: "number", group: "rates", description: "Optional. Shown as “Pay ₹X to confirm”." }),
     defineField({
+      name: "estimate",
+      title: "Rough estimate (until rates are confirmed)",
+      type: "object",
+      group: "rates",
+      description:
+        "Shown as “Estimated price” while “Show calculated prices” is OFF. Price per person ≈ fixed part + amount per night × nights (Standard hotel, twin sharing). The starting values were worked out from our approved package prices.",
+      fields: [
+        defineField({ name: "active", title: "Show the estimate", type: "boolean", initialValue: true }),
+        money("basePerPerson", "Fixed part per person (₹)"),
+        money("perNightPerPerson", "Amount per night per person (₹)"),
+        defineField({ name: "childPercent", title: "Child 5–11 price (% of adult)", type: "number", initialValue: 65, validation: (r) => r.min(0).max(100) }),
+        defineField({ name: "basedOn", title: "Worked out from", type: "string", readOnly: true }),
+      ],
+    }),
+    defineField({
       name: "ratesConfirmed",
       title: "Show calculated prices to customers",
       type: "boolean",
@@ -141,6 +156,6 @@ export const plannerDestination = defineType({
   orderings: [{ title: "Order", name: "order", by: [{ field: "order", direction: "asc" }] }],
   preview: {
     select: { title: "title", active: "active", confirmed: "ratesConfirmed" },
-    prepare: ({ title, active, confirmed }) => ({ title, subtitle: `${active === false ? "Hidden · " : ""}${confirmed ? "Prices shown" : "Free quote (prices not shown)"}` }),
+    prepare: ({ title, active, confirmed }) => ({ title, subtitle: `${active === false ? "Hidden · " : ""}${confirmed ? "Real prices shown" : "Rough estimate shown"}` }),
   },
 });

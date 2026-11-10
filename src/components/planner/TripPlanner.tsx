@@ -3,7 +3,7 @@
 import { useMemo, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import { ArrowDown, ArrowUp, CalendarDays, Car, Check, Hotel, MapPin, Minus, Plus, Printer, Send, Trash2, Users, Utensils } from "lucide-react";
-import { buildDays, calculatePrice, chargeablePax, formatDay, planText, totalNights } from "@/lib/planner/engine";
+import { buildDays, chargeablePax, formatDay, planText, totalNights, tripPrice } from "@/lib/planner/engine";
 import { HOTEL_CATEGORIES, type PlannerDestination, type TripChoice } from "@/lib/planner/types";
 import { EnquiryForm } from "@/components/forms/EnquiryForm";
 import { WhatsAppIcon } from "@/components/layout/WhatsAppFloat";
@@ -74,7 +74,7 @@ export function TripPlanner({ destinations, whatsapp }: { destinations: PlannerD
 
   const nights = totalNights(choice);
   const days = useMemo(() => buildDays(dest, choice), [dest, choice]);
-  const price = useMemo(() => calculatePrice(dest, choice), [dest, choice]);
+  const price = useMemo(() => tripPrice(dest, choice), [dest, choice]);
   const fullPlan = useMemo(() => planText(dest, choice, days, price), [dest, choice, days, price]);
   const wa = whatsappLink(whatsapp, `Hello S2 Holidays, I'd like a quote for this trip:\n\n${planText(dest, choice, days, price, { short: true })}`);
   const pax = chargeablePax(choice);
@@ -326,11 +326,16 @@ export function TripPlanner({ destinations, whatsapp }: { destinations: PlannerD
                   <li className="flex justify-between gap-4 border-t border-line pt-2"><span className="text-ink-soft">GST ({price.gstPercent}%)</span><span className="font-medium text-ink">{inr(price.gst)}</span></li>
                 </ul>
                 <div className="mt-4 rounded-2xl bg-sand p-4">
-                  <p className="flex items-baseline justify-between"><span className="font-semibold text-ink">Estimated total</span><span className="font-display text-3xl font-semibold text-ink">{inr(price.total)}</span></p>
+                  {price.estimate && <p className="mb-1 inline-block rounded-full bg-gold-soft px-2.5 py-0.5 text-[11px] font-semibold uppercase tracking-wider text-gold-deep">Rough estimate</p>}
+                  <p className="flex items-baseline justify-between"><span className="font-semibold text-ink">{price.estimate ? "Estimated price" : "Estimated total"}</span><span className="font-display text-3xl font-semibold text-ink">{inr(price.total)}</span></p>
                   <p className="text-right text-xs text-muted">{inr(price.perPerson)} per person ({pax} paying guest{pax > 1 ? "s" : ""})</p>
-                  {price.advance && <p className="mt-2 text-sm text-ink">Pay <strong>{inr(price.advance)}</strong> to confirm your booking.</p>}
+                  {price.advance && !price.estimate && <p className="mt-2 text-sm text-ink">Pay <strong>{inr(price.advance)}</strong> to confirm your booking.</p>}
                 </div>
-                <p className="mt-3 text-xs text-muted">Estimate based on current rates. Hotel names, availability and the final price are confirmed by our team.</p>
+                <p className="mt-3 text-xs text-muted">
+                  {price.estimate
+                    ? `Rough estimate based on our ${dest.title} package prices: Standard hotel on twin sharing, with transfers and sightseeing by car.${choice.hotel !== "standard" ? " Your Deluxe/Premium hotel upgrade will be quoted by our team." : ""} Send this plan for your exact price.`
+                    : "Estimate based on current rates. Hotel names, availability and the final price are confirmed by our team."}
+                </p>
               </>
             ) : (
               <div className="rounded-2xl bg-sand p-5">

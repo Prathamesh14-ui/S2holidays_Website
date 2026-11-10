@@ -52,5 +52,6 @@ export const plannerQuery = defineQuery(`*[_type == "plannerDestination" && acti
   "slug": slug.current, title, intro, "destinationSlug": destination->slug.current, startPoint, endPoint,
   "places": places[]{"key": key.current, name, description, defaultNights, sightseeing[]{name, extraPerPerson}, hotelRates},
   "vehicles": coalesce(vehicles[]{name, seats, ratePerDay}, []), "mealPlans": coalesce(mealPlans[]{name, ratePerPersonPerNight}, []),
-  seasons[]{name, from, to, percent}, gstPercent, advancePercent, ratesConfirmed
+  seasons[]{name, from, to, percent}, gstPercent, advancePercent, ratesConfirmed,
+  estimate{active, basePerPerson, perNightPerPerson, childPercent, basedOn}
 }`);

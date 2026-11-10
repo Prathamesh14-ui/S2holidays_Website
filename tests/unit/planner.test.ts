@@ -101,3 +101,27 @@ import { formatDay } from "@/lib/planner/engine";
 describe("formatDay", () => {
   it("formats as 'Sun, 20 Dec 2026'", () => expect(formatDay("2026-12-20")).toBe("Sun, 20 Dec 2026"));
 });
+
+import { estimatePrice, tripPrice } from "@/lib/planner/engine";
+describe("estimatePrice (until real rates are confirmed)", () => {
+  const goaD = plannerDefaults.find((d) => d.slug === "goa")!;
+  const c = (over: Partial<TripChoice> = {}): TripChoice => ({ adults: 2, children: 0, infants: 0, rooms: 1, hotel: "standard", stops: [{ placeKey: "north-goa", nights: 3, sights: [] }], ...over });
+  it("reproduces the approved Goa 3N package price closely (₹9,499 pp)", () => {
+    const p = estimatePrice(goaD, c())!;
+    expect(p.estimate).toBe(true);
+    expect(p.lines[0].amount / 2).toBeGreaterThan(9499 * 0.95);
+    expect(p.lines[0].amount / 2).toBeLessThan(9499 * 1.05);
+    expect(p.gst).toBe(Math.round(p.subtotal * 0.05));
+  });
+  it("prices children 5–11 at 65% and under-5s free", () => {
+    const p = estimatePrice(goaD, c({ children: 1, infants: 1 }))!;
+    const adult = p.lines[0].amount / 2;
+    expect(p.lines[1].amount).toBe(Math.round((adult * 0.65) / 100) * 100);
+    expect(p.lines).toHaveLength(2);
+  });
+  it("can be switched off, and confirmed rates take priority", () => {
+    expect(estimatePrice({ ...goaD, estimate: { ...goaD.estimate!, active: false } }, c())).toBeNull();
+    const rated = { ...goaD, ratesConfirmed: true, places: goaD.places.map((pl) => ({ ...pl, hotelRates: { standard: 1000, deluxe: 2000, premium: 3000 } })), vehicles: goaD.vehicles.map((v) => ({ ...v, ratePerDay: 1000 })), mealPlans: [{ name: "Breakfast", ratePerPersonPerNight: 0 }] };
+    expect(tripPrice(rated, c({ vehicle: rated.vehicles[0].name, meal: "Breakfast" }))!.estimate).toBeUndefined();
+  });
+});
