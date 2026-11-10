@@ -1,0 +1,339 @@
+{
+ "source": "S2_Holidays_Travel_Knowledge_Base_3.xlsx (new trips)",
+ "destinations": [
+  {
+   "slug": "mumbai-to-goa",
+   "name": "Mumbai to Goa",
+   "region": "domestic",
+   "state": null,
+   "country": "India",
+   "image": null,
+   "bestTimeToVisit": "October to May. Mumbai–Goa sailings usually pause during the monsoon (June–September)."
+  }
+ ],
+ "packages": [
+  {
+   "kbId": "MG-01",
+   "slug": "mumbai-to-goa-by-cruise-with-goa-beach-stay-3n-4d",
+   "title": "Mumbai to Goa by Cruise with Goa Beach Stay 3N/4D",
+   "destination": "mumbai-to-goa",
+   "region": "domestic",
+   "themes": [
+    "Couples",
+    "Family",
+    "Cruise"
+   ],
+   "durationNights": 3,
+   "durationDays": 4,
+   "price": {
+    "amount": 21999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Arrive in Goa by sea, two days of beaches and Old Goa, no long road journey.",
+   "highlights": [
+    "Arrive in Goa by sea",
+    "two days of beaches and Old Goa",
+    "no long road journey."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Board the Cruise at Mumbai",
+     "description": "Reach the Mumbai cruise terminal in the afternoon for check-in and boarding. Watch the city skyline as the ship sails out, then enjoy dinner and the evening shows on board. Overnight on the ship.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Cruise ship"
+    },
+    {
+     "day": 2,
+     "title": "Arrive in Goa – North Goa Beaches",
+     "description": "Breakfast on board and disembark at Mormugao port. Transfer to your North Goa hotel (about 1 hr). Afternoon at Fort Aguada and evening on Calangute and Baga beaches. Overnight stay in North Goa.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "North Goa hotel"
+    },
+    {
+     "day": 3,
+     "title": "Goa Sightseeing",
+     "description": "Breakfast. Visit the UNESCO-listed churches of Old Goa, walk through the Latin Quarter of Fontainhas in Panjim, and end the day at Miramar beach and the Dona Paula viewpoint. Optional Mandovi river cruise in the evening (own cost). Overnight stay in North Goa.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "North Goa hotel"
+    },
+    {
+     "day": 4,
+     "title": "Departure from Goa",
+     "description": "Breakfast and check-out. Drop at Goa airport (Dabolim or Mopa) or Madgaon / Thivim railway station for your return journey. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "1 night cruise (interior cabin) with main-restaurant meals",
+    "2 nights hotel stay in North Goa with breakfast and dinner",
+    "Goa port pickup and airport / station drop",
+    "Goa sightseeing by private car as per itinerary",
+    "Port charges as included by the cruise line (confirmed at booking)"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Gratuities / service charges collected by the cruise line",
+    "Shore excursions, specialty dining, beverages, Wi-Fi, casino and spa on board",
+    "Transfer to the Mumbai cruise terminal",
+    "Return travel from Goa to Mumbai (where not included)"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Mumbai cruise terminal → overnight cruise → Goa (Mormugao port) → North Goa hotel (2N)"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Cruise interior cabin + Standard (3★ or similar) hotel in North Goa",
+      "1 night on board a cruise ship sailing Mumbai → Goa + 2 nights in a 3★ or similar hotel in North Goa (Calangute / Candolim area). Cruise line, sailing and hotel confirmed at booking – Team Confirmation Required.",
+      "Interior cabin / standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Mumbai harbour sail-away, Fort Aguada, Candolim, Calangute and Baga beaches, Old Goa churches, Fontainhas, Miramar, Dona Paula."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Overnight sea voyage with onboard entertainment; Goa beaches and heritage tour; optional Mandovi river cruise."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Dinner and breakfast on the cruise; breakfast and dinner at the Goa hotel."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Cruise ship Mumbai → Goa; Private AC car in Goa for transfers and sightseeing as per itinerary.",
+      "Included – Goa port to hotel and hotel to Goa airport / station. Mumbai terminal transfer not included."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing (interior cabin + 3★ hotel), minimum 2 adults. One-way cruise Mumbai → Goa, then 2 nights in Goa; return from Goa by flight or train at own cost (can be booked on request)."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to May. Mumbai–Goa sailings usually pause during the monsoon (June–September)."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Sailing dates, port times and cabin prices are set by the cruise line and change by season; the S2 team confirms the exact sailing before booking. Carry original government photo ID (passport / Aadhaar) for boarding; report at the cruise terminal 3–4 hours before departure. One-way Mumbai → Goa sailings run only on selected dates – if none fits your dates, the team will suggest the round-trip cruise or another option."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "MG-02",
+   "slug": "mumbai-goa-lakshadweep-cruise-4n-5d",
+   "title": "Mumbai – Goa – Lakshadweep Cruise 4N/5D",
+   "destination": "mumbai-to-goa",
+   "region": "domestic",
+   "themes": [
+    "Couples",
+    "Family",
+    "Cruise"
+   ],
+   "durationNights": 4,
+   "durationDays": 5,
+   "price": {
+    "amount": 42999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Goa and the Lakshadweep lagoons in one voyage, a full day at sea.",
+   "highlights": [
+    "Goa and the Lakshadweep lagoons in one voyage",
+    "a full day at sea."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Board the Cruise at Mumbai",
+     "description": "Reach the Mumbai cruise terminal for check-in and boarding. Sail out of Mumbai harbour in the evening; dinner and shows on board. Overnight on the ship.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Cruise ship"
+    },
+    {
+     "day": 2,
+     "title": "Goa Port Call",
+     "description": "Breakfast on board. The ship docks in Goa for the day (as per the schedule): join an optional shore excursion to Old Goa or a beach, or enjoy the ship. Overnight on the ship.",
+     "meals": [
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+     ],
+     "overnight": "Cruise ship"
+    },
+    {
+     "day": 3,
+     "title": "Day at Sea",
+     "description": "A full day at sea – pools, live music, kids' club, games and evening shows (as per the ship). Overnight on the ship.",
+     "meals": [
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+     ],
+     "overnight": "Cruise ship"
+    },
+    {
+     "day": 4,
+     "title": "Lakshadweep Port Call",
+     "description": "The ship anchors off a Lakshadweep island and guests go ashore by tender boat (weather permitting). Enjoy the turquoise lagoon; snorkelling or glass-bottom boat at own cost. Back on board in the evening. Overnight on the ship.",
+     "meals": [
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+     ],
+     "overnight": "Cruise ship"
+    },
+    {
+     "day": 5,
+     "title": "Return to Mumbai",
+     "description": "Breakfast on board and disembark at Mumbai cruise terminal (as per the sailing schedule – some sailings include a further day at sea). Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "4 nights cruise in an interior cabin",
+    "Meals in the main restaurant as per the cruise plan",
+    "Onboard entertainment as per the ship",
+    "Port charges as included by the cruise line (confirmed at booking)"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Gratuities / service charges collected by the cruise line",
+    "Shore excursions, specialty dining, beverages, Wi-Fi, casino and spa on board",
+    "Transfer to the Mumbai cruise terminal",
+    "Lakshadweep entry fees or permits charged on landing, if any"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Mumbai port → Goa (port call) → at sea → Lakshadweep (port call) → Mumbai port"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Cruise ship – interior cabin (ocean-view / balcony on request)",
+      "4 nights on board a cruise ship sailing Mumbai – Goa – Lakshadweep – Mumbai (operator and sailing confirmed by the S2 team).",
+      "Interior cabin on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Mumbai harbour, Goa port call, Lakshadweep island and lagoon (tender landing)."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Onboard pools, shows and kids' activities; optional Goa shore excursion; Lakshadweep lagoon and water sports (own cost)."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Main-restaurant meals on board as per the cruise plan. Specialty restaurants and drinks are extra."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Cruise ship Mumbai – Goa – Lakshadweep – Mumbai; tender boats at Lakshadweep.",
+      "Not included – travel to the Mumbai cruise terminal on your own (car transfer can be added)."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing in an interior cabin, minimum 2 adults. Round-trip cruise from Mumbai calling at Goa and Lakshadweep (as per the sailing). Cruise line and sailing confirmed at booking."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to May (cruise season)."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Sailing dates, port times and cabin prices are set by the cruise line and change by season; the S2 team confirms the exact sailing before booking. Carry original government photo ID (passport / Aadhaar) for boarding; report at the cruise terminal 3–4 hours before departure. Landing at Lakshadweep is by tender boat and depends on sea conditions; the cruise line may change port order or skip a port for safety."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  }
+ ]
+}
