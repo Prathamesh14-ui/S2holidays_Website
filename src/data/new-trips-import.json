@@ -2626,6 +2626,1740 @@
    "imageBorrowed": false
   },
   {
+   "kbId": "ARU-02",
+   "slug": "tawang-quick-escape-4n-5d",
+   "title": "Tawang Quick Escape 4N/5D",
+   "destination": "arunachal-pradesh",
+   "region": "domestic",
+   "themes": [
+    "Couples",
+    "Family",
+    "Weekend getaway"
+   ],
+   "durationNights": 4,
+   "durationDays": 5,
+   "price": {
+    "amount": 15999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Tawang in five days, Sela Pass, Tawang Monastery.",
+   "highlights": [
+    "Tawang in five days",
+    "Sela Pass",
+    "Tawang Monastery."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Guwahati – Dirang",
+     "description": "Early pickup in Guwahati and drive (about 9–10 hrs) via Tezpur and Bhalukpong into the Kameng valley, reaching Dirang by evening. Overnight stay in Dirang.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Dirang hotel"
+    },
+    {
+     "day": 2,
+     "title": "Dirang – Sela Pass – Tawang",
+     "description": "Breakfast and a short look at Dirang Dzong village. Drive over Sela Pass with its high-altitude lake and stop at the Jaswant Garh memorial before reaching Tawang. Overnight stay in Tawang.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Tawang hotel"
+    },
+    {
+     "day": 3,
+     "title": "Tawang Sightseeing",
+     "description": "Breakfast. Visit Tawang Monastery, the Tawang War Memorial and Urgelling Monastery. Optional Bum La pass and Madhuri Lake by local taxi with army permit (own cost, subject to permission). Overnight stay in Tawang.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Tawang hotel"
+    },
+    {
+     "day": 4,
+     "title": "Tawang – Bomdila",
+     "description": "Breakfast and drive back over Sela Pass to Bomdila. Evening visit to the Bomdila monastery and market. Overnight stay in Bomdila.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Bomdila hotel"
+    },
+    {
+     "day": 5,
+     "title": "Bomdila – Guwahati Departure",
+     "description": "Breakfast and drive to Guwahati (about 8 hrs) for an evening flight or train (after 6 pm recommended). Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "4 nights hotel stay with breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Inner Line Permit processing assistance",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Inner Line Permit fee, if charged",
+    "Room heater charges",
+    "Bum La / Madhuri Lake excursion (local taxi and army permit)"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Guwahati → Dirang (1N) → Tawang (2N) → Bomdila (1N) → Guwahati"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "1 night Dirang, 2 nights Tawang, 1 night Bomdila – 3★ or best available hotels. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Dirang, Sela Pass and lake, Jaswant Garh memorial, Tawang Monastery, Tawang War Memorial, Urgelling Monastery, Bomdila monastery."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Mountain drives over Sela Pass; monastery visits; optional Bum La and Madhuri Lake (own cost)."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (4 breakfasts + 4 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (SUV such as Innova / Xylo or similar, suited to mountain roads) for transfers and sightseeing as per itinerary. Long mountain drives (5–9 hrs) on several days.",
+      "Included – Guwahati airport / railway station pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Guwahati."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "March to June and September to November. Sela Pass may close after heavy snow (December–February)."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Indian citizens need an Inner Line Permit (ILP) to enter Arunachal Pradesh – share ID proof at booking; foreign nationals need a Protected Area Permit. Day 1 is a very long drive – an early start is needed. Carry warm clothes all year."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "ARU-03",
+   "slug": "tawang-unhurried-6n-7d",
+   "title": "Tawang Unhurried 6N/7D",
+   "destination": "arunachal-pradesh",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Friends",
+    "Nature"
+   ],
+   "durationNights": 6,
+   "durationDays": 7,
+   "price": {
+    "amount": 21999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Three nights in Tawang at an easy pace, Nuranang falls, Kamakhya Temple.",
+   "highlights": [
+    "Three nights in Tawang at an easy pace",
+    "Nuranang falls",
+    "Kamakhya Temple."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival in Guwahati – Kamakhya",
+     "description": "Pickup and check-in. Visit Kamakhya Temple and spend the evening by the Brahmaputra (optional sunset cruise at own cost). Overnight stay in Guwahati.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Guwahati hotel"
+    },
+    {
+     "day": 2,
+     "title": "Guwahati – Dirang",
+     "description": "Breakfast and drive (about 9 hrs) via Tezpur and Bhalukpong to Dirang in the Kameng valley. Overnight stay in Dirang.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Dirang hotel"
+    },
+    {
+     "day": 3,
+     "title": "Dirang – Tawang via Sela Pass",
+     "description": "Breakfast and drive over Sela Pass, stopping at the lake, the Jaswant Garh memorial and Nuranang (Jang) waterfall. Overnight stay in Tawang.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Tawang hotel"
+    },
+    {
+     "day": 4,
+     "title": "Tawang Sightseeing",
+     "description": "Breakfast. Visit Tawang Monastery and its museum, the War Memorial, Urgelling Monastery and the Ani Gompa nunnery. Overnight stay in Tawang.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Tawang hotel"
+    },
+    {
+     "day": 5,
+     "title": "Bum La & Madhuri Lake (optional)",
+     "description": "Breakfast. Optional excursion by local taxi to Bum La pass on the India–China border and Madhuri Lake (army permit needed; own cost). Otherwise a relaxed day in Tawang market. Overnight stay in Tawang.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Tawang hotel"
+    },
+    {
+     "day": 6,
+     "title": "Tawang – Bomdila",
+     "description": "Breakfast and drive to Bomdila. Visit the monastery and craft centre. Overnight stay in Bomdila.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Bomdila hotel"
+    },
+    {
+     "day": 7,
+     "title": "Bomdila – Guwahati Departure",
+     "description": "Breakfast and drive to Guwahati for an evening departure. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "6 nights hotel stay with breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Inner Line Permit processing assistance",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Inner Line Permit fee, if charged",
+    "Room heater charges",
+    "Bum La / Madhuri Lake excursion (local taxi and army permit)"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Guwahati (1N) → Dirang (1N) → Tawang (3N) → Bomdila (1N) → Guwahati"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "1 night Guwahati, 1 night Dirang, 3 nights Tawang, 1 night Bomdila – 3★ or best available hotels. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Kamakhya Temple, Dirang, Sela Pass, Jaswant Garh, Nuranang falls, Tawang Monastery, War Memorial, Urgelling Monastery, Ani Gompa, Bomdila; optional Bum La and Madhuri Lake."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Temple darshan; mountain drives; monastery visits; optional Bum La excursion."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (6 breakfasts + 6 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (SUV such as Innova / Xylo or similar, suited to mountain roads) for transfers and sightseeing as per itinerary. Long mountain drives (5–9 hrs) on several days.",
+      "Included – Guwahati airport / railway station pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Guwahati."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "March to June and September to November."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Indian citizens need an Inner Line Permit (ILP) to enter Arunachal Pradesh – share ID proof at booking; foreign nationals need a Protected Area Permit. Bum La needs a separate army permit and is often closed at short notice."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "ARU-04",
+   "slug": "tawang-and-bum-la-pass-with-nameri-7n-8d",
+   "title": "Tawang & Bum La Pass with Nameri 7N/8D",
+   "destination": "arunachal-pradesh",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Adventure",
+    "Nature"
+   ],
+   "durationNights": 7,
+   "durationDays": 8,
+   "price": {
+    "amount": 24999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Bum La pass on the India–China border, Madhuri Lake, Nameri river camp.",
+   "highlights": [
+    "Bum La pass on the India–China border",
+    "Madhuri Lake",
+    "Nameri river camp."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Guwahati – Nameri",
+     "description": "Pickup and drive (about 5 hrs) to Nameri on the Jia Bhoreli river at the foot of the hills. Evening by the river. Overnight at Nameri.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Nameri eco-camp"
+    },
+    {
+     "day": 2,
+     "title": "Nameri – Dirang",
+     "description": "Optional early birding walk or gentle river rafting (own cost). Drive via Bhalukpong to Dirang (about 6 hrs). Overnight stay in Dirang.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Dirang hotel"
+    },
+    {
+     "day": 3,
+     "title": "Dirang – Tawang",
+     "description": "Breakfast and drive over Sela Pass with stops at the lake and Jaswant Garh memorial. Overnight stay in Tawang.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Tawang hotel"
+    },
+    {
+     "day": 4,
+     "title": "Bum La Pass & Madhuri Lake",
+     "description": "Breakfast and excursion by local permitted taxi to Bum La pass on the India–China border and Madhuri (Sangetsar) Lake (army permit arranged by the team; taxi at own cost; subject to permission and weather). Overnight stay in Tawang.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Tawang hotel"
+    },
+    {
+     "day": 5,
+     "title": "Tawang Sightseeing",
+     "description": "Breakfast. Visit Tawang Monastery, the War Memorial and Urgelling Monastery; evening in the market. Overnight stay in Tawang.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Tawang hotel"
+    },
+    {
+     "day": 6,
+     "title": "Tawang – Bomdila",
+     "description": "Breakfast and drive to Bomdila. Monastery visit. Overnight stay in Bomdila.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Bomdila hotel"
+    },
+    {
+     "day": 7,
+     "title": "Bomdila – Guwahati",
+     "description": "Breakfast and drive to Guwahati (about 8 hrs). Overnight stay in Guwahati.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Guwahati hotel"
+    },
+    {
+     "day": 8,
+     "title": "Kamakhya Temple & Departure",
+     "description": "Morning darshan at Kamakhya Temple, then drop at Guwahati airport or railway station. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "7 nights stay with breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Inner Line Permit and Bum La permit processing assistance",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Inner Line Permit fee, if charged",
+    "Room heater charges",
+    "Bum La local taxi",
+    "Nameri rafting, birding guide and park fees"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Guwahati → Nameri (1N) → Dirang (1N) → Tawang (3N) → Bomdila (1N) → Guwahati (1N)"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "1 night Nameri (eco-camp / resort), 1 night Dirang, 3 nights Tawang, 1 night Bomdila, 1 night Guwahati – 3★ or best available. Exact stays confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Nameri National Park, Jia Bhoreli river, Dirang, Sela Pass, Jaswant Garh, Bum La pass, Madhuri Lake, Tawang Monastery, War Memorial, Urgelling Monastery, Bomdila, Kamakhya Temple."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Optional rafting and birding at Nameri; Bum La border pass; monastery visits."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (7 breakfasts + 7 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (SUV such as Innova / Xylo or similar, suited to mountain roads) for transfers and sightseeing as per itinerary. Long mountain drives (5–9 hrs) on several days.",
+      "Included – Guwahati airport / railway station pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Guwahati."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "March to June and October to November (Bum La is often snowbound in winter)."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Indian citizens need an Inner Line Permit (ILP) to enter Arunachal Pradesh – share ID proof at booking; foreign nationals need a Protected Area Permit. Bum La is open only to Indian citizens with an army permit (usually not on Mondays/Tuesdays and not in bad weather); it can be closed without notice."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "ARU-05",
+   "slug": "tawang-and-zemithang-valley-7n-8d",
+   "title": "Tawang & Zemithang Valley 7N/8D",
+   "destination": "arunachal-pradesh",
+   "region": "domestic",
+   "themes": [
+    "Couples",
+    "Nature"
+   ],
+   "durationNights": 7,
+   "durationDays": 8,
+   "price": {
+    "amount": 24499,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Offbeat Zemithang valley near the border, Gorsam Chorten stupa, Tawang.",
+   "highlights": [
+    "Offbeat Zemithang valley near the border",
+    "Gorsam Chorten stupa",
+    "Tawang."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Guwahati – Nameri",
+     "description": "Pickup and drive (about 5 hrs) to Nameri on the Jia Bhoreli river. Overnight at Nameri.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Nameri eco-camp"
+    },
+    {
+     "day": 2,
+     "title": "Nameri – Dirang",
+     "description": "Breakfast and drive into the Kameng valley to Dirang (about 6 hrs). Overnight stay in Dirang.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Dirang hotel"
+    },
+    {
+     "day": 3,
+     "title": "Dirang – Tawang",
+     "description": "Breakfast and drive over Sela Pass to Tawang with stops at the lake and Jaswant Garh. Overnight stay in Tawang.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Tawang hotel"
+    },
+    {
+     "day": 4,
+     "title": "Tawang Sightseeing",
+     "description": "Breakfast. Visit Tawang Monastery, the War Memorial and Urgelling Monastery. Overnight stay in Tawang.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Tawang hotel"
+    },
+    {
+     "day": 5,
+     "title": "Tawang – Zemithang",
+     "description": "Breakfast and drive (about 3–4 hrs) down to the remote Zemithang valley. Visit Gorsam Chorten, one of the largest stupas in the region, by the Nyamjang Chu river. Overnight at Zemithang.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Zemithang homestay"
+    },
+    {
+     "day": 6,
+     "title": "Zemithang – Bomdila",
+     "description": "Early breakfast and long drive back via Tawang and Sela Pass to Bomdila. Overnight stay in Bomdila.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Bomdila hotel"
+    },
+    {
+     "day": 7,
+     "title": "Bomdila – Guwahati",
+     "description": "Breakfast and drive to Guwahati. Overnight stay in Guwahati.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Guwahati hotel"
+    },
+    {
+     "day": 8,
+     "title": "Departure from Guwahati",
+     "description": "Breakfast, optional Kamakhya Temple darshan and drop at Guwahati airport or railway station. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "7 nights stay with breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Inner Line Permit processing assistance (Zemithang area permit as required)",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Inner Line Permit fee, if charged",
+    "Room heater charges"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Guwahati → Nameri (1N) → Dirang (1N) → Tawang (2N) → Zemithang (1N) → Bomdila (1N) → Guwahati (1N)"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "1 night Nameri, 1 night Dirang, 2 nights Tawang, 1 night Zemithang (homestay / guesthouse), 1 night Bomdila, 1 night Guwahati – best available. Exact stays confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Nameri, Dirang, Sela Pass, Jaswant Garh, Tawang Monastery, War Memorial, Urgelling Monastery, Zemithang valley, Gorsam Chorten, Bomdila."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Remote-valley stay at Zemithang; monastery and stupa visits; mountain drives."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (7 breakfasts + 7 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (SUV such as Innova / Xylo or similar, suited to mountain roads) for transfers and sightseeing as per itinerary. Long mountain drives (5–9 hrs) on several days.",
+      "Included – Guwahati airport / railway station pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Guwahati."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "March to May and October to November."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Indian citizens need an Inner Line Permit (ILP) to enter Arunachal Pradesh – share ID proof at booking; foreign nationals need a Protected Area Permit. Zemithang is a restricted border area – an additional permit may be needed and stays are basic homestays with limited mobile network."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "ARU-06",
+   "slug": "aalo-and-mechuka-valley-4n-5d",
+   "title": "Aalo & Mechuka Valley 4N/5D",
+   "destination": "arunachal-pradesh",
+   "region": "domestic",
+   "themes": [
+    "Couples",
+    "Nature"
+   ],
+   "durationNights": 4,
+   "durationDays": 5,
+   "price": {
+    "amount": 17999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Mechuka – one of India's most remote valleys, Samten Yongcha Monastery, Siyom river.",
+   "highlights": [
+    "Mechuka – one of India's most remote valleys",
+    "Samten Yongcha Monastery",
+    "Siyom river."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Dibrugarh – Aalo",
+     "description": "Pickup at Dibrugarh and drive across the Bogibeel bridge over the Brahmaputra into the Siang hills to Aalo (about 7–8 hrs). Overnight stay in Aalo.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Aalo hotel"
+    },
+    {
+     "day": 2,
+     "title": "Aalo – Mechuka",
+     "description": "Breakfast and drive (about 7 hrs) through forests and river gorges to Mechuka valley at about 6,000 ft, close to the border. Overnight in Mechuka.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Mechuka homestay / hotel"
+    },
+    {
+     "day": 3,
+     "title": "Mechuka Sightseeing",
+     "description": "Breakfast. Visit the old Samten Yongcha Monastery on the hill, the Guru Nanak Taposthan gurudwara, the hanging bridge over the Siyom river and a Memba village. Overnight in Mechuka.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Mechuka homestay / hotel"
+    },
+    {
+     "day": 4,
+     "title": "Mechuka – Aalo",
+     "description": "Breakfast and drive back to Aalo. Evening by the Siyom river. Overnight stay in Aalo.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Aalo hotel"
+    },
+    {
+     "day": 5,
+     "title": "Aalo – Dibrugarh Departure",
+     "description": "Early breakfast and drive to Dibrugarh for an evening flight or train. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "4 nights stay with breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Inner Line Permit processing assistance",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Inner Line Permit fee, if charged",
+    "Room heater charges"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Dibrugarh → Aalo (1N) → Mechuka (2N) → Aalo (1N) → Dibrugarh"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "1 night Aalo, 2 nights Mechuka (homestay / hotel), 1 night Aalo – best available. Exact stays confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Bogibeel bridge, Aalo, Mechuka valley, Samten Yongcha Monastery, Guru Nanak Taposthan, Siyom river hanging bridge, Memba villages."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Remote valley stay; monastery and gurudwara visits; village walks."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (4 breakfasts + 4 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (SUV such as Innova / Xylo or similar, suited to mountain roads) for transfers and sightseeing as per itinerary. Long mountain drives (5–9 hrs) on several days.",
+      "Included – Dibrugarh airport / railway station pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Dibrugarh."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to April (clear views; snow in Mechuka in winter). Monsoon brings landslides."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Indian citizens need an Inner Line Permit (ILP) to enter Arunachal Pradesh – share ID proof at booking; foreign nationals need a Protected Area Permit. Roads to Mechuka are long and can be rough; stays are simple and mobile network is limited."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "ARU-07",
+   "slug": "pasighat-aalo-and-mechuka-5n-6d",
+   "title": "Pasighat, Aalo & Mechuka 5N/6D",
+   "destination": "arunachal-pradesh",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Nature"
+   ],
+   "durationNights": 5,
+   "durationDays": 6,
+   "price": {
+    "amount": 19999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Siang river at Pasighat, Mechuka valley, easier driving days than the 4-night version.",
+   "highlights": [
+    "Siang river at Pasighat",
+    "Mechuka valley",
+    "easier driving days than the 4-night version."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Dibrugarh – Pasighat",
+     "description": "Pickup at Dibrugarh and drive across the Bogibeel bridge to Pasighat, the oldest town of Arunachal, on the Siang river (about 4 hrs). Evening at the riverside. Overnight stay in Pasighat.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Pasighat hotel"
+    },
+    {
+     "day": 2,
+     "title": "Pasighat – Aalo",
+     "description": "Breakfast and drive through the Siang valley to Aalo (about 5 hrs). Evening walk to the Patum bridge. Overnight stay in Aalo.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Aalo hotel"
+    },
+    {
+     "day": 3,
+     "title": "Aalo – Mechuka",
+     "description": "Breakfast and drive (about 7 hrs) to Mechuka valley. Overnight in Mechuka.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Mechuka homestay / hotel"
+    },
+    {
+     "day": 4,
+     "title": "Mechuka Sightseeing",
+     "description": "Breakfast and a full day exploring Mechuka – the hilltop Samten Yongcha Monastery, Guru Nanak Taposthan, the hanging bridge over the Siyom and nearby villages. Overnight in Mechuka.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Mechuka homestay / hotel"
+    },
+    {
+     "day": 5,
+     "title": "Mechuka – Aalo",
+     "description": "Breakfast and drive back to Aalo. Overnight stay in Aalo.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Aalo hotel"
+    },
+    {
+     "day": 6,
+     "title": "Aalo – Dibrugarh Departure",
+     "description": "Early breakfast and drive to Dibrugarh for an evening departure. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "5 nights stay with breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Inner Line Permit processing assistance",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Inner Line Permit fee, if charged",
+    "Room heater charges"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Dibrugarh → Pasighat (1N) → Aalo (1N) → Mechuka (2N) → Aalo (1N) → Dibrugarh"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "1 night Pasighat, 1 night Aalo, 2 nights Mechuka (homestay / hotel), 1 night Aalo – best available. Exact stays confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Bogibeel bridge, Pasighat and the Siang river, Aalo, Patum bridge, Mechuka valley, Samten Yongcha Monastery, Guru Nanak Taposthan, Memba villages."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Riverside evenings; remote valley stay; monastery and village visits."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (5 breakfasts + 5 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (SUV such as Innova / Xylo or similar, suited to mountain roads) for transfers and sightseeing as per itinerary. Long mountain drives (5–9 hrs) on several days.",
+      "Included – Dibrugarh airport / railway station pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Dibrugarh."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to April."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Indian citizens need an Inner Line Permit (ILP) to enter Arunachal Pradesh – share ID proof at booking; foreign nationals need a Protected Area Permit. Roads are long and can be rough; stays in Mechuka are simple and mobile network is limited."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "ARU-08",
+   "slug": "dibang-valley-roing-mayodia-pass-and-anini-4n-5d",
+   "title": "Dibang Valley – Roing, Mayodia Pass & Anini 4N/5D",
+   "destination": "arunachal-pradesh",
+   "region": "domestic",
+   "themes": [
+    "Adventure",
+    "Nature"
+   ],
+   "durationNights": 4,
+   "durationDays": 5,
+   "price": {
+    "amount": 18499,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Snow at Mayodia Pass, remote Anini, Mishmi hills.",
+   "highlights": [
+    "Snow at Mayodia Pass",
+    "remote Anini",
+    "Mishmi hills."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Dibrugarh – Roing",
+     "description": "Pickup at Dibrugarh and drive via Tinsukia and the Bhupen Hazarika bridge to Roing at the foot of the Mishmi hills (about 4–5 hrs). Overnight stay in Roing.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Roing hotel"
+    },
+    {
+     "day": 2,
+     "title": "Roing – Mayodia Pass – Anini",
+     "description": "Breakfast and climb to Mayodia Pass, often snow-covered in winter, then continue through Hunli to Anini, the remote headquarters of Dibang Valley (about 7 hrs). Overnight in Anini.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Anini guesthouse"
+    },
+    {
+     "day": 3,
+     "title": "Anini Exploration",
+     "description": "Breakfast and a day exploring the Dri river valley and Idu Mishmi villages around Anini. Overnight in Anini.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Anini guesthouse"
+    },
+    {
+     "day": 4,
+     "title": "Anini – Roing",
+     "description": "Breakfast and drive back over Mayodia Pass to Roing; visit the Bhismaknagar fort ruins if time permits. Overnight stay in Roing.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Roing hotel"
+    },
+    {
+     "day": 5,
+     "title": "Roing – Dibrugarh Departure",
+     "description": "Breakfast and drive to Dibrugarh for an afternoon/evening departure. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "4 nights stay with breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Inner Line Permit processing assistance",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Inner Line Permit fee, if charged",
+    "Room heater charges"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Dibrugarh → Roing (1N) → Mayodia Pass → Anini (2N) → Roing (1N) → Dibrugarh"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "1 night Roing, 2 nights Anini (guesthouse / homestay), 1 night Roing – best available. Exact stays confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Bhupen Hazarika bridge, Roing, Mayodia Pass, Hunli, Anini, Dri river valley, Idu Mishmi villages, Bhismaknagar ruins."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "High-pass drive (snow in winter); remote valley stay; village visits."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (4 breakfasts + 4 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (SUV such as Innova / Xylo or similar, suited to mountain roads) for transfers and sightseeing as per itinerary. Long mountain drives (5–9 hrs) on several days.",
+      "Included – Dibrugarh airport / railway station pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Dibrugarh."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to April; December–February for snow at Mayodia (road may close briefly after heavy snowfall)."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Indian citizens need an Inner Line Permit (ILP) to enter Arunachal Pradesh – share ID proof at booking; foreign nationals need a Protected Area Permit. Anini is very remote – facilities are basic and mobile network is limited; landslides can delay travel in the monsoon."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "ARU-09",
+   "slug": "ziro-valley-aalo-and-mechuka-circuit-9n-10d",
+   "title": "Ziro Valley, Aalo & Mechuka Circuit 9N/10D",
+   "destination": "arunachal-pradesh",
+   "region": "domestic",
+   "themes": [
+    "Heritage",
+    "Nature"
+   ],
+   "durationNights": 9,
+   "durationDays": 10,
+   "price": {
+    "amount": 32999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Apatani culture in Ziro, Mechuka valley, a deep circuit through central Arunachal.",
+   "highlights": [
+    "Apatani culture in Ziro",
+    "Mechuka valley",
+    "a deep circuit through central Arunachal."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival in Itanagar",
+     "description": "Pickup at Itanagar airport or Naharlagun station. Visit Ganga (Gyakar Sinyi) Lake and the Ita Fort ruins. Overnight stay in Itanagar.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Itanagar hotel"
+    },
+    {
+     "day": 2,
+     "title": "Itanagar – Ziro",
+     "description": "Breakfast and drive (about 4–5 hrs) to Ziro, the pine-ringed home of the Apatani people. Overnight in Ziro.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Ziro hotel / homestay"
+    },
+    {
+     "day": 3,
+     "title": "Ziro Sightseeing",
+     "description": "Breakfast. Visit Hong and other Apatani villages and their paddy-cum-fish fields, the Kile Pakho viewpoint and the Siddheshwar Nath temple in the Kardo forest. Overnight in Ziro.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Ziro hotel / homestay"
+    },
+    {
+     "day": 4,
+     "title": "Ziro – Daporijo",
+     "description": "Breakfast and drive (about 6 hrs) to Daporijo on the Subansiri river. Overnight stay in Daporijo.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Daporijo hotel"
+    },
+    {
+     "day": 5,
+     "title": "Daporijo – Aalo",
+     "description": "Breakfast and drive (about 6–7 hrs) to Aalo. Overnight stay in Aalo.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Aalo hotel"
+    },
+    {
+     "day": 6,
+     "title": "Aalo – Mechuka",
+     "description": "Breakfast and drive (about 7 hrs) to Mechuka. Overnight in Mechuka.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Mechuka homestay / hotel"
+    },
+    {
+     "day": 7,
+     "title": "Mechuka Sightseeing",
+     "description": "Breakfast and a full day in Mechuka valley – Samten Yongcha Monastery, Guru Nanak Taposthan, the Siyom hanging bridge and Memba villages. Overnight in Mechuka.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Mechuka homestay / hotel"
+    },
+    {
+     "day": 8,
+     "title": "Mechuka – Aalo",
+     "description": "Breakfast and drive back to Aalo. Overnight stay in Aalo.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Aalo hotel"
+    },
+    {
+     "day": 9,
+     "title": "Aalo – Pasighat",
+     "description": "Breakfast and drive to Pasighat on the Siang river (about 5 hrs). Overnight stay in Pasighat.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Pasighat hotel"
+    },
+    {
+     "day": 10,
+     "title": "Pasighat – Dibrugarh Departure",
+     "description": "Breakfast and drive across the Bogibeel bridge to Dibrugarh (about 4 hrs) for your departure. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "9 nights stay with breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Inner Line Permit processing assistance",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Inner Line Permit fee, if charged",
+    "Room heater charges"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Itanagar (1N) → Ziro (2N) → Daporijo (1N) → Aalo (1N) → Mechuka (2N) → Aalo (1N) → Pasighat (1N) → Dibrugarh"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "1 night Itanagar, 2 nights Ziro, 1 night Daporijo, 1 night Aalo, 2 nights Mechuka, 1 night Aalo, 1 night Pasighat – best available. Exact stays confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Itanagar Ganga Lake and Ita Fort, Ziro valley, Hong village, Kile Pakho, Siddheshwar Nath temple, Daporijo, Aalo, Mechuka valley, Samten Yongcha Monastery, Guru Nanak Taposthan, Pasighat, Bogibeel bridge."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Apatani village visits; remote-valley stays; monastery visits; long scenic drives."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (9 breakfasts + 9 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (SUV such as Innova / Xylo or similar, suited to mountain roads) for transfers and sightseeing as per itinerary. Long mountain drives (5–9 hrs) on several days.",
+      "Included – Itanagar arrival and Dibrugarh departure."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting at Itanagar and ending at Dibrugarh."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to April. The Ziro Music Festival is held in late September."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Indian citizens need an Inner Line Permit (ILP) to enter Arunachal Pradesh – share ID proof at booking; foreign nationals need a Protected Area Permit. Several long driving days on mountain roads; stays in Daporijo and Mechuka are simple."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "ARU-10",
+   "slug": "best-of-arunachal-pradesh-grand-tour-17n-18d",
+   "title": "Best of Arunachal Pradesh Grand Tour 17N/18D",
+   "destination": "arunachal-pradesh",
+   "region": "domestic",
+   "themes": [
+    "Heritage",
+    "Adventure"
+   ],
+   "durationNights": 17,
+   "durationDays": 18,
+   "price": {
+    "amount": 64999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Tawang, Ziro, Mechuka and Mayodia in one grand journey.",
+   "highlights": [
+    "Tawang, Ziro, Mechuka and Mayodia in one grand journey."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Guwahati – Nameri",
+     "description": "Pickup at Guwahati and drive to Nameri on the Jia Bhoreli river (about 5 hrs). Overnight at Nameri.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Nameri eco-camp"
+    },
+    {
+     "day": 2,
+     "title": "Nameri – Dirang",
+     "description": "Breakfast and drive into the Kameng valley to Dirang. Overnight stay in Dirang.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Dirang hotel"
+    },
+    {
+     "day": 3,
+     "title": "Dirang – Tawang",
+     "description": "Breakfast and drive over Sela Pass to Tawang with stops at the lake, Jaswant Garh and Nuranang falls. Overnight stay in Tawang.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Tawang hotel"
+    },
+    {
+     "day": 4,
+     "title": "Tawang Sightseeing",
+     "description": "Breakfast. Visit Tawang Monastery, the War Memorial and Urgelling Monastery. Overnight stay in Tawang.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Tawang hotel"
+    },
+    {
+     "day": 5,
+     "title": "Bum La & Madhuri Lake (optional)",
+     "description": "Breakfast. Optional Bum La pass and Madhuri Lake by local permitted taxi (army permit; own cost). Overnight stay in Tawang.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Tawang hotel"
+    },
+    {
+     "day": 6,
+     "title": "Tawang – Bomdila",
+     "description": "Breakfast and drive to Bomdila. Overnight stay in Bomdila.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Bomdila hotel"
+    },
+    {
+     "day": 7,
+     "title": "Bomdila – Itanagar",
+     "description": "Early breakfast and long drive via the Assam plains to Itanagar (about 9–10 hrs). Overnight stay in Itanagar.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Itanagar hotel"
+    },
+    {
+     "day": 8,
+     "title": "Itanagar – Ziro",
+     "description": "Breakfast, a short visit to Ganga Lake, then drive to Ziro (about 4–5 hrs). Overnight in Ziro.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Ziro hotel / homestay"
+    },
+    {
+     "day": 9,
+     "title": "Ziro Sightseeing",
+     "description": "Breakfast and a day among the Apatani villages and rice fields of Ziro. Overnight in Ziro.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Ziro hotel / homestay"
+    },
+    {
+     "day": 10,
+     "title": "Ziro – Daporijo",
+     "description": "Breakfast and drive to Daporijo. Overnight stay in Daporijo.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Daporijo hotel"
+    },
+    {
+     "day": 11,
+     "title": "Daporijo – Aalo",
+     "description": "Breakfast and drive to Aalo. Overnight stay in Aalo.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Aalo hotel"
+    },
+    {
+     "day": 12,
+     "title": "Aalo – Mechuka",
+     "description": "Breakfast and drive to Mechuka. Overnight in Mechuka.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Mechuka homestay / hotel"
+    },
+    {
+     "day": 13,
+     "title": "Mechuka Sightseeing",
+     "description": "Breakfast and a full day in the Mechuka valley. Overnight in Mechuka.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Mechuka homestay / hotel"
+    },
+    {
+     "day": 14,
+     "title": "Mechuka – Aalo",
+     "description": "Breakfast and drive back to Aalo. Overnight stay in Aalo.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Aalo hotel"
+    },
+    {
+     "day": 15,
+     "title": "Aalo – Pasighat",
+     "description": "Breakfast and drive to Pasighat on the Siang river. Overnight stay in Pasighat.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Pasighat hotel"
+    },
+    {
+     "day": 16,
+     "title": "Pasighat – Roing",
+     "description": "Breakfast and drive to Roing at the foot of the Mishmi hills; visit Bhismaknagar ruins if time permits. Overnight stay in Roing.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Roing hotel"
+    },
+    {
+     "day": 17,
+     "title": "Mayodia Pass Excursion",
+     "description": "Breakfast and day excursion to Mayodia Pass (snow in winter). Return to Roing. Overnight stay in Roing.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Roing hotel"
+    },
+    {
+     "day": 18,
+     "title": "Roing – Dibrugarh Departure",
+     "description": "Breakfast and drive to Dibrugarh for your departure. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "17 nights stay with breakfast and dinner",
+    "Private vehicle for the whole tour",
+    "Inner Line Permit processing assistance",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Inner Line Permit fee, if charged",
+    "Room heater charges",
+    "Bum La local taxi"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Guwahati → Nameri (1N) → Dirang (1N) → Tawang (3N) → Bomdila (1N) → Itanagar (1N) → Ziro (2N) → Daporijo (1N) → Aalo (1N) → Mechuka (2N) → Aalo (1N) → Pasighat (1N) → Roing (2N) → Dibrugarh"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "Nameri 1N, Dirang 1N, Tawang 3N, Bomdila 1N, Itanagar 1N, Ziro 2N, Daporijo 1N, Aalo 1N, Mechuka 2N, Aalo 1N, Pasighat 1N, Roing 2N – best available hotels, camps and homestays. Exact stays confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Nameri, Dirang, Sela Pass, Tawang Monastery, War Memorial, Bum La (optional), Bomdila, Itanagar, Ziro valley, Daporijo, Aalo, Mechuka, Pasighat, Roing, Mayodia Pass."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "West-to-east crossing of Arunachal: Tawang, Ziro, Mechuka and the Mishmi hills."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (17 breakfasts + 17 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (SUV such as Innova / Xylo or similar, suited to mountain roads) for transfers and sightseeing as per itinerary. Long mountain drives (5–9 hrs) on several days.",
+      "Included – Guwahati arrival and Dibrugarh departure."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting at Guwahati and ending at Dibrugarh."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to November and March to April."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Indian citizens need an Inner Line Permit (ILP) to enter Arunachal Pradesh – share ID proof at booking; foreign nationals need a Protected Area Permit. A long and demanding road journey with several 7–10 hour driving days; stays in remote areas are simple. Itinerary can change due to weather or road conditions."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
    "kbId": "LAK-01",
    "slug": "lakshadweep-agatti-island-lagoon-escape-3n-4d",
    "title": "Lakshadweep Agatti Island Lagoon Escape 3N/4D",

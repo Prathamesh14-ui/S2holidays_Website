@@ -81,6 +81,7 @@ export function Footer({ settings }: { settings: SiteSettings }) {
             <li><Link href="/privacy-policy" className="hover:text-white">Privacy policy</Link></li>
             <li><Link href="/terms" className="hover:text-white">Terms &amp; conditions</Link></li>
             <li><Link href="/faq" className="hover:text-white">FAQ</Link></li>
+            <li><Link href="/photo-credits" className="hover:text-white">Photo credits</Link></li>
           </ul>
         </Container>
       </div>

@@ -17,6 +17,13 @@ export const imageField = (name: string, title: string, opts: { required?: boole
         description: "Describe the image for screen readers and search engines, e.g. “Houseboat on Dal Lake at sunset”.",
         validation: (r) => r.required().max(160),
       }),
+      defineField({
+        name: "credit",
+        title: "Photo credit",
+        type: "string",
+        description: "Only for photos whose licence asks for a credit (e.g. Wikimedia Commons): “Author / Wikimedia Commons, CC BY-SA 4.0”. Leave empty for your own or Unsplash photos.",
+      }),
+      defineField({ name: "creditUrl", title: "Photo source link", type: "url", description: "Page of the photo and its licence (shown as a link on the credit)." }),
     ],
     validation: opts.required ? (r) => r.required() : undefined,
   });

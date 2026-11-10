@@ -39,6 +39,18 @@ export function PageHero({
         {intro && <p className="mt-5 max-w-2xl text-lg leading-relaxed text-white/80">{intro}</p>}
         {children}
       </Container>
+      {image?.kind === "sanity" && image.credit && (
+        <p className="absolute bottom-2 right-3 max-w-[70%] truncate text-[10px] text-white/60">
+          Photo:{" "}
+          {image.creditUrl ? (
+            <a href={image.creditUrl} target="_blank" rel="noopener noreferrer" className="underline-offset-2 hover:text-white hover:underline">
+              {image.credit}
+            </a>
+          ) : (
+            image.credit
+          )}
+        </p>
+      )}
     </section>
   );
 }

@@ -11,6 +11,9 @@ export type SiteImage =
       hotspot?: { x: number; y: number };
       crop?: { top: number; bottom: number; left: number; right: number };
       alt: string;
+      /** Attribution required by the photo's licence (e.g. Wikimedia Commons). */
+      credit?: string | null;
+      creditUrl?: string | null;
     }
   | { kind: "local"; src: string; alt: string; isSample?: boolean };
 
@@ -185,3 +188,5 @@ export type PackageOffer = {
 
 /** Optional site-wide announcement bar (e.g. a festival sale). */
 export type Announcement = { active?: boolean; text: string; link?: string; validUntil?: string };
+
+export type PhotoCredit = { _type: "holidayPackage" | "destination"; name: string; slug: string; credit: string; creditUrl?: string | null };

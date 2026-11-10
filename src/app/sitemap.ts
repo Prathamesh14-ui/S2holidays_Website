@@ -21,6 +21,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     ["/faq", 0.4],
     ["/privacy-policy", 0.2],
     ["/terms", 0.2],
+    ["/photo-credits", 0.1],
   ] as const;
   return [
     ...staticPaths.map(([path, priority]) => ({ url: `${siteUrl}${path}`, priority })),

@@ -22,6 +22,7 @@ import type {
   ServiceKey,
   SiteSettings,
   Testimonial,
+  PhotoCredit,
 } from "./types";
 import * as sample from "@/data/sample";
 import { plannerDefaults } from "@/data/planner-defaults";
@@ -149,6 +150,10 @@ export async function getPost(slug: string): Promise<Post | null> {
 
 export async function getFaqs(): Promise<Faq[]> {
   return isSanityConfigured ? ((await fetchSanity<Faq[] | null>(q.faqsQuery)) ?? []) : sample.sampleFaqs;
+}
+
+export async function getPhotoCredits(): Promise<PhotoCredit[]> {
+  return isSanityConfigured ? ((await fetchSanity<PhotoCredit[] | null>(q.photoCreditsQuery)) ?? []) : [];
 }
 
 export async function getLegalPage(slug: "privacy-policy" | "terms"): Promise<LegalPage | null> {

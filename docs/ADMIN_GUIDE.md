@@ -157,6 +157,10 @@ few seconds.
 - Upload large landscape images (2000–3000 px wide, JPG). The website resizes them automatically.
 - Click the **crop/hotspot** button on an image to mark the important area. Mobile crops will keep it
   in view.
+- **Photo credit:** some free photos (for example from Wikimedia Commons under a Creative Commons licence)
+  must show the photographer's name. Fill in **Photo credit** (e.g. “Jane Doe / Wikimedia Commons, CC BY-SA 4.0”)
+  and **Photo source link** under the image. The credit then appears in small text on the photo and on the
+  **Photo credits** page (link in the footer). If you replace the photo with your own, clear both fields.
 
 ## Testimonials
 

@@ -1,7 +1,7 @@
 import { defineQuery } from "next-sanity";
 
 /** Shared GROQ projection that turns a Sanity image field into our SiteImage shape. */
-const IMG = `{"kind": "sanity", asset, hotspot, crop, "alt": coalesce(alt, "")}`;
+const IMG = `{"kind": "sanity", asset, hotspot, crop, "alt": coalesce(alt, ""), credit, creditUrl}`;
 const SEO = `seo{title, description, noIndex, "image": image${IMG}}`;
 
 const DEST_FIELDS = `_id, name, "slug": slug.current, region, country, state, tagline, summary, overview,
@@ -54,4 +54,9 @@ export const plannerQuery = defineQuery(`*[_type == "plannerDestination" && acti
   "vehicles": coalesce(vehicles[]{name, seats, ratePerDay}, []), "mealPlans": coalesce(mealPlans[]{name, ratePerPersonPerNight}, []),
   seasons[]{name, from, to, percent}, gstPercent, advancePercent, ratesConfirmed,
   estimate{active, basePerPerson, perNightPerPerson, childPercent, basedOn}
+}`);
+
+/** Every main photo that carries a credit (for the Photo credits page). */
+export const photoCreditsQuery = defineQuery(`*[_type in ["holidayPackage", "destination"] && defined(heroImage.credit)] | order(_type desc, coalesce(title, name) asc){
+  _type, "name": coalesce(title, name), "slug": slug.current, "credit": heroImage.credit, "creditUrl": heroImage.creditUrl
 }`);
