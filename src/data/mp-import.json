@@ -1,0 +1,855 @@
+{
+ "source": "S2_Holidays_Travel_Knowledge_Base_3.xlsx (new trips)",
+ "destinations": [
+  {
+   "slug": "madhya-pradesh",
+   "name": "Madhya Pradesh",
+   "region": "domestic",
+   "state": "Madhya Pradesh",
+   "country": "India",
+   "image": null,
+   "bestTimeToVisit": "October to June; July–September (monsoon) is green and misty but some trails close."
+  }
+ ],
+ "packages": [
+  {
+   "kbId": "MP-03",
+   "slug": "pachmarhi-hill-retreat-for-couples-3n-4d",
+   "title": "Pachmarhi Hill Retreat for Couples 3N/4D",
+   "destination": "madhya-pradesh",
+   "region": "domestic",
+   "themes": [
+    "Honeymoon",
+    "Couples",
+    "Nature"
+   ],
+   "durationNights": 3,
+   "durationDays": 4,
+   "price": {
+    "amount": 13999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Quiet hill station in the Satpura range, waterfalls and caves, Dhoopgarh sunset.",
+   "highlights": [
+    "Quiet hill station in the Satpura range",
+    "waterfalls and caves",
+    "Dhoopgarh sunset."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Bhopal – Pachmarhi",
+     "description": "Pickup at Bhopal and drive (about 5 hrs) through forest and farmland to Pachmarhi, the only hill station of Madhya Pradesh. Evening walk in the cantonment and the old church. Overnight stay in Pachmarhi.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Pachmarhi resort"
+    },
+    {
+     "day": 2,
+     "title": "Pachmarhi Sightseeing – Caves & Falls",
+     "description": "Breakfast and a day among Pachmarhi's sights by local gypsy – the Pandav Caves, the Jata Shankar cave shrine, a dip at Bee Falls and the view from Priyadarshini Point. Overnight stay in Pachmarhi.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Pachmarhi hotel"
+    },
+    {
+     "day": 3,
+     "title": "Pachmarhi – Dhoopgarh Sunset",
+     "description": "Breakfast and visit Reechgarh rock formations, the pools of Apsara Vihar and the deep Handi Khoh gorge. End the day with sunset at Dhoopgarh, the highest point of the Satpura range. Overnight stay in Pachmarhi.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Pachmarhi hotel"
+    },
+    {
+     "day": 4,
+     "title": "Pachmarhi – Bhopal Departure",
+     "description": "Breakfast and drive back to Bhopal for your evening train or flight (or drop at Pipariya station, 1.5 hrs). Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "3 nights resort stay with breakfast and dinner",
+    "Private vehicle Bhopal – Pachmarhi – Bhopal",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Local gypsy hire and entry fees for Pachmarhi viewpoints",
+    "Satpura jungle safari"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Bhopal → Pachmarhi (3N) → Bhopal"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Deluxe (3★ / 4★ or similar)",
+      "3 nights in a 3★/4★ or similar resort in Pachmarhi. Exact hotel confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Pachmarhi cantonment, Pandav Caves, Jata Shankar, Bee Falls, Priyadarshini Point, Reechgarh, Apsara Vihar, Handi Khoh, Dhoopgarh."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Waterfall and cave visits; Dhoopgarh sunset; optional Satpura jungle safari (own cost)."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (3 breakfasts + 3 dinners); one candle-light dinner on request."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary; local registered gypsies for viewpoints at own cost.",
+      "Included – Bhopal airport / railway station pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Bhopal."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to June; July–September (monsoon) is green and misty but some trails close."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. In Pachmarhi most viewpoints inside the Satpura reserve can be visited only in registered local gypsies (charged locally)."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "MP-04",
+   "slug": "malwa-circuit-indore-mandu-maheshwar-omkareshwar-and-ujjain-4n-5d",
+   "title": "Malwa Circuit – Indore, Mandu, Maheshwar, Omkareshwar & Ujjain 4N/5D",
+   "destination": "madhya-pradesh",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Pilgrimage",
+    "Heritage"
+   ],
+   "durationNights": 4,
+   "durationDays": 5,
+   "price": {
+    "amount": 14999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Mahakaleshwar and Omkareshwar Jyotirlingas, Mandu's palaces, Maheshwar on the Narmada.",
+   "highlights": [
+    "Mahakaleshwar and Omkareshwar Jyotirlingas",
+    "Mandu's palaces",
+    "Maheshwar on the Narmada."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival in Indore",
+     "description": "Pickup and check-in. Visit the Rajwada and Lal Bagh Palace; in the evening try Indore's famous street food at Sarafa Bazaar or Chhappan Dukan (own cost). Overnight stay in Indore.",
+     "meals": [],
+     "overnight": "Indore hotel"
+    },
+    {
+     "day": 2,
+     "title": "Indore – Mandu",
+     "description": "Breakfast and drive to the ruined hill city of Mandu (about 2.5 hrs). Explore the Jahaz Mahal, Hindola Mahal and Baz Bahadur's palace, and watch sunset from Rani Roopmati's pavilion. Overnight stay in Mandu.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Mandu hotel"
+    },
+    {
+     "day": 3,
+     "title": "Mandu – Maheshwar",
+     "description": "Breakfast and drive to Maheshwar on the Narmada (about 1.5 hrs). Visit Ahilya Fort and the ghats, see Maheshwari saree weavers at work and take a sunset boat on the river (own cost). Overnight stay in Maheshwar.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Maheshwar hotel"
+    },
+    {
+     "day": 4,
+     "title": "Maheshwar – Omkareshwar – Ujjain",
+     "description": "Breakfast and drive to Omkareshwar (about 1.5 hrs) for darshan of the Omkareshwar and Mamleshwar Jyotirlinga temples on the island in the Narmada. Continue to Ujjain (about 3 hrs). Overnight stay in Ujjain.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Ujjain hotel"
+    },
+    {
+     "day": 5,
+     "title": "Ujjain Darshan & Departure",
+     "description": "Early darshan at Mahakaleshwar Jyotirlinga (Bhasma Aarti needs separate advance booking), then Kal Bhairav, Harsiddhi Temple and Ram Ghat. Drive to Indore (about 1.5 hrs) for your departure. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "4 nights hotel stay with breakfast (dinner on 3 nights)",
+    "Private vehicle for all transfers and sightseeing",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Bhasma Aarti and special darshan bookings",
+    "Narmada boat rides"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Indore (1N) → Mandu (1N) → Maheshwar (1N) → Omkareshwar → Ujjain (1N) → Indore"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "1 night Indore, 1 night Mandu, 1 night Maheshwar, 1 night Ujjain – 3★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Rajwada, Lal Bagh Palace, Sarafa Bazaar, Mandu monuments, Ahilya Fort, Maheshwar ghats, Omkareshwar, Mamleshwar, Mahakaleshwar, Kal Bhairav, Harsiddhi, Ram Ghat."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Two Jyotirlinga darshans; Mandu ruins at sunset; Narmada boat ride; Indore street food."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast (4) and dinner on 3 nights."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary.",
+      "Included – Indore airport / railway station pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Indore."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to March. Sawan (July–August) and Mahashivratri are very crowded at the Jyotirlingas."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Bhasma Aarti at Mahakaleshwar must be booked online in advance and has a dress code. Phones are not allowed inside the Mahakaleshwar sanctum."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "MP-05",
+   "slug": "kanha-tiger-safari-with-bhedaghat-marble-rocks-5n-6d",
+   "title": "Kanha Tiger Safari with Bhedaghat Marble Rocks 5N/6D",
+   "destination": "madhya-pradesh",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Wildlife",
+    "Nature"
+   ],
+   "durationNights": 5,
+   "durationDays": 6,
+   "price": {
+    "amount": 22999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Tigers and barasingha at Kanha, boat through the marble rocks of Bhedaghat.",
+   "highlights": [
+    "Tigers and barasingha at Kanha",
+    "boat through the marble rocks of Bhedaghat."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival in Jabalpur",
+     "description": "Pickup and check-in. Visit the Madan Mahal fort and the Chausath Yogini Temple above the Narmada. Overnight stay in Jabalpur.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Jabalpur hotel"
+    },
+    {
+     "day": 2,
+     "title": "Jabalpur – Kanha",
+     "description": "Breakfast and drive to Kanha (about 4–5 hrs). Afternoon nature walk around the resort. Overnight at Kanha.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Kanha jungle resort"
+    },
+    {
+     "day": 3,
+     "title": "Kanha Jungle Safaris",
+     "description": "Early-morning and afternoon jeep safaris into Kanha's meadows and sal forests – tiger, barasingha (hard-ground swamp deer), leopard and wild dogs (permits and gypsies at own cost). Overnight at Kanha.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Kanha jungle resort"
+    },
+    {
+     "day": 4,
+     "title": "Kanha – Optional Safari & Village Walk",
+     "description": "Optional morning safari (own cost). Afternoon visit to a local Baiga or Gond village and the Kanha interpretation centre. Overnight at Kanha.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Kanha jungle resort"
+    },
+    {
+     "day": 5,
+     "title": "Kanha – Bhedaghat – Jabalpur",
+     "description": "Breakfast and drive to Bhedaghat (about 4 hrs). Boat ride through the white marble gorge of the Narmada (boating runs about October–June) and the Dhuandhar Falls (ropeway at own cost). Overnight stay in Jabalpur.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Jabalpur hotel"
+    },
+    {
+     "day": 6,
+     "title": "Departure from Jabalpur",
+     "description": "Breakfast and drop at Jabalpur airport or railway station. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "5 nights stay with breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Safari permit booking assistance",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Jungle safari permits, gypsy and guide charges",
+    "Bhedaghat boat and Dhuandhar ropeway",
+    "Camera fees in the national park"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Jabalpur (1N) → Kanha (3N) → Bhedaghat → Jabalpur (1N)"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar) + jungle resort at Kanha",
+      "1 night Jabalpur, 3 nights Kanha jungle resort, 1 night Jabalpur – 3★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Madan Mahal, Chausath Yogini Temple, Kanha National Park, Baiga village, Bhedaghat marble rocks, Dhuandhar Falls."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Jungle safaris at Kanha (own cost); marble-rock boat ride; village walk."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (5 breakfasts + 5 dinners); all meals at the jungle resort on request."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary; jungle gypsies for safaris (own cost).",
+      "Included – Jabalpur airport / railway station pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Jabalpur. Jungle safaris are extra (permit and gypsy charged per vehicle)."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October 16 to June 30 (park open). February–May gives the best tiger sightings; winter mornings are cold."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Tiger reserves (Kanha, Bandhavgarh, Panna) are closed for safaris from 1 July to 15 October; safari permits are sold online by MP Forest Department in limited numbers and sell out weeks ahead – share ID details early. Tiger sightings are never guaranteed."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "MP-06",
+   "slug": "bhopal-sanchi-bhimbetka-and-pachmarhi-5n-6d",
+   "title": "Bhopal, Sanchi, Bhimbetka & Pachmarhi 5N/6D",
+   "destination": "madhya-pradesh",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Heritage",
+    "Nature"
+   ],
+   "durationNights": 5,
+   "durationDays": 6,
+   "price": {
+    "amount": 18999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Sanchi Stupa and Bhimbetka (UNESCO), Bhopal's lakes, Pachmarhi hills.",
+   "highlights": [
+    "Sanchi Stupa and Bhimbetka (UNESCO)",
+    "Bhopal's lakes",
+    "Pachmarhi hills."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival in Bhopal – City of Lakes",
+     "description": "Pickup and check-in. Visit the Taj-ul-Masajid, the Tribal Museum (closed Mondays) and spend sunset by the Upper Lake (Boat Club). Overnight stay in Bhopal.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Bhopal hotel"
+    },
+    {
+     "day": 2,
+     "title": "Sanchi & Udayagiri Day Trip",
+     "description": "Breakfast and day trip to Sanchi (about 1.5 hrs) for the Great Stupa and its carved gateways, then the Gupta-era Udayagiri caves. Return to Bhopal. Overnight stay in Bhopal.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Bhopal hotel"
+    },
+    {
+     "day": 3,
+     "title": "Bhojpur – Bhimbetka – Pachmarhi",
+     "description": "Breakfast and visit the unfinished Bhojeshwar temple with its huge Shivling at Bhojpur and the prehistoric rock paintings of Bhimbetka. Continue to Pachmarhi (about 4 hrs). Overnight stay in Pachmarhi.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Pachmarhi hotel"
+    },
+    {
+     "day": 4,
+     "title": "Pachmarhi Sightseeing – Caves & Falls",
+     "description": "Breakfast and a day among Pachmarhi's sights by local gypsy – the Pandav Caves, the Jata Shankar cave shrine, a dip at Bee Falls and the view from Priyadarshini Point. Overnight stay in Pachmarhi.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Pachmarhi hotel"
+    },
+    {
+     "day": 5,
+     "title": "Pachmarhi – Dhoopgarh Sunset",
+     "description": "Breakfast and visit Reechgarh rock formations, the pools of Apsara Vihar and the deep Handi Khoh gorge. End the day with sunset at Dhoopgarh, the highest point of the Satpura range. Overnight stay in Pachmarhi.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Pachmarhi hotel"
+    },
+    {
+     "day": 6,
+     "title": "Pachmarhi – Bhopal Departure",
+     "description": "Breakfast and drive to Bhopal for your departure (or drop at Pipariya station). Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "5 nights hotel stay with breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Monument entry fees (Sanchi, Bhimbetka, museums)",
+    "Local gypsy hire for Pachmarhi viewpoints"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Bhopal (2N, Sanchi day trip) → Bhimbetka & Bhojpur → Pachmarhi (3N) → Bhopal"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "2 nights Bhopal + 3 nights Pachmarhi, 3★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Upper Lake, Taj-ul-Masajid, Tribal Museum, Sanchi Stupa, Udayagiri Caves, Bhojpur Temple, Bhimbetka, Pachmarhi caves, falls and viewpoints, Dhoopgarh."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Two UNESCO sites (Sanchi, Bhimbetka); Pachmarhi caves, falls and sunset point."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (5 breakfasts + 5 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary; local registered gypsies in Pachmarhi at own cost.",
+      "Included – Bhopal airport / railway station pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Bhopal."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to March for heritage sites; Pachmarhi is pleasant most of the year."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. In Pachmarhi most viewpoints inside the Satpura reserve can be visited only in registered local gypsies (charged locally). The Tribal Museum in Bhopal is closed on Mondays."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "MP-07",
+   "slug": "mp-tiger-trail-khajuraho-panna-bandhavgarh-and-kanha-6n-7d",
+   "title": "MP Tiger Trail – Khajuraho, Panna, Bandhavgarh & Kanha 6N/7D",
+   "destination": "madhya-pradesh",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Heritage",
+    "Wildlife"
+   ],
+   "durationNights": 6,
+   "durationDays": 7,
+   "price": {
+    "amount": 32999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Three tiger reserves and the Khajuraho temples in one trip.",
+   "highlights": [
+    "Three tiger reserves and the Khajuraho temples in one trip."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival in Khajuraho",
+     "description": "Pickup and check-in. Visit the Western Group of Temples (UNESCO) with their famous carvings, and the evening light & sound show (own cost). Overnight stay in Khajuraho.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Khajuraho hotel"
+    },
+    {
+     "day": 2,
+     "title": "Panna National Park & Eastern Temples",
+     "description": "Morning jeep safari in Panna Tiger Reserve (own cost) or a boat on the Ken river. Afternoon at the Eastern and Jain temple groups. Overnight stay in Khajuraho.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Khajuraho hotel"
+    },
+    {
+     "day": 3,
+     "title": "Khajuraho – Bandhavgarh",
+     "description": "Breakfast and drive to Bandhavgarh (about 6 hrs). Evening at the resort. Overnight at Bandhavgarh.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Bandhavgarh jungle resort"
+    },
+    {
+     "day": 4,
+     "title": "Bandhavgarh Safaris",
+     "description": "Early-morning and afternoon safaris in Bandhavgarh, known for one of the highest tiger densities in India (permits and gypsies at own cost). Overnight at Bandhavgarh.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Bandhavgarh jungle resort"
+    },
+    {
+     "day": 5,
+     "title": "Bandhavgarh – Kanha",
+     "description": "Optional morning safari, then drive to Kanha (about 5–6 hrs). Overnight at Kanha.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Kanha jungle resort"
+    },
+    {
+     "day": 6,
+     "title": "Kanha Safaris",
+     "description": "Morning and afternoon safaris in Kanha's meadows – tiger, barasingha, gaur and wild dogs (own cost). Overnight at Kanha.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Kanha jungle resort"
+    },
+    {
+     "day": 7,
+     "title": "Kanha – Jabalpur Departure",
+     "description": "Breakfast and drive to Jabalpur (about 4–5 hrs) for your departure; a short stop at Bhedaghat marble rocks if time allows. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "6 nights stay with breakfast and dinner",
+    "Private vehicle for all transfers",
+    "Safari permit booking assistance",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Jungle safari permits, gypsy and guide charges",
+    "Khajuraho light & sound show and monument entry",
+    "Camera fees in national parks"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Khajuraho (2N, Panna) → Bandhavgarh (2N) → Kanha (2N) → Jabalpur"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar) + jungle resorts",
+      "2 nights Khajuraho, 2 nights Bandhavgarh jungle resort, 2 nights Kanha jungle resort – 3★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Khajuraho Western, Eastern and Jain temples, Panna Tiger Reserve, Ken river, Bandhavgarh, Kanha."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Up to 6 jungle safaris in three tiger reserves (own cost); UNESCO temples of Khajuraho."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (6 breakfasts + 6 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private AC vehicle (sedan for 2, SUV for 3–6 travellers) for transfers and sightseeing as per itinerary; jungle gypsies for safaris (own cost).",
+      "Included – Khajuraho arrival and Jabalpur departure."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting at Khajuraho and ending at Jabalpur. Jungle safaris are extra (permit and gypsy charged per vehicle)."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October 16 to June 30 (parks open). February–May is best for tigers."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Tiger reserves (Kanha, Bandhavgarh, Panna) are closed for safaris from 1 July to 15 October; safari permits are sold online by MP Forest Department in limited numbers and sell out weeks ahead – share ID details early. Tiger sightings are never guaranteed. Long drives between reserves on rural roads."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  }
+ ]
+}
