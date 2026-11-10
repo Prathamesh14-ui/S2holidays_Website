@@ -1,0 +1,1339 @@
+{
+ "source": "S2_Holidays_Travel_Knowledge_Base_3.xlsx (new trips)",
+ "destinations": [
+  {
+   "slug": "north-east",
+   "name": "North East India",
+   "region": "domestic",
+   "state": null,
+   "country": "India",
+   "image": null,
+   "bestTimeToVisit": "March to May and October to December (clear mountain views). Monsoon (June–September) brings landslides and clouds."
+  }
+ ],
+ "packages": [
+  {
+   "kbId": "NE-03",
+   "slug": "darjeeling-queen-of-the-hills-3n-4d",
+   "title": "Darjeeling Queen of the Hills 3N/4D",
+   "destination": "north-east",
+   "region": "domestic",
+   "themes": [
+    "Couples",
+    "Family",
+    "Weekend getaway"
+   ],
+   "durationNights": 3,
+   "durationDays": 4,
+   "price": {
+    "amount": 11999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Sunrise over Kanchenjunga from Tiger Hill, Darjeeling tea gardens, toy train.",
+   "highlights": [
+    "Sunrise over Kanchenjunga from Tiger Hill",
+    "Darjeeling tea gardens",
+    "toy train."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival – Darjeeling",
+     "description": "Pickup at Bagdogra airport or NJP station and drive (about 3 hrs) up through tea gardens to Darjeeling. Evening on the Mall Road (Chowrasta). Overnight stay in Darjeeling.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Darjeeling hotel"
+    },
+    {
+     "day": 2,
+     "title": "Tiger Hill Sunrise & Darjeeling Sightseeing",
+     "description": "Very early drive to Tiger Hill to watch sunrise over Kanchenjunga (weather permitting), then Ghoom Monastery and the Batasia Loop war memorial. After breakfast visit the Himalayan Mountaineering Institute and zoo (closed Thursdays), a tea garden and the Japanese Peace Pagoda. Overnight stay in Darjeeling.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Darjeeling hotel"
+    },
+    {
+     "day": 3,
+     "title": "Darjeeling at Leisure – Toy Train & Ropeway",
+     "description": "Breakfast and an easy day – optional joy ride on the UNESCO-listed toy train (own cost), the ropeway over the tea valleys and the Tibetan Refugee Self Help Centre. Overnight stay in Darjeeling.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Darjeeling hotel"
+    },
+    {
+     "day": 4,
+     "title": "Darjeeling – Departure",
+     "description": "Breakfast and drive from Darjeeling to Bagdogra airport or New Jalpaiguri (NJP) station (about 3.5–4.5 hrs) for your onward journey. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "3 nights hotel stay with breakfast and dinner",
+    "Private vehicle for transfers and sightseeing",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Toy-train joy ride, ropeway and entry tickets"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Bagdogra / NJP → Darjeeling (3N) → Bagdogra / NJP"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "3 nights in a 3★ or similar hotel in Darjeeling. Exact hotel confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Tiger Hill, Ghoom Monastery, Batasia Loop, Himalayan Mountaineering Institute, Padmaja Naidu Zoo, tea garden, Peace Pagoda, Chowrasta, Tibetan Refugee Centre."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Kanchenjunga sunrise; optional toy-train joy ride and ropeway (own cost)."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (3 breakfasts + 3 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private vehicle (Innova / Xylo or similar suited to hill roads; AC is not used on hill roads) for transfers and sightseeing.",
+      "Included – Bagdogra / NJP pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Bagdogra airport / NJP station."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "March to May and October to December (clear mountain views). Monsoon (June–September) brings landslides and clouds."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Darjeeling's Himalayan Mountaineering Institute and zoo are closed on Thursdays. The toy-train joy ride is booked separately and sells out in season."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "NE-04",
+   "slug": "darjeeling-and-gangtok-with-tsomgo-lake-4n-5d",
+   "title": "Darjeeling & Gangtok with Tsomgo Lake 4N/5D",
+   "destination": "north-east",
+   "region": "domestic",
+   "themes": [
+    "Family"
+   ],
+   "durationNights": 4,
+   "durationDays": 5,
+   "price": {
+    "amount": 12999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Darjeeling and Gangtok in five days, frozen Tsomgo Lake in winter.",
+   "highlights": [
+    "Darjeeling and Gangtok in five days",
+    "frozen Tsomgo Lake in winter."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival – Darjeeling",
+     "description": "Pickup at Bagdogra or NJP and drive to Darjeeling (about 3 hrs). Evening at Chowrasta. Overnight stay in Darjeeling.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Darjeeling hotel"
+    },
+    {
+     "day": 2,
+     "title": "Tiger Hill Sunrise & Darjeeling Sightseeing",
+     "description": "Very early drive to Tiger Hill to watch sunrise over Kanchenjunga (weather permitting), then Ghoom Monastery and the Batasia Loop war memorial. After breakfast visit the Himalayan Mountaineering Institute and zoo (closed Thursdays), a tea garden and the Japanese Peace Pagoda. Overnight stay in Darjeeling.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Darjeeling hotel"
+    },
+    {
+     "day": 3,
+     "title": "Darjeeling – Gangtok",
+     "description": "Breakfast and drive (about 4 hrs) down to the Teesta river and up to Gangtok. Evening stroll on the car-free MG Marg. Overnight stay in Gangtok.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Gangtok hotel"
+    },
+    {
+     "day": 4,
+     "title": "Tsomgo Lake & Baba Mandir",
+     "description": "Breakfast and excursion to Tsomgo Lake (about 12,300 ft) and Baba Harbhajan Singh Mandir (permits arranged by the team); optional Nathu La for Indian citizens at extra cost. Return to Gangtok. Overnight stay in Gangtok.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Gangtok hotel"
+    },
+    {
+     "day": 5,
+     "title": "Gangtok – Departure",
+     "description": "Breakfast and drive from Gangtok to Bagdogra airport or New Jalpaiguri (NJP) station (about 3.5–4.5 hrs) for your onward journey. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "4 nights hotel stay with breakfast and dinner",
+    "Private vehicle for transfers and sightseeing (local Sikkim taxi for Tsomgo)",
+    "Tsomgo Lake permit processing",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Nathu La excursion and permit",
+    "Yak rides and ropeway tickets"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Bagdogra / NJP → Darjeeling (2N) → Gangtok (2N) → Bagdogra / NJP"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "2 nights Darjeeling + 2 nights Gangtok, 3★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Tiger Hill, Ghoom Monastery, Batasia Loop, HMI and zoo, tea garden, Peace Pagoda, MG Marg, Tsomgo Lake, Baba Mandir."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Kanchenjunga sunrise; Tsomgo Lake excursion; optional Nathu La (Indian citizens, extra)."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (4 breakfasts + 4 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private vehicle (Innova / Xylo or similar suited to hill roads; AC is not used on hill roads) for transfers and sightseeing.",
+      "Included – Bagdogra / NJP pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Bagdogra airport / NJP station."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "March to May and October to December."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Darjeeling's Himalayan Mountaineering Institute and zoo are closed on Thursdays. The toy-train joy ride is booked separately and sells out in season. Inside Sikkim only Sikkim-registered taxis may run sightseeing, so the vehicle may change at the West Bengal–Sikkim border as per local union rules. Tsomgo Lake, Baba Mandir and Nathu La need permits (passport photos and ID; Nathu La is for Indian citizens only and usually closed on Mondays and Tuesdays)."
+     ]
+    }
+   ],
+   "featured": true,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "NE-05",
+   "slug": "darjeeling-and-mirik-honeymoon-4n-5d",
+   "title": "Darjeeling & Mirik Honeymoon 4N/5D",
+   "destination": "north-east",
+   "region": "domestic",
+   "themes": [
+    "Honeymoon",
+    "Couples"
+   ],
+   "durationNights": 4,
+   "durationDays": 5,
+   "price": {
+    "amount": 13499,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Quiet Mirik lake, Darjeeling tea hills, romantic extras.",
+   "highlights": [
+    "Quiet Mirik lake",
+    "Darjeeling tea hills",
+    "romantic extras."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival – Mirik",
+     "description": "Pickup at Bagdogra or NJP and drive (about 2 hrs) to the quiet lake town of Mirik. Walk around Sumendu Lake and take a boat or pony ride (own cost). Overnight stay in Mirik.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Mirik hotel"
+    },
+    {
+     "day": 2,
+     "title": "Mirik – Darjeeling",
+     "description": "Breakfast and drive to Darjeeling via the Pashupati border market and the Gopaldhara tea estate (tea tasting at own cost). Evening on the Mall Road. Honeymoon cake on arrival. Overnight stay in Darjeeling.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Darjeeling hotel"
+    },
+    {
+     "day": 3,
+     "title": "Tiger Hill Sunrise & Darjeeling Sightseeing",
+     "description": "Very early drive to Tiger Hill to watch sunrise over Kanchenjunga (weather permitting), then Ghoom Monastery and the Batasia Loop war memorial. After breakfast visit the Himalayan Mountaineering Institute and zoo (closed Thursdays), a tea garden and the Japanese Peace Pagoda. Overnight stay in Darjeeling.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Darjeeling hotel"
+    },
+    {
+     "day": 4,
+     "title": "Darjeeling at Leisure",
+     "description": "Breakfast and a free day – optional toy-train joy ride, or a drive to the Rock Garden and Ganga Maya Park. Candle-light dinner at the hotel. Overnight stay in Darjeeling.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Darjeeling hotel"
+    },
+    {
+     "day": 5,
+     "title": "Darjeeling – Departure",
+     "description": "Breakfast and drive from Darjeeling to Bagdogra airport or New Jalpaiguri (NJP) station (about 3.5–4.5 hrs) for your onward journey. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "4 nights hotel stay with breakfast and dinner",
+    "Honeymoon cake and one candle-light dinner",
+    "Private vehicle for transfers and sightseeing",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Boating, pony rides, toy-train joy ride and tea tasting"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Bagdogra / NJP → Mirik (1N) → Darjeeling (3N) → Bagdogra / NJP"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Deluxe (3★ / 4★ or similar)",
+      "1 night Mirik + 3 nights Darjeeling, 3★/4★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Mirik Sumendu Lake, Pashupati market, Gopaldhara tea estate, Tiger Hill, Batasia Loop, Ghoom Monastery, HMI, Peace Pagoda, Rock Garden."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Lake boating; tea tasting; Kanchenjunga sunrise; candle-light dinner."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (4 breakfasts + 4 dinners), one candle-light dinner."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private vehicle (Innova / Xylo or similar suited to hill roads; AC is not used on hill roads) for transfers and sightseeing.",
+      "Included – Bagdogra / NJP pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing (couple), land package starting and ending at Bagdogra airport / NJP station."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "March to May and October to December."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Darjeeling's Himalayan Mountaineering Institute and zoo are closed on Thursdays. The toy-train joy ride is booked separately and sells out in season. Pashupati market is at the Nepal border – carry ID."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "NE-06",
+   "slug": "gangtok-and-darjeeling-honeymoon-with-baba-mandir-4n-5d",
+   "title": "Gangtok & Darjeeling Honeymoon with Baba Mandir 4N/5D",
+   "destination": "north-east",
+   "region": "domestic",
+   "themes": [
+    "Honeymoon",
+    "Couples"
+   ],
+   "durationNights": 4,
+   "durationDays": 5,
+   "price": {
+    "amount": 13999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Tsomgo Lake and Baba Mandir, Darjeeling sunrise, honeymoon extras.",
+   "highlights": [
+    "Tsomgo Lake and Baba Mandir",
+    "Darjeeling sunrise",
+    "honeymoon extras."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival – Gangtok",
+     "description": "Pickup at Bagdogra or NJP and drive along the Teesta river to Gangtok (about 4.5 hrs). Honeymoon cake on arrival; evening on MG Marg. Overnight stay in Gangtok.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Gangtok hotel"
+    },
+    {
+     "day": 2,
+     "title": "Tsomgo Lake & Baba Mandir",
+     "description": "Breakfast and excursion to Tsomgo Lake (about 12,300 ft) and Baba Harbhajan Singh Mandir (permits arranged by the team); optional Nathu La for Indian citizens at extra cost. Return to Gangtok. Overnight stay in Gangtok.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Gangtok hotel"
+    },
+    {
+     "day": 3,
+     "title": "Gangtok – Darjeeling",
+     "description": "Breakfast and a short visit to Tashi viewpoint and Do Drul Chorten, then drive to Darjeeling (about 4 hrs). Candle-light dinner at the hotel. Overnight stay in Darjeeling.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Darjeeling hotel"
+    },
+    {
+     "day": 4,
+     "title": "Tiger Hill Sunrise & Darjeeling Sightseeing",
+     "description": "Very early drive to Tiger Hill to watch sunrise over Kanchenjunga (weather permitting), then Ghoom Monastery and the Batasia Loop war memorial. After breakfast visit the Himalayan Mountaineering Institute and zoo (closed Thursdays), a tea garden and the Japanese Peace Pagoda. Overnight stay in Darjeeling.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Darjeeling hotel"
+    },
+    {
+     "day": 5,
+     "title": "Darjeeling – Departure",
+     "description": "Breakfast and drive from Darjeeling to Bagdogra airport or New Jalpaiguri (NJP) station (about 3.5–4.5 hrs) for your onward journey. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "4 nights hotel stay with breakfast and dinner",
+    "Honeymoon cake and one candle-light dinner",
+    "Private vehicle for transfers and sightseeing (local Sikkim taxi for Tsomgo)",
+    "Tsomgo Lake permit processing",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Nathu La excursion and permit",
+    "Yak rides and ropeway tickets"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Bagdogra / NJP → Gangtok (2N) → Darjeeling (2N) → Bagdogra / NJP"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Deluxe (3★ / 4★ or similar)",
+      "2 nights Gangtok + 2 nights Darjeeling, 3★/4★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "MG Marg, Tsomgo Lake, Baba Harbhajan Singh Mandir, Tashi viewpoint, Do Drul Chorten, Tiger Hill, Batasia Loop, Ghoom Monastery, HMI, Peace Pagoda."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "High-altitude lake excursion; Kanchenjunga sunrise; candle-light dinner."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (4 breakfasts + 4 dinners), one candle-light dinner."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private vehicle (Innova / Xylo or similar suited to hill roads; AC is not used on hill roads) for transfers and sightseeing.",
+      "Included – Bagdogra / NJP pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing (couple), land package starting and ending at Bagdogra airport / NJP station."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "March to May and October to December."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Darjeeling's Himalayan Mountaineering Institute and zoo are closed on Thursdays. The toy-train joy ride is booked separately and sells out in season. Inside Sikkim only Sikkim-registered taxis may run sightseeing, so the vehicle may change at the West Bengal–Sikkim border as per local union rules. Tsomgo Lake, Baba Mandir and Nathu La need permits (passport photos and ID; Nathu La is for Indian citizens only and usually closed on Mondays and Tuesdays)."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "NE-07",
+   "slug": "north-sikkim-honeymoon-lachen-gurudongmar-and-lachung-4n-5d",
+   "title": "North Sikkim Honeymoon – Lachen, Gurudongmar & Lachung 4N/5D",
+   "destination": "north-east",
+   "region": "domestic",
+   "themes": [
+    "Honeymoon",
+    "Couples",
+    "Adventure"
+   ],
+   "durationNights": 4,
+   "durationDays": 5,
+   "price": {
+    "amount": 15999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Gurudongmar Lake, Yumthang Valley, remote Himalayan villages.",
+   "highlights": [
+    "Gurudongmar Lake",
+    "Yumthang Valley",
+    "remote Himalayan villages."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival – Gangtok",
+     "description": "Pickup at Bagdogra or NJP and drive to Gangtok (about 4.5 hrs). The team completes the North Sikkim permit. Evening on MG Marg. Overnight stay in Gangtok.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Gangtok hotel"
+    },
+    {
+     "day": 2,
+     "title": "Gangtok – Lachen",
+     "description": "Breakfast and drive north (about 6–7 hrs) past the Seven Sisters waterfall and Chungthang to Lachen (about 8,800 ft). Early dinner and rest. Overnight stay in Lachen.",
+     "meals": [
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+     ],
+     "overnight": "Lachen hotel"
+    },
+    {
+     "day": 3,
+     "title": "Gurudongmar Lake – Lachung",
+     "description": "Pre-dawn start to Gurudongmar Lake, one of the highest lakes in the world (subject to road and weather). Return to Lachen for lunch and drive to Lachung. Overnight stay in Lachung.",
+     "meals": [
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+     ],
+     "overnight": "Lachung hotel"
+    },
+    {
+     "day": 4,
+     "title": "Yumthang Valley – Gangtok",
+     "description": "Breakfast and visit Yumthang Valley – rhododendrons in spring, snow in winter – and the hot spring; optional Zero Point (extra). Return to Gangtok (about 5–6 hrs). Candle-light dinner. Overnight stay in Gangtok.",
+     "meals": [
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+     ],
+     "overnight": "Gangtok hotel"
+    },
+    {
+     "day": 5,
+     "title": "Gangtok – Departure",
+     "description": "Breakfast and drive from Gangtok to Bagdogra airport or New Jalpaiguri (NJP) station (about 3.5–4.5 hrs) for your onward journey. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "4 nights stay (full board in North Sikkim)",
+    "North Sikkim permit processing",
+    "Vehicle for all transfers and sightseeing (Sikkim-registered in North Sikkim)",
+    "One candle-light dinner",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Zero Point excursion",
+    "Oxygen cylinder (available on request)"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Bagdogra / NJP → Gangtok (1N) → Lachen (1N) → Gurudongmar → Lachung (1N) → Yumthang → Gangtok (1N) → Bagdogra / NJP"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Deluxe in Gangtok (3★/4★) + best available in Lachen and Lachung",
+      "1 night Gangtok, 1 night Lachen, 1 night Lachung, 1 night Gangtok – best available hotels in North Sikkim. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "MG Marg, Seven Sisters waterfall, Lachen, Gurudongmar Lake, Lachung, Yumthang Valley, hot spring; optional Zero Point."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "High-altitude lakes and valleys of North Sikkim; candle-light dinner."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Breakfast and dinner in Gangtok; all meals in Lachen and Lachung."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private vehicle (Innova / Xylo or similar suited to hill roads; AC is not used on hill roads) for transfers and sightseeing.",
+      "Included – Bagdogra / NJP pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing (couple), land package starting and ending at Bagdogra airport / NJP station. North Sikkim stays are full board."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "March to May (rhododendrons) and October to December. Heavy snow can close Gurudongmar and Zero Point in winter."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Inside Sikkim only Sikkim-registered taxis may run sightseeing, so the vehicle may change at the West Bengal–Sikkim border as per local union rules. Tsomgo Lake, Baba Mandir and Nathu La need permits (passport photos and ID; Nathu La is for Indian citizens only and usually closed on Mondays and Tuesdays). North Sikkim permits are issued only through registered agents and can be suspended at short notice due to landslides or road works (the Lachen route has had long closures in recent years) – the team confirms access before booking. Gurudongmar is at about 17,800 ft: not advised for small children, seniors or people with heart or lung conditions."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "NE-08",
+   "slug": "eco-hills-trail-darjeeling-lamahatta-and-gangtok-5n-6d",
+   "title": "Eco Hills Trail – Darjeeling, Lamahatta & Gangtok 5N/6D",
+   "destination": "north-east",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Nature"
+   ],
+   "durationNights": 5,
+   "durationDays": 6,
+   "price": {
+    "amount": 16499,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Slow travel with a village homestay between Darjeeling and Gangtok.",
+   "highlights": [
+    "Slow travel with a village homestay between Darjeeling and Gangtok."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival – Darjeeling",
+     "description": "Pickup at Bagdogra or NJP and drive to Darjeeling (about 3 hrs). Evening at Chowrasta. Overnight stay in Darjeeling.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Darjeeling hotel"
+    },
+    {
+     "day": 2,
+     "title": "Tiger Hill Sunrise & Darjeeling Sightseeing",
+     "description": "Very early drive to Tiger Hill to watch sunrise over Kanchenjunga (weather permitting), then Ghoom Monastery and the Batasia Loop war memorial. After breakfast visit the Himalayan Mountaineering Institute and zoo (closed Thursdays), a tea garden and the Japanese Peace Pagoda. Overnight stay in Darjeeling.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Darjeeling hotel"
+    },
+    {
+     "day": 3,
+     "title": "Darjeeling – Lamahatta Eco Village",
+     "description": "Breakfast and a short drive to Lamahatta, a quiet eco-village among pine and dhupi forest. Walk the eco park up to the prayer-flag ridge and the small lake; evening with home-cooked food. Overnight in a homestay.",
+     "meals": [
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+     ],
+     "overnight": "Lamahatta homestay"
+    },
+    {
+     "day": 4,
+     "title": "Lamahatta – Gangtok",
+     "description": "Breakfast and drive down to the Teesta and up to Gangtok (about 4 hrs). Evening on MG Marg. Overnight stay in Gangtok.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Gangtok hotel"
+    },
+    {
+     "day": 5,
+     "title": "Tsomgo Lake & Baba Mandir",
+     "description": "Breakfast and excursion to Tsomgo Lake (about 12,300 ft) and Baba Harbhajan Singh Mandir (permits arranged by the team); optional Nathu La for Indian citizens at extra cost. Return to Gangtok. Overnight stay in Gangtok.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Gangtok hotel"
+    },
+    {
+     "day": 6,
+     "title": "Gangtok – Departure",
+     "description": "Breakfast and drive from Gangtok to Bagdogra airport or New Jalpaiguri (NJP) station (about 3.5–4.5 hrs) for your onward journey. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "5 nights stay (hotels + homestay) with meals as per itinerary",
+    "Private vehicle for transfers and sightseeing (local Sikkim taxi for Tsomgo)",
+    "Tsomgo Lake permit processing",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Nathu La excursion and permit",
+    "Entry tickets and ropeway"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Bagdogra / NJP → Darjeeling (2N) → Lamahatta (1N) → Gangtok (2N) → Bagdogra / NJP"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar) + village homestay at Lamahatta",
+      "2 nights Darjeeling, 1 night Lamahatta homestay, 2 nights Gangtok – 3★ or similar. Exact stays confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Tiger Hill, Batasia Loop, Ghoom Monastery, HMI, tea garden, Lamahatta eco park, MG Marg, Tsomgo Lake, Baba Mandir."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Village homestay and forest walks; Kanchenjunga sunrise; Tsomgo Lake."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner; all meals at the Lamahatta homestay."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private vehicle (Innova / Xylo or similar suited to hill roads; AC is not used on hill roads) for transfers and sightseeing.",
+      "Included – Bagdogra / NJP pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Bagdogra airport / NJP station."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "March to May and October to December."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Darjeeling's Himalayan Mountaineering Institute and zoo are closed on Thursdays. The toy-train joy ride is booked separately and sells out in season. Inside Sikkim only Sikkim-registered taxis may run sightseeing, so the vehicle may change at the West Bengal–Sikkim border as per local union rules. Tsomgo Lake, Baba Mandir and Nathu La need permits (passport photos and ID; Nathu La is for Indian citizens only and usually closed on Mondays and Tuesdays). Homestays are simple family homes with shared meals."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "NE-09",
+   "slug": "north-east-explorer-assam-meghalaya-and-arunachal-5n-6d",
+   "title": "North East Explorer – Assam, Meghalaya & Arunachal 5N/6D",
+   "destination": "north-east",
+   "region": "domestic",
+   "themes": [
+    "Family",
+    "Nature"
+   ],
+   "durationNights": 5,
+   "durationDays": 6,
+   "price": {
+    "amount": 21999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Three North East states in six days – Meghalaya's waterfalls, Kaziranga's rhinos and the Arunachal foothills.",
+   "highlights": [
+    "Three North East states in six days – Meghalaya's waterfalls, Kaziranga's rhinos and the Arunachal foothills."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Guwahati – Kamakhya – Shillong",
+     "description": "Pickup at Guwahati and visit Kamakhya Temple. Drive to Shillong (about 3 hrs) with a stop at Umiam Lake. Evening at Police Bazaar. Overnight stay in Shillong.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Shillong hotel"
+    },
+    {
+     "day": 2,
+     "title": "Cherrapunji (Sohra) Day Trip",
+     "description": "Breakfast and day trip to Cherrapunji – Nohkalikai Falls, the Mawsmai limestone cave, the Seven Sisters Falls and the Eco Park viewpoint over the Bangladesh plains. Return to Shillong. Overnight stay in Shillong.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Shillong hotel"
+    },
+    {
+     "day": 3,
+     "title": "Shillong – Kaziranga",
+     "description": "Breakfast and drive to Kaziranga National Park (about 6 hrs). Evening at the resort; optional Orchid park visit. Overnight at Kaziranga.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Kaziranga resort"
+    },
+    {
+     "day": 4,
+     "title": "Kaziranga Safaris",
+     "description": "Morning jeep safari to see the one-horned rhinoceros, wild buffalo, elephants and birds (safari at own cost); optional early elephant safari. Afternoon tea-garden walk. Overnight at Kaziranga.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Kaziranga resort"
+    },
+    {
+     "day": 5,
+     "title": "Kaziranga – Bhalukpong (Arunachal)",
+     "description": "Breakfast and drive via Tezpur to Bhalukpong on the Assam–Arunachal border (about 4 hrs), with the Inner Line Permit arranged by the team. Visit the Tipi Orchid Centre and relax by the Kameng river. Overnight stay in Bhalukpong.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Bhalukpong hotel"
+    },
+    {
+     "day": 6,
+     "title": "Bhalukpong – Guwahati Departure",
+     "description": "Breakfast and drive to Guwahati (about 5 hrs) for your evening flight or train. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "5 nights hotel stay with breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Arunachal Inner Line Permit processing",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Kaziranga jeep / elephant safari and park fees",
+    "Inner Line Permit fee, if charged"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Guwahati → Shillong (2N, Cherrapunji day) → Kaziranga (2N) → Bhalukpong (1N, Arunachal border) → Guwahati"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "2 nights Shillong, 2 nights Kaziranga, 1 night Bhalukpong – 3★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Kamakhya Temple, Umiam Lake, Shillong, Nohkalikai Falls, Mawsmai Cave, Seven Sisters Falls, Kaziranga National Park, Tezpur, Bhalukpong, Tipi Orchid Centre."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Cherrapunji waterfalls and caves; rhino safari at Kaziranga; a first taste of Arunachal."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (5 breakfasts + 5 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private vehicle (Innova / Xylo or similar suited to hill roads; AC is not used on hill roads) for transfers and sightseeing.",
+      "Included – Guwahati airport / railway station pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Guwahati."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "November to April (Kaziranga open). Kaziranga's core ranges are closed for safaris from about June to September."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Indian citizens need an Inner Line Permit for Arunachal Pradesh (share ID at booking). Kaziranga safaris are booked by range and slot; elephant safaris are limited."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "NE-10",
+   "slug": "mirik-darjeeling-and-gangtok-grand-tour-6n-7d",
+   "title": "Mirik, Darjeeling & Gangtok Grand Tour 6N/7D",
+   "destination": "north-east",
+   "region": "domestic",
+   "themes": [
+    "Couples",
+    "Family"
+   ],
+   "durationNights": 6,
+   "durationDays": 7,
+   "price": {
+    "amount": 17999,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Mirik, Darjeeling and Gangtok in one relaxed week.",
+   "highlights": [
+    "Mirik, Darjeeling and Gangtok in one relaxed week."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Arrival – Mirik",
+     "description": "Pickup at Bagdogra or NJP and drive to Mirik (about 2 hrs). Evening around Sumendu Lake. Overnight stay in Mirik.",
+     "meals": [
+      "Dinner"
+     ],
+     "overnight": "Mirik hotel"
+    },
+    {
+     "day": 2,
+     "title": "Mirik – Darjeeling",
+     "description": "Breakfast and drive to Darjeeling via the Pashupati border market and tea estates. Evening on the Mall Road. Overnight stay in Darjeeling.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Darjeeling hotel"
+    },
+    {
+     "day": 3,
+     "title": "Tiger Hill Sunrise & Darjeeling Sightseeing",
+     "description": "Very early drive to Tiger Hill to watch sunrise over Kanchenjunga (weather permitting), then Ghoom Monastery and the Batasia Loop war memorial. After breakfast visit the Himalayan Mountaineering Institute and zoo (closed Thursdays), a tea garden and the Japanese Peace Pagoda. Overnight stay in Darjeeling.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Darjeeling hotel"
+    },
+    {
+     "day": 4,
+     "title": "Darjeeling – Gangtok",
+     "description": "Breakfast and drive (about 4 hrs) down to the Teesta river and up to Gangtok. Evening stroll on the car-free MG Marg. Overnight stay in Gangtok.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Gangtok hotel"
+    },
+    {
+     "day": 5,
+     "title": "Tsomgo Lake & Baba Mandir",
+     "description": "Breakfast and excursion to Tsomgo Lake (about 12,300 ft) and Baba Harbhajan Singh Mandir (permits arranged by the team); optional Nathu La for Indian citizens at extra cost. Return to Gangtok. Overnight stay in Gangtok.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Gangtok hotel"
+    },
+    {
+     "day": 6,
+     "title": "Gangtok Sightseeing",
+     "description": "Breakfast and a half/full-day tour of Gangtok – Tashi viewpoint, Rumtek Monastery, Do Drul Chorten, the Namgyal Institute of Tibetology, Banjhakri Falls and the ropeway (own cost). Overnight stay in Gangtok.",
+     "meals": [
+      "Breakfast",
+      "Dinner"
+     ],
+     "overnight": "Gangtok hotel"
+    },
+    {
+     "day": 7,
+     "title": "Gangtok – Departure",
+     "description": "Breakfast and drive from Gangtok to Bagdogra airport or New Jalpaiguri (NJP) station (about 3.5–4.5 hrs) for your onward journey. Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "6 nights hotel stay with breakfast and dinner",
+    "Private vehicle for transfers and sightseeing (local Sikkim taxi in Sikkim)",
+    "Tsomgo Lake permit processing",
+    "Driver allowance, fuel, tolls and parking"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Nathu La excursion and permit",
+    "Ropeway, toy train and entry tickets"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Bagdogra / NJP → Mirik (1N) → Darjeeling (2N) → Gangtok (3N) → Bagdogra / NJP"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Standard (3★ or similar)",
+      "1 night Mirik, 2 nights Darjeeling, 3 nights Gangtok – 3★ or similar. Exact hotels confirmed at booking – Team Confirmation Required.",
+      "Standard double room on twin sharing"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Mirik, Pashupati market, Tiger Hill, Batasia Loop, Ghoom Monastery, HMI, Peace Pagoda, MG Marg, Tsomgo Lake, Baba Mandir, Rumtek Monastery, Do Drul Chorten, Tashi viewpoint, Banjhakri Falls."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Lake town, tea hills, Kanchenjunga sunrise, Tsomgo Lake and Gangtok monasteries at an easy pace."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "Daily breakfast and dinner (6 breakfasts + 6 dinners)."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "Private vehicle (Innova / Xylo or similar suited to hill roads; AC is not used on hill roads) for transfers and sightseeing.",
+      "Included – Bagdogra / NJP pickup and drop."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing, minimum 2 adults. Land package starting and ending at Bagdogra airport / NJP station."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "March to May and October to December."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Darjeeling's Himalayan Mountaineering Institute and zoo are closed on Thursdays. The toy-train joy ride is booked separately and sells out in season. Inside Sikkim only Sikkim-registered taxis may run sightseeing, so the vehicle may change at the West Bengal–Sikkim border as per local union rules. Tsomgo Lake, Baba Mandir and Nathu La need permits (passport photos and ID; Nathu La is for Indian citizens only and usually closed on Mondays and Tuesdays)."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  }
+ ]
+}
