@@ -47,7 +47,7 @@ export default async function Page() {
         title="Mahabaleshwar hotel packages"
         eyebrow="Hotel packages"
         intro="Two- and three-night Mahabaleshwar holidays with return bus travel, your choice of hotel, meals and sightseeing. Compare prices by hotel, room and season."
-        slides={settings.packagesHeroSlides?.length ? settings.packagesHeroSlides : settings.heroSlides}
+        slides={settings.mahabaleshwarHeroSlides}
         crumbs={[{ label: "Mahabaleshwar hotel packages", href: "/mahabaleshwar-hotel-packages" }]}
         size="sm"
       />

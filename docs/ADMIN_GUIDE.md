@@ -155,6 +155,9 @@ few seconds.
 To show different photos there, add them under **Site settings → Homepage → Packages page photos**
 (one photo = still banner, two or more = slideshow). Leave it empty to keep using the homepage photos.
 
+**Mahabaleshwar hotel packages page banner:** add photos under **Site settings → Homepage → Mahabaleshwar hotel
+packages page photos**. If empty, the page shows a plain dark banner.
+
 ## Images: tips
 
 - Use your own photos or properly licensed stock. Don't copy images from other websites.

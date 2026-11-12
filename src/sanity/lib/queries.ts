@@ -21,6 +21,7 @@ export const settingsQuery = defineQuery(`*[_type == "siteSettings"][0]{
   companyName, legalName, tagline, description, phone, whatsapp, email, address, mapUrl, officeHours, socials,
   "logo": logo${IMG}, heroHeading, heroSubheading, "heroImage": heroImage${IMG},
   "heroSlides": heroSlides[defined(image.asset)]{"image": image${IMG}, caption, "href": select(defined(destination->slug.current) => "/destinations/" + destination->slug.current)},
+  "mahabaleshwarHeroSlides": mahabaleshwarHeroSlides[defined(image.asset)]{"image": image${IMG}, caption, "href": select(defined(destination->slug.current) => "/destinations/" + destination->slug.current)},
   "packagesHeroSlides": packagesHeroSlides[defined(image.asset)]{"image": image${IMG}, caption, "href": select(defined(destination->slug.current) => "/destinations/" + destination->slug.current)},
   announcement{active, text, link, validUntil}, "homepageSections": homepageSections[].section, aboutTitle, aboutBody, "aboutImage": aboutImage${IMG}, values
 }`);

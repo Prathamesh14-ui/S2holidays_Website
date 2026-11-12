@@ -166,6 +166,8 @@ export type SiteSettings = {
   heroSlides?: HeroSlide[];
   /** Packages page banner photos (falls back to the homepage slideshow). */
   packagesHeroSlides?: HeroSlide[];
+  /** Mahabaleshwar hotel packages page banner photos (plain banner if empty). */
+  mahabaleshwarHeroSlides?: HeroSlide[];
   announcement?: Announcement;
   homepageSections?: string[];
   aboutTitle?: string;
