@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { CalendarDays, Check, MapPin, Moon, Plane, Tag, Utensils, X } from "lucide-react";
+import { BedDouble, CalendarDays, Check, MapPin, Moon, Plane, Tag, Utensils, X } from "lucide-react";
 import { PageHero } from "@/components/layout/PageHero";
 import { Container } from "@/components/ui/Container";
 import { RichText } from "@/components/ui/RichText";
@@ -50,7 +50,14 @@ export default async function PackagePage({ params }: PageProps<"/packages/[slug
     duration && { icon: CalendarDays, label: "Duration", value: duration },
     p.destinations.length && { icon: MapPin, label: "Destinations", value: p.destinations.map((d) => d.name).join(", ") },
     p.startingCity && { icon: Plane, label: "Starts in", value: p.startingCity },
-  ].filter(Boolean) as { icon: typeof MapPin; label: string; value: string }[];
+    // Mahabaleshwar trips: link to the full hotel price list
+    p.destinations.some((d) => d.slug === "mahabaleshwar") && {
+      icon: BedDouble,
+      label: "Mahabaleshwar hotel packages",
+      value: "See all hotel prices →",
+      href: "/mahabaleshwar-hotel-packages",
+    },
+  ].filter(Boolean) as { icon: typeof MapPin; label: string; value: string; href?: string }[];
 
   const enquiry = (
     <EnquiryForm
@@ -90,12 +97,16 @@ export default async function PackagePage({ params }: PageProps<"/packages/[slug
       <div className="border-b border-line bg-white">
         <Container className="flex flex-col gap-4 py-5 sm:flex-row sm:items-center sm:justify-between">
           <ul className="flex flex-wrap gap-x-8 gap-y-3">
-            {facts.map(({ icon: Icon, label, value }) => (
+            {facts.map(({ icon: Icon, label, value, href }) => (
               <li key={label} className="flex items-center gap-3">
                 <Icon aria-hidden className="h-5 w-5 text-gold" />
                 <span>
                   <span className="block text-[11px] uppercase tracking-wider text-muted">{label}</span>
-                  <span className="block text-sm font-medium text-ink">{value}</span>
+                  {href ? (
+                    <Link href={href} className="block text-sm font-medium text-gold-deep underline-offset-2 hover:underline">{value}</Link>
+                  ) : (
+                    <span className="block text-sm font-medium text-ink">{value}</span>
+                  )}
                 </span>
               </li>
             ))}
