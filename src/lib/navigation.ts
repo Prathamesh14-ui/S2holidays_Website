@@ -15,6 +15,7 @@ export const footerLinks: { title: string; links: NavLink[] }[] = [
       { label: "International holidays", href: "/destinations/international" },
       { label: "All packages", href: "/packages" },
       { label: "All destinations", href: "/destinations" },
+      { label: "Mahabaleshwar hotel packages", href: "/mahabaleshwar-hotel-packages" },
     ],
   },
   { title: "Services", links: serviceLinks },

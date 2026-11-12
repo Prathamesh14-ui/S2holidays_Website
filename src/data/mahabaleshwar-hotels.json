@@ -1,0 +1,6070 @@
+[
+ {
+  "name": "Hotel Rahil International",
+  "category": "Budget",
+  "area": null,
+  "features": [
+   "Non-AC rooms only"
+  ],
+  "meals": "All meals",
+  "notes": [],
+  "fromPrice": 7000,
+  "rates": [
+   {
+    "season": "06.11.26 to 10.11.26",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 10700,
+     "extraAdult": 4500,
+     "child": 3800
+    },
+    "n2": {
+     "couple": 8400,
+     "extraAdult": 3600,
+     "child": 3200
+    }
+   },
+   {
+    "season": "11.11.26 to 15.11.26 (Diwali)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 12800,
+     "extraAdult": 4900,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 9900,
+     "extraAdult": 4000,
+     "child": 3500
+    }
+   },
+   {
+    "season": "16.11.26 to 24.12.26 (Regular)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 8700,
+     "extraAdult": 3900,
+     "child": 3600
+    },
+    "n2": {
+     "couple": 7000,
+     "extraAdult": 3300,
+     "child": 3000
+    }
+   },
+   {
+    "season": "25.12.26 to 02.01.27 (Christmas + New Year)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 13800,
+     "extraAdult": 4500,
+     "child": 4100
+    },
+    "n2": {
+     "couple": 10800,
+     "extraAdult": 4000,
+     "child": 3500
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel Pushkraj",
+  "category": "Budget",
+  "area": null,
+  "features": [],
+  "meals": "All meals",
+  "notes": [],
+  "fromPrice": 7200,
+  "rates": [
+   {
+    "season": "10.10.26 to 06.11.26 & 15.11.26 to 23.12.26 & 01.03.27 to 31.03.27 (Regular)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 9000,
+     "extraAdult": 4700,
+     "child": 3600
+    },
+    "n2": {
+     "couple": 7200,
+     "extraAdult": 3800,
+     "child": 3000
+    }
+   },
+   {
+    "season": "10.10.26 to 06.11.26 & 15.11.26 to 23.12.26 & 01.03.27 to 31.03.27 (Regular)",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 10800,
+     "extraAdult": 4700,
+     "child": 3600
+    },
+    "n2": {
+     "couple": 8400,
+     "extraAdult": 3800,
+     "child": 3000
+    }
+   },
+   {
+    "season": "10.10.26 to 06.11.26 & 15.11.26 to 23.12.26 & 01.03.27 to 31.03.27 (Regular)",
+    "room": "Duplex Only Non-AC",
+    "n3": {
+     "couple": 18500,
+     "extraAdult": 4700,
+     "child": 3600
+    },
+    "n2": {
+     "couple": 14700,
+     "extraAdult": 3800,
+     "child": 3000
+    }
+   },
+   {
+    "season": "07.11.26 to 15.11.26 (Diwali)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 14200,
+     "extraAdult": 5300,
+     "child": 3900
+    },
+    "n2": {
+     "couple": 10800,
+     "extraAdult": 4200,
+     "child": 3300
+    }
+   },
+   {
+    "season": "07.11.26 to 15.11.26 (Diwali)",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 16000,
+     "extraAdult": 5300,
+     "child": 3900
+    },
+    "n2": {
+     "couple": 12000,
+     "extraAdult": 4200,
+     "child": 3300
+    }
+   },
+   {
+    "season": "07.11.26 to 15.11.26 (Diwali)",
+    "room": "Duplex Only Non-AC",
+    "n3": {
+     "couple": 24800,
+     "extraAdult": 5300,
+     "child": 3900
+    },
+    "n2": {
+     "couple": 19200,
+     "extraAdult": 4200,
+     "child": 3300
+    }
+   },
+   {
+    "season": "23.12.26 to 31.12.26 &23.01.27 to 26.01.27",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 13100,
+     "extraAdult": 5300,
+     "child": 3900
+    },
+    "n2": {
+     "couple": 10100,
+     "extraAdult": 4200,
+     "child": 3300
+    }
+   },
+   {
+    "season": "23.12.26 to 31.12.26 &23.01.27 to 26.01.27",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 14900,
+     "extraAdult": 5300,
+     "child": 3900
+    },
+    "n2": {
+     "couple": 11300,
+     "extraAdult": 4200,
+     "child": 3300
+    }
+   },
+   {
+    "season": "23.12.26 to 31.12.26 &23.01.27 to 26.01.27",
+    "room": "Duplex Only Non-AC",
+    "n3": {
+     "couple": 23700,
+     "extraAdult": 5300,
+     "child": 3900
+    },
+    "n2": {
+     "couple": 18500,
+     "extraAdult": 4200,
+     "child": 3300
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel Rahi",
+  "category": "Budget",
+  "area": null,
+  "features": [
+   "Non-AC rooms only"
+  ],
+  "meals": "All meals",
+  "notes": [],
+  "fromPrice": 7200,
+  "rates": [
+   {
+    "season": "06.11.26 to 10.11.26",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 11100,
+     "extraAdult": 4500,
+     "child": 3800
+    },
+    "n2": {
+     "couple": 8700,
+     "extraAdult": 3600,
+     "child": 3200
+    }
+   },
+   {
+    "season": "11.11.26 to 15.11.26 (diwali)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 13100,
+     "extraAdult": 5000,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 10100,
+     "extraAdult": 4000,
+     "child": 3500
+    }
+   },
+   {
+    "season": "16.11.26 to 24.12.26 & 03.01.27 to 31.03.27 (regular)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 9000,
+     "extraAdult": 4000,
+     "child": 3600
+    },
+    "n2": {
+     "couple": 7200,
+     "extraAdult": 3300,
+     "child": 3000
+    }
+   },
+   {
+    "season": "25.12.26 to 27.12.26",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 14200,
+     "extraAdult": 5000,
+     "child": 3900
+    },
+    "n2": {
+     "couple": 10800,
+     "extraAdult": 4000,
+     "child": 3300
+    }
+   },
+   {
+    "season": "28.12.26 to 02.01.27",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 10400,
+     "extraAdult": 4500,
+     "child": 4100
+    },
+    "n2": {
+     "couple": 8200,
+     "extraAdult": 3600,
+     "child": 3400
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel Rahi Plaza",
+  "category": "Budget",
+  "area": null,
+  "features": [
+   "Bathtub rooms"
+  ],
+  "meals": "All meals",
+  "notes": [],
+  "fromPrice": 8000,
+  "rates": [
+   {
+    "season": "06.11.26 to 1.1.26",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 12900,
+     "extraAdult": 4500,
+     "child": 3800
+    },
+    "n2": {
+     "couple": 9900,
+     "extraAdult": 3600,
+     "child": 3200
+    }
+   },
+   {
+    "season": "06.11.26 to 1.1.26",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 15000,
+     "extraAdult": 4500,
+     "child": 3800
+    },
+    "n2": {
+     "couple": 11300,
+     "extraAdult": 3600,
+     "child": 3200
+    }
+   },
+   {
+    "season": "11.11.26 to 15.11.26",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 16700,
+     "extraAdult": 5300,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 12500,
+     "extraAdult": 4200,
+     "child": 3500
+    }
+   },
+   {
+    "season": "11.11.26 to 15.11.26",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 18900,
+     "extraAdult": 5300,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 14000,
+     "extraAdult": 4200,
+     "child": 3500
+    }
+   },
+   {
+    "season": "16.11.26 to 24.12.26 & 03.01.27 to 31.03.27 (regular)(Execpt Ling weekends)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 10100,
+     "extraAdult": 4400,
+     "child": 3600
+    },
+    "n2": {
+     "couple": 8000,
+     "extraAdult": 3500,
+     "child": 3000
+    }
+   },
+   {
+    "season": "16.11.26 to 24.12.26 & 03.01.27 to 31.03.27 (regular)(Execpt Ling weekends)",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 11600,
+     "extraAdult": 4400,
+     "child": 3600
+    },
+    "n2": {
+     "couple": 8900,
+     "extraAdult": 3500,
+     "child": 3000
+    }
+   },
+   {
+    "season": "25.12.26 to 27.12.26",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 15600,
+     "extraAdult": 4600,
+     "child": 3900
+    },
+    "n2": {
+     "couple": 11800,
+     "extraAdult": 3800,
+     "child": 3300
+    }
+   },
+   {
+    "season": "25.12.26 to 27.12.26",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 17800,
+     "extraAdult": 4600,
+     "child": 3900
+    },
+    "n2": {
+     "couple": 13200,
+     "extraAdult": 3800,
+     "child": 3300
+    }
+   },
+   {
+    "season": "28.12.26 to 02.01.27",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 11400,
+     "extraAdult": 4800,
+     "child": 4100
+    },
+    "n2": {
+     "couple": 8900,
+     "extraAdult": 3900,
+     "child": 3400
+    }
+   },
+   {
+    "season": "28.12.26 to 02.01.27",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 12900,
+     "extraAdult": 4800,
+     "child": 4100
+    },
+    "n2": {
+     "couple": 9900,
+     "extraAdult": 3900,
+     "child": 3400
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel Sangam",
+  "category": "Budget",
+  "area": "Main market",
+  "features": [
+   "Balcony rooms",
+   "Duplex for 4"
+  ],
+  "meals": "All meals",
+  "notes": [],
+  "fromPrice": 7000,
+  "rates": [
+   {
+    "season": "06.11.26 to 10.11.26",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 10700,
+     "extraAdult": 4500,
+     "child": 3800
+    },
+    "n2": {
+     "couple": 8400,
+     "extraAdult": 3600,
+     "child": 3200
+    }
+   },
+   {
+    "season": "06.11.26 to 10.11.26",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 12500,
+     "extraAdult": 4500,
+     "child": 3800
+    },
+    "n2": {
+     "couple": 9600,
+     "extraAdult": 3600,
+     "child": 3200
+    }
+   },
+   {
+    "season": "06.11.26 to 10.11.26",
+    "room": "Deluxe Non-AC (Balcony)",
+    "n3": {
+     "couple": 12500,
+     "extraAdult": 4500,
+     "child": 3800
+    },
+    "n2": {
+     "couple": 9600,
+     "extraAdult": 3600,
+     "child": 3200
+    }
+   },
+   {
+    "season": "06.11.26 to 10.11.26",
+    "room": "Deluxe AC (Balcony)",
+    "n3": {
+     "couple": 14300,
+     "extraAdult": 4500,
+     "child": 3800
+    },
+    "n2": {
+     "couple": 10800,
+     "extraAdult": 3600,
+     "child": 3200
+    }
+   },
+   {
+    "season": "06.11.26 to 10.11.26",
+    "room": "Duplex Only Non-AC (for 4)",
+    "n3": {
+     "couple": 18500,
+     "extraAdult": 4500,
+     "child": 3800
+    },
+    "n2": {
+     "couple": 15000,
+     "extraAdult": 3600,
+     "child": 3200
+    }
+   },
+   {
+    "season": "11.11.26 to 15.11.26 (Diwali)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 12800,
+     "extraAdult": 5000,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 9900,
+     "extraAdult": 4000,
+     "child": 3500
+    }
+   },
+   {
+    "season": "11.11.26 to 15.11.26 (Diwali)",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 14600,
+     "extraAdult": 5000,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 11100,
+     "extraAdult": 4000,
+     "child": 3500
+    }
+   },
+   {
+    "season": "11.11.26 to 15.11.26 (Diwali)",
+    "room": "Deluxe Non-AC (Balcony)",
+    "n3": {
+     "couple": 14600,
+     "extraAdult": 5000,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 11100,
+     "extraAdult": 4000,
+     "child": 3500
+    }
+   },
+   {
+    "season": "11.11.26 to 15.11.26 (Diwali)",
+    "room": "Deluxe AC Balcony",
+    "n3": {
+     "couple": 16400,
+     "extraAdult": 5000,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 12300,
+     "extraAdult": 4000,
+     "child": 3500
+    }
+   },
+   {
+    "season": "11.11.26 to 15.11.26 (Diwali)",
+    "room": "Duplex Only Non-AC (for 4)",
+    "n3": {
+     "couple": 22000,
+     "extraAdult": 5000,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 17500,
+     "extraAdult": 4000,
+     "child": 3500
+    }
+   },
+   {
+    "season": "16.11.26 to 24.12.26 & 02.01.27 to 31.03.27 (regular)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 8700,
+     "extraAdult": 4000,
+     "child": 3600
+    },
+    "n2": {
+     "couple": 7000,
+     "extraAdult": 3300,
+     "child": 3000
+    }
+   },
+   {
+    "season": "16.11.26 to 24.12.26 & 02.01.27 to 31.03.27 (regular)",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 10500,
+     "extraAdult": 4000,
+     "child": 3600
+    },
+    "n2": {
+     "couple": 8200,
+     "extraAdult": 3300,
+     "child": 3000
+    }
+   },
+   {
+    "season": "16.11.26 to 24.12.26 & 02.01.27 to 31.03.27 (regular)",
+    "room": "Deluxe Non-AC (Balcony)",
+    "n3": {
+     "couple": 10500,
+     "extraAdult": 4000,
+     "child": 3600
+    },
+    "n2": {
+     "couple": 8200,
+     "extraAdult": 3300,
+     "child": 3000
+    }
+   },
+   {
+    "season": "16.11.26 to 24.12.26 & 02.01.27 to 31.03.27 (regular)",
+    "room": "Deluxe AC (Balcony)",
+    "n3": {
+     "couple": 12300,
+     "extraAdult": 4000,
+     "child": 3600
+    },
+    "n2": {
+     "couple": 9400,
+     "extraAdult": 3300,
+     "child": 3000
+    }
+   },
+   {
+    "season": "16.11.26 to 24.12.26 & 02.01.27 to 31.03.27 (regular)",
+    "room": "Duplex Non-AC Only (for 4)",
+    "n3": {
+     "couple": 16000,
+     "extraAdult": 4000,
+     "child": 3600
+    },
+    "n2": {
+     "couple": 13000,
+     "extraAdult": 3300,
+     "child": 3000
+    }
+   },
+   {
+    "season": "25.12.26 to 27.12.26",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 13800,
+     "extraAdult": 5000,
+     "child": 4000
+    },
+    "n2": {
+     "couple": 10600,
+     "extraAdult": 4000,
+     "child": 3500
+    }
+   },
+   {
+    "season": "25.12.26 to 27.12.26",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 15600,
+     "extraAdult": 5000,
+     "child": 4000
+    },
+    "n2": {
+     "couple": 11800,
+     "extraAdult": 4000,
+     "child": 3500
+    }
+   },
+   {
+    "season": "25.12.26 to 27.12.26",
+    "room": "Deluxe Non-AC (Balcony)",
+    "n3": {
+     "couple": 15600,
+     "extraAdult": 5000,
+     "child": 4000
+    },
+    "n2": {
+     "couple": 11800,
+     "extraAdult": 4000,
+     "child": 3500
+    }
+   },
+   {
+    "season": "25.12.26 to 27.12.26",
+    "room": "Deluxe AC (Balcony)",
+    "n3": {
+     "couple": 17500,
+     "extraAdult": 5000,
+     "child": 4000
+    },
+    "n2": {
+     "couple": 13000,
+     "extraAdult": 4000,
+     "child": 3500
+    }
+   },
+   {
+    "season": "25.12.26 to 27.12.26",
+    "room": "Duplex Non-AC (for 4)",
+    "n3": {
+     "couple": 22600,
+     "extraAdult": 5000,
+     "child": 4000
+    },
+    "n2": {
+     "couple": 18000,
+     "extraAdult": 4000,
+     "child": 3500
+    }
+   },
+   {
+    "season": "28.12.26 to 01.01.27",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 10000,
+     "extraAdult": 4500,
+     "child": 4100
+    },
+    "n2": {
+     "couple": 8000,
+     "extraAdult": 3600,
+     "child": 3400
+    }
+   },
+   {
+    "season": "28.12.26 to 01.01.27",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 11800,
+     "extraAdult": 4500,
+     "child": 4100
+    },
+    "n2": {
+     "couple": 9200,
+     "extraAdult": 3600,
+     "child": 3400
+    }
+   },
+   {
+    "season": "28.12.26 to 01.01.27",
+    "room": "Deluxe Non-AC (Balcony)",
+    "n3": {
+     "couple": 11800,
+     "extraAdult": 4500,
+     "child": 4100
+    },
+    "n2": {
+     "couple": 9200,
+     "extraAdult": 3600,
+     "child": 3400
+    }
+   },
+   {
+    "season": "28.12.26 to 01.01.27",
+    "room": "Deluxe AC (Balcony)",
+    "n3": {
+     "couple": 13600,
+     "extraAdult": 4500,
+     "child": 4100
+    },
+    "n2": {
+     "couple": 10500,
+     "extraAdult": 3600,
+     "child": 3400
+    }
+   },
+   {
+    "season": "28.12.26 to 01.01.27",
+    "room": "Duplex Only Non-AC (for 4)",
+    "n3": {
+     "couple": 18500,
+     "extraAdult": 4500,
+     "child": 4100
+    },
+    "n2": {
+     "couple": 15000,
+     "extraAdult": 3600,
+     "child": 3400
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel Priti Sangam",
+  "category": "Budget",
+  "area": null,
+  "features": [
+   "Balcony rooms"
+  ],
+  "meals": "All meals",
+  "notes": [],
+  "fromPrice": 7000,
+  "rates": [
+   {
+    "season": "06.11.26 to 18.11.26",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 10700,
+     "extraAdult": 4500,
+     "child": 3800
+    },
+    "n2": {
+     "couple": 8400,
+     "extraAdult": 3600,
+     "child": 3200
+    }
+   },
+   {
+    "season": "06.11.26 to 18.11.26",
+    "room": "Deluxe Balcony Non-AC",
+    "n3": {
+     "couple": 12500,
+     "extraAdult": 4500,
+     "child": 3800
+    },
+    "n2": {
+     "couple": 9600,
+     "extraAdult": 3600,
+     "child": 3200
+    }
+   },
+   {
+    "season": "06.11.26 to 18.11.26",
+    "room": "Deluxe Balcony AC",
+    "n3": {
+     "couple": 14700,
+     "extraAdult": 4500,
+     "child": 3800
+    },
+    "n2": {
+     "couple": 11100,
+     "extraAdult": 3600,
+     "child": 3200
+    }
+   },
+   {
+    "season": "11.011.26 to 15.11.26",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 12800,
+     "extraAdult": 5000,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 9900,
+     "extraAdult": 4000,
+     "child": 3500
+    }
+   },
+   {
+    "season": "11.011.26 to 15.11.26",
+    "room": "Deluxe Balcony Non-AC",
+    "n3": {
+     "couple": 14600,
+     "extraAdult": 5000,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 11100,
+     "extraAdult": 4000,
+     "child": 3500
+    }
+   },
+   {
+    "season": "11.011.26 to 15.11.26",
+    "room": "Deluxe Balcony AC",
+    "n3": {
+     "couple": 16700,
+     "extraAdult": 5000,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 12500,
+     "extraAdult": 4000,
+     "child": 3500
+    }
+   },
+   {
+    "season": "16.11.26 to 24.12.26 & 02.01.27 to 31.03.27 (Regular)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 8700,
+     "extraAdult": 4000,
+     "child": 3600
+    },
+    "n2": {
+     "couple": 7000,
+     "extraAdult": 3300,
+     "child": 3000
+    }
+   },
+   {
+    "season": "16.11.26 to 24.12.26 & 02.01.27 to 31.03.27 (Regular)",
+    "room": "Deluxe Balcony Non-AC",
+    "n3": {
+     "couple": 10500,
+     "extraAdult": 4000,
+     "child": 3600
+    },
+    "n2": {
+     "couple": 8200,
+     "extraAdult": 3300,
+     "child": 3000
+    }
+   },
+   {
+    "season": "16.11.26 to 24.12.26 & 02.01.27 to 31.03.27 (Regular)",
+    "room": "Deluxe Balcony AC",
+    "n3": {
+     "couple": 12600,
+     "extraAdult": 4000,
+     "child": 3600
+    },
+    "n2": {
+     "couple": 9600,
+     "extraAdult": 3300,
+     "child": 3000
+    }
+   },
+   {
+    "season": "25.12.26 to 27.12.26",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 13800,
+     "extraAdult": 5000,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 10600,
+     "extraAdult": 4000,
+     "child": 3500
+    }
+   },
+   {
+    "season": "25.12.26 to 27.12.26",
+    "room": "Deluxe Balcony Non-AC",
+    "n3": {
+     "couple": 15600,
+     "extraAdult": 5000,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 11800,
+     "extraAdult": 4000,
+     "child": 3500
+    }
+   },
+   {
+    "season": "25.12.26 to 27.12.26",
+    "room": "Deluxe Balcony AC",
+    "n3": {
+     "couple": 17800,
+     "extraAdult": 5000,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 13200,
+     "extraAdult": 4000,
+     "child": 3500
+    }
+   },
+   {
+    "season": "28.12.26 to 01.01.27",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 10000,
+     "extraAdult": 4500,
+     "child": 4100
+    },
+    "n2": {
+     "couple": 8000,
+     "extraAdult": 3600,
+     "child": 3400
+    }
+   },
+   {
+    "season": "28.12.26 to 01.01.27",
+    "room": "Deluxe Balcony Non-AC",
+    "n3": {
+     "couple": 11800,
+     "extraAdult": 4500,
+     "child": 4100
+    },
+    "n2": {
+     "couple": 9200,
+     "extraAdult": 3600,
+     "child": 3400
+    }
+   },
+   {
+    "season": "28.12.26 to 01.01.27",
+    "room": "Deluxe Balcony AC",
+    "n3": {
+     "couple": 14000,
+     "extraAdult": 4500,
+     "child": 4100
+    },
+    "n2": {
+     "couple": 10600,
+     "extraAdult": 3600,
+     "child": 3400
+    }
+   }
+  ]
+ },
+ {
+  "name": "Mahabaleshwar Palace",
+  "category": "Budget",
+  "area": null,
+  "features": [],
+  "meals": "All meals",
+  "notes": [],
+  "fromPrice": 7500,
+  "rates": [
+   {
+    "season": "06.11.26 to 15.11.26 & 24.12.26 to 03.01.27 (diwali +Christmas)",
+    "room": "Classic Non-AC",
+    "n3": {
+     "couple": 13500,
+     "extraAdult": 6400,
+     "child": 5300
+    },
+    "n2": {
+     "couple": 10400,
+     "extraAdult": 5000,
+     "child": 4200
+    }
+   },
+   {
+    "season": "16.11.26 to 24.12.26 & 04.01.27 to 31.03.27 (regular) Except Long weekends)",
+    "room": "Classic Non-AC",
+    "n3": {
+     "couple": 9400,
+     "extraAdult": 4400,
+     "child": 3600
+    },
+    "n2": {
+     "couple": 7500,
+     "extraAdult": 3500,
+     "child": 3000
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel Hillway Inn",
+  "category": "Standard",
+  "area": "Near the market",
+  "features": [],
+  "meals": "All meals",
+  "notes": [
+   "Honeymoon add-on available at ₹2,200 extra."
+  ],
+  "fromPrice": 7200,
+  "rates": [
+   {
+    "season": "01.11.26 to 05.11.26 & 25.11.26 to 24.12.26 & 04.01.27 24.01.27 (regular)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 9000,
+     "extraAdult": 4400,
+     "child": 3600
+    },
+    "n2": {
+     "couple": 7200,
+     "extraAdult": 3500,
+     "child": 3000
+    }
+   },
+   {
+    "season": "01.11.26 to 05.11.26 & 25.11.26 to 24.12.26 & 04.01.27 24.01.27 (regular)",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 10500,
+     "extraAdult": 4400,
+     "child": 3600
+    },
+    "n2": {
+     "couple": 8200,
+     "extraAdult": 3500,
+     "child": 3000
+    }
+   },
+   {
+    "season": "16.11.26 to 24.11.26",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 10500,
+     "extraAdult": 5200,
+     "child": 4500
+    },
+    "n2": {
+     "couple": 8200,
+     "extraAdult": 4100,
+     "child": 3600
+    }
+   },
+   {
+    "season": "16.11.26 to 24.11.26",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 13000,
+     "extraAdult": 5200,
+     "child": 4500
+    },
+    "n2": {
+     "couple": 9900,
+     "extraAdult": 4100,
+     "child": 3600
+    }
+   },
+   {
+    "season": "06.11.26 to 10.11.26 & 25.12.26 to 03.01.27 +Christmas)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 13100,
+     "extraAdult": 5300,
+     "child": 4600
+    },
+    "n2": {
+     "couple": 10100,
+     "extraAdult": 4200,
+     "child": 3800
+    }
+   },
+   {
+    "season": "06.11.26 to 10.11.26 & 25.12.26 to 03.01.27 +Christmas)",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 15000,
+     "extraAdult": 5300,
+     "child": 4600
+    },
+    "n2": {
+     "couple": 11300,
+     "extraAdult": 4500,
+     "child": 3800
+    }
+   },
+   {
+    "season": "11.11.26 to 15.11.26 (Diwali)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 17500,
+     "extraAdult": 6000,
+     "child": 5300
+    },
+    "n2": {
+     "couple": 13000,
+     "extraAdult": 4700,
+     "child": 4200
+    }
+   },
+   {
+    "season": "11.11.26 to 15.11.26 (Diwali)",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 19600,
+     "extraAdult": 6000,
+     "child": 5300
+    },
+    "n2": {
+     "couple": 14500,
+     "extraAdult": 4700,
+     "child": 4200
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel Dwarka Lawns & Cottages",
+  "category": "Standard",
+  "area": "Near the market",
+  "features": [
+   "Stone cottages",
+   "Valley / garden view"
+  ],
+  "meals": "All meals",
+  "notes": [
+   "AC rooms cost ₹600 extra per day."
+  ],
+  "fromPrice": 8700,
+  "rates": [
+   {
+    "season": "18.11.26 to 23.12.26 & 02.01.27 to 10.05.27 (Regular Mid season)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 11200,
+     "extraAdult": 4800,
+     "child": 3800
+    },
+    "n2": {
+     "couple": 8700,
+     "extraAdult": 3800,
+     "child": 3000
+    }
+   },
+   {
+    "season": "18.11.26 to 23.12.26 & 02.01.27 to 10.05.27 (Regular Mid season)",
+    "room": "Classic Non-AC",
+    "n3": {
+     "couple": 16200,
+     "extraAdult": 4800,
+     "child": 3800
+    },
+    "n2": {
+     "couple": 12000,
+     "extraAdult": 3800,
+     "child": 3000
+    }
+   },
+   {
+    "season": "18.11.26 to 23.12.26 & 02.01.27 to 10.05.27 (Regular Mid season)",
+    "room": "Classic Non-AC (3 beds)",
+    "n3": {
+     "couple": 21600,
+     "extraAdult": 4800,
+     "child": 3800
+    },
+    "n2": {
+     "couple": 16200,
+     "extraAdult": 3800,
+     "child": 3000
+    }
+   },
+   {
+    "season": "18.11.26 to 23.12.26 & 02.01.27 to 10.05.27 (Regular Mid season)",
+    "room": "Stone House Non-AC (Garden View Side)",
+    "n3": {
+     "couple": 18000,
+     "extraAdult": 4800,
+     "child": 3800
+    },
+    "n2": {
+     "couple": 13200,
+     "extraAdult": 3800,
+     "child": 3000
+    }
+   },
+   {
+    "season": "18.11.26 to 23.12.26 & 02.01.27 to 10.05.27 (Regular Mid season)",
+    "room": "Stone House Non-AC (Valley View)",
+    "n3": {
+     "couple": 23400,
+     "extraAdult": 4800,
+     "child": 3800
+    },
+    "n2": {
+     "couple": 16800,
+     "extraAdult": 3800,
+     "child": 3000
+    }
+   },
+   {
+    "season": "18.11.26 to 23.12.26 & 02.01.27 to 10.05.27 (Regular Mid season)",
+    "room": "Family Non-AC (for 4)",
+    "n3": {
+     "couple": 25200,
+     "extraAdult": 4800,
+     "child": 3800
+    },
+    "n2": {
+     "couple": 19200,
+     "extraAdult": 3800,
+     "child": 3000
+    }
+   },
+   {
+    "season": "06.11.26 to 17.11.26 & 24.12.26 to 02.01.27 & 11.05.27 to 10.06.27 (diwali +Christmas)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 17800,
+     "extraAdult": 5000,
+     "child": 3900
+    },
+    "n2": {
+     "couple": 13200,
+     "extraAdult": 4000,
+     "child": 3300
+    }
+   },
+   {
+    "season": "06.11.26 to 17.11.26 & 24.12.26 to 02.01.27 & 11.05.27 to 10.06.27 (diwali +Christmas)",
+    "room": "Classic Non-AC",
+    "n3": {
+     "couple": 22800,
+     "extraAdult": 5000,
+     "child": 3900
+    },
+    "n2": {
+     "couple": 16600,
+     "extraAdult": 4000,
+     "child": 3300
+    }
+   },
+   {
+    "season": "06.11.26 to 17.11.26 & 24.12.26 to 02.01.27 & 11.05.27 to 10.06.27 (diwali +Christmas)",
+    "room": "Classic Non-AC (3 beds)",
+    "n3": {
+     "couple": 32100,
+     "extraAdult": 5000,
+     "child": 3900
+    },
+    "n2": {
+     "couple": 23400,
+     "extraAdult": 4000,
+     "child": 3300
+    }
+   },
+   {
+    "season": "06.11.26 to 17.11.26 & 24.12.26 to 02.01.27 & 11.05.27 to 10.06.27 (diwali +Christmas)",
+    "room": "Stone House Non-AC (Garden View Side)",
+    "n3": {
+     "couple": 27500,
+     "extraAdult": 5000,
+     "child": 3900
+    },
+    "n2": {
+     "couple": 19700,
+     "extraAdult": 4000,
+     "child": 3300
+    }
+   },
+   {
+    "season": "06.11.26 to 17.11.26 & 24.12.26 to 02.01.27 & 11.05.27 to 10.06.27 (diwali +Christmas)",
+    "room": "Stone House Non-AC (Valley View)",
+    "n3": {
+     "couple": 31100,
+     "extraAdult": 5000,
+     "child": 3900
+    },
+    "n2": {
+     "couple": 22100,
+     "extraAdult": 4000,
+     "child": 3300
+    }
+   },
+   {
+    "season": "06.11.26 to 17.11.26 & 24.12.26 to 02.01.27 & 11.05.27 to 10.06.27 (diwali +Christmas)",
+    "room": "Family Non-AC (for 4)",
+    "n3": {
+     "couple": 33500,
+     "extraAdult": 5000,
+     "child": 3900
+    },
+    "n2": {
+     "couple": 25000,
+     "extraAdult": 4000,
+     "child": 3300
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel Pratap Heritage",
+  "category": "Standard",
+  "area": "About 7 minutes' walk from the bus stand",
+  "features": [
+   "Swimming pool",
+   "Bathtub rooms"
+  ],
+  "meals": "All meals",
+  "notes": [],
+  "fromPrice": 9300,
+  "rates": [
+   {
+    "season": "01.07.26 to 12.08.26 & 16.08.26 to 05.11.26 (off season)",
+    "room": "Standard Non-AC",
+    "n3": {
+     "couple": 11800,
+     "extraAdult": 4600,
+     "child": 3900
+    },
+    "n2": {
+     "couple": 9300,
+     "extraAdult": 3600,
+     "child": 3200
+    }
+   },
+   {
+    "season": "01.07.26 to 12.08.26 & 16.08.26 to 05.11.26 (off season)",
+    "room": "Standard AC",
+    "n3": {
+     "couple": 13000,
+     "extraAdult": 5000,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 10100,
+     "extraAdult": 3900,
+     "child": 3400
+    }
+   },
+   {
+    "season": "01.07.26 to 12.08.26 & 16.08.26 to 05.11.26 (off season)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 13000,
+     "extraAdult": 5000,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 10100,
+     "extraAdult": 3900,
+     "child": 3400
+    }
+   },
+   {
+    "season": "01.07.26 to 12.08.26 & 16.08.26 to 05.11.26 (off season)",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 14200,
+     "extraAdult": 5300,
+     "child": 4600
+    },
+    "n2": {
+     "couple": 11000,
+     "extraAdult": 4100,
+     "child": 3600
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 (diwali)",
+    "room": "Standard Non-AC",
+    "n3": {
+     "couple": 18500,
+     "extraAdult": 7500,
+     "child": 6800
+    },
+    "n2": {
+     "couple": 14900,
+     "extraAdult": 6200,
+     "child": 5600
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 (diwali)",
+    "room": "Standard AC",
+    "n3": {
+     "couple": 20000,
+     "extraAdult": 8000,
+     "child": 7100
+    },
+    "n2": {
+     "couple": 15900,
+     "extraAdult": 6500,
+     "child": 5900
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 (diwali)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 20000,
+     "extraAdult": 8000,
+     "child": 7100
+    },
+    "n2": {
+     "couple": 15900,
+     "extraAdult": 6500,
+     "child": 5900
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 (diwali)",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 21400,
+     "extraAdult": 8400,
+     "child": 7500
+    },
+    "n2": {
+     "couple": 16800,
+     "extraAdult": 6900,
+     "child": 6300
+    }
+   },
+   {
+    "season": "16.11.26 to 23.12.26 (regular)",
+    "room": "Standard Non-AC",
+    "n3": {
+     "couple": 13500,
+     "extraAdult": 5800,
+     "child": 5200
+    },
+    "n2": {
+     "couple": 11100,
+     "extraAdult": 5100,
+     "child": 4500
+    }
+   },
+   {
+    "season": "16.11.26 to 23.12.26 (regular)",
+    "room": "Standard AC",
+    "n3": {
+     "couple": 14700,
+     "extraAdult": 6200,
+     "child": 5600
+    },
+    "n2": {
+     "couple": 11900,
+     "extraAdult": 5300,
+     "child": 4700
+    }
+   },
+   {
+    "season": "16.11.26 to 23.12.26 (regular)",
+    "room": "Deluxe Non-AC (Bathtub)",
+    "n3": {
+     "couple": 14700,
+     "extraAdult": 6200,
+     "child": 5600
+    },
+    "n2": {
+     "couple": 11900,
+     "extraAdult": 5300,
+     "child": 4700
+    }
+   },
+   {
+    "season": "16.11.26 to 23.12.26 (regular)",
+    "room": "Deluxe AC (Bathtub)",
+    "n3": {
+     "couple": 15900,
+     "extraAdult": 6500,
+     "child": 5900
+    },
+    "n2": {
+     "couple": 12800,
+     "extraAdult": 5600,
+     "child": 5000
+    }
+   },
+   {
+    "season": "24.12.26 01.01.27 (Christmas)",
+    "room": "Standard Non-AC",
+    "n3": {
+     "couple": 15900,
+     "extraAdult": 6800,
+     "child": 5800
+    },
+    "n2": {
+     "couple": 12900,
+     "extraAdult": 5400,
+     "child": 4800
+    }
+   },
+   {
+    "season": "24.12.26 01.01.27 (Christmas)",
+    "room": "Standard AC",
+    "n3": {
+     "couple": 17100,
+     "extraAdult": 7200,
+     "child": 6200
+    },
+    "n2": {
+     "couple": 13800,
+     "extraAdult": 5800,
+     "child": 5200
+    }
+   },
+   {
+    "season": "24.12.26 01.01.27 (Christmas)",
+    "room": "Deluxe Non-AC (Bathtub)",
+    "n3": {
+     "couple": 17100,
+     "extraAdult": 7200,
+     "child": 6200
+    },
+    "n2": {
+     "couple": 13800,
+     "extraAdult": 5800,
+     "child": 5200
+    }
+   },
+   {
+    "season": "24.12.26 01.01.27 (Christmas)",
+    "room": "Deluxe AC (Bathtub)",
+    "n3": {
+     "couple": 18300,
+     "extraAdult": 7700,
+     "child": 6500
+    },
+    "n2": {
+     "couple": 14800,
+     "extraAdult": 6200,
+     "child": 5600
+    }
+   },
+   {
+    "season": "02.01.27 to 31.03.27 (Except long weekend)",
+    "room": "Standard Non-AC",
+    "n3": {
+     "couple": 12600,
+     "extraAdult": 5100,
+     "child": 4500
+    },
+    "n2": {
+     "couple": 10000,
+     "extraAdult": 4200,
+     "child": 4000
+    }
+   },
+   {
+    "season": "02.01.27 to 31.03.27 (Except long weekend)",
+    "room": "Standard AC",
+    "n3": {
+     "couple": 13800,
+     "extraAdult": 5400,
+     "child": 4800
+    },
+    "n2": {
+     "couple": 10800,
+     "extraAdult": 4600,
+     "child": 4200
+    }
+   },
+   {
+    "season": "02.01.27 to 31.03.27 (Except long weekend)",
+    "room": "Deluxe Non-AC (Bathtub)",
+    "n3": {
+     "couple": 13800,
+     "extraAdult": 5400,
+     "child": 4800
+    },
+    "n2": {
+     "couple": 10800,
+     "extraAdult": 4600,
+     "child": 4200
+    }
+   },
+   {
+    "season": "02.01.27 to 31.03.27 (Except long weekend)",
+    "room": "Deluxe AC (Bathtub)",
+    "n3": {
+     "couple": 15000,
+     "extraAdult": 5800,
+     "child": 5200
+    },
+    "n2": {
+     "couple": 11700,
+     "extraAdult": 5000,
+     "child": 4500
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel Grand Harmonium",
+  "category": "Standard",
+  "area": null,
+  "features": [
+   "Rooftop swimming pool",
+   "Suites for 4"
+  ],
+  "meals": "All meals",
+  "notes": [],
+  "fromPrice": 10100,
+  "rates": [
+   {
+    "season": "06.10.26 to 05.11.26 & 01.12.26 to 19.12.26 & 03.01.27 to 30.03.27 (Except Long Weekends)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 13500,
+     "extraAdult": 5400,
+     "child": 5400
+    },
+    "n2": {
+     "couple": 10100,
+     "extraAdult": 4500,
+     "child": 4500
+    }
+   },
+   {
+    "season": "06.10.26 to 05.11.26 & 01.12.26 to 19.12.26 & 03.01.27 to 30.03.27 (Except Long Weekends)",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 15200,
+     "extraAdult": 5400,
+     "child": 5400
+    },
+    "n2": {
+     "couple": 11300,
+     "extraAdult": 4500,
+     "child": 4500
+    }
+   },
+   {
+    "season": "06.10.26 to 05.11.26 & 01.12.26 to 19.12.26 & 03.01.27 to 30.03.27 (Except Long Weekends)",
+    "room": "Super Deluxe Non-AC (for 4)",
+    "n3": {
+     "couple": 23900,
+     "extraAdult": 5400,
+     "child": 5400
+    },
+    "n2": {
+     "couple": 18900,
+     "extraAdult": 4500,
+     "child": 4500
+    }
+   },
+   {
+    "season": "06.10.26 to 05.11.26 & 01.12.26 to 19.12.26 & 03.01.27 to 30.03.27 (Except Long Weekends)",
+    "room": "Super Deluxe AC (for 4)",
+    "n3": {
+     "couple": 25700,
+     "extraAdult": 5400,
+     "child": 5400
+    },
+    "n2": {
+     "couple": 20200,
+     "extraAdult": 4500,
+     "child": 4500
+    }
+   },
+   {
+    "season": "06.10.26 to 05.11.26 & 01.12.26 to 19.12.26 & 03.01.27 to 30.03.27 (Except Long Weekends)",
+    "room": "Suite Room Non-AC (for 4)",
+    "n3": {
+     "couple": 25000,
+     "extraAdult": 5400,
+     "child": 5400
+    },
+    "n2": {
+     "couple": 20200,
+     "extraAdult": 4500,
+     "child": 4500
+    }
+   },
+   {
+    "season": "06.10.26 to 05.11.26 & 01.12.26 to 19.12.26 & 03.01.27 to 30.03.27 (Except Long Weekends)",
+    "room": "Suite AC (for 4)",
+    "n3": {
+     "couple": 26800,
+     "extraAdult": 5400,
+     "child": 5400
+    },
+    "n2": {
+     "couple": 21500,
+     "extraAdult": 4500,
+     "child": 4500
+    }
+   },
+   {
+    "season": "06.11.26 to 30.11.26 & 20.12.26 to 02.01.27 (Diwali +Christmas)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 18600,
+     "extraAdult": 7100,
+     "child": 7100
+    },
+    "n2": {
+     "couple": 16500,
+     "extraAdult": 6000,
+     "child": 6000
+    }
+   },
+   {
+    "season": "06.11.26 to 30.11.26 & 20.12.26 to 02.01.27 (Diwali +Christmas)",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 20500,
+     "extraAdult": 7100,
+     "child": 7100
+    },
+    "n2": {
+     "couple": 17600,
+     "extraAdult": 6000,
+     "child": 6000
+    }
+   },
+   {
+    "season": "06.11.26 to 30.11.26 & 20.12.26 to 02.01.27 (Diwali +Christmas)",
+    "room": "Super Deluxe Non-AC (for 4)",
+    "n3": {
+     "couple": 32800,
+     "extraAdult": 7100,
+     "child": 7100
+    },
+    "n2": {
+     "couple": 25500,
+     "extraAdult": 6000,
+     "child": 6000
+    }
+   },
+   {
+    "season": "06.11.26 to 30.11.26 & 20.12.26 to 02.01.27 (Diwali +Christmas)",
+    "room": "Super Deluxe AC (for 4)",
+    "n3": {
+     "couple": 34600,
+     "extraAdult": 7100,
+     "child": 7100
+    },
+    "n2": {
+     "couple": 26700,
+     "extraAdult": 6000,
+     "child": 6000
+    }
+   },
+   {
+    "season": "06.11.26 to 30.11.26 & 20.12.26 to 02.01.27 (Diwali +Christmas)",
+    "room": "Suite Non-AC (for 4)",
+    "n3": {
+     "couple": 38100,
+     "extraAdult": 7100,
+     "child": 7100
+    },
+    "n2": {
+     "couple": 29100,
+     "extraAdult": 6000,
+     "child": 6000
+    }
+   },
+   {
+    "season": "06.11.26 to 30.11.26 & 20.12.26 to 02.01.27 (Diwali +Christmas)",
+    "room": "Suite AC (for 4)",
+    "n3": {
+     "couple": 40000,
+     "extraAdult": 7100,
+     "child": 7100
+    },
+    "n2": {
+     "couple": 30500,
+     "extraAdult": 6000,
+     "child": 6000
+    }
+   }
+  ]
+ },
+ {
+  "name": "Park Yard Resort",
+  "category": "2★",
+  "area": "About 1.5 km from the bus stand",
+  "features": [
+   "Swimming pool",
+   "Cottages",
+   "Duplex for 4"
+  ],
+  "meals": "All meals",
+  "notes": [],
+  "fromPrice": 9000,
+  "rates": [
+   {
+    "season": "06.11.26 to 15.11.26 & 24.12.26 to 02.01.26 (diwali & Christmas)",
+    "room": "Standard Non-AC",
+    "n3": {
+     "couple": 20300,
+     "extraAdult": 6400,
+     "child": 6000
+    },
+    "n2": {
+     "couple": 14900,
+     "extraAdult": 5000,
+     "child": 4700
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 24.12.26 to 02.01.26 (diwali & Christmas)",
+    "room": "Standard AC",
+    "n3": {
+     "couple": 22800,
+     "extraAdult": 6400,
+     "child": 6000
+    },
+    "n2": {
+     "couple": 16600,
+     "extraAdult": 5000,
+     "child": 4700
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 24.12.26 to 02.01.26 (diwali & Christmas)",
+    "room": "Heritage Non-AC",
+    "n3": {
+     "couple": 22100,
+     "extraAdult": 6800,
+     "child": 6400
+    },
+    "n2": {
+     "couple": 16100,
+     "extraAdult": 5200,
+     "child": 5000
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 24.12.26 to 02.01.26 (diwali & Christmas)",
+    "room": "Executive Non-AC",
+    "n3": {
+     "couple": 27500,
+     "extraAdult": 7100,
+     "child": 6800
+    },
+    "n2": {
+     "couple": 19700,
+     "extraAdult": 5400,
+     "child": 5200
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 24.12.26 to 02.01.26 (diwali & Christmas)",
+    "room": "Executive AC",
+    "n3": {
+     "couple": 30000,
+     "extraAdult": 7100,
+     "child": 6800
+    },
+    "n2": {
+     "couple": 21400,
+     "extraAdult": 5400,
+     "child": 5200
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 24.12.26 to 02.01.26 (diwali & Christmas)",
+    "room": "Cottage Non-AC (Bathtub)",
+    "n3": {
+     "couple": 30000,
+     "extraAdult": 7500,
+     "child": 7100
+    },
+    "n2": {
+     "couple": 21400,
+     "extraAdult": 5700,
+     "child": 5400
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 24.12.26 to 02.01.26 (diwali & Christmas)",
+    "room": "Cottage AC (Bathtub)",
+    "n3": {
+     "couple": 32600,
+     "extraAdult": 7500,
+     "child": 7100
+    },
+    "n2": {
+     "couple": 23100,
+     "extraAdult": 5700,
+     "child": 5400
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 24.12.26 to 02.01.26 (diwali & Christmas)",
+    "room": "Duplex (for 4)",
+    "n3": {
+     "couple": 43500,
+     "extraAdult": 7500,
+     "child": 7100
+    },
+    "n2": {
+     "couple": 31700,
+     "extraAdult": 5700,
+     "child": 5400
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 24.12.26 to 02.01.26 (diwali & Christmas)",
+    "room": "Duplex AC (for 4)",
+    "n3": {
+     "couple": 46000,
+     "extraAdult": 7500,
+     "child": 7100
+    },
+    "n2": {
+     "couple": 33400,
+     "extraAdult": 5700,
+     "child": 5400
+    }
+   },
+   {
+    "season": "16.11.26 to 21.11.26",
+    "room": "Standard Non-AC",
+    "n3": {
+     "couple": 15200,
+     "extraAdult": 6200,
+     "child": 5800
+    },
+    "n2": {
+     "couple": 11300,
+     "extraAdult": 4700,
+     "child": 4500
+    }
+   },
+   {
+    "season": "16.11.26 to 21.11.26",
+    "room": "Standard AC",
+    "n3": {
+     "couple": 17700,
+     "extraAdult": 6200,
+     "child": 5800
+    },
+    "n2": {
+     "couple": 13000,
+     "extraAdult": 4700,
+     "child": 4500
+    }
+   },
+   {
+    "season": "16.11.26 to 21.11.26",
+    "room": "Heritage Non-AC",
+    "n3": {
+     "couple": 17000,
+     "extraAdult": 6500,
+     "child": 6200
+    },
+    "n2": {
+     "couple": 12500,
+     "extraAdult": 5000,
+     "child": 4700
+    }
+   },
+   {
+    "season": "16.11.26 to 21.11.26",
+    "room": "Executive Non-AC",
+    "n3": {
+     "couple": 22400,
+     "extraAdult": 6900,
+     "child": 6500
+    },
+    "n2": {
+     "couple": 16100,
+     "extraAdult": 5200,
+     "child": 5000
+    }
+   },
+   {
+    "season": "16.11.26 to 21.11.26",
+    "room": "Executive AC",
+    "n3": {
+     "couple": 24900,
+     "extraAdult": 6900,
+     "child": 6500
+    },
+    "n2": {
+     "couple": 17800,
+     "extraAdult": 5200,
+     "child": 5000
+    }
+   },
+   {
+    "season": "16.11.26 to 21.11.26",
+    "room": "Cottage Non-AC",
+    "n3": {
+     "couple": 25200,
+     "extraAdult": 7200,
+     "child": 6900
+    },
+    "n2": {
+     "couple": 18000,
+     "extraAdult": 5400,
+     "child": 5200
+    }
+   },
+   {
+    "season": "16.11.26 to 21.11.26",
+    "room": "Cottage AC (Bathtub)",
+    "n3": {
+     "couple": 27800,
+     "extraAdult": 7200,
+     "child": 6900
+    },
+    "n2": {
+     "couple": 19700,
+     "extraAdult": 5400,
+     "child": 5200
+    }
+   },
+   {
+    "season": "16.11.26 to 21.11.26",
+    "room": "Duplex Non-AC (for 4)",
+    "n3": {
+     "couple": 37800,
+     "extraAdult": 7200,
+     "child": 6900
+    },
+    "n2": {
+     "couple": 27600,
+     "extraAdult": 5400,
+     "child": 5200
+    }
+   },
+   {
+    "season": "16.11.26 to 21.11.26",
+    "room": "Duplex AC (for 4)",
+    "n3": {
+     "couple": 40400,
+     "extraAdult": 7200,
+     "child": 6900
+    },
+    "n2": {
+     "couple": 29300,
+     "extraAdult": 5400,
+     "child": 5200
+    }
+   },
+   {
+    "season": "22.11.26 to 23.12.26 & 03.01.27 to 30.03.27 (Regular) Execpt Long Weekend)",
+    "room": "Standard Non-AC",
+    "n3": {
+     "couple": 11600,
+     "extraAdult": 5400,
+     "child": 5100
+    },
+    "n2": {
+     "couple": 9000,
+     "extraAdult": 4200,
+     "child": 4000
+    }
+   },
+   {
+    "season": "22.11.26 to 23.12.26 & 03.01.27 to 30.03.27 (Regular) Execpt Long Weekend)",
+    "room": "Standard AC",
+    "n3": {
+     "couple": 14100,
+     "extraAdult": 5400,
+     "child": 5100
+    },
+    "n2": {
+     "couple": 10600,
+     "extraAdult": 4200,
+     "child": 4000
+    }
+   },
+   {
+    "season": "22.11.26 to 23.12.26 & 03.01.27 to 30.03.27 (Regular) Execpt Long Weekend)",
+    "room": "Heritage Non-AC",
+    "n3": {
+     "couple": 13000,
+     "extraAdult": 5800,
+     "child": 5400
+    },
+    "n2": {
+     "couple": 9900,
+     "extraAdult": 4500,
+     "child": 4200
+    }
+   },
+   {
+    "season": "22.11.26 to 23.12.26 & 03.01.27 to 30.03.27 (Regular) Execpt Long Weekend)",
+    "room": "Executive Non-AC",
+    "n3": {
+     "couple": 18000,
+     "extraAdult": 6200,
+     "child": 5800
+    },
+    "n2": {
+     "couple": 13200,
+     "extraAdult": 4700,
+     "child": 4500
+    }
+   },
+   {
+    "season": "22.11.26 to 23.12.26 & 03.01.27 to 30.03.27 (Regular) Execpt Long Weekend)",
+    "room": "Executive AC",
+    "n3": {
+     "couple": 20600,
+     "extraAdult": 6200,
+     "child": 5800
+    },
+    "n2": {
+     "couple": 14900,
+     "extraAdult": 4700,
+     "child": 4500
+    }
+   },
+   {
+    "season": "22.11.26 to 23.12.26 & 03.01.27 to 30.03.27 (Regular) Execpt Long Weekend)",
+    "room": "Cottage Non-AC (Bathtub)",
+    "n3": {
+     "couple": 20900,
+     "extraAdult": 6500,
+     "child": 6200
+    },
+    "n2": {
+     "couple": 15200,
+     "extraAdult": 5000,
+     "child": 4700
+    }
+   },
+   {
+    "season": "22.11.26 to 23.12.26 & 03.01.27 to 30.03.27 (Regular) Execpt Long Weekend)",
+    "room": "Cottage AC (Bathtub)",
+    "n3": {
+     "couple": 23400,
+     "extraAdult": 6500,
+     "child": 6200
+    },
+    "n2": {
+     "couple": 16800,
+     "extraAdult": 5000,
+     "child": 4700
+    }
+   },
+   {
+    "season": "22.11.26 to 23.12.26 & 03.01.27 to 30.03.27 (Regular) Execpt Long Weekend)",
+    "room": "Duplex (for 4)",
+    "n3": {
+     "couple": 32400,
+     "extraAdult": 6500,
+     "child": 6200
+    },
+    "n2": {
+     "couple": 24000,
+     "extraAdult": 5000,
+     "child": 4700
+    }
+   },
+   {
+    "season": "22.11.26 to 23.12.26 & 03.01.27 to 30.03.27 (Regular) Execpt Long Weekend)",
+    "room": "Duplex AC (for 4)",
+    "n3": {
+     "couple": 35000,
+     "extraAdult": 6500,
+     "child": 6200
+    },
+    "n2": {
+     "couple": 25700,
+     "extraAdult": 5000,
+     "child": 4700
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel Ishwar Inn Resort",
+  "category": "2★",
+  "area": "About 1 km from the bus stand",
+  "features": [
+   "Swimming pool",
+   "Family cottages for 4"
+  ],
+  "meals": "All meals",
+  "notes": [
+   "AC costs ₹800 extra per day in season and ₹600 per day off-season."
+  ],
+  "fromPrice": 8700,
+  "rates": [
+   {
+    "season": "06.11.26 to 10.11.26 & 28.12.26 to 02.01.27",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 12900,
+     "extraAdult": 4800,
+     "child": 4100
+    },
+    "n2": {
+     "couple": 9900,
+     "extraAdult": 3900,
+     "child": 3400
+    }
+   },
+   {
+    "season": "06.11.26 to 10.11.26 & 28.12.26 to 02.01.27",
+    "room": "Classic Non-AC",
+    "n3": {
+     "couple": 14700,
+     "extraAdult": 5600,
+     "child": 4500
+    },
+    "n2": {
+     "couple": 11100,
+     "extraAdult": 4400,
+     "child": 3600
+    }
+   },
+   {
+    "season": "06.11.26 to 10.11.26 & 28.12.26 to 02.01.27",
+    "room": "Family Cottage Non-AC (for 4)",
+    "n3": {
+     "couple": 25700,
+     "extraAdult": null,
+     "child": null
+    },
+    "n2": {
+     "couple": 19700,
+     "extraAdult": null,
+     "child": null
+    }
+   },
+   {
+    "season": "11.11.26 to 14.11.26",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 18500,
+     "extraAdult": 5700,
+     "child": 4600
+    },
+    "n2": {
+     "couple": 13700,
+     "extraAdult": 4500,
+     "child": 3800
+    }
+   },
+   {
+    "season": "11.11.26 to 14.11.26",
+    "room": "Classic Non-AC",
+    "n3": {
+     "couple": 20400,
+     "extraAdult": 5700,
+     "child": 4600
+    },
+    "n2": {
+     "couple": 15000,
+     "extraAdult": 4500,
+     "child": 3800
+    }
+   },
+   {
+    "season": "11.11.26 to 14.11.26",
+    "room": "Family Cottage Non-AC (for 4)",
+    "n3": {
+     "couple": 31600,
+     "extraAdult": null,
+     "child": null
+    },
+    "n2": {
+     "couple": 23800,
+     "extraAdult": null,
+     "child": null
+    }
+   },
+   {
+    "season": "16.11.26 to 24.12.26 & 03.01.27 to 31.03.27 (Regular) (Excepet Long weekends)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 11200,
+     "extraAdult": 4400,
+     "child": 3600
+    },
+    "n2": {
+     "couple": 8700,
+     "extraAdult": 3500,
+     "child": 3000
+    }
+   },
+   {
+    "season": "16.11.26 to 24.12.26 & 03.01.27 to 31.03.27 (Regular) (Excepet Long weekends)",
+    "room": "Classic Non-AC",
+    "n3": {
+     "couple": 12500,
+     "extraAdult": 4400,
+     "child": 3600
+    },
+    "n2": {
+     "couple": 9500,
+     "extraAdult": 3500,
+     "child": 3000
+    }
+   },
+   {
+    "season": "16.11.26 to 24.12.26 & 03.01.27 to 31.03.27 (Regular) (Excepet Long weekends)",
+    "room": "Family Cottage Non-AC (for 4)",
+    "n3": {
+     "couple": 21000,
+     "extraAdult": null,
+     "child": null
+    },
+    "n2": {
+     "couple": 16500,
+     "extraAdult": null,
+     "child": null
+    }
+   },
+   {
+    "season": "25.12.26 to 27.12.26",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 17800,
+     "extraAdult": 5700,
+     "child": 4600
+    },
+    "n2": {
+     "couple": 13200,
+     "extraAdult": 4500,
+     "child": 3800
+    }
+   },
+   {
+    "season": "25.12.26 to 27.12.26",
+    "room": "Classic Non-AC",
+    "n3": {
+     "couple": 18500,
+     "extraAdult": 5700,
+     "child": 4600
+    },
+    "n2": {
+     "couple": 13700,
+     "extraAdult": 4500,
+     "child": 3800
+    }
+   },
+   {
+    "season": "25.12.26 to 27.12.26",
+    "room": "Family Cottage Non-AC (for 4)",
+    "n3": {
+     "couple": 31600,
+     "extraAdult": null,
+     "child": null
+    },
+    "n2": {
+     "couple": 24000,
+     "extraAdult": null,
+     "child": null
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel Regal",
+  "category": "2★",
+  "area": "About 1 km from the bus stand",
+  "features": [
+   "Swimming pool",
+   "Jacuzzi cabanas"
+  ],
+  "meals": "All meals",
+  "notes": [
+   "Check-in 11:00 am, check-out 9:00 am.",
+   "Honeymoon add-on (cake, masala milk, candle-light dinner and bed decoration) at ₹3,200 extra."
+  ],
+  "fromPrice": 10800,
+  "rates": [
+   {
+    "season": "01.10.26 to 05.11.26 & 15.11.26 to 24.12.26 & 03.01.27 onwards",
+    "room": "Exotic Non-AC",
+    "n3": {
+     "couple": 14400,
+     "extraAdult": 5800,
+     "child": 5100
+    },
+    "n2": {
+     "couple": 10800,
+     "extraAdult": 4500,
+     "child": 4000
+    }
+   },
+   {
+    "season": "01.10.26 to 05.11.26 & 15.11.26 to 24.12.26 & 03.01.27 onwards",
+    "room": "Elegant Non-AC",
+    "n3": {
+     "couple": 15200,
+     "extraAdult": 5800,
+     "child": 5100
+    },
+    "n2": {
+     "couple": 11300,
+     "extraAdult": 4500,
+     "child": 4000
+    }
+   },
+   {
+    "season": "01.10.26 to 05.11.26 & 15.11.26 to 24.12.26 & 03.01.27 onwards",
+    "room": "Splendid AC",
+    "n3": {
+     "couple": 17000,
+     "extraAdult": 5800,
+     "child": 5100
+    },
+    "n2": {
+     "couple": 12500,
+     "extraAdult": 4500,
+     "child": 4000
+    }
+   },
+   {
+    "season": "01.10.26 to 05.11.26 & 15.11.26 to 24.12.26 & 03.01.27 onwards",
+    "room": "Royal AC",
+    "n3": {
+     "couple": 19100,
+     "extraAdult": 5800,
+     "child": 5100
+    },
+    "n2": {
+     "couple": 14000,
+     "extraAdult": 4500,
+     "child": 4000
+    }
+   },
+   {
+    "season": "01.10.26 to 05.11.26 & 15.11.26 to 24.12.26 & 03.01.27 onwards",
+    "room": "Elite AC (Bathtub)",
+    "n3": {
+     "couple": 19800,
+     "extraAdult": 5800,
+     "child": 5100
+    },
+    "n2": {
+     "couple": 14400,
+     "extraAdult": 4500,
+     "child": 4000
+    }
+   },
+   {
+    "season": "01.10.26 to 05.11.26 & 15.11.26 to 24.12.26 & 03.01.27 onwards",
+    "room": "Kabana AC (Jacuzzi)",
+    "n3": {
+     "couple": 25200,
+     "extraAdult": 5800,
+     "child": 5100
+    },
+    "n2": {
+     "couple": 18000,
+     "extraAdult": 4500,
+     "child": 4000
+    }
+   },
+   {
+    "season": "06.11.26 to 14.11.26 & 25.12.26 to 02.01.27 (Diwali +Christmas season)",
+    "room": "Exotic Non-AC",
+    "n3": {
+     "couple": 20300,
+     "extraAdult": 7500,
+     "child": 6800
+    },
+    "n2": {
+     "couple": 14900,
+     "extraAdult": 5700,
+     "child": 5200
+    }
+   },
+   {
+    "season": "06.11.26 to 14.11.26 & 25.12.26 to 02.01.27 (Diwali +Christmas season)",
+    "room": "Elegant Non-AC",
+    "n3": {
+     "couple": 21000,
+     "extraAdult": 7500,
+     "child": 6800
+    },
+    "n2": {
+     "couple": 15400,
+     "extraAdult": 5700,
+     "child": 5200
+    }
+   },
+   {
+    "season": "06.11.26 to 14.11.26 & 25.12.26 to 02.01.27 (Diwali +Christmas season)",
+    "room": "Splendid AC",
+    "n3": {
+     "couple": 23900,
+     "extraAdult": 7500,
+     "child": 6800
+    },
+    "n2": {
+     "couple": 17300,
+     "extraAdult": 5700,
+     "child": 5200
+    }
+   },
+   {
+    "season": "06.11.26 to 14.11.26 & 25.12.26 to 02.01.27 (Diwali +Christmas season)",
+    "room": "Royal AC",
+    "n3": {
+     "couple": 25000,
+     "extraAdult": 7500,
+     "child": 6800
+    },
+    "n2": {
+     "couple": 18000,
+     "extraAdult": 5700,
+     "child": 5200
+    }
+   },
+   {
+    "season": "06.11.26 to 14.11.26 & 25.12.26 to 02.01.27 (Diwali +Christmas season)",
+    "room": "Elite AC (Bathtub)",
+    "n3": {
+     "couple": 25700,
+     "extraAdult": 7500,
+     "child": 6800
+    },
+    "n2": {
+     "couple": 18500,
+     "extraAdult": 5700,
+     "child": 5200
+    }
+   },
+   {
+    "season": "06.11.26 to 14.11.26 & 25.12.26 to 02.01.27 (Diwali +Christmas season)",
+    "room": "Kabana AC (Jacuzzi)",
+    "n3": {
+     "couple": 31100,
+     "extraAdult": 7500,
+     "child": 6800
+    },
+    "n2": {
+     "couple": 22100,
+     "extraAdult": 5700,
+     "child": 5200
+    }
+   }
+  ]
+ },
+ {
+  "name": "Mountain Breeze",
+  "category": "Standard",
+  "area": "Metgutad",
+  "features": [
+   "All rooms AC",
+   "Mountain-view rooms"
+  ],
+  "meals": "Breakfast only",
+  "notes": [],
+  "fromPrice": 13700,
+  "rates": [
+   {
+    "season": "16.10.26 to 03.11.26 & 17.11.26 to 19.12.26 (Regular (Weekend))",
+    "room": "Deluxe Mountain View",
+    "n3": {
+     "couple": 20500,
+     "extraAdult": 7800,
+     "child": 7100
+    },
+    "n2": {
+     "couple": 15000,
+     "extraAdult": 5900,
+     "child": 5400
+    }
+   },
+   {
+    "season": "16.10.26 to 03.11.26 & 17.11.26 to 19.12.26 (Regular (Weekend))",
+    "room": "Superior Mountain View (Bathtub)",
+    "n3": {
+     "couple": 25700,
+     "extraAdult": 7800,
+     "child": 7100
+    },
+    "n2": {
+     "couple": 18500,
+     "extraAdult": 5900,
+     "child": 5400
+    }
+   },
+   {
+    "season": "16.10.26 to 03.11.26 & 17.11.26 to 19.12.26 (Regular (Weekend))",
+    "room": "Two-Bed (for 4)",
+    "n3": {
+     "couple": 44200,
+     "extraAdult": 7800,
+     "child": 7100
+    },
+    "n2": {
+     "couple": 32200,
+     "extraAdult": 5900,
+     "child": 5400
+    }
+   },
+   {
+    "season": "16.10.26 to 03.11.26 & 17.11.26 to 19.12.26 (Regular) Weekdays)",
+    "room": "Deluxe Mountain View",
+    "n3": {
+     "couple": 18500,
+     "extraAdult": 7500,
+     "child": 6400
+    },
+    "n2": {
+     "couple": 13700,
+     "extraAdult": 5700,
+     "child": 5000
+    }
+   },
+   {
+    "season": "16.10.26 to 03.11.26 & 17.11.26 to 19.12.26 (Regular) Weekdays)",
+    "room": "Superior Mountain View (Bathtub)",
+    "n3": {
+     "couple": 24000,
+     "extraAdult": 7500,
+     "child": 6400
+    },
+    "n2": {
+     "couple": 17300,
+     "extraAdult": 5700,
+     "child": 5000
+    }
+   },
+   {
+    "season": "16.10.26 to 03.11.26 & 17.11.26 to 19.12.26 (Regular) Weekdays)",
+    "room": "Two-Bed (for 4)",
+    "n3": {
+     "couple": 37000,
+     "extraAdult": 7500,
+     "child": 6400
+    },
+    "n2": {
+     "couple": 27500,
+     "extraAdult": 5700,
+     "child": 5000
+    }
+   },
+   {
+    "season": "04.11.26 to 16.11.26 & 20.12.26 to 05.01.27 (Diwali +Christmas)",
+    "room": "Deluxe Mountain View",
+    "n3": {
+     "couple": 26200,
+     "extraAdult": 10600,
+     "child": 8800
+    },
+    "n2": {
+     "couple": 19000,
+     "extraAdult": 7800,
+     "child": 6600
+    }
+   },
+   {
+    "season": "04.11.26 to 16.11.26 & 20.12.26 to 05.01.27 (Diwali +Christmas)",
+    "room": "Superior Mountain View (Bathtub)",
+    "n3": {
+     "couple": 29100,
+     "extraAdult": 10600,
+     "child": 8800
+    },
+    "n2": {
+     "couple": 21000,
+     "extraAdult": 7800,
+     "child": 6600
+    }
+   },
+   {
+    "season": "04.11.26 to 16.11.26 & 20.12.26 to 05.01.27 (Diwali +Christmas)",
+    "room": "Two-Bed (for 4)",
+    "n3": {
+     "couple": 50600,
+     "extraAdult": 10600,
+     "child": 8800
+    },
+    "n2": {
+     "couple": 36800,
+     "extraAdult": 7800,
+     "child": 6600
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel J S Excellency",
+  "category": "Standard",
+  "area": null,
+  "features": [
+   "Kids' swimming pool",
+   "Bathtub rooms"
+  ],
+  "meals": "All meals",
+  "notes": [
+   "AC rooms cost ₹600 extra per day.",
+   "Honeymoon add-on (bed decoration, cake, gifts and candle-light dinner) at ₹2,000 extra."
+  ],
+  "fromPrice": 9900,
+  "rates": [
+   {
+    "season": "01.11.26 to 15.11.26 & 16.11.26 to 23.12.26",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 13200,
+     "extraAdult": 5400,
+     "child": 4800
+    },
+    "n2": {
+     "couple": 10800,
+     "extraAdult": 4800,
+     "child": 4200
+    }
+   },
+   {
+    "season": "01.11.26 to 15.11.26 & 16.11.26 to 23.12.26",
+    "room": "Executive Non-AC",
+    "n3": {
+     "couple": 15600,
+     "extraAdult": 5400,
+     "child": 4800
+    },
+    "n2": {
+     "couple": 12000,
+     "extraAdult": 4800,
+     "child": 4200
+    }
+   },
+   {
+    "season": "01.11.26 to 15.11.26 & 16.11.26 to 23.12.26",
+    "room": "Executive AC",
+    "n3": {
+     "couple": 17400,
+     "extraAdult": 5400,
+     "child": 4800
+    },
+    "n2": {
+     "couple": 13200,
+     "extraAdult": 4800,
+     "child": 4200
+    }
+   },
+   {
+    "season": "01.11.26 to 15.11.26 & 16.11.26 to 23.12.26",
+    "room": "Lotus Non-AC (Bathtub)",
+    "n3": {
+     "couple": 17400,
+     "extraAdult": 5700,
+     "child": 5100
+    },
+    "n2": {
+     "couple": 13800,
+     "extraAdult": 5100,
+     "child": 4500
+    }
+   },
+   {
+    "season": "01.11.26 to 15.11.26 & 16.11.26 to 23.12.26",
+    "room": "Lotus Non-AC (Bathtub)",
+    "n3": {
+     "couple": 19200,
+     "extraAdult": 5700,
+     "child": 5100
+    },
+    "n2": {
+     "couple": 15000,
+     "extraAdult": 5100,
+     "child": 4500
+    }
+   },
+   {
+    "season": "03.01.27 to 31.03.27 (regular) Excepet Long Weekends)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 12600,
+     "extraAdult": 5100,
+     "child": 4500
+    },
+    "n2": {
+     "couple": 9900,
+     "extraAdult": 4200,
+     "child": 4000
+    }
+   },
+   {
+    "season": "03.01.27 to 31.03.27 (regular) Excepet Long Weekends)",
+    "room": "Executive Non-AC",
+    "n3": {
+     "couple": 15000,
+     "extraAdult": 5100,
+     "child": 4500
+    },
+    "n2": {
+     "couple": 12000,
+     "extraAdult": 4200,
+     "child": 4000
+    }
+   },
+   {
+    "season": "03.01.27 to 31.03.27 (regular) Excepet Long Weekends)",
+    "room": "Executive AC",
+    "n3": {
+     "couple": 16800,
+     "extraAdult": 5100,
+     "child": 4500
+    },
+    "n2": {
+     "couple": 13200,
+     "extraAdult": 4200,
+     "child": 4000
+    }
+   },
+   {
+    "season": "03.01.27 to 31.03.27 (regular) Excepet Long Weekends)",
+    "room": "Lotus Non-AC (Bathtub)",
+    "n3": {
+     "couple": 18600,
+     "extraAdult": 5400,
+     "child": 4800
+    },
+    "n2": {
+     "couple": 14500,
+     "extraAdult": 4600,
+     "child": 4500
+    }
+   },
+   {
+    "season": "03.01.27 to 31.03.27 (regular) Excepet Long Weekends)",
+    "room": "Lotus AC (Bathtub)",
+    "n3": {
+     "couple": 20500,
+     "extraAdult": 5400,
+     "child": 4800
+    },
+    "n2": {
+     "couple": 15600,
+     "extraAdult": 4600,
+     "child": 4500
+    }
+   },
+   {
+    "season": "06.11.26 to 1.11.26 & 24.12.26 02.01.27 (diwali +Christmas)",
+    "room": "Deluxe Non-AC",
+    "n3": {
+     "couple": 19100,
+     "extraAdult": 7500,
+     "child": 6800
+    },
+    "n2": {
+     "couple": 15000,
+     "extraAdult": 6600,
+     "child": 5600
+    }
+   },
+   {
+    "season": "06.11.26 to 1.11.26 & 24.12.26 02.01.27 (diwali +Christmas)",
+    "room": "Executive Non-AC",
+    "n3": {
+     "couple": 21000,
+     "extraAdult": 7500,
+     "child": 6800
+    },
+    "n2": {
+     "couple": 16100,
+     "extraAdult": 6600,
+     "child": 5600
+    }
+   },
+   {
+    "season": "06.11.26 to 1.11.26 & 24.12.26 02.01.27 (diwali +Christmas)",
+    "room": "Executive AC",
+    "n3": {
+     "couple": 22700,
+     "extraAdult": 7500,
+     "child": 6800
+    },
+    "n2": {
+     "couple": 17300,
+     "extraAdult": 6600,
+     "child": 5600
+    }
+   },
+   {
+    "season": "06.11.26 to 1.11.26 & 24.12.26 02.01.27 (diwali +Christmas)",
+    "room": "Lotus Non-AC (Bathtub)",
+    "n3": {
+     "couple": 24500,
+     "extraAdult": 8000,
+     "child": 7200
+    },
+    "n2": {
+     "couple": 18500,
+     "extraAdult": 6900,
+     "child": 6000
+    }
+   },
+   {
+    "season": "06.11.26 to 1.11.26 & 24.12.26 02.01.27 (diwali +Christmas)",
+    "room": "Lotus AC (Bathtub)",
+    "n3": {
+     "couple": 26300,
+     "extraAdult": 8000,
+     "child": 7200
+    },
+    "n2": {
+     "couple": 19700,
+     "extraAdult": 6900,
+     "child": 6000
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel Sunny Midtown",
+  "category": "Standard",
+  "area": null,
+  "features": [
+   "Swimming pool",
+   "Bathtub rooms"
+  ],
+  "meals": "All meals",
+  "notes": [],
+  "fromPrice": 9400,
+  "rates": [
+   {
+    "season": "06.11.26 to 15.11.26 & 24.12.26 to 02.01.27 & 20.03.27 to 22.03.27 & 26.03.27 to 28.03.27 (Diwali + Christmas & Long Weekends)",
+    "room": "Premium Non-AC",
+    "n3": {
+     "couple": 23700,
+     "extraAdult": 6000,
+     "child": 5000
+    },
+    "n2": {
+     "couple": 17200,
+     "extraAdult": 4700,
+     "child": 4000
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 24.12.26 to 02.01.27 & 20.03.27 to 22.03.27 & 26.03.27 to 28.03.27 (Diwali + Christmas & Long Weekends)",
+    "room": "Premium AC",
+    "n3": {
+     "couple": 25200,
+     "extraAdult": 6700,
+     "child": 5400
+    },
+    "n2": {
+     "couple": 18200,
+     "extraAdult": 5100,
+     "child": 4300
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 24.12.26 to 02.01.27 & 20.03.27 to 22.03.27 & 26.03.27 to 28.03.27 (Diwali + Christmas & Long Weekends)",
+    "room": "Executive Non-AC (Bathtub)",
+    "n3": {
+     "couple": 24900,
+     "extraAdult": 6700,
+     "child": 5400
+    },
+    "n2": {
+     "couple": 18000,
+     "extraAdult": 5100,
+     "child": 4300
+    }
+   },
+   {
+    "season": "16.11.26 to 23.11.26 (mid season)",
+    "room": "Premium Room",
+    "n3": {
+     "couple": 16100,
+     "extraAdult": 4700,
+     "child": 4100
+    },
+    "n2": {
+     "couple": 12000,
+     "extraAdult": 3800,
+     "child": 3500
+    }
+   },
+   {
+    "season": "16.11.26 to 23.11.26 (mid season)",
+    "room": "Premium AC",
+    "n3": {
+     "couple": 16700,
+     "extraAdult": 5600,
+     "child": 4400
+    },
+    "n2": {
+     "couple": 12500,
+     "extraAdult": 4400,
+     "child": 3700
+    }
+   },
+   {
+    "season": "16.11.26 to 23.11.26 (mid season)",
+    "room": "Executive Non-AC (Bathtub)",
+    "n3": {
+     "couple": 16500,
+     "extraAdult": 5600,
+     "child": 4400
+    },
+    "n2": {
+     "couple": 12300,
+     "extraAdult": 4400,
+     "child": 3700
+    }
+   },
+   {
+    "season": "24.11.26 to 23.12.26 & 03.01.27 to 19.03.27 & 23.03.27 to 25.03.27 & 29.03.27 to 31.03.27 (regular)",
+    "room": "Premium Non-AC",
+    "n3": {
+     "couple": 12200,
+     "extraAdult": 4300,
+     "child": 3700
+    },
+    "n2": {
+     "couple": 9400,
+     "extraAdult": 3500,
+     "child": 3100
+    }
+   },
+   {
+    "season": "24.11.26 to 23.12.26 & 03.01.27 to 19.03.27 & 23.03.27 to 25.03.27 & 29.03.27 to 31.03.27 (regular)",
+    "room": "Premium AC",
+    "n3": {
+     "couple": 12900,
+     "extraAdult": 4600,
+     "child": 4000
+    },
+    "n2": {
+     "couple": 9800,
+     "extraAdult": 3700,
+     "child": 3300
+    }
+   },
+   {
+    "season": "24.11.26 to 23.12.26 & 03.01.27 to 19.03.27 & 23.03.27 to 25.03.27 & 29.03.27 to 31.03.27 (regular)",
+    "room": "Executive Non-AC (Bathtub)",
+    "n3": {
+     "couple": 12900,
+     "extraAdult": 4600,
+     "child": 4000
+    },
+    "n2": {
+     "couple": 9800,
+     "extraAdult": 3700,
+     "child": 3300
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel Sunny International",
+  "category": "Standard",
+  "area": null,
+  "features": [
+   "Swimming pool",
+   "Family suites for 4"
+  ],
+  "meals": "All meals",
+  "notes": [
+   "Check-in 10:00 am."
+  ],
+  "fromPrice": 8500,
+  "rates": [
+   {
+    "season": "06.11.26 to 15.11.26 & 25.12.26 to 02.01.27 & 20.03.27 to 22.03.27 & 26.03.27 to 28.03.27 (diwali +Christmas)+Long Weekends)",
+    "room": "Cozy Non-AC (Couple)",
+    "n3": {
+     "couple": 18800,
+     "extraAdult": null,
+     "child": null
+    },
+    "n2": {
+     "couple": 14000,
+     "extraAdult": null,
+     "child": null
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 25.12.26 to 02.01.27 & 20.03.27 to 22.03.27 & 26.03.27 to 28.03.27 (diwali +Christmas)+Long Weekends)",
+    "room": "Cozy AC (Couple)",
+    "n3": {
+     "couple": 20300,
+     "extraAdult": null,
+     "child": null
+    },
+    "n2": {
+     "couple": 15000,
+     "extraAdult": null,
+     "child": null
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 25.12.26 to 02.01.27 & 20.03.27 to 22.03.27 & 26.03.27 to 28.03.27 (diwali +Christmas)+Long Weekends)",
+    "room": "Club Non-AC",
+    "n3": {
+     "couple": 22500,
+     "extraAdult": 6000,
+     "child": 4800
+    },
+    "n2": {
+     "couple": 16400,
+     "extraAdult": 4700,
+     "child": 3900
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 25.12.26 to 02.01.27 & 20.03.27 to 22.03.27 & 26.03.27 to 28.03.27 (diwali +Christmas)+Long Weekends)",
+    "room": "Club AC",
+    "n3": {
+     "couple": 24000,
+     "extraAdult": 6700,
+     "child": 5300
+    },
+    "n2": {
+     "couple": 17400,
+     "extraAdult": 5100,
+     "child": 4200
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 25.12.26 to 02.01.27 & 20.03.27 to 22.03.27 & 26.03.27 to 28.03.27 (diwali +Christmas)+Long Weekends)",
+    "room": "Lotus Non-AC",
+    "n3": {
+     "couple": 25500,
+     "extraAdult": 6000,
+     "child": 4800
+    },
+    "n2": {
+     "couple": 18400,
+     "extraAdult": 4700,
+     "child": 3900
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 25.12.26 to 02.01.27 & 20.03.27 to 22.03.27 & 26.03.27 to 28.03.27 (diwali +Christmas)+Long Weekends)",
+    "room": "Lotus AC",
+    "n3": {
+     "couple": 28600,
+     "extraAdult": 6700,
+     "child": 5300
+    },
+    "n2": {
+     "couple": 20400,
+     "extraAdult": 5100,
+     "child": 4200
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 25.12.26 to 02.01.27 & 20.03.27 to 22.03.27 & 26.03.27 to 28.03.27 (diwali +Christmas)+Long Weekends)",
+    "room": "Family Suite Non-AC (for 4)",
+    "n3": {
+     "couple": 45000,
+     "extraAdult": 6000,
+     "child": 4800
+    },
+    "n2": {
+     "couple": 32700,
+     "extraAdult": 4700,
+     "child": 3900
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 25.12.26 to 02.01.27 & 20.03.27 to 22.03.27 & 26.03.27 to 28.03.27 (diwali +Christmas)+Long Weekends)",
+    "room": "Family Suite AC (for 4)",
+    "n3": {
+     "couple": 48000,
+     "extraAdult": 6700,
+     "child": 5300
+    },
+    "n2": {
+     "couple": 34700,
+     "extraAdult": 5100,
+     "child": 4200
+    }
+   },
+   {
+    "season": "16.11.26 to 23.11.26 (Mid season)",
+    "room": "Cozy Non-AC",
+    "n3": {
+     "couple": 12500,
+     "extraAdult": null,
+     "child": null
+    },
+    "n2": {
+     "couple": 9600,
+     "extraAdult": null,
+     "child": null
+    }
+   },
+   {
+    "season": "16.11.26 to 23.11.26 (Mid season)",
+    "room": "Cozy AC",
+    "n3": {
+     "couple": 14000,
+     "extraAdult": null,
+     "child": null
+    },
+    "n2": {
+     "couple": 10600,
+     "extraAdult": null,
+     "child": null
+    }
+   },
+   {
+    "season": "16.11.26 to 23.11.26 (Mid season)",
+    "room": "Club Non-AC",
+    "n3": {
+     "couple": 16100,
+     "extraAdult": 4700,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 12000,
+     "extraAdult": 3800,
+     "child": 3400
+    }
+   },
+   {
+    "season": "16.11.26 to 23.11.26 (Mid season)",
+    "room": "Club AC",
+    "n3": {
+     "couple": 17600,
+     "extraAdult": 5600,
+     "child": 4700
+    },
+    "n2": {
+     "couple": 13100,
+     "extraAdult": 4400,
+     "child": 3800
+    }
+   },
+   {
+    "season": "16.11.26 to 23.11.26 (Mid season)",
+    "room": "Lotus Non-AC",
+    "n3": {
+     "couple": 20700,
+     "extraAdult": 4700,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 15100,
+     "extraAdult": 3800,
+     "child": 3400
+    }
+   },
+   {
+    "season": "16.11.26 to 23.11.26 (Mid season)",
+    "room": "Lotus AC",
+    "n3": {
+     "couple": 23800,
+     "extraAdult": 5600,
+     "child": 4700
+    },
+    "n2": {
+     "couple": 17100,
+     "extraAdult": 4400,
+     "child": 3800
+    }
+   },
+   {
+    "season": "16.11.26 to 23.11.26 (Mid season)",
+    "room": "Family Non-AC (for 4)",
+    "n3": {
+     "couple": 32200,
+     "extraAdult": 4700,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 24000,
+     "extraAdult": 3800,
+     "child": 3400
+    }
+   },
+   {
+    "season": "16.11.26 to 23.11.26 (Mid season)",
+    "room": "Family AC (for 4)",
+    "n3": {
+     "couple": 35300,
+     "extraAdult": 5600,
+     "child": 4700
+    },
+    "n2": {
+     "couple": 26100,
+     "extraAdult": 4400,
+     "child": 3800
+    }
+   },
+   {
+    "season": "24.11.26 to 24.12.26 & 03.01.27 to 19.03.27 & 23.03.27 to 25.03.27 & 29.03.27 to 31.03.27 (regular)",
+    "room": "Cozy Non-AC (Couple)",
+    "n3": {
+     "couple": 11000,
+     "extraAdult": null,
+     "child": null
+    },
+    "n2": {
+     "couple": 8500,
+     "extraAdult": null,
+     "child": null
+    }
+   },
+   {
+    "season": "24.11.26 to 24.12.26 & 03.01.27 to 19.03.27 & 23.03.27 to 25.03.27 & 29.03.27 to 31.03.27 (regular)",
+    "room": "Cozy AC (Couple)",
+    "n3": {
+     "couple": 12200,
+     "extraAdult": null,
+     "child": null
+    },
+    "n2": {
+     "couple": 9300,
+     "extraAdult": null,
+     "child": null
+    }
+   },
+   {
+    "season": "24.11.26 to 24.12.26 & 03.01.27 to 19.03.27 & 23.03.27 to 25.03.27 & 29.03.27 to 31.03.27 (regular)",
+    "room": "Club Non-AC",
+    "n3": {
+     "couple": 12800,
+     "extraAdult": 4500,
+     "child": 4000
+    },
+    "n2": {
+     "couple": 9800,
+     "extraAdult": 3600,
+     "child": 3300
+    }
+   },
+   {
+    "season": "24.11.26 to 24.12.26 & 03.01.27 to 19.03.27 & 23.03.27 to 25.03.27 & 29.03.27 to 31.03.27 (regular)",
+    "room": "Club AC",
+    "n3": {
+     "couple": 14000,
+     "extraAdult": 4900,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 10600,
+     "extraAdult": 3900,
+     "child": 3500
+    }
+   },
+   {
+    "season": "24.11.26 to 24.12.26 & 03.01.27 to 19.03.27 & 23.03.27 to 25.03.27 & 29.03.27 to 31.03.27 (regular)",
+    "room": "Lotus Non-AC",
+    "n3": {
+     "couple": 15900,
+     "extraAdult": 4500,
+     "child": 4000
+    },
+    "n2": {
+     "couple": 11800,
+     "extraAdult": 3600,
+     "child": 3300
+    }
+   },
+   {
+    "season": "24.11.26 to 24.12.26 & 03.01.27 to 19.03.27 & 23.03.27 to 25.03.27 & 29.03.27 to 31.03.27 (regular)",
+    "room": "Lotus AC",
+    "n3": {
+     "couple": 17700,
+     "extraAdult": 4900,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 13000,
+     "extraAdult": 3900,
+     "child": 3500
+    }
+   },
+   {
+    "season": "24.11.26 to 24.12.26 & 03.01.27 to 19.03.27 & 23.03.27 to 25.03.27 & 29.03.27 to 31.03.27 (regular)",
+    "room": "Family Non-AC (for 4)",
+    "n3": {
+     "couple": 25600,
+     "extraAdult": 4500,
+     "child": 4000
+    },
+    "n2": {
+     "couple": 19500,
+     "extraAdult": 3600,
+     "child": 3300
+    }
+   },
+   {
+    "season": "24.11.26 to 24.12.26 & 03.01.27 to 19.03.27 & 23.03.27 to 25.03.27 & 29.03.27 to 31.03.27 (regular)",
+    "room": "Family AC (for 4)",
+    "n3": {
+     "couple": 28000,
+     "extraAdult": 4900,
+     "child": 4200
+    },
+    "n2": {
+     "couple": 21000,
+     "extraAdult": 3900,
+     "child": 3500
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel Bharat",
+  "category": "2★",
+  "area": "About 1 km from the bus stand",
+  "features": [
+   "Swimming pool",
+   "All rooms AC",
+   "Lake-side rooms"
+  ],
+  "meals": "All meals",
+  "notes": [
+   "Check-in 11:00 am, check-out 9:00 am."
+  ],
+  "fromPrice": 11500,
+  "rates": [
+   {
+    "season": "15.10.26 to 05.11.26 & 16.11.26 to 24.12.26 & 03.01.27 to 31.03.27 (Regular Off Season)",
+    "room": "Standard AC",
+    "n3": {
+     "couple": 15300,
+     "extraAdult": 6400,
+     "child": 5400
+    },
+    "n2": {
+     "couple": 11500,
+     "extraAdult": 5000,
+     "child": 4200
+    }
+   },
+   {
+    "season": "15.10.26 to 05.11.26 & 16.11.26 to 24.12.26 & 03.01.27 to 31.03.27 (Regular Off Season)",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 16200,
+     "extraAdult": 6400,
+     "child": 5400
+    },
+    "n2": {
+     "couple": 12000,
+     "extraAdult": 5000,
+     "child": 4200
+    }
+   },
+   {
+    "season": "15.10.26 to 05.11.26 & 16.11.26 to 24.12.26 & 03.01.27 to 31.03.27 (Regular Off Season)",
+    "room": "Classic AC",
+    "n3": {
+     "couple": 17100,
+     "extraAdult": 6400,
+     "child": 5400
+    },
+    "n2": {
+     "couple": 12600,
+     "extraAdult": 5000,
+     "child": 4200
+    }
+   },
+   {
+    "season": "15.10.26 to 05.11.26 & 16.11.26 to 24.12.26 & 03.01.27 to 31.03.27 (Regular Off Season)",
+    "room": "Tulip AC (Couple)",
+    "n3": {
+     "couple": 18000,
+     "extraAdult": 6400,
+     "child": 5400
+    },
+    "n2": {
+     "couple": 13200,
+     "extraAdult": 5000,
+     "child": 4200
+    }
+   },
+   {
+    "season": "15.10.26 to 05.11.26 & 16.11.26 to 24.12.26 & 03.01.27 to 31.03.27 (Regular Off Season)",
+    "room": "Executive / Orchid New Edition AC",
+    "n3": {
+     "couple": 19800,
+     "extraAdult": 6400,
+     "child": 5400
+    },
+    "n2": {
+     "couple": 14500,
+     "extraAdult": 5000,
+     "child": 4200
+    }
+   },
+   {
+    "season": "15.10.26 to 05.11.26 & 16.11.26 to 24.12.26 & 03.01.27 to 31.03.27 (Regular Off Season)",
+    "room": "Executive AC Pool Side (Balcony)",
+    "n3": {
+     "couple": 21600,
+     "extraAdult": 6400,
+     "child": 5400
+    },
+    "n2": {
+     "couple": 15600,
+     "extraAdult": 5000,
+     "child": 4200
+    }
+   },
+   {
+    "season": "15.10.26 to 05.11.26 & 16.11.26 to 24.12.26 & 03.01.27 to 31.03.27 (Regular Off Season)",
+    "room": "Orchid AC Pool Side (Balcony)",
+    "n3": {
+     "couple": 21600,
+     "extraAdult": 6400,
+     "child": 5400
+    },
+    "n2": {
+     "couple": 15600,
+     "extraAdult": 5000,
+     "child": 4200
+    }
+   },
+   {
+    "season": "15.10.26 to 05.11.26 & 16.11.26 to 24.12.26 & 03.01.27 to 31.03.27 (Regular Off Season)",
+    "room": "Super Deluxe AC (Balcony)",
+    "n3": {
+     "couple": 21600,
+     "extraAdult": 6400,
+     "child": 5400
+    },
+    "n2": {
+     "couple": 15600,
+     "extraAdult": 5000,
+     "child": 4200
+    }
+   },
+   {
+    "season": "15.10.26 to 05.11.26 & 16.11.26 to 24.12.26 & 03.01.27 to 31.03.27 (Regular Off Season)",
+    "room": "Lake Side AC",
+    "n3": {
+     "couple": 26100,
+     "extraAdult": 6400,
+     "child": 5400
+    },
+    "n2": {
+     "couple": 18600,
+     "extraAdult": 5000,
+     "child": 4200
+    }
+   },
+   {
+    "season": "15.10.26 to 05.11.26 & 16.11.26 to 24.12.26 & 03.01.27 to 31.03.27 (Regular Off Season)",
+    "room": "Lake Side Studio AC (Connecting Family Room)",
+    "n3": {
+     "couple": 28800,
+     "extraAdult": 6400,
+     "child": 5400
+    },
+    "n2": {
+     "couple": 20500,
+     "extraAdult": 5000,
+     "child": 4200
+    }
+   },
+   {
+    "season": "15.10.26 to 05.11.26 & 16.11.26 to 24.12.26 & 03.01.27 to 31.03.27 (Regular Off Season)",
+    "room": "Bharat Edition AC (Lake Side View)",
+    "n3": {
+     "couple": 32500,
+     "extraAdult": 6400,
+     "child": 5400
+    },
+    "n2": {
+     "couple": 22800,
+     "extraAdult": 5000,
+     "child": 4200
+    }
+   },
+   {
+    "season": "15.10.26 to 05.11.26 & 16.11.26 to 24.12.26 & 03.01.27 to 31.03.27 (Regular Off Season)",
+    "room": "Court Yard View AC (Balcony)",
+    "n3": {
+     "couple": 32500,
+     "extraAdult": 6400,
+     "child": 5400
+    },
+    "n2": {
+     "couple": 22800,
+     "extraAdult": 5000,
+     "child": 4200
+    }
+   },
+   {
+    "season": "06.11.26.26 to 15.11.26 & 25.12.26 to 02.01.27 (Diwali +Christmas)",
+    "room": "Standard AC",
+    "n3": {
+     "couple": 20800,
+     "extraAdult": 7500,
+     "child": 6300
+    },
+    "n2": {
+     "couple": 15200,
+     "extraAdult": 6300,
+     "child": 5100
+    }
+   },
+   {
+    "season": "06.11.26.26 to 15.11.26 & 25.12.26 to 02.01.27 (Diwali +Christmas)",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 22700,
+     "extraAdult": 7500,
+     "child": 6300
+    },
+    "n2": {
+     "couple": 16800,
+     "extraAdult": 6300,
+     "child": 5100
+    }
+   },
+   {
+    "season": "06.11.26.26 to 15.11.26 & 25.12.26 to 02.01.27 (Diwali +Christmas)",
+    "room": "Classic AC",
+    "n3": {
+     "couple": 23100,
+     "extraAdult": 7500,
+     "child": 6300
+    },
+    "n2": {
+     "couple": 17300,
+     "extraAdult": 6300,
+     "child": 5100
+    }
+   },
+   {
+    "season": "06.11.26.26 to 15.11.26 & 25.12.26 to 02.01.27 (Diwali +Christmas)",
+    "room": "Tulip AC",
+    "n3": {
+     "couple": 23900,
+     "extraAdult": 7500,
+     "child": 6300
+    },
+    "n2": {
+     "couple": 17900,
+     "extraAdult": 6300,
+     "child": 5100
+    }
+   },
+   {
+    "season": "06.11.26.26 to 15.11.26 & 25.12.26 to 02.01.27 (Diwali +Christmas)",
+    "room": "Executive / Orchid AC (New Edition)",
+    "n3": {
+     "couple": 29000,
+     "extraAdult": 7500,
+     "child": 6300
+    },
+    "n2": {
+     "couple": 21300,
+     "extraAdult": 6300,
+     "child": 5100
+    }
+   },
+   {
+    "season": "06.11.26.26 to 15.11.26 & 25.12.26 to 02.01.27 (Diwali +Christmas)",
+    "room": "Executive AC (Pool Side)",
+    "n3": {
+     "couple": 32600,
+     "extraAdult": 7500,
+     "child": 6300
+    },
+    "n2": {
+     "couple": 23700,
+     "extraAdult": 6300,
+     "child": 5100
+    }
+   },
+   {
+    "season": "06.11.26.26 to 15.11.26 & 25.12.26 to 02.01.27 (Diwali +Christmas)",
+    "room": "Orchid AC (Pool Side)",
+    "n3": {
+     "couple": 32600,
+     "extraAdult": 7500,
+     "child": 6300
+    },
+    "n2": {
+     "couple": 23700,
+     "extraAdult": 6300,
+     "child": 5100
+    }
+   },
+   {
+    "season": "06.11.26.26 to 15.11.26 & 25.12.26 to 02.01.27 (Diwali +Christmas)",
+    "room": "Super Deluxe AC (With Balcony)",
+    "n3": {
+     "couple": 32600,
+     "extraAdult": 7500,
+     "child": 6300
+    },
+    "n2": {
+     "couple": 23700,
+     "extraAdult": 6300,
+     "child": 5100
+    }
+   },
+   {
+    "season": "06.11.26.26 to 15.11.26 & 25.12.26 to 02.01.27 (Diwali +Christmas)",
+    "room": "Lake Side AC",
+    "n3": {
+     "couple": 39400,
+     "extraAdult": 7500,
+     "child": 6300
+    },
+    "n2": {
+     "couple": 28100,
+     "extraAdult": 6300,
+     "child": 5100
+    }
+   },
+   {
+    "season": "06.11.26.26 to 15.11.26 & 25.12.26 to 02.01.27 (Diwali +Christmas)",
+    "room": "Lake Side Studio (Connecting Family Room AC)",
+    "n3": {
+     "couple": 41100,
+     "extraAdult": 7500,
+     "child": 6300
+    },
+    "n2": {
+     "couple": 29400,
+     "extraAdult": 6300,
+     "child": 5100
+    }
+   },
+   {
+    "season": "06.11.26.26 to 15.11.26 & 25.12.26 to 02.01.27 (Diwali +Christmas)",
+    "room": "Bharat Edition AC (Lakeside View)",
+    "n3": {
+     "couple": 44500,
+     "extraAdult": 7500,
+     "child": 6300
+    },
+    "n2": {
+     "couple": 32900,
+     "extraAdult": 6300,
+     "child": 5100
+    }
+   },
+   {
+    "season": "06.11.26.26 to 15.11.26 & 25.12.26 to 02.01.27 (Diwali +Christmas)",
+    "room": "Court Yard View AC (With Balcony)",
+    "n3": {
+     "couple": 44500,
+     "extraAdult": 7500,
+     "child": 6300
+    },
+    "n2": {
+     "couple": 32900,
+     "extraAdult": 6300,
+     "child": 5100
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel Saket Plaza",
+  "category": "3★",
+  "area": null,
+  "features": [
+   "Swimming pool",
+   "All rooms AC",
+   "Jacuzzi rooms"
+  ],
+  "meals": "All meals",
+  "notes": [],
+  "fromPrice": 14400,
+  "rates": [
+   {
+    "season": "15.11.26 to 23.12.26 & 04.01.27 to 05.04.27 (regular) (All meals)",
+    "room": "Luxury AC (1st & 2nd floor",
+    "n3": {
+     "couple": 26300,
+     "extraAdult": 10900,
+     "child": 8900
+    },
+    "n2": {
+     "couple": 18800,
+     "extraAdult": 7900,
+     "child": 6500
+    }
+   },
+   {
+    "season": "15.11.26 to 23.12.26 & 04.01.27 to 05.04.27 (regular) (All meals)",
+    "room": "Club AC",
+    "n3": {
+     "couple": 27600,
+     "extraAdult": 10900,
+     "child": 8900
+    },
+    "n2": {
+     "couple": 19600,
+     "extraAdult": 7900,
+     "child": 6500
+    }
+   },
+   {
+    "season": "15.11.26 to 23.12.26 & 04.01.27 to 05.04.27 (regular) (All meals)",
+    "room": "Cottage AC (Jacuzzi) (Ground Floor)",
+    "n3": {
+     "couple": 30500,
+     "extraAdult": 10900,
+     "child": 8900
+    },
+    "n2": {
+     "couple": 21600,
+     "extraAdult": 7900,
+     "child": 6500
+    }
+   },
+   {
+    "season": "15.11.26 to 23.12.26 & 04.01.27 to 05.04.27 (regular) (All meals)",
+    "room": "Premium Queen AC (Jacuzzi)",
+    "n3": {
+     "couple": 31500,
+     "extraAdult": 10900,
+     "child": 8900
+    },
+    "n2": {
+     "couple": 22200,
+     "extraAdult": 7900,
+     "child": 6500
+    }
+   },
+   {
+    "season": "15.11.26 to 23.12.26 & 04.01.27 to 05.04.27 (regular) (All meals)",
+    "room": "Premium King AC (Jacuzzi)",
+    "n3": {
+     "couple": 32800,
+     "extraAdult": 10900,
+     "child": 8900
+    },
+    "n2": {
+     "couple": 23100,
+     "extraAdult": 7900,
+     "child": 6500
+    }
+   },
+   {
+    "season": "09.11.26 to 14.11.26 & 24.12.26 to 03.01.27 (Peak season) (All Meals)",
+    "room": "Luxury AC 1st & 2nd floor",
+    "n3": {
+     "couple": 31000,
+     "extraAdult": 12100,
+     "child": 9900
+    },
+    "n2": {
+     "couple": 22000,
+     "extraAdult": 8800,
+     "child": 7300
+    }
+   },
+   {
+    "season": "09.11.26 to 14.11.26 & 24.12.26 to 03.01.27 (Peak season) (All Meals)",
+    "room": "Club AC 1st & 2nd floor",
+    "n3": {
+     "couple": 33300,
+     "extraAdult": 12100,
+     "child": 9900
+    },
+    "n2": {
+     "couple": 23600,
+     "extraAdult": 8800,
+     "child": 7300
+    }
+   },
+   {
+    "season": "09.11.26 to 14.11.26 & 24.12.26 to 03.01.27 (Peak season) (All Meals)",
+    "room": "Cottage AC (Jacuzzi) Ground Floor",
+    "n3": {
+     "couple": 35800,
+     "extraAdult": 12100,
+     "child": 9900
+    },
+    "n2": {
+     "couple": 25200,
+     "extraAdult": 8800,
+     "child": 7300
+    }
+   },
+   {
+    "season": "09.11.26 to 14.11.26 & 24.12.26 to 03.01.27 (Peak season) (All Meals)",
+    "room": "Premium Queen AC (Jacuzzi)",
+    "n3": {
+     "couple": 36700,
+     "extraAdult": 12100,
+     "child": 9900
+    },
+    "n2": {
+     "couple": 25800,
+     "extraAdult": 8800,
+     "child": 7300
+    }
+   },
+   {
+    "season": "09.11.26 to 14.11.26 & 24.12.26 to 03.01.27 (Peak season) (All Meals)",
+    "room": "Premium AC King (Jacuzzi)",
+    "n3": {
+     "couple": 37800,
+     "extraAdult": 12100,
+     "child": 9900
+    },
+    "n2": {
+     "couple": 26600,
+     "extraAdult": 8800,
+     "child": 7300
+    }
+   },
+   {
+    "season": "15.11.26 to 23.12.26 to & 04.01.27 to 05.04.27 (regular) (Only Breakfast)",
+    "room": "Luxury AC",
+    "n3": {
+     "couple": 19800,
+     "extraAdult": 7700,
+     "child": 6700
+    },
+    "n2": {
+     "couple": 14400,
+     "extraAdult": 5700,
+     "child": 5100
+    }
+   },
+   {
+    "season": "15.11.26 to 23.12.26 to & 04.01.27 to 05.04.27 (regular) (Only Breakfast)",
+    "room": "Club AC",
+    "n3": {
+     "couple": 21100,
+     "extraAdult": 7700,
+     "child": 6700
+    },
+    "n2": {
+     "couple": 15300,
+     "extraAdult": 5700,
+     "child": 5100
+    }
+   },
+   {
+    "season": "15.11.26 to 23.12.26 to & 04.01.27 to 05.04.27 (regular) (Only Breakfast)",
+    "room": "Cottage AC (Jacuzzi)",
+    "n3": {
+     "couple": 24000,
+     "extraAdult": 7700,
+     "child": 6700
+    },
+    "n2": {
+     "couple": 17300,
+     "extraAdult": 5700,
+     "child": 5100
+    }
+   },
+   {
+    "season": "15.11.26 to 23.12.26 to & 04.01.27 to 05.04.27 (regular) (Only Breakfast)",
+    "room": "Premium Queen AC (Jacuzzi)",
+    "n3": {
+     "couple": 25000,
+     "extraAdult": 7700,
+     "child": 6700
+    },
+    "n2": {
+     "couple": 17800,
+     "extraAdult": 5700,
+     "child": 5100
+    }
+   },
+   {
+    "season": "15.11.26 to 23.12.26 to & 04.01.27 to 05.04.27 (regular) (Only Breakfast)",
+    "room": "Premium King AC (Jacuzzi)",
+    "n3": {
+     "couple": 26300,
+     "extraAdult": 7700,
+     "child": 6700
+    },
+    "n2": {
+     "couple": 18800,
+     "extraAdult": 5700,
+     "child": 5100
+    }
+   },
+   {
+    "season": "09.11.26 to 14.11.26 & 24.12.26 to 03.01.27 (Only Breakfast)",
+    "room": "Luxury AC",
+    "n3": {
+     "couple": 24500,
+     "extraAdult": 8900,
+     "child": 7700
+    },
+    "n2": {
+     "couple": 17700,
+     "extraAdult": 6600,
+     "child": 5900
+    }
+   },
+   {
+    "season": "09.11.26 to 14.11.26 & 24.12.26 to 03.01.27 (Only Breakfast)",
+    "room": "Club AC",
+    "n3": {
+     "couple": 26800,
+     "extraAdult": 8900,
+     "child": 7700
+    },
+    "n2": {
+     "couple": 19200,
+     "extraAdult": 6600,
+     "child": 5900
+    }
+   },
+   {
+    "season": "09.11.26 to 14.11.26 & 24.12.26 to 03.01.27 (Only Breakfast)",
+    "room": "Cottage AC (Jacuzzi)",
+    "n3": {
+     "couple": 29300,
+     "extraAdult": 8900,
+     "child": 7700
+    },
+    "n2": {
+     "couple": 20900,
+     "extraAdult": 6600,
+     "child": 5900
+    }
+   },
+   {
+    "season": "09.11.26 to 14.11.26 & 24.12.26 to 03.01.27 (Only Breakfast)",
+    "room": "Premium AC (Jacuzzi)",
+    "n3": {
+     "couple": 30200,
+     "extraAdult": 8900,
+     "child": 7700
+    },
+    "n2": {
+     "couple": 21500,
+     "extraAdult": 6600,
+     "child": 5900
+    }
+   },
+   {
+    "season": "09.11.26 to 14.11.26 & 24.12.26 to 03.01.27 (Only Breakfast)",
+    "room": "Premium AC (Jacuzzi)",
+    "n3": {
+     "couple": 31300,
+     "extraAdult": 8900,
+     "child": 7700
+    },
+    "n2": {
+     "couple": 22300,
+     "extraAdult": 6600,
+     "child": 5900
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel Lake View (all meals)",
+  "category": "3★",
+  "area": null,
+  "features": [
+   "Swimming pool",
+   "All rooms AC"
+  ],
+  "meals": "All meals",
+  "notes": [],
+  "fromPrice": 18600,
+  "rates": [
+   {
+    "season": "06.11.26 to 14.11.26 & 25.12.26 to 02.01.27 (Diwali & Christmas)",
+    "room": "Classic AC",
+    "n3": {
+     "couple": 32000,
+     "extraAdult": 45500,
+     "child": null
+    },
+    "n2": {
+     "couple": 22700,
+     "extraAdult": 32400,
+     "child": null
+    }
+   },
+   {
+    "season": "06.11.26 to 14.11.26 & 25.12.26 to 02.01.27 (Diwali & Christmas)",
+    "room": "Executive AC",
+    "n3": {
+     "couple": 35500,
+     "extraAdult": 50600,
+     "child": 62800
+    },
+    "n2": {
+     "couple": 25100,
+     "extraAdult": 35800,
+     "child": 44600
+    }
+   },
+   {
+    "season": "06.11.26 to 14.11.26 & 25.12.26 to 02.01.27 (Diwali & Christmas)",
+    "room": "Premium AC",
+    "n3": {
+     "couple": 36200,
+     "extraAdult": 52400,
+     "child": 65600
+    },
+    "n2": {
+     "couple": 25500,
+     "extraAdult": 37000,
+     "child": 46500
+    }
+   },
+   {
+    "season": "15.11.26 to 24.12.26 & 15.10.26 to 05.11.26 (regular)",
+    "room": "Classic AC",
+    "n3": {
+     "couple": 26100,
+     "extraAdult": 36300,
+     "child": null
+    },
+    "n2": {
+     "couple": 18600,
+     "extraAdult": 26000,
+     "child": null
+    }
+   },
+   {
+    "season": "15.11.26 to 24.12.26 & 15.10.26 to 05.11.26 (regular)",
+    "room": "Executive AC",
+    "n3": {
+     "couple": 30200,
+     "extraAdult": 40800,
+     "child": 54900
+    },
+    "n2": {
+     "couple": 21400,
+     "extraAdult": 29000,
+     "child": 39000
+    }
+   },
+   {
+    "season": "15.11.26 to 24.12.26 & 15.10.26 to 05.11.26 (regular)",
+    "room": "Premium AC",
+    "n3": {
+     "couple": 30900,
+     "extraAdult": 41500,
+     "child": 55000
+    },
+    "n2": {
+     "couple": 21800,
+     "extraAdult": 29500,
+     "child": 39500
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel Lake View (breakfast only)",
+  "category": "3★",
+  "area": null,
+  "features": [
+   "Swimming pool",
+   "All rooms AC"
+  ],
+  "meals": "Breakfast only",
+  "notes": [],
+  "fromPrice": 13300,
+  "rates": [
+   {
+    "season": "06.11.26 14.11.26 & 25.12.26 02.01.27 (diwali) +Christmas)",
+    "room": "Classic AC",
+    "n3": {
+     "couple": 24000,
+     "extraAdult": 23600,
+     "child": null
+    },
+    "n2": {
+     "couple": 17400,
+     "extraAdult": 24500,
+     "child": null
+    }
+   },
+   {
+    "season": "06.11.26 14.11.26 & 25.12.26 02.01.27 (diwali) +Christmas)",
+    "room": "Executive AC",
+    "n3": {
+     "couple": 27600,
+     "extraAdult": 38700,
+     "child": 46800
+    },
+    "n2": {
+     "couple": 19800,
+     "extraAdult": 27800,
+     "child": 34000
+    }
+   },
+   {
+    "season": "06.11.26 14.11.26 & 25.12.26 02.01.27 (diwali) +Christmas)",
+    "room": "Premium AC",
+    "n3": {
+     "couple": 28200,
+     "extraAdult": 40500,
+     "child": 49700
+    },
+    "n2": {
+     "couple": 20200,
+     "extraAdult": 29000,
+     "child": 35900
+    }
+   },
+   {
+    "season": "15.11.26 to 24.12.26 & 15.10.26 to 05.11.26 (regular)",
+    "room": "Classic AC",
+    "n3": {
+     "couple": 18100,
+     "extraAdult": 24500,
+     "child": null
+    },
+    "n2": {
+     "couple": 13300,
+     "extraAdult": 18100,
+     "child": null
+    }
+   },
+   {
+    "season": "15.11.26 to 24.12.26 & 15.10.26 to 05.11.26 (regular)",
+    "room": "Executive AC",
+    "n3": {
+     "couple": 22300,
+     "extraAdult": 28900,
+     "child": 39000
+    },
+    "n2": {
+     "couple": 16100,
+     "extraAdult": 21100,
+     "child": 28500
+    }
+   },
+   {
+    "season": "15.11.26 to 24.12.26 & 15.10.26 to 05.11.26 (regular)",
+    "room": "Premium AC",
+    "n3": {
+     "couple": 22900,
+     "extraAdult": 29500,
+     "child": 39700
+    },
+    "n2": {
+     "couple": 16500,
+     "extraAdult": 21500,
+     "child": 28900
+    }
+   }
+  ]
+ },
+ {
+  "name": "Rahi Forest View (all meals)",
+  "category": "3★",
+  "area": null,
+  "features": [
+   "All rooms AC",
+   "Bathtub rooms"
+  ],
+  "meals": "All meals (veg & non-veg)",
+  "notes": [
+   "A separate sightseeing car is compulsory at ₹1,600 extra."
+  ],
+  "fromPrice": 18500,
+  "rates": [
+   {
+    "season": "16.10.26 to 31.03.27 (Regular Weekends)",
+    "room": "Regalia AC",
+    "n3": {
+     "couple": 29300,
+     "extraAdult": 11100,
+     "child": 10000
+    },
+    "n2": {
+     "couple": 20900,
+     "extraAdult": 8100,
+     "child": 7400
+    }
+   },
+   {
+    "season": "16.10.26 to 31.03.27 (Regular Weekends)",
+    "room": "Majesty AC (Bathtub)",
+    "n3": {
+     "couple": 32900,
+     "extraAdult": 11100,
+     "child": 10000
+    },
+    "n2": {
+     "couple": 23300,
+     "extraAdult": 8100,
+     "child": 7400
+    }
+   },
+   {
+    "season": "16.10.26 to 31.03.27 (Regular weekdays)",
+    "room": "Regalia AC",
+    "n3": {
+     "couple": 25700,
+     "extraAdult": 9300,
+     "child": 8600
+    },
+    "n2": {
+     "couple": 18500,
+     "extraAdult": 6900,
+     "child": 6400
+    }
+   },
+   {
+    "season": "16.10.26 to 31.03.27 (Regular weekdays)",
+    "room": "Majesty AC (Bathtub)",
+    "n3": {
+     "couple": 27500,
+     "extraAdult": 9300,
+     "child": 8600
+    },
+    "n2": {
+     "couple": 19700,
+     "extraAdult": 6900,
+     "child": 6400
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 25.12.26 to 02.01.27 (Diwali + Christmas new Year)",
+    "room": "Regalia AC",
+    "n3": {
+     "couple": 40600,
+     "extraAdult": 14900,
+     "child": 14200
+    },
+    "n2": {
+     "couple": 28600,
+     "extraAdult": 10700,
+     "child": 10200
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 25.12.26 to 02.01.27 (Diwali + Christmas new Year)",
+    "room": "Majesty AC (Bathtub)",
+    "n3": {
+     "couple": 44200,
+     "extraAdult": 14900,
+     "child": 14200
+    },
+    "n2": {
+     "couple": 31000,
+     "extraAdult": 10700,
+     "child": 10200
+    }
+   },
+   {
+    "season": "20.03.27 to 22.03.26 & 26.03.27 to 28.03.27 (Connected Weekends)",
+    "room": "Regalia AC",
+    "n3": {
+     "couple": 33200,
+     "extraAdult": 13000,
+     "child": 12300
+    },
+    "n2": {
+     "couple": 23600,
+     "extraAdult": 9400,
+     "child": 8900
+    }
+   },
+   {
+    "season": "20.03.27 to 22.03.26 & 26.03.27 to 28.03.27 (Connected Weekends)",
+    "room": "Majesty AC (Bathtub)",
+    "n3": {
+     "couple": 36800,
+     "extraAdult": 13000,
+     "child": 12300
+    },
+    "n2": {
+     "couple": 26000,
+     "extraAdult": 9400,
+     "child": 8900
+    }
+   }
+  ]
+ },
+ {
+  "name": "Rahi Forest View (breakfast only)",
+  "category": "3★",
+  "area": null,
+  "features": [
+   "All rooms AC",
+   "Bathtub rooms"
+  ],
+  "meals": "Breakfast only",
+  "notes": [
+   "A separate sightseeing car is compulsory at ₹1,600 extra."
+  ],
+  "fromPrice": 13700,
+  "rates": [
+   {
+    "season": "16.10.26 to 31.03.26 (Regular WeekEnds)",
+    "room": "Majesty AC",
+    "n3": {
+     "couple": 22100,
+     "extraAdult": 7500,
+     "child": 6400
+    },
+    "n2": {
+     "couple": 16100,
+     "extraAdult": 5700,
+     "child": 5000
+    }
+   },
+   {
+    "season": "16.10.26 to 31.03.26 (Regular WeekEnds)",
+    "room": "Regalia AC (Bathtub)",
+    "n3": {
+     "couple": 25700,
+     "extraAdult": 7500,
+     "child": 6400
+    },
+    "n2": {
+     "couple": 18500,
+     "extraAdult": 5700,
+     "child": 5000
+    }
+   },
+   {
+    "season": "16.10.26 to 31.03.26 (Regular weekday)",
+    "room": "Majesty AC",
+    "n3": {
+     "couple": 18500,
+     "extraAdult": 5700,
+     "child": 5000
+    },
+    "n2": {
+     "couple": 13700,
+     "extraAdult": 4500,
+     "child": 4000
+    }
+   },
+   {
+    "season": "16.10.26 to 31.03.26 (Regular weekday)",
+    "room": "Regalia AC (Bathtub)",
+    "n3": {
+     "couple": 20300,
+     "extraAdult": 5700,
+     "child": 5000
+    },
+    "n2": {
+     "couple": 14900,
+     "extraAdult": 4500,
+     "child": 4000
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 (Diwali + Christmas New year)",
+    "room": "Majesty AC",
+    "n3": {
+     "couple": 33400,
+     "extraAdult": 11300,
+     "child": 10600
+    },
+    "n2": {
+     "couple": 23800,
+     "extraAdult": 8300,
+     "child": 7800
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 (Diwali + Christmas New year)",
+    "room": "Regalia AC (Bathtub)",
+    "n3": {
+     "couple": 37000,
+     "extraAdult": 11300,
+     "child": 10600
+    },
+    "n2": {
+     "couple": 26200,
+     "extraAdult": 8300,
+     "child": 7800
+    }
+   },
+   {
+    "season": "20.03.26 to 22.03.26 7 26.03.26 to 28.03.26 Connected Weekends)(Good Friday & Holi",
+    "room": "Majesty AC",
+    "n3": {
+     "couple": 26000,
+     "extraAdult": 9400,
+     "child": 8700
+    },
+    "n2": {
+     "couple": 18800,
+     "extraAdult": 7000,
+     "child": 6500
+    }
+   },
+   {
+    "season": "20.03.26 to 22.03.26 7 26.03.26 to 28.03.26 Connected Weekends)(Good Friday & Holi",
+    "room": "Regalia AC (Bathtub)",
+    "n3": {
+     "couple": 29600,
+     "extraAdult": 9400,
+     "child": 8700
+    },
+    "n2": {
+     "couple": 21200,
+     "extraAdult": 7000,
+     "child": 6500
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel Gautam",
+  "category": "3★",
+  "area": "About 1 km from the main market",
+  "features": [
+   "Swimming pool",
+   "All rooms AC",
+   "Family rooms for 4"
+  ],
+  "meals": "All meals",
+  "notes": [
+   "Check-in 12:00 noon."
+  ],
+  "fromPrice": 20400,
+  "rates": [
+   {
+    "season": "01.11.26 to 31.03.27 weekdays (Sunday to Thursday)",
+    "room": "Poolside AC",
+    "n3": {
+     "couple": 28700,
+     "extraAdult": 9100,
+     "child": 7500
+    },
+    "n2": {
+     "couple": 20400,
+     "extraAdult": 6700,
+     "child": 5600
+    }
+   },
+   {
+    "season": "01.11.26 to 31.03.27 weekdays (Sunday to Thursday)",
+    "room": "Superior AC",
+    "n3": {
+     "couple": 30400,
+     "extraAdult": 9100,
+     "child": 7500
+    },
+    "n2": {
+     "couple": 21500,
+     "extraAdult": 6700,
+     "child": 5600
+    }
+   },
+   {
+    "season": "01.11.26 to 31.03.27 weekdays (Sunday to Thursday)",
+    "room": "Superior AC (Garden Facing)",
+    "n3": {
+     "couple": 31200,
+     "extraAdult": 9100,
+     "child": 7500
+    },
+    "n2": {
+     "couple": 22000,
+     "extraAdult": 6700,
+     "child": 5600
+    }
+   },
+   {
+    "season": "01.11.26 to 31.03.27 weekdays (Sunday to Thursday)",
+    "room": "Premier AC",
+    "n3": {
+     "couple": 32000,
+     "extraAdult": 9100,
+     "child": 7500
+    },
+    "n2": {
+     "couple": 22500,
+     "extraAdult": 6700,
+     "child": 5600
+    }
+   },
+   {
+    "season": "01.11.26 to 31.03.27 weekdays (Sunday to Thursday)",
+    "room": "Premier AC (Garden Facing)",
+    "n3": {
+     "couple": 33600,
+     "extraAdult": 9100,
+     "child": 7500
+    },
+    "n2": {
+     "couple": 23600,
+     "extraAdult": 6700,
+     "child": 5600
+    }
+   },
+   {
+    "season": "01.11.26 to 31.03.27 weekdays (Sunday to Thursday)",
+    "room": "Signature AC",
+    "n3": {
+     "couple": 33900,
+     "extraAdult": 9100,
+     "child": 7500
+    },
+    "n2": {
+     "couple": 23800,
+     "extraAdult": 6700,
+     "child": 5600
+    }
+   },
+   {
+    "season": "01.11.26 to 31.03.27 weekdays (Sunday to Thursday)",
+    "room": "Family AC (for 4)",
+    "n3": {
+     "couple": 48900,
+     "extraAdult": 9100,
+     "child": 7500
+    },
+    "n2": {
+     "couple": 35000,
+     "extraAdult": 6700,
+     "child": 5600
+    }
+   },
+   {
+    "season": "01.11.26 to 31.03.27 & 06.11.26 to 15.11.26 & 24.12.26 to 02.01.27 (diwali +Christmas) WeekEnds (Fridays to saturdays) (Peak Season)",
+    "room": "Pool Side AC",
+    "n3": {
+     "couple": 32400,
+     "extraAdult": 9300,
+     "child": 7700
+    },
+    "n2": {
+     "couple": 23000,
+     "extraAdult": 6900,
+     "child": 5800
+    }
+   },
+   {
+    "season": "01.11.26 to 31.03.27 & 06.11.26 to 15.11.26 & 24.12.26 to 02.01.27 (diwali +Christmas) WeekEnds (Fridays to saturdays) (Peak Season)",
+    "room": "Superior AC",
+    "n3": {
+     "couple": 34000,
+     "extraAdult": 9300,
+     "child": 7700
+    },
+    "n2": {
+     "couple": 24100,
+     "extraAdult": 6900,
+     "child": 5800
+    }
+   },
+   {
+    "season": "01.11.26 to 31.03.27 & 06.11.26 to 15.11.26 & 24.12.26 to 02.01.27 (diwali +Christmas) WeekEnds (Fridays to saturdays) (Peak Season)",
+    "room": "Superior Garden Facing AC",
+    "n3": {
+     "couple": 34900,
+     "extraAdult": 9300,
+     "child": 7700
+    },
+    "n2": {
+     "couple": 24600,
+     "extraAdult": 6900,
+     "child": 5800
+    }
+   },
+   {
+    "season": "01.11.26 to 31.03.27 & 06.11.26 to 15.11.26 & 24.12.26 to 02.01.27 (diwali +Christmas) WeekEnds (Fridays to saturdays) (Peak Season)",
+    "room": "Premier AC",
+    "n3": {
+     "couple": 35700,
+     "extraAdult": 9300,
+     "child": 7700
+    },
+    "n2": {
+     "couple": 25100,
+     "extraAdult": 6900,
+     "child": 5800
+    }
+   },
+   {
+    "season": "01.11.26 to 31.03.27 & 06.11.26 to 15.11.26 & 24.12.26 to 02.01.27 (diwali +Christmas) WeekEnds (Fridays to saturdays) (Peak Season)",
+    "room": "Premier AC (Garden Facing)",
+    "n3": {
+     "couple": 37300,
+     "extraAdult": 9300,
+     "child": 7700
+    },
+    "n2": {
+     "couple": 26200,
+     "extraAdult": 6900,
+     "child": 5800
+    }
+   },
+   {
+    "season": "01.11.26 to 31.03.27 & 06.11.26 to 15.11.26 & 24.12.26 to 02.01.27 (diwali +Christmas) WeekEnds (Fridays to saturdays) (Peak Season)",
+    "room": "Signature AC",
+    "n3": {
+     "couple": 37600,
+     "extraAdult": 9300,
+     "child": 7700
+    },
+    "n2": {
+     "couple": 26400,
+     "extraAdult": 6900,
+     "child": 5800
+    }
+   },
+   {
+    "season": "01.11.26 to 31.03.27 & 06.11.26 to 15.11.26 & 24.12.26 to 02.01.27 (diwali +Christmas) WeekEnds (Fridays to saturdays) (Peak Season)",
+    "room": "Family AC (for 4)",
+    "n3": {
+     "couple": 49800,
+     "extraAdult": 9300,
+     "child": 7700
+    },
+    "n2": {
+     "couple": 35900,
+     "extraAdult": 6900,
+     "child": 5800
+    }
+   }
+  ]
+ },
+ {
+  "name": "Red Brick Resort",
+  "category": "3★",
+  "area": "Avkali",
+  "features": [
+   "Swimming pool",
+   "Valley-view AC rooms"
+  ],
+  "meals": "All meals (veg & non-veg)",
+  "notes": [],
+  "fromPrice": 15200,
+  "rates": [
+   {
+    "season": "1.10.26 to 20.01.27 (regular)",
+    "room": "Deluxe AC (View)",
+    "n3": {
+     "couple": 20400,
+     "extraAdult": 9500,
+     "child": 8800
+    },
+    "n2": {
+     "couple": 15200,
+     "extraAdult": 7100,
+     "child": 6600
+    }
+   },
+   {
+    "season": "06.11.26 to 14.011.26 & 25.12.26 to 01.01.27",
+    "room": "Deluxe AC (View)",
+    "n3": {
+     "couple": null,
+     "extraAdult": null,
+     "child": null
+    },
+    "n2": {
+     "couple": null,
+     "extraAdult": null,
+     "child": null
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel King Garden",
+  "category": "3★",
+  "area": "Metgutad, about 4 km from the main market",
+  "features": [
+   "Swimming pool",
+   "Jacuzzi rooms"
+  ],
+  "meals": "All meals",
+  "notes": [
+   "A separate sightseeing car is compulsory at ₹1,600 extra."
+  ],
+  "fromPrice": 13200,
+  "rates": [
+   {
+    "season": "05.10.26 to 08.11.26 to 22.11.26 to 18.12.26 (All meals) (regular)",
+    "room": "Princess AC",
+    "n3": {
+     "couple": 20000,
+     "extraAdult": 9600,
+     "child": 9300
+    },
+    "n2": {
+     "couple": 14700,
+     "extraAdult": 7100,
+     "child": 6900
+    }
+   },
+   {
+    "season": "05.10.26 to 08.11.26 to 22.11.26 to 18.12.26 (All meals) (regular)",
+    "room": "Prince Garden Facing AC",
+    "n3": {
+     "couple": 21500,
+     "extraAdult": 9600,
+     "child": 9300
+    },
+    "n2": {
+     "couple": 15600,
+     "extraAdult": 7100,
+     "child": 6900
+    }
+   },
+   {
+    "season": "05.10.26 to 08.11.26 to 22.11.26 to 18.12.26 (All meals) (regular)",
+    "room": "Royal Single Jacuzzi AC",
+    "n3": {
+     "couple": 26600,
+     "extraAdult": 9600,
+     "child": 9300
+    },
+    "n2": {
+     "couple": 19100,
+     "extraAdult": 7100,
+     "child": 6900
+    }
+   },
+   {
+    "season": "05.10.26 to 08.11.26 to 22.11.26 to 18.12.26 (All meals) (regular)",
+    "room": "Royal Executive Couple Jacuzzi AC",
+    "n3": {
+     "couple": 31200,
+     "extraAdult": 9600,
+     "child": 9300
+    },
+    "n2": {
+     "couple": 22200,
+     "extraAdult": 7100,
+     "child": 6900
+    }
+   },
+   {
+    "season": "05.10.26 to 08.11.26 to 22.11.26 to 18.12.26 (All meals) (regular)",
+    "room": "King Garden Caves Room",
+    "n3": {
+     "couple": 34500,
+     "extraAdult": 9600,
+     "child": 9300
+    },
+    "n2": {
+     "couple": 24900,
+     "extraAdult": 7100,
+     "child": 6900
+    }
+   },
+   {
+    "season": "05.10.26 to 08.11.26 & 22.11.26 to 18.12.26 (Only Breakfast) Regular",
+    "room": "Princess AC",
+    "n3": {
+     "couple": 17700,
+     "extraAdult": 8200,
+     "child": 7800
+    },
+    "n2": {
+     "couple": 13200,
+     "extraAdult": 6200,
+     "child": 5900
+    }
+   },
+   {
+    "season": "05.10.26 to 08.11.26 & 22.11.26 to 18.12.26 (Only Breakfast) Regular",
+    "room": "Prince Garden Facing AC",
+    "n3": {
+     "couple": 19100,
+     "extraAdult": 8200,
+     "child": 7800
+    },
+    "n2": {
+     "couple": 14100,
+     "extraAdult": 6200,
+     "child": 5900
+    }
+   },
+   {
+    "season": "05.10.26 to 08.11.26 & 22.11.26 to 18.12.26 (Only Breakfast) Regular",
+    "room": "Royal Single Jacuzzi AC",
+    "n3": {
+     "couple": 23700,
+     "extraAdult": 8200,
+     "child": 7800
+    },
+    "n2": {
+     "couple": 17200,
+     "extraAdult": 6200,
+     "child": 5900
+    }
+   },
+   {
+    "season": "05.10.26 to 08.11.26 & 22.11.26 to 18.12.26 (Only Breakfast) Regular",
+    "room": "Royal Executive Couple Jacuzzi AC",
+    "n3": {
+     "couple": 27700,
+     "extraAdult": 8200,
+     "child": 7800
+    },
+    "n2": {
+     "couple": 19900,
+     "extraAdult": 6200,
+     "child": 5900
+    }
+   },
+   {
+    "season": "05.10.26 to 08.11.26 & 22.11.26 to 18.12.26 (Only Breakfast) Regular",
+    "room": "King Garden Caves AC",
+    "n3": {
+     "couple": 28600,
+     "extraAdult": 8200,
+     "child": 7800
+    },
+    "n2": {
+     "couple": 20500,
+     "extraAdult": 6200,
+     "child": 5900
+    }
+   },
+   {
+    "season": "09.11.26 to 21.11.26 & 19.12.26 to 5.01.2027 (All meals) (Peak season)",
+    "room": "Princess AC",
+    "n3": {
+     "couple": 24200,
+     "extraAdult": 10600,
+     "child": 9900
+    },
+    "n2": {
+     "couple": 17700,
+     "extraAdult": 7800,
+     "child": 7400
+    }
+   },
+   {
+    "season": "09.11.26 to 21.11.26 & 19.12.26 to 5.01.2027 (All meals) (Peak season)",
+    "room": "Prince Garden Facing AC",
+    "n3": {
+     "couple": 25600,
+     "extraAdult": 10600,
+     "child": 9900
+    },
+    "n2": {
+     "couple": 18600,
+     "extraAdult": 7800,
+     "child": 7400
+    }
+   },
+   {
+    "season": "09.11.26 to 21.11.26 & 19.12.26 to 5.01.2027 (All meals) (Peak season)",
+    "room": "Royal Single Jacuzzi AC",
+    "n3": {
+     "couple": 30500,
+     "extraAdult": 10600,
+     "child": 9900
+    },
+    "n2": {
+     "couple": 21900,
+     "extraAdult": 7800,
+     "child": 7400
+    }
+   },
+   {
+    "season": "09.11.26 to 21.11.26 & 19.12.26 to 5.01.2027 (All meals) (Peak season)",
+    "room": "Royal Executive Couple Jacuzzi AC",
+    "n3": {
+     "couple": 33100,
+     "extraAdult": 10600,
+     "child": 9900
+    },
+    "n2": {
+     "couple": 23600,
+     "extraAdult": 7800,
+     "child": 7400
+    }
+   },
+   {
+    "season": "09.11.26 to 21.11.26 & 19.12.26 to 5.01.2027 (All meals) (Peak season)",
+    "room": "King Garden Caves AC",
+    "n3": {
+     "couple": 40000,
+     "extraAdult": 10600,
+     "child": 9900
+    },
+    "n2": {
+     "couple": 27600,
+     "extraAdult": 7800,
+     "child": 7400
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel Dreamland",
+  "category": "3★",
+  "area": null,
+  "features": [
+   "Cottages",
+   "Suites"
+  ],
+  "meals": "Breakfast only",
+  "notes": [
+   "Check-in 11:00 am."
+  ],
+  "fromPrice": 11800,
+  "rates": [
+   {
+    "season": "01.10.26 05.11.26 (Thursday to Sunday) (Weekends)",
+    "room": "Deluxe Cottage Non-AC",
+    "n3": {
+     "couple": 17500,
+     "extraAdult": 4900,
+     "child": 4900
+    },
+    "n2": {
+     "couple": 12800,
+     "extraAdult": 3900,
+     "child": 3900
+    }
+   },
+   {
+    "season": "01.10.26 05.11.26 (Thursday to Sunday) (Weekends)",
+    "room": "Executive Room AC",
+    "n3": {
+     "couple": 22000,
+     "extraAdult": 4900,
+     "child": 4900
+    },
+    "n2": {
+     "couple": 15900,
+     "extraAdult": 3900,
+     "child": 3900
+    }
+   },
+   {
+    "season": "01.10.26 05.11.26 (Thursday to Sunday) (Weekends)",
+    "room": "Premier Room (Non-AC)",
+    "n3": {
+     "couple": 22000,
+     "extraAdult": 4900,
+     "child": 4900
+    },
+    "n2": {
+     "couple": 15900,
+     "extraAdult": 3900,
+     "child": 3900
+    }
+   },
+   {
+    "season": "01.10.26 05.11.26 (Thursday to Sunday) (Weekends)",
+    "room": "Executive Cottage AC",
+    "n3": {
+     "couple": 23500,
+     "extraAdult": 4900,
+     "child": 4900
+    },
+    "n2": {
+     "couple": 16900,
+     "extraAdult": 3900,
+     "child": 3900
+    }
+   },
+   {
+    "season": "01.10.26 05.11.26 (Thursday to Sunday) (Weekends)",
+    "room": "Classic Room AC",
+    "n3": {
+     "couple": 25100,
+     "extraAdult": 4900,
+     "child": 4900
+    },
+    "n2": {
+     "couple": 17900,
+     "extraAdult": 3900,
+     "child": 3900
+    }
+   },
+   {
+    "season": "01.10.26 05.11.26 (Thursday to Sunday) (Weekends)",
+    "room": "Premier Cottage AC",
+    "n3": {
+     "couple": 25100,
+     "extraAdult": 4900,
+     "child": 4900
+    },
+    "n2": {
+     "couple": 17900,
+     "extraAdult": 3900,
+     "child": 3900
+    }
+   },
+   {
+    "season": "01.10.26 05.11.26 (Thursday to Sunday) (Weekends)",
+    "room": "Regency Suite Room AC",
+    "n3": {
+     "couple": 28100,
+     "extraAdult": 4900,
+     "child": 4900
+    },
+    "n2": {
+     "couple": 20000,
+     "extraAdult": 3900,
+     "child": 3900
+    }
+   },
+   {
+    "season": "01.10.26 to 15.11.26 (Monday to Wednesday) (weekday)",
+    "room": "Deluxe Cottage Non-AC",
+    "n3": {
+     "couple": 15900,
+     "extraAdult": 4900,
+     "child": 4900
+    },
+    "n2": {
+     "couple": 11800,
+     "extraAdult": 3900,
+     "child": 3900
+    }
+   },
+   {
+    "season": "01.10.26 to 15.11.26 (Monday to Wednesday) (weekday)",
+    "room": "Executive Room AC",
+    "n3": {
+     "couple": 20500,
+     "extraAdult": 4900,
+     "child": 4900
+    },
+    "n2": {
+     "couple": 14900,
+     "extraAdult": 3900,
+     "child": 3900
+    }
+   },
+   {
+    "season": "01.10.26 to 15.11.26 (Monday to Wednesday) (weekday)",
+    "room": "Premier Room Non-AC",
+    "n3": {
+     "couple": 20500,
+     "extraAdult": 4900,
+     "child": 4900
+    },
+    "n2": {
+     "couple": 14900,
+     "extraAdult": 3900,
+     "child": 3900
+    }
+   },
+   {
+    "season": "01.10.26 to 15.11.26 (Monday to Wednesday) (weekday)",
+    "room": "Executive Cottage AC",
+    "n3": {
+     "couple": 22000,
+     "extraAdult": 4900,
+     "child": 4900
+    },
+    "n2": {
+     "couple": 15900,
+     "extraAdult": 3900,
+     "child": 3900
+    }
+   },
+   {
+    "season": "01.10.26 to 15.11.26 (Monday to Wednesday) (weekday)",
+    "room": "Classic AC Room",
+    "n3": {
+     "couple": 23500,
+     "extraAdult": 4900,
+     "child": 4900
+    },
+    "n2": {
+     "couple": 16900,
+     "extraAdult": 3900,
+     "child": 3900
+    }
+   },
+   {
+    "season": "01.10.26 to 15.11.26 (Monday to Wednesday) (weekday)",
+    "room": "Premier Cottage AC",
+    "n3": {
+     "couple": 23500,
+     "extraAdult": 4900,
+     "child": 4900
+    },
+    "n2": {
+     "couple": 16900,
+     "extraAdult": 3900,
+     "child": 3900
+    }
+   },
+   {
+    "season": "01.10.26 to 15.11.26 (Monday to Wednesday) (weekday)",
+    "room": "Regency Suite AC",
+    "n3": {
+     "couple": 26600,
+     "extraAdult": 4900,
+     "child": 4900
+    },
+    "n2": {
+     "couple": 18900,
+     "extraAdult": 3900,
+     "child": 3900
+    }
+   },
+   {
+    "season": "06.11.26 to 14.11.26 (diwali season)",
+    "room": "Deluxe Cottage AC",
+    "n3": {
+     "couple": 24000,
+     "extraAdult": 9700,
+     "child": 9700
+    },
+    "n2": {
+     "couple": 17400,
+     "extraAdult": 7200,
+     "child": 7200
+    }
+   },
+   {
+    "season": "06.11.26 to 14.11.26 (diwali season)",
+    "room": "Executive Room AC",
+    "n3": {
+     "couple": 37800,
+     "extraAdult": 9700,
+     "child": 9700
+    },
+    "n2": {
+     "couple": 26600,
+     "extraAdult": 7200,
+     "child": 7200
+    }
+   },
+   {
+    "season": "06.11.26 to 14.11.26 (diwali season)",
+    "room": "Premier Room AC",
+    "n3": {
+     "couple": 37800,
+     "extraAdult": 9700,
+     "child": 9700
+    },
+    "n2": {
+     "couple": 26600,
+     "extraAdult": 7200,
+     "child": 7200
+    }
+   },
+   {
+    "season": "06.11.26 to 14.11.26 (diwali season)",
+    "room": "Executive Cottage AC",
+    "n3": {
+     "couple": 37800,
+     "extraAdult": 9700,
+     "child": 9700
+    },
+    "n2": {
+     "couple": 26600,
+     "extraAdult": 7200,
+     "child": 7200
+    }
+   },
+   {
+    "season": "06.11.26 to 14.11.26 (diwali season)",
+    "room": "Classic Room AC",
+    "n3": {
+     "couple": 40800,
+     "extraAdult": 9700,
+     "child": 9700
+    },
+    "n2": {
+     "couple": 28600,
+     "extraAdult": 7200,
+     "child": 7200
+    }
+   },
+   {
+    "season": "06.11.26 to 14.11.26 (diwali season)",
+    "room": "Premier Cottage AC",
+    "n3": {
+     "couple": 43900,
+     "extraAdult": 9700,
+     "child": 9700
+    },
+    "n2": {
+     "couple": 30600,
+     "extraAdult": 7200,
+     "child": 7200
+    }
+   },
+   {
+    "season": "06.11.26 to 14.11.26 (diwali season)",
+    "room": "Regency Suite AC",
+    "n3": {
+     "couple": 50000,
+     "extraAdult": 9700,
+     "child": 9700
+    },
+    "n2": {
+     "couple": 34700,
+     "extraAdult": 7200,
+     "child": 7200
+    }
+   },
+   {
+    "season": "15.11.26 to 19.11.26",
+    "room": "Deluxe Cottage AC",
+    "n3": {
+     "couple": 20700,
+     "extraAdult": 6500,
+     "child": 6500
+    },
+    "n2": {
+     "couple": 15100,
+     "extraAdult": 5000,
+     "child": 5000
+    }
+   },
+   {
+    "season": "15.11.26 to 19.11.26",
+    "room": "Executive Room AC",
+    "n3": {
+     "couple": 26800,
+     "extraAdult": 6500,
+     "child": 6500
+    },
+    "n2": {
+     "couple": 19200,
+     "extraAdult": 5000,
+     "child": 5000
+    }
+   },
+   {
+    "season": "15.11.26 to 19.11.26",
+    "room": "Premier Room AC (1st floor)",
+    "n3": {
+     "couple": 26800,
+     "extraAdult": 6500,
+     "child": 6500
+    },
+    "n2": {
+     "couple": 19200,
+     "extraAdult": 5000,
+     "child": 5000
+    }
+   },
+   {
+    "season": "15.11.26 to 19.11.26",
+    "room": "Executive Cottage AC",
+    "n3": {
+     "couple": 26800,
+     "extraAdult": 6500,
+     "child": 6500
+    },
+    "n2": {
+     "couple": 19200,
+     "extraAdult": 5000,
+     "child": 5000
+    }
+   },
+   {
+    "season": "15.11.26 to 19.11.26",
+    "room": "Classic Room AC",
+    "n3": {
+     "couple": 31400,
+     "extraAdult": 6500,
+     "child": 6500
+    },
+    "n2": {
+     "couple": 22200,
+     "extraAdult": 5000,
+     "child": 5000
+    }
+   },
+   {
+    "season": "15.11.26 to 19.11.26",
+    "room": "Premier Cottage AC",
+    "n3": {
+     "couple": 31400,
+     "extraAdult": 6500,
+     "child": 6500
+    },
+    "n2": {
+     "couple": 22200,
+     "extraAdult": 5000,
+     "child": 5000
+    }
+   },
+   {
+    "season": "15.11.26 to 19.11.26",
+    "room": "Regency Suite AC",
+    "n3": {
+     "couple": 40600,
+     "extraAdult": 6500,
+     "child": 6500
+    },
+    "n2": {
+     "couple": 28400,
+     "extraAdult": 5000,
+     "child": 5000
+    }
+   },
+   {
+    "season": "23.12.26 to 28.12.26 (Christmas)",
+    "room": "Deluxe Cottage Non-AC",
+    "n3": {
+     "couple": 22200,
+     "extraAdult": 6500,
+     "child": 6500
+    },
+    "n2": {
+     "couple": 16100,
+     "extraAdult": 5000,
+     "child": 5000
+    }
+   },
+   {
+    "season": "23.12.26 to 28.12.26 (Christmas)",
+    "room": "Executive AC",
+    "n3": {
+     "couple": 31400,
+     "extraAdult": 6500,
+     "child": 6500
+    },
+    "n2": {
+     "couple": 22200,
+     "extraAdult": 5000,
+     "child": 5000
+    }
+   },
+   {
+    "season": "23.12.26 to 28.12.26 (Christmas)",
+    "room": "Premier Room AC (1st floor)",
+    "n3": {
+     "couple": 31400,
+     "extraAdult": 6500,
+     "child": 6500
+    },
+    "n2": {
+     "couple": 22200,
+     "extraAdult": 5000,
+     "child": 5000
+    }
+   },
+   {
+    "season": "23.12.26 to 28.12.26 (Christmas)",
+    "room": "Executive Cottage AC",
+    "n3": {
+     "couple": 31400,
+     "extraAdult": 6500,
+     "child": 6500
+    },
+    "n2": {
+     "couple": 22200,
+     "extraAdult": 5000,
+     "child": 5000
+    }
+   },
+   {
+    "season": "23.12.26 to 28.12.26 (Christmas)",
+    "room": "Classic AC",
+    "n3": {
+     "couple": 34500,
+     "extraAdult": 6500,
+     "child": 6500
+    },
+    "n2": {
+     "couple": 24300,
+     "extraAdult": 5000,
+     "child": 5000
+    }
+   },
+   {
+    "season": "23.12.26 to 28.12.26 (Christmas)",
+    "room": "Premier Cottage AC",
+    "n3": {
+     "couple": 34500,
+     "extraAdult": 6500,
+     "child": 6500
+    },
+    "n2": {
+     "couple": 24300,
+     "extraAdult": 5000,
+     "child": 5000
+    }
+   },
+   {
+    "season": "23.12.26 to 28.12.26 (Christmas)",
+    "room": "Regency Suite AC",
+    "n3": {
+     "couple": 40600,
+     "extraAdult": 6500,
+     "child": 6500
+    },
+    "n2": {
+     "couple": 28400,
+     "extraAdult": 5000,
+     "child": 5000
+    }
+   },
+   {
+    "season": "29.12.26 to 01.01.27 (New Year)",
+    "room": "Deluxe Cottage Non-AC",
+    "n3": {
+     "couple": 27100,
+     "extraAdult": 9700,
+     "child": 9700
+    },
+    "n2": {
+     "couple": 19400,
+     "extraAdult": 7200,
+     "child": 7200
+    }
+   },
+   {
+    "season": "29.12.26 to 01.01.27 (New Year)",
+    "room": "Executive Room AC",
+    "n3": {
+     "couple": 40800,
+     "extraAdult": 9700,
+     "child": 9700
+    },
+    "n2": {
+     "couple": 28600,
+     "extraAdult": 7200,
+     "child": 7200
+    }
+   },
+   {
+    "season": "29.12.26 to 01.01.27 (New Year)",
+    "room": "Premier Room AC",
+    "n3": {
+     "couple": 40800,
+     "extraAdult": 9700,
+     "child": 9700
+    },
+    "n2": {
+     "couple": 28600,
+     "extraAdult": 7200,
+     "child": 7200
+    }
+   },
+   {
+    "season": "29.12.26 to 01.01.27 (New Year)",
+    "room": "Executive Cottage AC",
+    "n3": {
+     "couple": 40800,
+     "extraAdult": 9700,
+     "child": 9700
+    },
+    "n2": {
+     "couple": 28600,
+     "extraAdult": 7200,
+     "child": 7200
+    }
+   },
+   {
+    "season": "29.12.26 to 01.01.27 (New Year)",
+    "room": "Classic AC",
+    "n3": {
+     "couple": 43900,
+     "extraAdult": 9700,
+     "child": 9700
+    },
+    "n2": {
+     "couple": 30600,
+     "extraAdult": 7200,
+     "child": 7200
+    }
+   },
+   {
+    "season": "29.12.26 to 01.01.27 (New Year)",
+    "room": "Premier Cottage AC",
+    "n3": {
+     "couple": 43900,
+     "extraAdult": 9700,
+     "child": 9700
+    },
+    "n2": {
+     "couple": 30600,
+     "extraAdult": 7200,
+     "child": 7200
+    }
+   },
+   {
+    "season": "29.12.26 to 01.01.27 (New Year)",
+    "room": "Regency Suite AC",
+    "n3": {
+     "couple": 47000,
+     "extraAdult": 9700,
+     "child": 9700
+    },
+    "n2": {
+     "couple": 32700,
+     "extraAdult": 7200,
+     "child": 7200
+    }
+   }
+  ]
+ },
+ {
+  "name": "Hotel Rajesh",
+  "category": "3★",
+  "area": "Near the bus (ST) stand",
+  "features": [
+   "Swimming pool",
+   "All rooms AC"
+  ],
+  "meals": "Breakfast only",
+  "notes": [],
+  "fromPrice": 12700,
+  "rates": [
+   {
+    "season": "11.10.26 to 05.11.26 & 22.11.26 24.12.26",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 17200,
+     "extraAdult": 23600,
+     "child": 30000
+    },
+    "n2": {
+     "couple": 12700,
+     "extraAdult": 17500,
+     "child": 22400
+    }
+   },
+   {
+    "season": "11.10.26 to 05.11.26 & 22.11.26 24.12.26",
+    "room": "Super Deluxe AC",
+    "n3": {
+     "couple": 18200,
+     "extraAdult": 24500,
+     "child": 30800
+    },
+    "n2": {
+     "couple": 13300,
+     "extraAdult": 18100,
+     "child": 23000
+    }
+   },
+   {
+    "season": "11.10.26 to 05.11.26 & 22.11.26 24.12.26",
+    "room": "Classic AC",
+    "n3": {
+     "couple": 20300,
+     "extraAdult": 27500,
+     "child": 34800
+    },
+    "n2": {
+     "couple": 14700,
+     "extraAdult": 20200,
+     "child": 25600
+    }
+   },
+   {
+    "season": "06.11.26 to 14.11.26 (diwali)",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 22300,
+     "extraAdult": 30400,
+     "child": 42200
+    },
+    "n2": {
+     "couple": 16200,
+     "extraAdult": 22300,
+     "child": 30900
+    }
+   },
+   {
+    "season": "06.11.26 to 14.11.26 (diwali)",
+    "room": "Super Deluxe AC",
+    "n3": {
+     "couple": 23200,
+     "extraAdult": 31300,
+     "child": 43200
+    },
+    "n2": {
+     "couple": 16800,
+     "extraAdult": 22900,
+     "child": 31500
+    }
+   },
+   {
+    "season": "06.11.26 to 14.11.26 (diwali)",
+    "room": "Classic AC",
+    "n3": {
+     "couple": 26200,
+     "extraAdult": 39500,
+     "child": 50000
+    },
+    "n2": {
+     "couple": 18800,
+     "extraAdult": 28400,
+     "child": 36100
+    }
+   },
+   {
+    "season": "15.11.26 to 21.11.26 (mid season)",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 19400,
+     "extraAdult": 26600,
+     "child": 33900
+    },
+    "n2": {
+     "couple": 14100,
+     "extraAdult": 19600,
+     "child": 25000
+    }
+   },
+   {
+    "season": "15.11.26 to 21.11.26 (mid season)",
+    "room": "Super Deluxe AC",
+    "n3": {
+     "couple": 20300,
+     "extraAdult": 27500,
+     "child": 34800
+    },
+    "n2": {
+     "couple": 14700,
+     "extraAdult": 20200,
+     "child": 25600
+    }
+   },
+   {
+    "season": "15.11.26 to 21.11.26 (mid season)",
+    "room": "Classic AC",
+    "n3": {
+     "couple": 23300,
+     "extraAdult": 31700,
+     "child": 44300
+    },
+    "n2": {
+     "couple": 16700,
+     "extraAdult": 23000,
+     "child": 32000
+    }
+   },
+   {
+    "season": "25.12.26 to 27.12.26 (Christmas)",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 21400,
+     "extraAdult": 29500,
+     "child": 41200
+    },
+    "n2": {
+     "couple": 15600,
+     "extraAdult": 21700,
+     "child": 30200
+    }
+   },
+   {
+    "season": "25.12.26 to 27.12.26 (Christmas)",
+    "room": "Super Deluxe AC",
+    "n3": {
+     "couple": 22300,
+     "extraAdult": 30400,
+     "child": 42200
+    },
+    "n2": {
+     "couple": 16200,
+     "extraAdult": 22300,
+     "child": 30900
+    }
+   },
+   {
+    "season": "25.12.26 to 27.12.26 (Christmas)",
+    "room": "Classic AC",
+    "n3": {
+     "couple": 24400,
+     "extraAdult": 34000,
+     "child": 48000
+    },
+    "n2": {
+     "couple": 17600,
+     "extraAdult": 24700,
+     "child": 34700
+    }
+   },
+   {
+    "season": "28.12.26 to 02.01.27 (new year)",
+    "room": "Deluxe AC",
+    "n3": {
+     "couple": 19200,
+     "extraAdult": 26700,
+     "child": 34200
+    },
+    "n2": {
+     "couple": 14200,
+     "extraAdult": 20000,
+     "child": 25500
+    }
+   },
+   {
+    "season": "28.12.26 to 02.01.27 (new year)",
+    "room": "Super Deluxe AC",
+    "n3": {
+     "couple": 20200,
+     "extraAdult": 27600,
+     "child": 35100
+    },
+    "n2": {
+     "couple": 14800,
+     "extraAdult": 20500,
+     "child": 26200
+    }
+   },
+   {
+    "season": "28.12.26 to 02.01.27 (new year)",
+    "room": "Classic AC",
+    "n3": {
+     "couple": 22300,
+     "extraAdult": 31000,
+     "child": 43500
+    },
+    "n2": {
+     "couple": 16200,
+     "extraAdult": 22700,
+     "child": 31800
+    }
+   }
+  ]
+ },
+ {
+  "name": "The Grand Legacy & Spa Resort",
+  "category": "3★",
+  "area": "About 6 km from the main market",
+  "features": [
+   "Spa",
+   "Jacuzzi rooms",
+   "Suites for 4"
+  ],
+  "meals": "All meals",
+  "notes": [
+   "A separate taxi is needed at ₹1,600 extra per couple."
+  ],
+  "fromPrice": 19500,
+  "rates": [
+   {
+    "season": "15.10.26 to 05.11.26 & 16.11.26 to 23.12.26 &03.01.27 to 31.03.27 (Except long Weekend) (All Meals) (Regular)",
+    "room": "Elegant / Grand AC",
+    "n3": {
+     "couple": 35200,
+     "extraAdult": 8400,
+     "child": 7800
+    },
+    "n2": {
+     "couple": 24900,
+     "extraAdult": 6300,
+     "child": 5900
+    }
+   },
+   {
+    "season": "15.10.26 to 05.11.26 & 16.11.26 to 23.12.26 &03.01.27 to 31.03.27 (Except long Weekend) (All Meals) (Regular)",
+    "room": "Grand Classic / Elegant AC",
+    "n3": {
+     "couple": 36700,
+     "extraAdult": 8400,
+     "child": 7800
+    },
+    "n2": {
+     "couple": 25800,
+     "extraAdult": 6300,
+     "child": 5900
+    }
+   },
+   {
+    "season": "15.10.26 to 05.11.26 & 16.11.26 to 23.12.26 &03.01.27 to 31.03.27 (Except long Weekend) (All Meals) (Regular)",
+    "room": "Exotica Jacuzzi / Mountain View Jacuzzi AC",
+    "n3": {
+     "couple": 38100,
+     "extraAdult": 8400,
+     "child": 7800
+    },
+    "n2": {
+     "couple": 26800,
+     "extraAdult": 6300,
+     "child": 5900
+    }
+   },
+   {
+    "season": "15.10.26 to 05.11.26 & 16.11.26 to 23.12.26 &03.01.27 to 31.03.27 (Except long Weekend) (All Meals) (Regular)",
+    "room": "Aqua Suite (for 4)",
+    "n3": {
+     "couple": 82000,
+     "extraAdult": 8400,
+     "child": 7800
+    },
+    "n2": {
+     "couple": 57400,
+     "extraAdult": 6300,
+     "child": 5900
+    }
+   },
+   {
+    "season": "15.10.26 to 05.11.26 & 16.11.26 to 23.12.26 & 03.01.27 to 31.03.27 (Except long Weekends) (Regular) Only Breakfast",
+    "room": "Elegant / Grand AC",
+    "n3": {
+     "couple": 27200,
+     "extraAdult": 7300,
+     "child": 6700
+    },
+    "n2": {
+     "couple": 19500,
+     "extraAdult": 5500,
+     "child": 5200
+    }
+   },
+   {
+    "season": "15.10.26 to 05.11.26 & 16.11.26 to 23.12.26 & 03.01.27 to 31.03.27 (Except long Weekends) (Regular) Only Breakfast",
+    "room": "Grand Classic / Elegant Classic AC",
+    "n3": {
+     "couple": 28600,
+     "extraAdult": 7300,
+     "child": 6700
+    },
+    "n2": {
+     "couple": 20400,
+     "extraAdult": 5500,
+     "child": 5200
+    }
+   },
+   {
+    "season": "15.10.26 to 05.11.26 & 16.11.26 to 23.12.26 & 03.01.27 to 31.03.27 (Except long Weekends) (Regular) Only Breakfast",
+    "room": "Exotica Jacuzzi / Mountain View AC",
+    "n3": {
+     "couple": 30000,
+     "extraAdult": 7300,
+     "child": 6700
+    },
+    "n2": {
+     "couple": 21400,
+     "extraAdult": 5500,
+     "child": 5200
+    }
+   },
+   {
+    "season": "15.10.26 to 05.11.26 & 16.11.26 to 23.12.26 & 03.01.27 to 31.03.27 (Except long Weekends) (Regular) Only Breakfast",
+    "room": "Aqua Suite AC (for 4)",
+    "n3": {
+     "couple": 65800,
+     "extraAdult": 7300,
+     "child": 6700
+    },
+    "n2": {
+     "couple": 46600,
+     "extraAdult": 5500,
+     "child": 5200
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 24.12.26 to 02.01.2027 & 15.05.27 to 15.06.27 (All Meals) (Diwali &Christmas)",
+    "room": "Elegant / Grand AC",
+    "n3": {
+     "couple": 42900,
+     "extraAdult": 10400,
+     "child": 9500
+    },
+    "n2": {
+     "couple": 30100,
+     "extraAdult": 7700,
+     "child": 7100
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 24.12.26 to 02.01.2027 & 15.05.27 to 15.06.27 (All Meals) (Diwali &Christmas)",
+    "room": "Grand Classic / Elegant Classic AC",
+    "n3": {
+     "couple": 45800,
+     "extraAdult": 10400,
+     "child": 9500
+    },
+    "n2": {
+     "couple": 32100,
+     "extraAdult": 7700,
+     "child": 7100
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 24.12.26 to 02.01.2027 & 15.05.27 to 15.06.27 (All Meals) (Diwali &Christmas)",
+    "room": "Exotica Jacuzzi / Mountain View AC",
+    "n3": {
+     "couple": 47200,
+     "extraAdult": 10400,
+     "child": 9500
+    },
+    "n2": {
+     "couple": 33000,
+     "extraAdult": 7700,
+     "child": 7100
+    }
+   },
+   {
+    "season": "06.11.26 to 15.11.26 & 24.12.26 to 02.01.2027 & 15.05.27 to 15.06.27 (All Meals) (Diwali &Christmas)",
+    "room": "Aqua Suite (for 4) AC",
+    "n3": {
+     "couple": 98500,
+     "extraAdult": 10400,
+     "child": 9500
+    },
+    "n2": {
+     "couple": 68700,
+     "extraAdult": 7700,
+     "child": 7100
+    }
+   }
+  ]
+ }
+]
