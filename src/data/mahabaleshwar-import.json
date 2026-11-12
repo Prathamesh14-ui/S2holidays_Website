@@ -1,0 +1,793 @@
+{
+ "photos": {
+  "MHB-01": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Venna_Lake%2C_Mahabaleshwar.jpg/1920px-Venna_Lake%2C_Mahabaleshwar.jpg",
+   "alt": "Venna Lake in Mahabaleshwar",
+   "credit": "Rdglobetrekker / Wikimedia Commons, CC BY-SA 3.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Venna_Lake,_Mahabaleshwar.jpg"
+  },
+  "MHB-02": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Waterfall_Valley_Mahabaleshwar.jpg/1920px-Waterfall_Valley_Mahabaleshwar.jpg",
+   "alt": "Waterfall in a green valley near Mahabaleshwar",
+   "credit": "Shiivamsharma / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Waterfall_Valley_Mahabaleshwar.jpg"
+  },
+  "MHB-03": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Arthur%27s_Seat_Mahabaleshwar.JPG/1920px-Arthur%27s_Seat_Mahabaleshwar.JPG",
+   "alt": "Valley view from Arthur's Seat, Mahabaleshwar",
+   "credit": "Rishabh Tatiraju / Wikimedia Commons, CC BY-SA 3.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Arthur%27s_Seat_Mahabaleshwar.JPG"
+  },
+  "MHB-04": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Table_Land_2.jpg/1920px-Table_Land_2.jpg",
+   "alt": "Table Land plateau in Panchgani",
+   "credit": "Rangan Datta Wiki / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Table_Land_2.jpg"
+  },
+  "MHB-05": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pratapgad_The_Fort_of_Valour.jpg/1920px-Pratapgad_The_Fort_of_Valour.jpg",
+   "alt": "Pratapgad Fort near Mahabaleshwar",
+   "credit": "Neeraj Rane / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Pratapgad_The_Fort_of_Valour.jpg"
+  },
+  "D:mahabaleshwar": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mahabaleshwar_hill.jpg/1920px-Mahabaleshwar_hill.jpg",
+   "alt": "Green hills of Mahabaleshwar",
+   "credit": "Capt. Anupam Prabhakara / Wikimedia Commons, CC BY-SA 4.0",
+   "creditUrl": "https://commons.wikimedia.org/wiki/File:Mahabaleshwar_hill.jpg"
+  }
+ },
+ "destination": {
+  "slug": "mahabaleshwar",
+  "name": "Mahabaleshwar",
+  "region": "domestic",
+  "state": "Maharashtra",
+  "country": "India",
+  "image": null,
+  "bestTimeToVisit": "October to June. July–September is the monsoon – green and misty with waterfalls, but some viewpoints and Venna Lake boating may close; strawberry season is about December to March."
+ },
+ "packages": [
+  {
+   "kbId": "MHB-01",
+   "slug": "mahabaleshwar-budget-weekend-by-bus-2n-3d",
+   "title": "Mahabaleshwar Budget Weekend by Bus 2N/3D",
+   "destination": "mahabaleshwar",
+   "region": "domestic",
+   "themes": [
+    "Friends",
+    "Weekend getaway",
+    "Budget"
+   ],
+   "durationNights": 2,
+   "durationDays": 3,
+   "price": {
+    "amount": 3500,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Best-value Mahabaleshwar weekend in the main market, all meals and sightseeing included.",
+   "highlights": [
+    "Best-value Mahabaleshwar weekend in the main market",
+    "all meals and sightseeing included."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Mumbai – Mahabaleshwar & Viewpoints",
+     "description": "Board the morning AC bus from Mumbai (boarding point and time confirmed at booking) and reach Mahabaleshwar around late morning. Check in and have lunch, then a shared car tour of Arthur's Seat, Elephant's Head (Needle Hole) Point, Kate's Point and Venna Lake (boating at own cost). Evening in the main market. Overnight stay in Mahabaleshwar.",
+     "meals": [
+      "Lunch",
+      "Dinner"
+     ],
+     "overnight": "Mahabaleshwar hotel"
+    },
+    {
+     "day": 2,
+     "title": "Panchgani Sightseeing",
+     "description": "Breakfast and a shared car trip to Panchgani – the wide Table Land plateau, Parsi Point over the Krishna valley and Sydney Point – with a stop at the Mapro Garden food park on the way back. Evening free. Overnight stay in Mahabaleshwar.",
+     "meals": [
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+     ],
+     "overnight": "Mahabaleshwar hotel"
+    },
+    {
+     "day": 3,
+     "title": "Mahabaleshwar – Mumbai",
+     "description": "Breakfast and check-out, then board the AC bus back to Mumbai (reaching by afternoon/evening, depending on traffic). Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "Return AC seater bus Mumbai – Mahabaleshwar – Mumbai",
+    "2 nights at Hotel Sangam (main market) (Deluxe Non-AC)",
+    "Meals: breakfast, lunch and dinner",
+    "Sightseeing on two days by shared non-AC car (about 3 hours each)"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Boating, horse/pony rides and entry tickets",
+    "Pratapgad / Tapola excursions (optional, own cost)",
+    "Peak-season supplements (Diwali, Christmas–New Year, long weekends)"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Mumbai → Mahabaleshwar (2N) → Mumbai"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Budget",
+      "2 nights at Hotel Sangam (main market), Deluxe Non-AC. Meals: breakfast, lunch and dinner. Hotel and room are as per the current rate list – availability confirmed at booking.",
+      "Deluxe Non-AC"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Arthur's Seat, Elephant's Head Point, Kate's Point, Venna Lake, Mahabaleshwar temple, Panchgani Table Land, Parsi Point, Sydney Point, Mapro Garden."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Valley viewpoints, Venna Lake (boating own cost), Panchgani plateau."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "breakfast, lunch and dinner – the package starts with lunch on arrival day and ends with breakfast on departure day."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "AC seater bus (not Volvo / not sleeper) from Mumbai and back; shared non-AC car for sightseeing (about 3 hours on two days).",
+      "Bus drops near the hotel / bus stand; hotel transfer as arranged."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing (couple price ÷ 2), regular season, including return AC bus from Mumbai. Based on Hotel Sangam (main market) – Deluxe Non-AC."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to June. July–September is the monsoon – green and misty with waterfalls, but some viewpoints and Venna Lake boating may close; strawberry season is about December to March."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Prices are for the regular season and exclude Diwali, Christmas–New Year and long weekends, when hotel rates are higher – see the Mahabaleshwar hotel packages page for every season. Check-in is usually around 11:00 am and check-out around 8:30–9:00 am. A government photo ID is required for every guest. Early check-in or late check-out is charged at actual. Cancellation: more than 14 days before arrival 20% retained; 7–14 days 30%; within 7 days 100%."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "MHB-02",
+   "slug": "mahabaleshwar-pool-resort-getaway-2n-3d",
+   "title": "Mahabaleshwar Pool Resort Getaway 2N/3D",
+   "destination": "mahabaleshwar",
+   "region": "domestic",
+   "themes": [
+    "Couples",
+    "Family"
+   ],
+   "durationNights": 2,
+   "durationDays": 3,
+   "price": {
+    "amount": 6000,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Comfortable 2★ hotel with a pool about 1 km from the bus stand, all meals and sightseeing included.",
+   "highlights": [
+    "Comfortable 2★ hotel with a pool about 1 km from the bus stand",
+    "all meals and sightseeing included."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Mumbai – Mahabaleshwar & Viewpoints",
+     "description": "Board the morning AC bus from Mumbai (boarding point and time confirmed at booking) and reach Mahabaleshwar around late morning. Check in and have lunch, then a shared car tour of Arthur's Seat, Elephant's Head (Needle Hole) Point, Kate's Point and Venna Lake (boating at own cost). Evening in the main market. Overnight stay in Mahabaleshwar.",
+     "meals": [
+      "Lunch",
+      "Dinner"
+     ],
+     "overnight": "Mahabaleshwar hotel"
+    },
+    {
+     "day": 2,
+     "title": "Panchgani Sightseeing",
+     "description": "Breakfast and a shared car trip to Panchgani – the wide Table Land plateau, Parsi Point over the Krishna valley and Sydney Point – with a stop at the Mapro Garden food park on the way back. Evening free. Overnight stay in Mahabaleshwar.",
+     "meals": [
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+     ],
+     "overnight": "Mahabaleshwar hotel"
+    },
+    {
+     "day": 3,
+     "title": "Mahabaleshwar – Mumbai",
+     "description": "Breakfast and check-out, then board the AC bus back to Mumbai (reaching by afternoon/evening, depending on traffic). Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "Return AC seater bus Mumbai – Mahabaleshwar – Mumbai",
+    "2 nights at Hotel Bharat (2★, swimming pool) (Deluxe AC)",
+    "Meals: breakfast, lunch and dinner",
+    "Sightseeing on two days by shared non-AC car (about 3 hours each)"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Boating, horse/pony rides and entry tickets",
+    "Pratapgad / Tapola excursions (optional, own cost)",
+    "Peak-season supplements (Diwali, Christmas–New Year, long weekends)"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Mumbai → Mahabaleshwar (2N) → Mumbai"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Hotel as named",
+      "2 nights at Hotel Bharat (2★, swimming pool), Deluxe AC. Meals: breakfast, lunch and dinner. Hotel and room are as per the current rate list – availability confirmed at booking.",
+      "Deluxe AC"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Arthur's Seat, Elephant's Head Point, Kate's Point, Venna Lake, Mahabaleshwar temple, Panchgani Table Land, Parsi Point, Sydney Point, Mapro Garden."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Valley viewpoints, Venna Lake (boating own cost), Panchgani plateau."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "breakfast, lunch and dinner – the package starts with lunch on arrival day and ends with breakfast on departure day."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "AC seater bus (not Volvo / not sleeper) from Mumbai and back; shared non-AC car for sightseeing (about 3 hours on two days).",
+      "Bus drops near the hotel / bus stand; hotel transfer as arranged."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing (couple price ÷ 2), regular season, including return AC bus from Mumbai. Based on Hotel Bharat (2★, swimming pool) – Deluxe AC."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to June. July–September is the monsoon – green and misty with waterfalls, but some viewpoints and Venna Lake boating may close; strawberry season is about December to March."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Prices are for the regular season and exclude Diwali, Christmas–New Year and long weekends, when hotel rates are higher – see the Mahabaleshwar hotel packages page for every season. Check-in is usually around 11:00 am and check-out around 8:30–9:00 am. A government photo ID is required for every guest. Early check-in or late check-out is charged at actual. Cancellation: more than 14 days before arrival 20% retained; 7–14 days 30%; within 7 days 100%."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "MHB-03",
+   "slug": "mahabaleshwar-honeymoon-with-jacuzzi-cabana-2n-3d",
+   "title": "Mahabaleshwar Honeymoon with Jacuzzi Cabana 2N/3D",
+   "destination": "mahabaleshwar",
+   "region": "domestic",
+   "themes": [
+    "Honeymoon",
+    "Couples"
+   ],
+   "durationNights": 2,
+   "durationDays": 3,
+   "price": {
+    "amount": 21200,
+    "currency": "INR",
+    "basis": "per couple",
+    "show": false
+   },
+   "summary": "Private jacuzzi cabana, honeymoon cake, bed decoration and a candle-light dinner.",
+   "highlights": [
+    "Private jacuzzi cabana, honeymoon cake, bed decoration and a candle-light dinner."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Mumbai – Mahabaleshwar & Viewpoints",
+     "description": "Board the morning AC bus from Mumbai (boarding point and time confirmed at booking) and reach Mahabaleshwar around late morning. Check in and have lunch, then a shared car tour of Arthur's Seat, Elephant's Head (Needle Hole) Point, Kate's Point and Venna Lake (boating at own cost). Evening in the main market. Overnight stay in Mahabaleshwar.",
+     "meals": [
+      "Lunch",
+      "Dinner"
+     ],
+     "overnight": "Mahabaleshwar hotel"
+    },
+    {
+     "day": 2,
+     "title": "Panchgani Sightseeing",
+     "description": "Breakfast and a shared car trip to Panchgani – the wide Table Land plateau, Parsi Point over the Krishna valley and Sydney Point – with a stop at the Mapro Garden food park on the way back. Evening free. Overnight stay in Mahabaleshwar.",
+     "meals": [
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+     ],
+     "overnight": "Mahabaleshwar hotel"
+    },
+    {
+     "day": 3,
+     "title": "Mahabaleshwar – Mumbai",
+     "description": "Breakfast and check-out, then board the AC bus back to Mumbai (reaching by afternoon/evening, depending on traffic). Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "Return AC seater bus Mumbai – Mahabaleshwar – Mumbai",
+    "2 nights at Hotel Regal (2★, swimming pool) (Kabana AC with Jacuzzi)",
+    "Meals: breakfast, lunch and dinner",
+    "Sightseeing on two days by shared non-AC car (about 3 hours each)",
+    "Honeymoon add-on: cake, masala milk, bed decoration and one candle-light dinner"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Boating, horse/pony rides and entry tickets",
+    "Pratapgad / Tapola excursions (optional, own cost)",
+    "Peak-season supplements (Diwali, Christmas–New Year, long weekends)"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Mumbai → Mahabaleshwar (2N) → Mumbai"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Hotel as named",
+      "2 nights at Hotel Regal (2★, swimming pool), Kabana AC with Jacuzzi. Meals: breakfast, lunch and dinner. Hotel and room are as per the current rate list – availability confirmed at booking.",
+      "Kabana AC with Jacuzzi"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Arthur's Seat, Elephant's Head Point, Kate's Point, Venna Lake, Mahabaleshwar temple, Panchgani Table Land, Parsi Point, Sydney Point, Mapro Garden."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Valley viewpoints, Venna Lake (boating own cost), Panchgani plateau; honeymoon cake, bed decoration and candle-light dinner."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "breakfast, lunch and dinner – the package starts with lunch on arrival day and ends with breakfast on departure day."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "AC seater bus (not Volvo / not sleeper) from Mumbai and back; shared non-AC car for sightseeing (about 3 hours on two days).",
+      "Bus drops near the hotel / bus stand; hotel transfer as arranged."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per couple, regular season, including return AC bus from Mumbai. Based on Hotel Regal (2★, swimming pool) – Kabana AC with Jacuzzi, honeymoon add-on included."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to June. July–September is the monsoon – green and misty with waterfalls, but some viewpoints and Venna Lake boating may close; strawberry season is about December to March."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Prices are for the regular season and exclude Diwali, Christmas–New Year and long weekends, when hotel rates are higher – see the Mahabaleshwar hotel packages page for every season. Check-in is usually around 11:00 am and check-out around 8:30–9:00 am. A government photo ID is required for every guest. Early check-in or late check-out is charged at actual. Cancellation: more than 14 days before arrival 20% retained; 7–14 days 30%; within 7 days 100%."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "MHB-04",
+   "slug": "mahabaleshwar-and-panchgani-family-holiday-3n-4d",
+   "title": "Mahabaleshwar & Panchgani Family Holiday 3N/4D",
+   "destination": "mahabaleshwar",
+   "region": "domestic",
+   "themes": [
+    "Family"
+   ],
+   "durationNights": 3,
+   "durationDays": 4,
+   "price": {
+    "amount": 7000,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "Three nights with Mahabaleshwar points and a full Panchgani day, hotel with a pool.",
+   "highlights": [
+    "Three nights with Mahabaleshwar points and a full Panchgani day",
+    "hotel with a pool."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Mumbai – Mahabaleshwar",
+     "description": "Board the morning AC bus from Mumbai (boarding point and time confirmed at booking) and reach Mahabaleshwar around late morning. Check in, have lunch at the hotel and spend the evening at the main market – try strawberries with cream, chikki and fudge. Overnight stay in Mahabaleshwar.",
+     "meals": [
+      "Lunch",
+      "Dinner"
+     ],
+     "overnight": "Mahabaleshwar hotel"
+    },
+    {
+     "day": 2,
+     "title": "Mahabaleshwar Viewpoints & Venna Lake",
+     "description": "After breakfast, a shared car tour of the best-known viewpoints – Arthur's Seat above the Savitri valley, Elephant's Head (Needle Hole) Point and Kate's Point – and the old Mahabaleshwar temple. Afternoon at Venna Lake for boating or a pony ride (own cost). Overnight stay in Mahabaleshwar.",
+     "meals": [
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+     ],
+     "overnight": "Mahabaleshwar hotel"
+    },
+    {
+     "day": 3,
+     "title": "Panchgani Sightseeing",
+     "description": "Breakfast and a shared car trip to Panchgani – the wide Table Land plateau, Parsi Point over the Krishna valley and Sydney Point – with a stop at the Mapro Garden food park on the way back. Evening free. Overnight stay in Mahabaleshwar.",
+     "meals": [
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+     ],
+     "overnight": "Mahabaleshwar hotel"
+    },
+    {
+     "day": 4,
+     "title": "Mahabaleshwar – Mumbai",
+     "description": "Breakfast and check-out, then board the AC bus back to Mumbai (reaching by afternoon/evening, depending on traffic). Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "Return AC seater bus Mumbai – Mahabaleshwar – Mumbai",
+    "3 nights at Hotel Sunny International (swimming pool) (Club AC)",
+    "Meals: breakfast, lunch and dinner",
+    "Sightseeing on two days by shared non-AC car (about 3 hours each)"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Boating, horse/pony rides and entry tickets",
+    "Pratapgad / Tapola excursions (optional, own cost)",
+    "Peak-season supplements (Diwali, Christmas–New Year, long weekends)"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Mumbai → Mahabaleshwar (3N) → Mumbai"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Hotel as named",
+      "3 nights at Hotel Sunny International (swimming pool), Club AC. Meals: breakfast, lunch and dinner. Hotel and room are as per the current rate list – availability confirmed at booking.",
+      "Club AC"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Arthur's Seat, Elephant's Head Point, Kate's Point, Venna Lake, Mahabaleshwar temple, Panchgani Table Land, Parsi Point, Sydney Point, Mapro Garden."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Valley viewpoints, Venna Lake (boating own cost), Panchgani plateau."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "breakfast, lunch and dinner – the package starts with lunch on arrival day and ends with breakfast on departure day."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "AC seater bus (not Volvo / not sleeper) from Mumbai and back; shared non-AC car for sightseeing (about 3 hours on two days).",
+      "Bus drops near the hotel / bus stand; hotel transfer as arranged."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing (couple price ÷ 2), regular season, including return AC bus from Mumbai. Based on Hotel Sunny International (swimming pool) – Club AC."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to June. July–September is the monsoon – green and misty with waterfalls, but some viewpoints and Venna Lake boating may close; strawberry season is about December to March."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Prices are for the regular season and exclude Diwali, Christmas–New Year and long weekends, when hotel rates are higher – see the Mahabaleshwar hotel packages page for every season. Check-in is usually around 11:00 am and check-out around 8:30–9:00 am. A government photo ID is required for every guest. Early check-in or late check-out is charged at actual. Cancellation: more than 14 days before arrival 20% retained; 7–14 days 30%; within 7 days 100%."
+     ]
+    }
+   ],
+   "featured": true,
+   "imageBorrowed": false
+  },
+  {
+   "kbId": "MHB-05",
+   "slug": "premium-mahabaleshwar-spa-resort-stay-3n-4d",
+   "title": "Premium Mahabaleshwar Spa Resort Stay 3N/4D",
+   "destination": "mahabaleshwar",
+   "region": "domestic",
+   "themes": [
+    "Couples",
+    "Family"
+   ],
+   "durationNights": 3,
+   "durationDays": 4,
+   "price": {
+    "amount": 18400,
+    "currency": "INR",
+    "basis": "per person",
+    "show": false
+   },
+   "summary": "3★ spa resort with mountain views, all meals, and a free day for Pratapgad or Tapola.",
+   "highlights": [
+    "3★ spa resort with mountain views, all meals, and a free day for Pratapgad or Tapola."
+   ],
+   "image": null,
+   "itinerary": [
+    {
+     "day": 1,
+     "title": "Mumbai – Mahabaleshwar & Viewpoints",
+     "description": "Board the morning AC bus from Mumbai (boarding point and time confirmed at booking) and reach Mahabaleshwar around late morning. Check in and have lunch, then a shared car tour of Arthur's Seat, Elephant's Head (Needle Hole) Point, Kate's Point and Venna Lake (boating at own cost). Evening in the main market. Overnight stay in Mahabaleshwar.",
+     "meals": [
+      "Lunch",
+      "Dinner"
+     ],
+     "overnight": "Mahabaleshwar hotel"
+    },
+    {
+     "day": 2,
+     "title": "Panchgani Sightseeing",
+     "description": "Breakfast and a shared car trip to Panchgani – the wide Table Land plateau, Parsi Point over the Krishna valley and Sydney Point – with a stop at the Mapro Garden food park on the way back. Evening free. Overnight stay in Mahabaleshwar.",
+     "meals": [
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+     ],
+     "overnight": "Mahabaleshwar hotel"
+    },
+    {
+     "day": 3,
+     "title": "Free Day – Pratapgad or Tapola (optional)",
+     "description": "A free day at the hotel, or an optional private taxi (own cost) to Pratapgad Fort, built by Chhatrapati Shivaji Maharaj, or to Tapola for boating on Shivsagar Lake. Lingmala waterfall is best just after the monsoon. Overnight stay in Mahabaleshwar.",
+     "meals": [
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+     ],
+     "overnight": "Mahabaleshwar hotel"
+    },
+    {
+     "day": 4,
+     "title": "Mahabaleshwar – Mumbai",
+     "description": "Breakfast and check-out, then board the AC bus back to Mumbai (reaching by afternoon/evening, depending on traffic). Tour ends.",
+     "meals": [
+      "Breakfast"
+     ],
+     "overnight": "Not applicable (departure day)"
+    }
+   ],
+   "inclusions": [
+    "Return AC seater bus Mumbai – Mahabaleshwar – Mumbai",
+    "3 nights at The Grand Legacy & Spa Resort (3★) (Elegant / Grand AC)",
+    "Meals: breakfast, lunch and dinner",
+    "Sightseeing on two days by shared non-AC car (about 3 hours each)",
+    "Separate taxi for sightseeing (hotel requirement)"
+   ],
+   "exclusions": [
+    "Air fare / train fare / bus fare to and from the starting point",
+    "GST (currently 5% on tour packages) – to be confirmed at booking",
+    "Monument, park, garden and museum entry fees; camera fees",
+    "Meals not mentioned in the inclusions",
+    "Adventure activities, rides and optional excursions unless listed in inclusions",
+    "Personal expenses: laundry, phone calls, tips, porterage, drinks, room heater",
+    "Travel insurance",
+    "Extra cost due to road blocks, landslides, weather, strikes or flight/train delays",
+    "Anything not listed under inclusions",
+    "Boating, horse/pony rides and entry tickets",
+    "Pratapgad / Tapola excursions (optional, own cost)",
+    "Peak-season supplements (Diwali, Christmas–New Year, long weekends)"
+   ],
+   "notes": [
+    {
+     "heading": "Route",
+     "lines": [
+      "Mumbai → Mahabaleshwar (3N) → Mumbai"
+     ]
+    },
+    {
+     "heading": "Hotels",
+     "lines": [
+      "Hotel as named",
+      "3 nights at The Grand Legacy & Spa Resort (3★), Elegant / Grand AC. Meals: breakfast, lunch and dinner. Hotel and room are as per the current rate list – availability confirmed at booking.",
+      "Elegant / Grand AC"
+     ]
+    },
+    {
+     "heading": "Sightseeing",
+     "lines": [
+      "Arthur's Seat, Elephant's Head Point, Kate's Point, Venna Lake, Mahabaleshwar temple, Panchgani Table Land, Parsi Point, Sydney Point, Mapro Garden."
+     ]
+    },
+    {
+     "heading": "Activities",
+     "lines": [
+      "Valley viewpoints, Venna Lake (boating own cost), Panchgani plateau."
+     ]
+    },
+    {
+     "heading": "Meals",
+     "lines": [
+      "breakfast, lunch and dinner – the package starts with lunch on arrival day and ends with breakfast on departure day."
+     ]
+    },
+    {
+     "heading": "Transport & transfers",
+     "lines": [
+      "AC seater bus (not Volvo / not sleeper) from Mumbai and back; shared non-AC car for sightseeing (about 3 hours on two days) (a separate private taxi for sightseeing is included for this hotel).",
+      "Bus drops near the hotel / bus stand; hotel transfer as arranged."
+     ]
+    },
+    {
+     "heading": "Package basis",
+     "lines": [
+      "Per person on twin sharing (couple price ÷ 2), regular season, including return AC bus from Mumbai. Based on The Grand Legacy & Spa Resort (3★) – Elegant / Grand AC, separate taxi for sightseeing included."
+     ]
+    },
+    {
+     "heading": "Customisation",
+     "lines": [
+      "Yes – dates, hotel category, number of nights, vehicle, sightseeing and meal plan can be changed. Flights or trains can be added on request. Final price confirmed by the S2 Holidays team."
+     ]
+    },
+    {
+     "heading": "Best time to visit",
+     "lines": [
+      "October to June. July–September is the monsoon – green and misty with waterfalls, but some viewpoints and Venna Lake boating may close; strawberry season is about December to March."
+     ]
+    },
+    {
+     "heading": "Important notes",
+     "lines": [
+      "Prices are indicative starting prices and may change with season, hotel availability and group size. Exact hotel names, final price and availability are confirmed by the S2 Holidays team before booking. Prices are for the regular season and exclude Diwali, Christmas–New Year and long weekends, when hotel rates are higher – see the Mahabaleshwar hotel packages page for every season. Check-in is usually around 11:00 am and check-out around 8:30–9:00 am. A government photo ID is required for every guest. Early check-in or late check-out is charged at actual. Cancellation: more than 14 days before arrival 20% retained; 7–14 days 30%; within 7 days 100%. This resort is about 6 km from the main market, so a separate taxi for sightseeing (₹1,600 per couple) is included in the price."
+     ]
+    }
+   ],
+   "featured": false,
+   "imageBorrowed": false
+  }
+ ]
+}
