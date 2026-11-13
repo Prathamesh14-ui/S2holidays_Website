@@ -150,6 +150,27 @@ export const siteSettings = defineType({
       validation: (r) => r.max(8),
     }),
     defineField({
+      name: "goaHeroSlides",
+      title: "Goa hotel rates page photos",
+      type: "array",
+      group: "home",
+      description:
+        "Photos for the top of the Goa hotel rates page (landscape, no text printed on them). One photo = a still banner; two or more = a slideshow. If empty, a plain dark banner is shown.",
+      of: [
+        defineArrayMember({
+          type: "object",
+          name: "goaHeroSlide",
+          fields: [
+            imageField("image", "Photo", { required: true }),
+            defineField({ name: "caption", title: "Caption", type: "string", description: "Short label shown in the corner, e.g. “Kerala backwaters”." }),
+            defineField({ name: "destination", title: "Link to destination", type: "reference", to: [{ type: "destination" }] }),
+          ],
+          preview: { select: { title: "caption", subtitle: "destination.name", media: "image" } },
+        }),
+      ],
+      validation: (r) => r.max(8),
+    }),
+    defineField({
       name: "announcement",
       title: "Announcement bar",
       type: "object",

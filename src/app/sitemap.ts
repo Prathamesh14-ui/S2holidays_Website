@@ -22,6 +22,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     ["/privacy-policy", 0.2],
     ["/terms", 0.2],
     ["/mahabaleshwar-hotel-packages", 0.6],
+    ["/goa-hotel-rates", 0.6],
     ["/photo-credits", 0.1],
   ] as const;
   return [

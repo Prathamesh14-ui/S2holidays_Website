@@ -168,6 +168,8 @@ export type SiteSettings = {
   packagesHeroSlides?: HeroSlide[];
   /** Mahabaleshwar hotel packages page banner photos (plain banner if empty). */
   mahabaleshwarHeroSlides?: HeroSlide[];
+  /** Goa hotel rates page banner photos (plain banner if empty). */
+  goaHeroSlides?: HeroSlide[];
   announcement?: Announcement;
   homepageSections?: string[];
   aboutTitle?: string;

@@ -57,6 +57,13 @@ export default async function PackagePage({ params }: PageProps<"/packages/[slug
       value: "See all hotel prices →",
       href: "/mahabaleshwar-hotel-packages",
     },
+    // Goa trips: link to the Goa hotel rate list
+    p.destinations.some((d) => d.slug === "goa") && {
+      icon: BedDouble,
+      label: "Goa hotel rates",
+      value: "See all hotel prices →",
+      href: "/goa-hotel-rates",
+    },
   ].filter(Boolean) as { icon: typeof MapPin; label: string; value: string; href?: string }[];
 
   const enquiry = (

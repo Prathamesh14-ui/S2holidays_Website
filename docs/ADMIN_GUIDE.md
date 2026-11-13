@@ -158,6 +158,8 @@ To show different photos there, add them under **Site settings → Homepage → 
 **Mahabaleshwar hotel packages page banner:** add photos under **Site settings → Homepage → Mahabaleshwar hotel
 packages page photos**. If empty, the page shows a plain dark banner.
 
+**Goa hotel rates page banner:** add photos under **Site settings → Homepage → Goa hotel rates page photos**. If empty, a plain dark banner is shown.
+
 ## Images: tips
 
 - Use your own photos or properly licensed stock. Don't copy images from other websites.

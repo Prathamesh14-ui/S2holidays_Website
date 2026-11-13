@@ -1,0 +1,6027 @@
+{
+ "hotels": [
+  {
+   "name": "Alisha Resort",
+   "category": "Budget",
+   "area": "Baga",
+   "notes": [],
+   "fromPrice": 2600,
+   "rates": [
+    {
+     "room": "Deluxe AC Room",
+     "season": "Season (19.10.26 – 23.12.26)",
+     "cp": {
+      "double": 2600,
+      "extraAdult": 800,
+      "childBed": 800,
+      "child": 700
+     },
+     "map": {
+      "double": 3300,
+      "extraAdult": 1200,
+      "childBed": 1200,
+      "child": 1000
+     }
+    },
+    {
+     "room": "Deluxe AC Room",
+     "season": "Diwali (06.11.26 – 15.11.26)",
+     "cp": {
+      "double": 4000,
+      "extraAdult": 1100,
+      "childBed": 1100,
+      "child": 900
+     },
+     "map": {
+      "double": 4800,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Deluxe AC Room",
+     "season": "Christmas (24.12.26 – 29.12.26)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Deluxe AC Room",
+     "season": "New year (30.12.26 – 03.01.27)",
+     "cp": {
+      "double": 5200,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 1100
+     },
+     "map": {
+      "double": 6000,
+      "extraAdult": 1700,
+      "childBed": 1700,
+      "child": 1450
+     }
+    }
+   ]
+  },
+  {
+   "name": "Bay Boutique",
+   "category": "Budget",
+   "area": "Near Calangute beach",
+   "notes": [],
+   "fromPrice": 2800,
+   "rates": [
+    {
+     "room": "Deluxe with balcony (max 3 guests)",
+     "season": "Season (15.10.26 – 31.03.27)",
+     "cp": {
+      "double": 2800,
+      "extraAdult": 900,
+      "childBed": 900,
+      "child": 700
+     },
+     "map": {
+      "double": 3400,
+      "extraAdult": 1200,
+      "childBed": 1200,
+      "child": 900
+     }
+    },
+    {
+     "room": "Deluxe with balcony (max 3 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 3300,
+      "extraAdult": 1000,
+      "childBed": 1000,
+      "child": 800
+     },
+     "map": {
+      "double": 4000,
+      "extraAdult": 1300,
+      "childBed": 1200,
+      "child": 1000
+     }
+    },
+    {
+     "room": "Deluxe with balcony (max 3 guests)",
+     "season": "Christmas (23.12.26 – 29.12.26)",
+     "cp": {
+      "double": 4300,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1300
+     },
+     "map": {
+      "double": 5000,
+      "extraAdult": 1700,
+      "childBed": 1700,
+      "child": 1500
+     }
+    },
+    {
+     "room": "Deluxe with balcony (max 3 guests)",
+     "season": "New year (29.12.26 – 03.01.27)",
+     "cp": {
+      "double": 5000,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1500
+     },
+     "map": {
+      "double": 5700,
+      "extraAdult": 1900,
+      "childBed": 1900,
+      "child": 1900
+     }
+    },
+    {
+     "room": "Super deluxe pool view with balcony (max 3 guests)",
+     "season": "Season (16.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3100,
+      "extraAdult": 900,
+      "childBed": 900,
+      "child": 700
+     },
+     "map": {
+      "double": 3700,
+      "extraAdult": 1300,
+      "childBed": 1200,
+      "child": 900
+     }
+    },
+    {
+     "room": "Super deluxe pool view with balcony (max 3 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 3700,
+      "extraAdult": 1000,
+      "childBed": 1000,
+      "child": 800
+     },
+     "map": {
+      "double": 4400,
+      "extraAdult": 1200,
+      "childBed": 1200,
+      "child": 1000
+     }
+    },
+    {
+     "room": "Super deluxe pool view with balcony (max 3 guests)",
+     "season": "Christmas + new year (23.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Camelot Fantasy Resort",
+   "category": "Budget",
+   "area": "Baga",
+   "notes": [
+    "No lift – rooms may be up a few floors"
+   ],
+   "fromPrice": 2600,
+   "rates": [
+    {
+     "room": "Super Deluxe (max 4 guests)",
+     "season": "Season (15.10.26 – 31.03.27)",
+     "cp": {
+      "double": 2600,
+      "extraAdult": 800,
+      "childBed": 800,
+      "child": 650
+     },
+     "map": {
+      "double": 3000,
+      "extraAdult": 1050,
+      "childBed": 1050,
+      "child": 800
+     }
+    },
+    {
+     "room": "Super Deluxe (max 4 guests)",
+     "season": "Diwali (08.11.26 – 13.11.26)",
+     "cp": {
+      "double": 3200,
+      "extraAdult": 800,
+      "childBed": 800,
+      "child": 650
+     },
+     "map": {
+      "double": 3600,
+      "extraAdult": 1050,
+      "childBed": 1050,
+      "child": 800
+     }
+    },
+    {
+     "room": "Super Deluxe (max 4 guests)",
+     "season": "Christmas (23.12.26 – 27.12.26)",
+     "cp": {
+      "double": 4500,
+      "extraAdult": 1000,
+      "childBed": 1000,
+      "child": 800
+     },
+     "map": {
+      "double": 5200,
+      "extraAdult": 1400,
+      "childBed": 1400,
+      "child": 1000
+     }
+    },
+    {
+     "room": "Super Deluxe (max 4 guests)",
+     "season": "New year (28.12.26 – 02.01.27)",
+     "cp": {
+      "double": 5000,
+      "extraAdult": 1200,
+      "childBed": 1200,
+      "child": 1000
+     },
+     "map": {
+      "double": 5700,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Luxury Cottage (max 3 guests)",
+     "season": "Season (15.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3100,
+      "extraAdult": 800,
+      "childBed": 800,
+      "child": 650
+     },
+     "map": {
+      "double": 3500,
+      "extraAdult": 1050,
+      "childBed": 1050,
+      "child": 800
+     }
+    },
+    {
+     "room": "Luxury Cottage (max 3 guests)",
+     "season": "Diwali (08.11.26 – 13.11.26)",
+     "cp": {
+      "double": 3700,
+      "extraAdult": 1000,
+      "childBed": 1000,
+      "child": 800
+     },
+     "map": {
+      "double": 4100,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 1000
+     }
+    },
+    {
+     "room": "Luxury Cottage (max 3 guests)",
+     "season": "Christmas (23.12.26 – 23.12.26)",
+     "cp": {
+      "double": 5000,
+      "extraAdult": 1200,
+      "childBed": 1200,
+      "child": 1000
+     },
+     "map": {
+      "double": 5700,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Luxury Cottage (max 3 guests)",
+     "season": "New year (28.12.26 – 02.01.27)",
+     "cp": {
+      "double": 5500,
+      "extraAdult": 1200,
+      "childBed": 1200,
+      "child": 1000
+     },
+     "map": {
+      "double": 6200,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1200
+     }
+    }
+   ]
+  },
+  {
+   "name": "Goveia Grand Resort",
+   "category": "Budget",
+   "area": "Candolim",
+   "notes": [],
+   "fromPrice": 2200,
+   "rates": [
+    {
+     "room": "Deluxe with Balcony (max 4 guests)",
+     "season": "Season (16.10.26 – 31.03.27)",
+     "cp": {
+      "double": 2200,
+      "extraAdult": 700,
+      "childBed": 700,
+      "child": 600
+     },
+     "map": {
+      "double": 2600,
+      "extraAdult": 900,
+      "childBed": 900,
+      "child": 750
+     }
+    },
+    {
+     "room": "Deluxe with Balcony (max 4 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 2700,
+      "extraAdult": 700,
+      "childBed": 700,
+      "child": 600
+     },
+     "map": {
+      "double": 3100,
+      "extraAdult": 900,
+      "childBed": 900,
+      "child": 750
+     }
+    },
+    {
+     "room": "Deluxe with Balcony (max 4 guests)",
+     "season": "Xmas + new year (23.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Super Deluxe with Balcony (max 4 guests)",
+     "season": "Season (16.10.26 – 31.03.27)",
+     "cp": {
+      "double": 2600,
+      "extraAdult": 700,
+      "childBed": 700,
+      "child": 600
+     },
+     "map": {
+      "double": 3000,
+      "extraAdult": 900,
+      "childBed": 900,
+      "child": 750
+     }
+    },
+    {
+     "room": "Super Deluxe with Balcony (max 4 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 3100,
+      "extraAdult": 700,
+      "childBed": 700,
+      "child": 600
+     },
+     "map": {
+      "double": 3500,
+      "extraAdult": 900,
+      "childBed": 900,
+      "child": 750
+     }
+    },
+    {
+     "room": "Super Deluxe with Balcony (max 4 guests)",
+     "season": "Xmas + new year (23.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Maashpi Resort",
+   "category": "Budget",
+   "area": "Candolim",
+   "notes": [
+    "No lift – rooms may be up a few floors"
+   ],
+   "fromPrice": 3000,
+   "rates": [
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Season (16.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3000,
+      "extraAdult": 700,
+      "childBed": 700,
+      "child": 600
+     },
+     "map": {
+      "double": 3200,
+      "extraAdult": 900,
+      "childBed": 900,
+      "child": 800
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Diwali (08.11.26 – 24.11.26)",
+     "cp": {
+      "double": 3500,
+      "extraAdult": 900,
+      "childBed": 900,
+      "child": 900
+     },
+     "map": {
+      "double": 3800,
+      "extraAdult": 1000,
+      "childBed": 1000,
+      "child": 1000
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "New year (24.12.26 – 03.01.27)",
+     "cp": {
+      "double": 5300,
+      "extraAdult": 900,
+      "childBed": 900,
+      "child": 900
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Magnum Resort",
+   "category": "Budget",
+   "area": "Candolim",
+   "notes": [
+    "No lift – rooms may be up a few floors"
+   ],
+   "fromPrice": 2700,
+   "rates": [
+    {
+     "room": "Standard",
+     "season": "Season 1 (06.10.26 – 31.01.27)",
+     "cp": {
+      "double": 2700,
+      "extraAdult": 900,
+      "childBed": 700,
+      "child": 700
+     },
+     "map": {
+      "double": 3500,
+      "extraAdult": 1300,
+      "childBed": 1000,
+      "child": 1000
+     }
+    },
+    {
+     "room": "Standard",
+     "season": "Blackout (20.12.26 – 05.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Deluxe",
+     "season": "Season 1 (06.10.26 – 31.01.27)",
+     "cp": {
+      "double": 3100,
+      "extraAdult": 900,
+      "childBed": 700,
+      "child": 700
+     },
+     "map": {
+      "double": 3900,
+      "extraAdult": 1300,
+      "childBed": 1000,
+      "child": 1000
+     }
+    },
+    {
+     "room": "Deluxe",
+     "season": "Blackout (20.12.26 – 05.01.27)",
+     "cp": {
+      "double": 7800,
+      "extraAdult": 2600,
+      "childBed": 1000,
+      "child": 1000
+     },
+     "map": {
+      "double": 8800,
+      "extraAdult": 3100,
+      "childBed": 1500,
+      "child": 1500
+     }
+    },
+    {
+     "room": "Deluxe with balcony",
+     "season": "Season 1 (06.10.26 – 31.01.27)",
+     "cp": {
+      "double": 3500,
+      "extraAdult": 900,
+      "childBed": 700,
+      "child": 700
+     },
+     "map": {
+      "double": 4300,
+      "extraAdult": 1300,
+      "childBed": 1000,
+      "child": 1000
+     }
+    },
+    {
+     "room": "Deluxe with balcony",
+     "season": "Blackout (20.12.26 – 05.01.27)",
+     "cp": {
+      "double": 8400,
+      "extraAdult": 2600,
+      "childBed": 1000,
+      "child": 1000
+     },
+     "map": {
+      "double": 9400,
+      "extraAdult": 3100,
+      "childBed": 1500,
+      "child": 1500
+     }
+    },
+    {
+     "room": "Magnum suite",
+     "season": "Season 1 (06.10.26 – 31.01.27)",
+     "cp": {
+      "double": 4100,
+      "extraAdult": 900,
+      "childBed": 700,
+      "child": 700
+     },
+     "map": {
+      "double": 4900,
+      "extraAdult": 1300,
+      "childBed": 1000,
+      "child": 1000
+     }
+    },
+    {
+     "room": "Magnum suite",
+     "season": "Blackout (20.12.26 – 05.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Palmarinha De Goa",
+   "category": "Budget",
+   "area": "Calangute",
+   "notes": [],
+   "fromPrice": 2600,
+   "rates": [
+    {
+     "room": "Deluxe (max 4 guests)",
+     "season": "Season (15.10.26 – 31.03.27)",
+     "cp": {
+      "double": 2600,
+      "extraAdult": 1040,
+      "childBed": 1040,
+      "child": 750
+     },
+     "map": {
+      "double": 3100,
+      "extraAdult": 1240,
+      "childBed": 1240,
+      "child": 900
+     }
+    },
+    {
+     "room": "Deluxe (max 4 guests)",
+     "season": "Diwali (05.11.26 – 15.11.26)",
+     "cp": {
+      "double": 3100,
+      "extraAdult": 1240,
+      "childBed": 1240,
+      "child": 900
+     },
+     "map": {
+      "double": 3600,
+      "extraAdult": 1440,
+      "childBed": 1440,
+      "child": 1050
+     }
+    },
+    {
+     "room": "Deluxe (max 4 guests)",
+     "season": "Christmas + New year (23.12.26 – 01.01.27)",
+     "cp": {
+      "double": 4400,
+      "extraAdult": 1750,
+      "childBed": 1750,
+      "child": 1200
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Peninsula Beach Resort",
+   "category": "Budget",
+   "area": "Near Calangute beach",
+   "notes": [],
+   "fromPrice": 2900,
+   "rates": [
+    {
+     "room": "Deluxe (max 4 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 2900,
+      "extraAdult": 1015,
+      "childBed": 1015,
+      "child": 725
+     },
+     "map": {
+      "double": 3500,
+      "extraAdult": 1225,
+      "childBed": 1225,
+      "child": 875
+     }
+    },
+    {
+     "room": "Deluxe (max 4 guests)",
+     "season": "Diwali (06.11.26 – 17.11.26)",
+     "cp": {
+      "double": 3700,
+      "extraAdult": 1295,
+      "childBed": 1295,
+      "child": 925
+     },
+     "map": {
+      "double": 4500,
+      "extraAdult": 1575,
+      "childBed": 1575,
+      "child": 1125
+     }
+    },
+    {
+     "room": "Deluxe (max 4 guests)",
+     "season": "Xmas + new year (23.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Luxury room (max 4 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3300,
+      "extraAdult": 1155,
+      "childBed": 1155,
+      "child": 825
+     },
+     "map": {
+      "double": 3900,
+      "extraAdult": 1365,
+      "childBed": 1365,
+      "child": 975
+     }
+    },
+    {
+     "room": "Luxury room (max 4 guests)",
+     "season": "Diwali (06.11.26 – 17.11.26)",
+     "cp": {
+      "double": 4100,
+      "extraAdult": 1435,
+      "childBed": 1435,
+      "child": 1025
+     },
+     "map": {
+      "double": 4900,
+      "extraAdult": 1715,
+      "childBed": 1715,
+      "child": 1225
+     }
+    },
+    {
+     "room": "Luxury room (max 4 guests)",
+     "season": "Xmas + new year (23.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Resorte Village Royale",
+   "category": "Budget",
+   "area": null,
+   "notes": [],
+   "fromPrice": 1700,
+   "rates": [
+    {
+     "room": "Standard (max 4 guests)",
+     "season": "Season (16.10.26 – 31.03.27)",
+     "cp": {
+      "double": 1700,
+      "extraAdult": 700,
+      "childBed": 700,
+      "child": 600
+     },
+     "map": {
+      "double": 2200,
+      "extraAdult": 900,
+      "childBed": 800,
+      "child": 750
+     }
+    },
+    {
+     "room": "Standard (max 4 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 2500,
+      "extraAdult": 1000,
+      "childBed": 900,
+      "child": 750
+     },
+     "map": {
+      "double": 3000,
+      "extraAdult": 1200,
+      "childBed": 1100,
+      "child": 900
+     }
+    },
+    {
+     "room": "Standard (max 4 guests)",
+     "season": "Christmas + New year (23.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Royale Nirvana Resort",
+   "category": "Budget",
+   "area": "Arpora",
+   "notes": [
+    "No lift – rooms may be up a few floors"
+   ],
+   "fromPrice": 2300,
+   "rates": [
+    {
+     "room": "Deluxe (max 4 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 2300,
+      "extraAdult": 700,
+      "childBed": 700,
+      "child": 600
+     },
+     "map": {
+      "double": 2900,
+      "extraAdult": 900,
+      "childBed": 900,
+      "child": 800
+     }
+    },
+    {
+     "room": "Deluxe (max 4 guests)",
+     "season": "Diwali (11.11.26 – 18.11.26)",
+     "cp": {
+      "double": 3100,
+      "extraAdult": 900,
+      "childBed": 900,
+      "child": 700
+     },
+     "map": {
+      "double": 3700,
+      "extraAdult": 1100,
+      "childBed": 1100,
+      "child": 900
+     }
+    },
+    {
+     "room": "Deluxe (max 4 guests)",
+     "season": "Christmas + New year (23.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "The Mayfield Beach Resort",
+   "category": "Budget",
+   "area": "Baga",
+   "notes": [],
+   "fromPrice": 2400,
+   "rates": [
+    {
+     "room": "Superior (max 3 guests)",
+     "season": "Season (15.10.26 – 31.03.27)",
+     "cp": {
+      "double": 2400,
+      "extraAdult": 960,
+      "childBed": 720,
+      "child": 720
+     },
+     "map": {
+      "double": 3000,
+      "extraAdult": 1200,
+      "childBed": 900,
+      "child": 900
+     }
+    },
+    {
+     "room": "Superior (max 3 guests)",
+     "season": "Diwali (08.11.26 – 16.11.26)",
+     "cp": {
+      "double": 3400,
+      "extraAdult": 1360,
+      "childBed": 1020,
+      "child": 1020
+     },
+     "map": {
+      "double": 4200,
+      "extraAdult": 1680,
+      "childBed": 1260,
+      "child": 1260
+     }
+    },
+    {
+     "room": "Superior (max 3 guests)",
+     "season": "Blackout (23.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Tranquil Inn",
+   "category": "Budget",
+   "area": "Calangute",
+   "notes": [],
+   "fromPrice": 2100,
+   "rates": [
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Season (05.11.26 – 31.03.27)",
+     "cp": {
+      "double": 2100,
+      "extraAdult": 800,
+      "childBed": 800,
+      "child": 600
+     },
+     "map": {
+      "double": 2600,
+      "extraAdult": 1000,
+      "childBed": 1000,
+      "child": 750
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 2600,
+      "extraAdult": 1040,
+      "childBed": 1040,
+      "child": 780
+     },
+     "map": {
+      "double": 3100,
+      "extraAdult": 1240,
+      "childBed": 1240,
+      "child": 930
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Christmas (23.12.26 – 02.12.26)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Gold Dwells (max 3 guests)",
+     "season": "Season (05.11.26 – 31.03.27)",
+     "cp": {
+      "double": 2600,
+      "extraAdult": 1000,
+      "childBed": 1000,
+      "child": 750
+     },
+     "map": {
+      "double": 3100,
+      "extraAdult": 1200,
+      "childBed": 1200,
+      "child": 900
+     }
+    },
+    {
+     "room": "Gold Dwells (max 3 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 3100,
+      "extraAdult": 1000,
+      "childBed": 1000,
+      "child": 800
+     },
+     "map": {
+      "double": 3600,
+      "extraAdult": 1250,
+      "childBed": 1250,
+      "child": 1000
+     }
+    },
+    {
+     "room": "Gold Dwells (max 3 guests)",
+     "season": "Christmas + New year (23.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Golden Suite (max 4 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 3500,
+      "extraAdult": 1200,
+      "childBed": 1200,
+      "child": 1000
+     },
+     "map": {
+      "double": 4000,
+      "extraAdult": 1400,
+      "childBed": 1400,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Golden Suite (max 4 guests)",
+     "season": "Christmas + New year (23.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Vilmaris Breeze",
+   "category": "Budget",
+   "area": "Calangute",
+   "notes": [],
+   "fromPrice": 3100,
+   "rates": [
+    {
+     "room": "Deluxe twin (max 3)",
+     "season": "Season (16.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3100,
+      "extraAdult": 900,
+      "childBed": 700,
+      "child": 600
+     },
+     "map": {
+      "double": 4000,
+      "extraAdult": 1350,
+      "childBed": 950,
+      "child": 850
+     }
+    },
+    {
+     "room": "Deluxe twin (max 3)",
+     "season": "Blackout (06.11.26 – 15.11.26)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Deluxe twin (max 3)",
+     "season": "Blackout (28.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Superior king (max 3)",
+     "season": "Blackout (16.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3400,
+      "extraAdult": 900,
+      "childBed": 700,
+      "child": 600
+     },
+     "map": {
+      "double": 4300,
+      "extraAdult": 1350,
+      "childBed": 950,
+      "child": 850
+     }
+    },
+    {
+     "room": "Superior king (max 3)",
+     "season": "Blackout (06.11.26 – 15.11.26)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Superior king (max 3)",
+     "season": "Blackout (23.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "WS Beach Resort And SPA",
+   "category": "Budget",
+   "area": "Near Calangute beach",
+   "notes": [],
+   "fromPrice": 2700,
+   "rates": [
+    {
+     "room": "Deluxe (max 4 guests)",
+     "season": "Season (15.10.26 – 31.03.27)",
+     "cp": {
+      "double": 2700,
+      "extraAdult": 800,
+      "childBed": 800,
+      "child": 600
+     },
+     "map": {
+      "double": 3200,
+      "extraAdult": 1000,
+      "childBed": 1000,
+      "child": 800
+     }
+    },
+    {
+     "room": "Deluxe (max 4 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 3400,
+      "extraAdult": 1000,
+      "childBed": 1000,
+      "child": 700
+     },
+     "map": {
+      "double": 3900,
+      "extraAdult": 1200,
+      "childBed": 1200,
+      "child": 900
+     }
+    },
+    {
+     "room": "Deluxe (max 4 guests)",
+     "season": "Christmas + New year (23.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "19 Belo Cabana",
+   "category": "Deluxe",
+   "area": "Near Calangute beach",
+   "notes": [],
+   "fromPrice": 3500,
+   "rates": [
+    {
+     "room": "Superior cottage (max 3 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3500,
+      "extraAdult": 1400,
+      "childBed": 1400,
+      "child": 1050
+     },
+     "map": {
+      "double": 4200,
+      "extraAdult": 1680,
+      "childBed": 1680,
+      "child": 1260
+     }
+    },
+    {
+     "room": "Superior cottage (max 3 guests)",
+     "season": "Christmas (24.12.26 – 28.12.26)",
+     "cp": {
+      "double": 7000,
+      "extraAdult": 2800,
+      "childBed": 2800,
+      "child": 2100
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Superior cottage (max 3 guests)",
+     "season": "New year (29.12.26 – 02.01.27)",
+     "cp": {
+      "double": 8000,
+      "extraAdult": 3200,
+      "childBed": 3200,
+      "child": 2400
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Deluxe pool view cottage (max 3 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3900,
+      "extraAdult": 1560,
+      "childBed": 1560,
+      "child": 1170
+     },
+     "map": {
+      "double": 4700,
+      "extraAdult": 1880,
+      "childBed": 1880,
+      "child": 1410
+     }
+    },
+    {
+     "room": "Deluxe pool view cottage (max 3 guests)",
+     "season": "Christmas + New year (24.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Casa Pearl by WS",
+   "category": "Deluxe",
+   "area": "Calangute",
+   "notes": [],
+   "fromPrice": 3400,
+   "rates": [
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3400,
+      "extraAdult": 1200,
+      "childBed": 1200,
+      "child": 1000
+     },
+     "map": {
+      "double": 4000,
+      "extraAdult": 1400,
+      "childBed": 1400,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 3900,
+      "extraAdult": 1200,
+      "childBed": 1200,
+      "child": 1000
+     },
+     "map": {
+      "double": 4500,
+      "extraAdult": 1400,
+      "childBed": 1400,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Christmas + new year (23.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Divan Clarks Inn",
+   "category": "Deluxe",
+   "area": "Calangute",
+   "notes": [],
+   "fromPrice": 2700,
+   "rates": [
+    {
+     "room": "Executive deluxe (max 3 guests)",
+     "season": "Season (05.10.26 – 31.03.27)",
+     "cp": {
+      "double": 2700,
+      "extraAdult": 900,
+      "childBed": 800,
+      "child": 800
+     },
+     "map": {
+      "double": 3500,
+      "extraAdult": 1100,
+      "childBed": 1000,
+      "child": 1000
+     }
+    },
+    {
+     "room": "Executive deluxe (max 3 guests)",
+     "season": "Diwali (06.11.26 – 15.11.26)",
+     "cp": {
+      "double": 3200,
+      "extraAdult": 900,
+      "childBed": 800,
+      "child": 800
+     },
+     "map": {
+      "double": 4000,
+      "extraAdult": 1100,
+      "childBed": 1000,
+      "child": 1000
+     }
+    },
+    {
+     "room": "Executive deluxe (max 3 guests)",
+     "season": "Christmas & New year (24.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Ginger Goa Arpora",
+   "category": "Deluxe",
+   "area": null,
+   "notes": [
+    "Pure vegetarian food",
+    "Breakfast plan only (no dinner plan)"
+   ],
+   "fromPrice": null,
+   "rates": [
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Diwali (08.11.26 – 17.11.26)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Deluxe with balcony (max 3 guests)",
+     "season": "Diwali (08.11.26 – 17.11.26)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Premium (max 3 guests)",
+     "season": "Diwali (08.11.26 – 17.11.26)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Premium with balcony (max 3 guests)",
+     "season": "Diwali (08.11.26 – 17.11.26)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Lambana Resort",
+   "category": "Deluxe",
+   "area": "Near Calangute beach",
+   "notes": [],
+   "fromPrice": 2800,
+   "rates": [
+    {
+     "room": "Executive (max 3 guests)",
+     "season": "Season (16.10.26 – 31.03.27)",
+     "cp": {
+      "double": 2800,
+      "extraAdult": 900,
+      "childBed": 900,
+      "child": 600
+     },
+     "map": {
+      "double": 3600,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 850
+     }
+    },
+    {
+     "room": "Executive (max 3 guests)",
+     "season": "Diwali (06.11.26 – 20.11.26)",
+     "cp": {
+      "double": 3300,
+      "extraAdult": 900,
+      "childBed": 900,
+      "child": 600
+     },
+     "map": {
+      "double": 4100,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 850
+     }
+    },
+    {
+     "room": "Executive (max 3 guests)",
+     "season": "Christmas (23.12.26 – 28.12.26)",
+     "cp": {
+      "double": 5300,
+      "extraAdult": 1200,
+      "childBed": 1200,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Executive (max 3 guests)",
+     "season": "New year (29.12.26 – 02.01.27)",
+     "cp": {
+      "double": 5800,
+      "extraAdult": 1200,
+      "childBed": 1200,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Resort Lagoa Azul",
+   "category": "Deluxe",
+   "area": "Arpora",
+   "notes": [],
+   "fromPrice": 2950,
+   "rates": [
+    {
+     "room": "Standard (max 4 guests)",
+     "season": "Season (16.10.26 – 31.03.27)",
+     "cp": {
+      "double": 2950,
+      "extraAdult": 1100,
+      "childBed": 1100,
+      "child": 850
+     },
+     "map": {
+      "double": 3950,
+      "extraAdult": 1600,
+      "childBed": 1600,
+      "child": 1100
+     }
+    },
+    {
+     "room": "Standard (max 4 guests)",
+     "season": "Blackout (21.12.26 – 27.12.26)",
+     "cp": {
+      "double": 4200,
+      "extraAdult": 1700,
+      "childBed": 1700,
+      "child": 1350
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Standard (max 4 guests)",
+     "season": "Blackout (28.12.26 – 05.01.27)",
+     "cp": {
+      "double": 5200,
+      "extraAdult": 1700,
+      "childBed": 1700,
+      "child": 1350
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Deluxe (max 4 guests)",
+     "season": "Season (16.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3700,
+      "extraAdult": 1350,
+      "childBed": 1350,
+      "child": 1100
+     },
+     "map": {
+      "double": 4700,
+      "extraAdult": 1850,
+      "childBed": 1850,
+      "child": 1450
+     }
+    },
+    {
+     "room": "Deluxe (max 4 guests)",
+     "season": "Blackout (21.12.26 – 27.12.26)",
+     "cp": {
+      "double": 5200,
+      "extraAdult": 1700,
+      "childBed": 1700,
+      "child": 1350
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Deluxe (max 4 guests)",
+     "season": "Blackout (28.12.26 – 05.01.27)",
+     "cp": {
+      "double": 6200,
+      "extraAdult": 1700,
+      "childBed": 1700,
+      "child": 1350
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Suite room (max 4 guests)",
+     "season": "Season (16.10.26 – 31.03.27)",
+     "cp": {
+      "double": 4200,
+      "extraAdult": 1550,
+      "childBed": 1550,
+      "child": 1100
+     },
+     "map": {
+      "double": 5200,
+      "extraAdult": 2050,
+      "childBed": 2050,
+      "child": 1450
+     }
+    },
+    {
+     "room": "Suite room (max 4 guests)",
+     "season": "Blackout (21.12.26 – 27.12.26)",
+     "cp": {
+      "double": 5700,
+      "extraAdult": 1700,
+      "childBed": 1700,
+      "child": 1350
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Suite room (max 4 guests)",
+     "season": "Blackout (28.12.26 – 05.01.27)",
+     "cp": {
+      "double": 6700,
+      "extraAdult": 1700,
+      "childBed": 1700,
+      "child": 1350
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Royal Bishnu",
+   "category": "Deluxe",
+   "area": "Baga",
+   "notes": [],
+   "fromPrice": 3700,
+   "rates": [
+    {
+     "room": "Executive Cottage (max 3 guests)",
+     "season": "Season (16.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3700,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 1100
+     },
+     "map": {
+      "double": 4400,
+      "extraAdult": 1650,
+      "childBed": 1650,
+      "child": 1400
+     }
+    },
+    {
+     "room": "Executive Cottage (max 3 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 4700,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 1100
+     },
+     "map": {
+      "double": 5400,
+      "extraAdult": 1650,
+      "childBed": 1650,
+      "child": 1400
+     }
+    },
+    {
+     "room": "Executive Cottage (max 3 guests)",
+     "season": "Christmas + New year (23.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Club Pool view Cottage (max 4 guests)",
+     "season": "Season (16.10.26 – 31.03.27)",
+     "cp": {
+      "double": 4200,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 1100
+     },
+     "map": {
+      "double": 4900,
+      "extraAdult": 1650,
+      "childBed": 1650,
+      "child": 1400
+     }
+    },
+    {
+     "room": "Club Pool view Cottage (max 4 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 5200,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 1100
+     },
+     "map": {
+      "double": 5900,
+      "extraAdult": 1650,
+      "childBed": 1650,
+      "child": 1400
+     }
+    },
+    {
+     "room": "Club Pool view Cottage (max 4 guests)",
+     "season": "Christmas + New year (23.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Sairaj Beach Resort",
+   "category": "Deluxe",
+   "area": "Calangute",
+   "notes": [],
+   "fromPrice": 3900,
+   "rates": [
+    {
+     "room": "Superior (max 3 guests)",
+     "season": "Season (11.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3900,
+      "extraAdult": 1400,
+      "childBed": 1100,
+      "child": 1100
+     },
+     "map": {
+      "double": 4700,
+      "extraAdult": 1750,
+      "childBed": 1300,
+      "child": 1300
+     }
+    },
+    {
+     "room": "Superior (max 3 guests)",
+     "season": "Christmas + New year (22.12.26 – 05.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Silver Shell",
+   "category": "Deluxe",
+   "area": "Calangute",
+   "notes": [],
+   "fromPrice": 3500,
+   "rates": [
+    {
+     "room": "Superior (max 4 guests)",
+     "season": "Season (01.11.26 – 31.03.27)",
+     "cp": {
+      "double": 3500,
+      "extraAdult": 1000,
+      "childBed": 800,
+      "child": 800
+     },
+     "map": {
+      "double": 4100,
+      "extraAdult": 1300,
+      "childBed": 1100,
+      "child": 1100
+     }
+    },
+    {
+     "room": "Superior (max 4 guests)",
+     "season": "Diwali (08.11.26 – 17.11.26)",
+     "cp": {
+      "double": 4400,
+      "extraAdult": 1000,
+      "childBed": 800,
+      "child": 800
+     },
+     "map": {
+      "double": 5000,
+      "extraAdult": 1300,
+      "childBed": 1100,
+      "child": 1100
+     }
+    },
+    {
+     "room": "Superior (max 4 guests)",
+     "season": "Christmas (23.12.26 – 27.12.26)",
+     "cp": {
+      "double": 5700,
+      "extraAdult": 1200,
+      "childBed": 1000,
+      "child": 1000
+     },
+     "map": {
+      "double": 6500,
+      "extraAdult": 1600,
+      "childBed": 1300,
+      "child": 1300
+     }
+    },
+    {
+     "room": "Superior (max 4 guests)",
+     "season": "New year (28.12.26 – 03.01.27)",
+     "cp": {
+      "double": 6200,
+      "extraAdult": 1500,
+      "childBed": 1000,
+      "child": 1000
+     },
+     "map": {
+      "double": 7200,
+      "extraAdult": 2000,
+      "childBed": 1500,
+      "child": 1500
+     }
+    },
+    {
+     "room": "Superior (max 4 guests)",
+     "season": "Long weekend 3 (15.01.27 – 18.01.27)",
+     "cp": {
+      "double": 3800,
+      "extraAdult": 1000,
+      "childBed": 800,
+      "child": 800
+     },
+     "map": {
+      "double": 4400,
+      "extraAdult": 1300,
+      "childBed": 1100,
+      "child": 1100
+     }
+    },
+    {
+     "room": "Superior (max 4 guests)",
+     "season": "Long weekend 4 (23.01.27 – 26.01.27)",
+     "cp": {
+      "double": 4000,
+      "extraAdult": 1000,
+      "childBed": 800,
+      "child": 800
+     },
+     "map": {
+      "double": 4600,
+      "extraAdult": 1300,
+      "childBed": 1100,
+      "child": 1100
+     }
+    },
+    {
+     "room": "Superior (max 4 guests)",
+     "season": "Long weekend 5 (12.02.27 – 14.02.27)",
+     "cp": {
+      "double": 3800,
+      "extraAdult": 1100,
+      "childBed": 900,
+      "child": 900
+     },
+     "map": {
+      "double": 4400,
+      "extraAdult": 1400,
+      "childBed": 1200,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Superior (max 4 guests)",
+     "season": "Long weekend 6 (19.03.27 – 23.03.27)",
+     "cp": {
+      "double": 4000,
+      "extraAdult": 1100,
+      "childBed": 900,
+      "child": 900
+     },
+     "map": {
+      "double": 4600,
+      "extraAdult": 1400,
+      "childBed": 1200,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Premium (max 4 guests)",
+     "season": "Season (01.11.26 – 31.03.27)",
+     "cp": {
+      "double": 3800,
+      "extraAdult": 1000,
+      "childBed": 800,
+      "child": 800
+     },
+     "map": {
+      "double": 4400,
+      "extraAdult": 1300,
+      "childBed": 1100,
+      "child": 1100
+     }
+    },
+    {
+     "room": "Premium (max 4 guests)",
+     "season": "Diwali (08.11.26 – 17.11.26)",
+     "cp": {
+      "double": 4700,
+      "extraAdult": 1000,
+      "childBed": 800,
+      "child": 800
+     },
+     "map": {
+      "double": 5300,
+      "extraAdult": 1400,
+      "childBed": 1300,
+      "child": 1100
+     }
+    },
+    {
+     "room": "Premium (max 4 guests)",
+     "season": "Christmas (23.12.26 – 27.12.26)",
+     "cp": {
+      "double": 6200,
+      "extraAdult": 1200,
+      "childBed": 1000,
+      "child": 1000
+     },
+     "map": {
+      "double": 7000,
+      "extraAdult": 1600,
+      "childBed": 1300,
+      "child": 1300
+     }
+    },
+    {
+     "room": "Premium (max 4 guests)",
+     "season": "New year (28.12.26 – 03.01.27)",
+     "cp": {
+      "double": 6700,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1000
+     },
+     "map": {
+      "double": 7700,
+      "extraAdult": 2000,
+      "childBed": 1500,
+      "child": 1500
+     }
+    },
+    {
+     "room": "Premium (max 4 guests)",
+     "season": "Long weekend 3 (15.01.27 – 18.01.27)",
+     "cp": {
+      "double": 4100,
+      "extraAdult": 1000,
+      "childBed": 800,
+      "child": 800
+     },
+     "map": {
+      "double": 4700,
+      "extraAdult": 1300,
+      "childBed": 1100,
+      "child": 1100
+     }
+    },
+    {
+     "room": "Premium (max 4 guests)",
+     "season": "Long week end 4 (23.01.27 – 26.01.27)",
+     "cp": {
+      "double": 4300,
+      "extraAdult": 1000,
+      "childBed": 800,
+      "child": 800
+     },
+     "map": {
+      "double": 4900,
+      "extraAdult": 1300,
+      "childBed": 1100,
+      "child": 1100
+     }
+    },
+    {
+     "room": "Premium (max 4 guests)",
+     "season": "Long weekend 5 (12.02.27 – 14.02.27)",
+     "cp": {
+      "double": 4100,
+      "extraAdult": 1000,
+      "childBed": 800,
+      "child": 800
+     },
+     "map": {
+      "double": 4700,
+      "extraAdult": 1300,
+      "childBed": 1100,
+      "child": 1100
+     }
+    },
+    {
+     "room": "Premium (max 4 guests)",
+     "season": "Long week end 6 (19.03.27 – 23.03.27)",
+     "cp": {
+      "double": 4300,
+      "extraAdult": 1000,
+      "childBed": 800,
+      "child": 800
+     },
+     "map": {
+      "double": 4900,
+      "extraAdult": 1300,
+      "childBed": 1100,
+      "child": 1100
+     }
+    }
+   ]
+  },
+  {
+   "name": "SinQ Beach Resort",
+   "category": "Deluxe",
+   "area": "Near Calangute beach",
+   "notes": [],
+   "fromPrice": 3000,
+   "rates": [
+    {
+     "room": "Smart (max 2 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3000,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": 4000,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Smart (max 2 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 3500,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": 4500,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Smart (max 2 guests)",
+     "season": "Christmas + New Year (24.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Smart (max 2 guests)",
+     "season": "Republic day (22.01.27 – 26.01.27)",
+     "cp": {
+      "double": 3500,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": 4500,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Smart (max 2 guests)",
+     "season": "Holi (19.03.27 – 22.03.27)",
+     "cp": {
+      "double": 3500,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": 4500,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Classic (max 3 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3300,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 4300,
+      "extraAdult": 1600,
+      "childBed": 1200,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Classic (max 3 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 3800,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 4800,
+      "extraAdult": 1600,
+      "childBed": 1200,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Classic (max 3 guests)",
+     "season": "Christmas + New year (24.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Classic (max 3 guests)",
+     "season": "Republic day (22.01.27 – 26.01.27)",
+     "cp": {
+      "double": 3800,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 4800,
+      "extraAdult": 1600,
+      "childBed": 1200,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Classic (max 3 guests)",
+     "season": "Holi (19.03.27 – 22.03.27)",
+     "cp": {
+      "double": 3800,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 4800,
+      "extraAdult": 1600,
+      "childBed": 1200,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Season rate (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3600,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 4600,
+      "extraAdult": 1600,
+      "childBed": 1200,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 4100,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 5100,
+      "extraAdult": 1600,
+      "childBed": 1200,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Xmas + new year (23.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Republic day (22.01.27 – 26.01.27)",
+     "cp": {
+      "double": 4100,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 5100,
+      "extraAdult": 1600,
+      "childBed": 1200,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Holi (19.03.27 – 22.03.27)",
+     "cp": {
+      "double": 4100,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 5100,
+      "extraAdult": 1600,
+      "childBed": 1200,
+      "child": 1200
+     }
+    }
+   ]
+  },
+  {
+   "name": "Sukhmantra Resort by WS",
+   "category": "Deluxe",
+   "area": "Candolim",
+   "notes": [],
+   "fromPrice": 3400,
+   "rates": [
+    {
+     "room": "Base (max 4 guests)",
+     "season": "Season (05.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3400,
+      "extraAdult": 900,
+      "childBed": 900,
+      "child": 700
+     },
+     "map": {
+      "double": 4000,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 900
+     }
+    },
+    {
+     "room": "Base (max 4 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 3900,
+      "extraAdult": 900,
+      "childBed": 900,
+      "child": 700
+     },
+     "map": {
+      "double": 4500,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 900
+     }
+    },
+    {
+     "room": "Base (max 4 guests)",
+     "season": "Blackout (23.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Suncity Resort",
+   "category": "Deluxe",
+   "area": "Near Baga beach",
+   "notes": [
+    "No lift – rooms may be up a few floors"
+   ],
+   "fromPrice": 3000,
+   "rates": [
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Season (01.10.26 – 22.12.26)",
+     "cp": {
+      "double": 3000,
+      "extraAdult": 1200,
+      "childBed": 1200,
+      "child": 900
+     },
+     "map": {
+      "double": 3600,
+      "extraAdult": 1440,
+      "childBed": 1440,
+      "child": 1080
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Diwali (05.11.26 – 16.11.26)",
+     "cp": {
+      "double": 3700,
+      "extraAdult": 1440,
+      "childBed": 1440,
+      "child": 1080
+     },
+     "map": {
+      "double": 4300,
+      "extraAdult": 1680,
+      "childBed": 1680,
+      "child": 1260
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Christmas (23.12.26 – 28.12.26)",
+     "cp": {
+      "double": 5200,
+      "extraAdult": 2080,
+      "childBed": 2080,
+      "child": 1560
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "New year (29.12.26 – 03.01.27)",
+     "cp": {
+      "double": 6900,
+      "extraAdult": 2760,
+      "childBed": 2760,
+      "child": 2070
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Premium (max 3 guests)",
+     "season": "Season 2 (01.10.26 – 22.12.26)",
+     "cp": {
+      "double": 3500,
+      "extraAdult": 1400,
+      "childBed": 1400,
+      "child": 1050
+     },
+     "map": {
+      "double": 4100,
+      "extraAdult": 1640,
+      "childBed": 1640,
+      "child": 1230
+     }
+    },
+    {
+     "room": "Premium (max 3 guests)",
+     "season": "Diwali (05.11.26 – 16.11.26)",
+     "cp": {
+      "double": 4200,
+      "extraAdult": 1640,
+      "childBed": 1640,
+      "child": 1230
+     },
+     "map": {
+      "double": 4800,
+      "extraAdult": 1880,
+      "childBed": 1880,
+      "child": 1410
+     }
+    },
+    {
+     "room": "Premium (max 3 guests)",
+     "season": "Christmas (23.12.26 – 28.12.26)",
+     "cp": {
+      "double": 5500,
+      "extraAdult": 2200,
+      "childBed": 2200,
+      "child": 1650
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Premium (max 3 guests)",
+     "season": "New year (29.12.26 – 03.01.27)",
+     "cp": {
+      "double": 7200,
+      "extraAdult": 2880,
+      "childBed": 2880,
+      "child": 2160
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "The Baga Marina",
+   "category": "Deluxe",
+   "area": "Near Baga beach",
+   "notes": [],
+   "fromPrice": 3500,
+   "rates": [
+    {
+     "room": "Superior (max 3 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3500,
+      "extraAdult": 1400,
+      "childBed": 1400,
+      "child": 1050
+     },
+     "map": {
+      "double": 4200,
+      "extraAdult": 1680,
+      "childBed": 1680,
+      "child": 1240
+     }
+    },
+    {
+     "room": "Superior (max 3 guests)",
+     "season": "Christmas (24.12.26 – 28.12.26)",
+     "cp": {
+      "double": 7000,
+      "extraAdult": 2800,
+      "childBed": 2800,
+      "child": 2100
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Superior (max 3 guests)",
+     "season": "New year (29.12.26 – 02.01.27)",
+     "cp": {
+      "double": 8000,
+      "extraAdult": 3200,
+      "childBed": 3200,
+      "child": 2400
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Deluxe pool view (max 3 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3900,
+      "extraAdult": 1560,
+      "childBed": 1560,
+      "child": 1170
+     },
+     "map": {
+      "double": 4700,
+      "extraAdult": 1880,
+      "childBed": 1880,
+      "child": 1410
+     }
+    },
+    {
+     "room": "Deluxe pool view (max 3 guests)",
+     "season": "Christmas + New year (24.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "The Flora Residency",
+   "category": "Deluxe",
+   "area": "Near Calangute beach",
+   "notes": [],
+   "fromPrice": 3200,
+   "rates": [
+    {
+     "room": "Executive (max 4 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3200,
+      "extraAdult": 1150,
+      "childBed": 960,
+      "child": 960
+     },
+     "map": {
+      "double": 4000,
+      "extraAdult": 1430,
+      "childBed": 1200,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Executive (max 4 guests)",
+     "season": "Diwali (06.11.26 – 16.11.26)",
+     "cp": {
+      "double": 3700,
+      "extraAdult": 1350,
+      "childBed": 1110,
+      "child": 1110
+     },
+     "map": {
+      "double": 4500,
+      "extraAdult": 1600,
+      "childBed": 1350,
+      "child": 1350
+     }
+    },
+    {
+     "room": "Executive (max 4 guests)",
+     "season": "Christmas + New year (24.12.26 – 29.12.26)",
+     "cp": {
+      "double": 5300,
+      "extraAdult": 1600,
+      "childBed": 1400,
+      "child": 1400
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Executive (max 4 guests)",
+     "season": "New year (30.12.26 – 01.01.27)",
+     "cp": {
+      "double": 6900,
+      "extraAdult": 1600,
+      "childBed": 1400,
+      "child": 1400
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Executive (max 4 guests)",
+     "season": "+ (01.01.27 – 01.01.27)",
+     "cp": {
+      "double": 5300,
+      "extraAdult": 1600,
+      "childBed": 1400,
+      "child": 1400
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Adamo The Bellus",
+   "category": "Premium",
+   "area": "Calangute",
+   "notes": [],
+   "fromPrice": 5000,
+   "rates": [
+    {
+     "room": "Regency room (max 3 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 5000,
+      "extraAdult": 1600,
+      "childBed": 1600,
+      "child": 1100
+     },
+     "map": {
+      "double": 6000,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1600
+     }
+    },
+    {
+     "room": "Regency room (max 3 guests)",
+     "season": "Diwali (12.11.26 – 15.11.26)",
+     "cp": {
+      "double": 8075,
+      "extraAdult": 1600,
+      "childBed": 1600,
+      "child": 1100
+     },
+     "map": {
+      "double": 9075,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1600
+     }
+    },
+    {
+     "room": "Regency room (max 3 guests)",
+     "season": "Christmas & New year (22.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Holitel Calangute",
+   "category": "Premium",
+   "area": null,
+   "notes": [],
+   "fromPrice": 5100,
+   "rates": [
+    {
+     "room": "Holitel room (max 3 guests)",
+     "season": "Season 2 (09.11.26 – 31.03.27)",
+     "cp": {
+      "double": 5100,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 900
+     },
+     "map": {
+      "double": 6300,
+      "extraAdult": 1900,
+      "childBed": 1600,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Holitel room (max 3 guests)",
+     "season": "Diwali (10.11.26 – 16.11.26)",
+     "cp": {
+      "double": 5350,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 900
+     },
+     "map": {
+      "double": 6550,
+      "extraAdult": 1900,
+      "childBed": 1600,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Holitel room (max 3 guests)",
+     "season": "Blackout (24.12.26 – 27.12.26)",
+     "cp": {
+      "double": 7600,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 900
+     },
+     "map": {
+      "double": 8800,
+      "extraAdult": 1900,
+      "childBed": 1600,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Holitel room (max 3 guests)",
+     "season": "Blackout (28.12.26 – 03.01.27)",
+     "cp": {
+      "double": 8100,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 900
+     },
+     "map": {
+      "double": 9300,
+      "extraAdult": 1900,
+      "childBed": 1600,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Hill view (max 3 guests)",
+     "season": "Season 2 (09.11.26 – 31.03.27)",
+     "cp": {
+      "double": 5600,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 900
+     },
+     "map": {
+      "double": 6800,
+      "extraAdult": 1900,
+      "childBed": 1600,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Hill view (max 3 guests)",
+     "season": "Diwali (10.11.26 – 16.11.26)",
+     "cp": {
+      "double": 5850,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 900
+     },
+     "map": {
+      "double": 7050,
+      "extraAdult": 1900,
+      "childBed": 1600,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Hill view (max 3 guests)",
+     "season": "Blackout (24.12.26 – 27.12.26)",
+     "cp": {
+      "double": 8100,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 900
+     },
+     "map": {
+      "double": 9300,
+      "extraAdult": 1900,
+      "childBed": 1600,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Hill view (max 3 guests)",
+     "season": "Blackout (28.12.26 – 03.01.27)",
+     "cp": {
+      "double": 8600,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 900
+     },
+     "map": {
+      "double": 9800,
+      "extraAdult": 1900,
+      "childBed": 1600,
+      "child": 1200
+     }
+    }
+   ]
+  },
+  {
+   "name": "ibis Styles Goa Calangute",
+   "category": "Premium",
+   "area": null,
+   "notes": [],
+   "fromPrice": 5450,
+   "rates": [
+    {
+     "room": "Standard pool view (max 3 guests)",
+     "season": "November (01.11.26 – 19.12.26)",
+     "cp": {
+      "double": 5450,
+      "extraAdult": 1675,
+      "childBed": 1675,
+      "child": 513
+     },
+     "map": {
+      "double": 6450,
+      "extraAdult": 2200,
+      "childBed": 2200,
+      "child": 1325
+     }
+    },
+    {
+     "room": "Standard pool view (max 3 guests)",
+     "season": "Diwali (06.11.26 – 15.11.26)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Standard pool view (max 3 guests)",
+     "season": "Christmas & New year (20.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Le Seasons Resort",
+   "category": "Premium",
+   "area": "Candolim",
+   "notes": [],
+   "fromPrice": 3400,
+   "rates": [
+    {
+     "room": "Superior (max 3 guests)",
+     "season": "Season (05.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3400,
+      "extraAdult": 1500,
+      "childBed": 1400,
+      "child": 1000
+     },
+     "map": {
+      "double": 4200,
+      "extraAdult": 1900,
+      "childBed": 1700,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Superior (max 3 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 4800,
+      "extraAdult": 1500,
+      "childBed": 1300,
+      "child": 1000
+     },
+     "map": {
+      "double": 5600,
+      "extraAdult": 1900,
+      "childBed": 1500,
+      "child": 1300
+     }
+    },
+    {
+     "room": "Superior (max 3 guests)",
+     "season": "Christmas + New year (23.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Neelams The Glitz",
+   "category": "Premium",
+   "area": "Calangute",
+   "notes": [],
+   "fromPrice": 3400,
+   "rates": [
+    {
+     "room": "Deluxe (max 4 guests)",
+     "season": "Season (01.10.26 – 31.01.27)",
+     "cp": {
+      "double": 3400,
+      "extraAdult": 1200,
+      "childBed": 1000,
+      "child": 700
+     },
+     "map": {
+      "double": 4100,
+      "extraAdult": 1400,
+      "childBed": 1200,
+      "child": 900
+     }
+    },
+    {
+     "room": "Deluxe (max 4 guests)",
+     "season": "Diwali (07.11.26 – 18.11.26)",
+     "cp": {
+      "double": 4200,
+      "extraAdult": 1200,
+      "childBed": 1000,
+      "child": 700
+     },
+     "map": {
+      "double": 5200,
+      "extraAdult": 1400,
+      "childBed": 1200,
+      "child": 900
+     }
+    },
+    {
+     "room": "Deluxe (max 4 guests)",
+     "season": "Christmas + New year (23.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Ocean Palms",
+   "category": "Premium",
+   "area": "Calangute",
+   "notes": [],
+   "fromPrice": 4300,
+   "rates": [
+    {
+     "room": "Superior (max 3 guests)",
+     "season": "Season (15.10.26 – 31.03.27)",
+     "cp": {
+      "double": 4300,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1000
+     },
+     "map": {
+      "double": 5500,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1400
+     }
+    },
+    {
+     "room": "Superior (max 3 guests)",
+     "season": "Christmas + new year (22.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Superior (max 3 guests)",
+     "season": "Long weekend 3 (24.01.27 – 26.01.27)",
+     "cp": {
+      "double": 5300,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1000
+     },
+     "map": {
+      "double": 6500,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1400
+     }
+    },
+    {
+     "room": "Superior (max 3 guests)",
+     "season": "Long weekend 4 (20.03.27 – 22.03.27)",
+     "cp": {
+      "double": 5300,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1000
+     },
+     "map": {
+      "double": 6500,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1400
+     }
+    },
+    {
+     "room": "Superior (max 3 guests)",
+     "season": "Long weekend 5 (26.03.27 – 28.03.27)",
+     "cp": {
+      "double": 5300,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1000
+     },
+     "map": {
+      "double": 6500,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1400
+     }
+    },
+    {
+     "room": "Premium (max 3 guests)",
+     "season": "Season (15.10.26 – 31.03.27)",
+     "cp": {
+      "double": 5300,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1000
+     },
+     "map": {
+      "double": 6500,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1400
+     }
+    },
+    {
+     "room": "Premium (max 3 guests)",
+     "season": "Christmas + New year (22.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Premium (max 3 guests)",
+     "season": "Long weekend 3 (24.01.27 – 26.01.27)",
+     "cp": {
+      "double": 6300,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1000
+     },
+     "map": {
+      "double": 7500,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1400
+     }
+    },
+    {
+     "room": "Premium (max 3 guests)",
+     "season": "Long weekend 4 (20.03.27 – 22.03.27)",
+     "cp": {
+      "double": 6300,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1000
+     },
+     "map": {
+      "double": 7500,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1400
+     }
+    },
+    {
+     "room": "Premium (max 3 guests)",
+     "season": "Long weekend 5 (26.03.27 – 28.03.27)",
+     "cp": {
+      "double": 6300,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1000
+     },
+     "map": {
+      "double": 7500,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1400
+     }
+    },
+    {
+     "room": "Junior suite with bathtub (max 3 guests)",
+     "season": "Season (14.10.26 – 31.03.27)",
+     "cp": {
+      "double": 6300,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1000
+     },
+     "map": {
+      "double": 7500,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1500
+     }
+    },
+    {
+     "room": "Junior suite with bathtub (max 3 guests)",
+     "season": "Christmas + New year (22.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Junior suite with bathtub (max 3 guests)",
+     "season": "Blackout (24.01.27 – 26.01.27)",
+     "cp": {
+      "double": 7300,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1000
+     },
+     "map": {
+      "double": 8500,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1500
+     }
+    },
+    {
+     "room": "Junior suite with bathtub (max 3 guests)",
+     "season": "Blackout 2 (20.03.27 – 22.03.27)",
+     "cp": {
+      "double": 7300,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1000
+     },
+     "map": {
+      "double": 8500,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1500
+     }
+    },
+    {
+     "room": "Junior suite with bathtub (max 3 guests)",
+     "season": "Blackout 2 (26.03.27 – 28.03.27)",
+     "cp": {
+      "double": 7300,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1000
+     },
+     "map": {
+      "double": 8500,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1500
+     }
+    },
+    {
+     "room": "Suite room (max 4 guests)",
+     "season": "Season (21.10.26 – 31.03.27)",
+     "cp": {
+      "double": 7300,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1000
+     },
+     "map": {
+      "double": 8500,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1400
+     }
+    },
+    {
+     "room": "Suite room (max 4 guests)",
+     "season": "Blackout (22.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Suite room (max 4 guests)",
+     "season": "Blackout (24.01.27 – 26.01.27)",
+     "cp": {
+      "double": 8300,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1000
+     },
+     "map": {
+      "double": 9500,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1400
+     }
+    },
+    {
+     "room": "Suite room (max 4 guests)",
+     "season": "Blackout (20.03.27 – 22.03.27)",
+     "cp": {
+      "double": 8300,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1000
+     },
+     "map": {
+      "double": 9500,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1400
+     }
+    },
+    {
+     "room": "Suite room (max 4 guests)",
+     "season": "Blackout (26.03.27 – 28.03.27)",
+     "cp": {
+      "double": 8300,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1000
+     },
+     "map": {
+      "double": 9500,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1400
+     }
+    },
+    {
+     "room": "Pool view room with jacuzzi (max 3 guests)",
+     "season": "Season (15.10.26 – 31.03.27)",
+     "cp": {
+      "double": 8300,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1000
+     },
+     "map": {
+      "double": 9500,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1400
+     }
+    },
+    {
+     "room": "Pool view room with jacuzzi (max 3 guests)",
+     "season": "Christmas + new year (22.12.26 – 02.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Pool view room with jacuzzi (max 3 guests)",
+     "season": "Blackout 3 (24.01.27 – 26.01.27)",
+     "cp": {
+      "double": 9300,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1000
+     },
+     "map": {
+      "double": 10500,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1400
+     }
+    },
+    {
+     "room": "Pool view room with jacuzzi (max 3 guests)",
+     "season": "Blackout 4 (20.03.27 – 22.03.27)",
+     "cp": {
+      "double": 9300,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1000
+     },
+     "map": {
+      "double": 10500,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1400
+     }
+    },
+    {
+     "room": "Pool view room with jacuzzi (max 3 guests)",
+     "season": "Blackout 5 (26.03.27 – 28.05.27)",
+     "cp": {
+      "double": 9300,
+      "extraAdult": 1500,
+      "childBed": 1500,
+      "child": 1000
+     },
+     "map": {
+      "double": 10500,
+      "extraAdult": 2100,
+      "childBed": 2100,
+      "child": 1400
+     }
+    }
+   ]
+  },
+  {
+   "name": "Regenta Central North Goa",
+   "category": "Premium",
+   "area": "Arpora",
+   "notes": [],
+   "fromPrice": 4000,
+   "rates": [
+    {
+     "room": "Club room (max 3 guests)",
+     "season": "Season 1 (01.11.26 – 31.01.27)",
+     "cp": {
+      "double": 4300,
+      "extraAdult": 1200,
+      "childBed": 800,
+      "child": 600
+     },
+     "map": {
+      "double": 5100,
+      "extraAdult": 1600,
+      "childBed": 1100,
+      "child": 800
+     }
+    },
+    {
+     "room": "Club room (max 3 guests)",
+     "season": "Diwali (11.11.26 – 16.11.26)",
+     "cp": {
+      "double": 5000,
+      "extraAdult": 1600,
+      "childBed": 1200,
+      "child": 1000
+     },
+     "map": {
+      "double": 6000,
+      "extraAdult": 2000,
+      "childBed": 1600,
+      "child": 1100
+     }
+    },
+    {
+     "room": "Club room (max 3 guests)",
+     "season": "Christmas + new year (20.12.26 – 04.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Club room (max 3 guests)",
+     "season": "Season 2 (01.02.27 – 31.03.27)",
+     "cp": {
+      "double": 4000,
+      "extraAdult": 1100,
+      "childBed": 800,
+      "child": 600
+     },
+     "map": {
+      "double": 5000,
+      "extraAdult": 1600,
+      "childBed": 1100,
+      "child": 800
+     }
+    }
+   ]
+  },
+  {
+   "name": "SinQ Prive",
+   "category": "Premium",
+   "area": "Candolim",
+   "notes": [
+    "Breakfast plan only (no dinner plan)"
+   ],
+   "fromPrice": 4050,
+   "rates": [
+    {
+     "room": "Classic without window (max 2 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 4050,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Classic without window (max 2 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 4550,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Classic without window (max 2 guests)",
+     "season": "Christmas & New Year (24.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Classic without window (max 2 guests)",
+     "season": "Republic Day (22.01.27 – 26.01.27)",
+     "cp": {
+      "double": 4550,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Classic without window (max 2 guests)",
+     "season": "Holi (19.03.27 – 22.03.27)",
+     "cp": {
+      "double": 4550,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 4300,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 4800,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Christmas & New Year (24.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Republic Day (22.01.27 – 26.01.27)",
+     "cp": {
+      "double": 4800,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Holi (19.03.27 – 22.03.27)",
+     "cp": {
+      "double": 4800,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Luxury deluxe with bathtub (max 3 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 4800,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Luxury deluxe with bathtub (max 3 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 5300,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Luxury deluxe with bathtub (max 3 guests)",
+     "season": "Christmas & New Year (24.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Luxury deluxe with bathtub (max 3 guests)",
+     "season": "Republic Day (22.01.27 – 26.01.27)",
+     "cp": {
+      "double": 5300,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Luxury deluxe with bathtub (max 3 guests)",
+     "season": "Holi (19.03.27 – 22.03.27)",
+     "cp": {
+      "double": 5300,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Executive suite with living area",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 5300,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Executive suite with living area",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 5800,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Executive suite with living area",
+     "season": "Christmas & New Year (24.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Executive suite with living area",
+     "season": "Republic Day (22.01.27 – 26.01.27)",
+     "cp": {
+      "double": 5800,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Executive suite with living area",
+     "season": "Holi (19.03.27 – 22.03.27)",
+     "cp": {
+      "double": 5800,
+      "extraAdult": 1300,
+      "childBed": 1300,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "SinQ Symbol",
+   "category": "Premium",
+   "area": "Calangute",
+   "notes": [],
+   "fromPrice": 3500,
+   "rates": [
+    {
+     "room": "Classic (max 2 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3500,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": 4700,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Classic (max 2 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 4000,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": 5200,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Classic (max 2 guests)",
+     "season": "Christmas + New year (24.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Classic (max 2 guests)",
+     "season": "Republic day (22.01.27 – 26.01.27)",
+     "cp": {
+      "double": 4000,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": 5200,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Classic (max 2 guests)",
+     "season": "Holi (19.03.27 – 22.03.27)",
+     "cp": {
+      "double": 4000,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": 5200,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Premiere Room (max 3 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 3800,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 5000,
+      "extraAdult": 1700,
+      "childBed": 1250,
+      "child": 1250
+     }
+    },
+    {
+     "room": "Premiere Room (max 3 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 4300,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 5500,
+      "extraAdult": 1700,
+      "childBed": 1250,
+      "child": 1250
+     }
+    },
+    {
+     "room": "Premiere Room (max 3 guests)",
+     "season": "Christmas + New year (24.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Premiere Room (max 3 guests)",
+     "season": "Republic (22.01.27 – 22.01.27)",
+     "cp": {
+      "double": 4300,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 5500,
+      "extraAdult": 1700,
+      "childBed": 1250,
+      "child": 1250
+     }
+    },
+    {
+     "room": "Premiere Room (max 3 guests)",
+     "season": "Holi (19.03.27 – 22.03.27)",
+     "cp": {
+      "double": 4300,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 5500,
+      "extraAdult": 1700,
+      "childBed": 1250,
+      "child": 1250
+     }
+    },
+    {
+     "room": "Elite without balcony (max 3 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 4000,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 5200,
+      "extraAdult": 1700,
+      "childBed": 1250,
+      "child": 1250
+     }
+    },
+    {
+     "room": "Elite without balcony (max 3 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 4500,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 5700,
+      "extraAdult": 1700,
+      "childBed": 1250,
+      "child": 1250
+     }
+    },
+    {
+     "room": "Elite without balcony (max 3 guests)",
+     "season": "Christmas + New year (24.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Elite without balcony (max 3 guests)",
+     "season": "Republic day (22.01.27 – 26.01.27)",
+     "cp": {
+      "double": 4500,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 5700,
+      "extraAdult": 1700,
+      "childBed": 1250,
+      "child": 1250
+     }
+    },
+    {
+     "room": "Elite without balcony (max 3 guests)",
+     "season": "Holi (19.03.27 – 22.03.27)",
+     "cp": {
+      "double": 4500,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 5700,
+      "extraAdult": 1700,
+      "childBed": 1250,
+      "child": 1250
+     }
+    },
+    {
+     "room": "Elite with balcony (max 3 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 4300,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 5500,
+      "extraAdult": 1700,
+      "childBed": 1250,
+      "child": 1250
+     }
+    },
+    {
+     "room": "Elite with balcony (max 3 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 4800,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 6000,
+      "extraAdult": 1700,
+      "childBed": 1250,
+      "child": 1250
+     }
+    },
+    {
+     "room": "Elite with balcony (max 3 guests)",
+     "season": "Christmas & New Year (24.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Elite with balcony (max 3 guests)",
+     "season": "Republic Day (22.01.27 – 26.01.27)",
+     "cp": {
+      "double": 4800,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 6000,
+      "extraAdult": 1700,
+      "childBed": 1250,
+      "child": 1250
+     }
+    },
+    {
+     "room": "Elite with balcony (max 3 guests)",
+     "season": "Holi (19.03.27 – 22.03.27)",
+     "cp": {
+      "double": 4800,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 6000,
+      "extraAdult": 1700,
+      "childBed": 1250,
+      "child": 1250
+     }
+    },
+    {
+     "room": "Signature room (max 3 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 4800,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 6000,
+      "extraAdult": 1700,
+      "childBed": 1250,
+      "child": 1250
+     }
+    },
+    {
+     "room": "Signature room (max 3 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 5300,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 6500,
+      "extraAdult": 1700,
+      "childBed": 1250,
+      "child": 1250
+     }
+    },
+    {
+     "room": "Signature room (max 3 guests)",
+     "season": "Christmas & New Year (24.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Signature room (max 3 guests)",
+     "season": "Republic Day (22.01.27 – 26.01.27)",
+     "cp": {
+      "double": 5300,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 6500,
+      "extraAdult": 1700,
+      "childBed": 1250,
+      "child": 1250
+     }
+    },
+    {
+     "room": "Signature room (max 3 guests)",
+     "season": "Holi (19.03.27 – 22.03.27)",
+     "cp": {
+      "double": 5300,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 6500,
+      "extraAdult": 1700,
+      "childBed": 1250,
+      "child": 1250
+     }
+    },
+    {
+     "room": "Royal suite (max 4 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 5300,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 6500,
+      "extraAdult": 1700,
+      "childBed": 1250,
+      "child": 1250
+     }
+    },
+    {
+     "room": "Royal suite (max 4 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 5800,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 7000,
+      "extraAdult": 1700,
+      "childBed": 1250,
+      "child": 1250
+     }
+    },
+    {
+     "room": "Royal suite (max 4 guests)",
+     "season": "Christmas & New Year (24.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Royal suite (max 4 guests)",
+     "season": "Republic Day (22.01.27 – 26.01.27)",
+     "cp": {
+      "double": 5800,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 7000,
+      "extraAdult": 1700,
+      "childBed": 1250,
+      "child": 1250
+     }
+    },
+    {
+     "room": "Royal suite (max 4 guests)",
+     "season": "Holi (19.03.27 – 22.03.27)",
+     "cp": {
+      "double": 5800,
+      "extraAdult": 1100,
+      "childBed": 850,
+      "child": 850
+     },
+     "map": {
+      "double": 7000,
+      "extraAdult": 1700,
+      "childBed": 1250,
+      "child": 1250
+     }
+    }
+   ]
+  },
+  {
+   "name": "Somy Plaza",
+   "category": "Premium",
+   "area": "Calangute",
+   "notes": [
+    "No lift – rooms may be up a few floors"
+   ],
+   "fromPrice": 4200,
+   "rates": [
+    {
+     "room": "Superior (max 3 guests)",
+     "season": "Diwali (06.11.26 – 20.11.26)",
+     "cp": {
+      "double": 4700,
+      "extraAdult": 1500,
+      "childBed": 1400,
+      "child": 900
+     },
+     "map": {
+      "double": 5900,
+      "extraAdult": 2100,
+      "childBed": 1700,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Superior (max 3 guests)",
+     "season": "Diwali + (10.11.26 – 14.11.26)",
+     "cp": {
+      "double": 4700,
+      "extraAdult": 1500,
+      "childBed": 1400,
+      "child": 900
+     },
+     "map": {
+      "double": 5900,
+      "extraAdult": 2100,
+      "childBed": 1700,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Superior (max 3 guests)",
+     "season": "Season (15.11.26 – 31.03.27)",
+     "cp": {
+      "double": 4200,
+      "extraAdult": 1500,
+      "childBed": 1400,
+      "child": 900
+     },
+     "map": {
+      "double": 5400,
+      "extraAdult": 2100,
+      "childBed": 1700,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Superior (max 3 guests)",
+     "season": "Christmas (23.12.26 – 28.12.26)",
+     "cp": {
+      "double": 7300,
+      "extraAdult": 2000,
+      "childBed": 1600,
+      "child": 1100
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Superior (max 3 guests)",
+     "season": "New year (29.12.26 – 02.01.27)",
+     "cp": {
+      "double": 7800,
+      "extraAdult": 2000,
+      "childBed": 1600,
+      "child": 1100
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Family suite (max 4 guests)",
+     "season": "Diwali + (10.11.26 – 14.11.26)",
+     "cp": {
+      "double": 5200,
+      "extraAdult": 1500,
+      "childBed": 1400,
+      "child": 900
+     },
+     "map": {
+      "double": 6400,
+      "extraAdult": 2100,
+      "childBed": 1700,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Family suite (max 4 guests)",
+     "season": "Season (15.11.26 – 31.03.27)",
+     "cp": {
+      "double": 4700,
+      "extraAdult": 1500,
+      "childBed": 1400,
+      "child": 900
+     },
+     "map": {
+      "double": 5900,
+      "extraAdult": 2100,
+      "childBed": 1700,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Family suite (max 4 guests)",
+     "season": "Christmas (23.12.26 – 28.12.26)",
+     "cp": {
+      "double": 7800,
+      "extraAdult": 2000,
+      "childBed": 1600,
+      "child": 1100
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Family suite (max 4 guests)",
+     "season": "New year (29.12.26 – 02.01.27)",
+     "cp": {
+      "double": 8300,
+      "extraAdult": 2000,
+      "childBed": 1600,
+      "child": 1100
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Pool view suite (max 4 guests)",
+     "season": "Diwali + (10.11.26 – 14.11.26)",
+     "cp": {
+      "double": 6400,
+      "extraAdult": 1500,
+      "childBed": 1400,
+      "child": 900
+     },
+     "map": {
+      "double": 7600,
+      "extraAdult": 2100,
+      "childBed": 1700,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Pool view suite (max 4 guests)",
+     "season": "Season (15.11.26 – 31.03.27)",
+     "cp": {
+      "double": 5900,
+      "extraAdult": 1500,
+      "childBed": 1400,
+      "child": 900
+     },
+     "map": {
+      "double": 7100,
+      "extraAdult": 2100,
+      "childBed": 1700,
+      "child": 1200
+     }
+    },
+    {
+     "room": "Pool view suite (max 4 guests)",
+     "season": "Christmas (23.12.26 – 28.12.26)",
+     "cp": {
+      "double": 9000,
+      "extraAdult": 2000,
+      "childBed": 1600,
+      "child": 1100
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Pool view suite (max 4 guests)",
+     "season": "New year (29.12.26 – 02.01.27)",
+     "cp": {
+      "double": 9500,
+      "extraAdult": 2000,
+      "childBed": 1600,
+      "child": 1100
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  },
+  {
+   "name": "Vilmaris Luxury Hotel",
+   "category": "Premium",
+   "area": "Calangute",
+   "notes": [],
+   "fromPrice": 4000,
+   "rates": [
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Season (16.10.26 – 31.03.27)",
+     "cp": {
+      "double": 4000,
+      "extraAdult": 1000,
+      "childBed": 1000,
+      "child": 800
+     },
+     "map": {
+      "double": 4900,
+      "extraAdult": 1450,
+      "childBed": 1450,
+      "child": 1025
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Diwali (06.11.26 – 15.11.26)",
+     "cp": {
+      "double": 4400,
+      "extraAdult": 1100,
+      "childBed": 1100,
+      "child": 900
+     },
+     "map": {
+      "double": 5300,
+      "extraAdult": 1550,
+      "childBed": 1550,
+      "child": 1125
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Christmas + New year (23.12.26 – 03.01.27)",
+     "cp": {
+      "double": 6700,
+      "extraAdult": 1300,
+      "childBed": 1100,
+      "child": 1000
+     },
+     "map": {
+      "double": 7900,
+      "extraAdult": 1700,
+      "childBed": 1500,
+      "child": 1400
+     }
+    }
+   ]
+  },
+  {
+   "name": "Nanu Beach Resort & Spa",
+   "category": "Hotel only",
+   "area": "Betalbatim",
+   "notes": [],
+   "fromPrice": 5500,
+   "rates": [
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Winter 1 (01.11.26 – 19.12.26)",
+     "cp": {
+      "double": 6500,
+      "extraAdult": 1800,
+      "childBed": 1800,
+      "child": 1300
+     },
+     "map": {
+      "double": 8075,
+      "extraAdult": 2800,
+      "childBed": 2800,
+      "child": 1800
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Peak (20.12.26 – 04.01.27)",
+     "cp": {
+      "double": 9200,
+      "extraAdult": 1800,
+      "childBed": 1800,
+      "child": 1300
+     },
+     "map": {
+      "double": 11200,
+      "extraAdult": 2800,
+      "childBed": 2800,
+      "child": 1800
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Winter 2 (05.01.27 – 28.02.27)",
+     "cp": {
+      "double": 6500,
+      "extraAdult": 1800,
+      "childBed": 1800,
+      "child": 1300
+     },
+     "map": {
+      "double": 8075,
+      "extraAdult": 2800,
+      "childBed": 2800,
+      "child": 1800
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "High (01.03.27 – 31.03.27)",
+     "cp": {
+      "double": 5500,
+      "extraAdult": 1800,
+      "childBed": 1800,
+      "child": 1300
+     },
+     "map": {
+      "double": 7500,
+      "extraAdult": 2800,
+      "childBed": 2800,
+      "child": 1800
+     }
+    },
+    {
+     "room": "Superior deluxe (max 3 guests)",
+     "season": "Winter 2 (05.01.26 – 28.02.27)",
+     "cp": {
+      "double": 7000,
+      "extraAdult": 1800,
+      "childBed": 1800,
+      "child": 1300
+     },
+     "map": {
+      "double": 9200,
+      "extraAdult": 2800,
+      "childBed": 2800,
+      "child": 1800
+     }
+    },
+    {
+     "room": "Superior deluxe (max 3 guests)",
+     "season": "Winter 1 (01.11.26 – 19.12.26)",
+     "cp": {
+      "double": 7000,
+      "extraAdult": 1800,
+      "childBed": 1800,
+      "child": 1300
+     },
+     "map": {
+      "double": 9200,
+      "extraAdult": 2800,
+      "childBed": 2800,
+      "child": 1800
+     }
+    },
+    {
+     "room": "Superior deluxe (max 3 guests)",
+     "season": "Peak (20.12.26 – 04.01.27)",
+     "cp": {
+      "double": 9500,
+      "extraAdult": 1800,
+      "childBed": 1800,
+      "child": 1300
+     },
+     "map": {
+      "double": 11500,
+      "extraAdult": 2800,
+      "childBed": 2800,
+      "child": 1800
+     }
+    },
+    {
+     "room": "Superior deluxe (max 3 guests)",
+     "season": "High (01.03.27 – 31.03.27)",
+     "cp": {
+      "double": 6000,
+      "extraAdult": 1800,
+      "childBed": 1800,
+      "child": 1300
+     },
+     "map": {
+      "double": 7000,
+      "extraAdult": 2800,
+      "childBed": 2800,
+      "child": 1800
+     }
+    }
+   ]
+  },
+  {
+   "name": "Nanu Resort Arambol",
+   "category": "Hotel only",
+   "area": null,
+   "notes": [],
+   "fromPrice": 4400,
+   "rates": [
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Winter (01.11.26 – 19.12.26)",
+     "cp": {
+      "double": 4800,
+      "extraAdult": 1800,
+      "childBed": 1800,
+      "child": 1300
+     },
+     "map": {
+      "double": 6400,
+      "extraAdult": 2700,
+      "childBed": 2700,
+      "child": 1900
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Diwali (08.11.26 – 16.11.26)",
+     "cp": {
+      "double": 4800,
+      "extraAdult": 1800,
+      "childBed": 1800,
+      "child": 1300
+     },
+     "map": {
+      "double": 6400,
+      "extraAdult": 2700,
+      "childBed": 2700,
+      "child": 1900
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Peak (20.12.26 – 04.01.27)",
+     "cp": {
+      "double": 6300,
+      "extraAdult": 1800,
+      "childBed": 1800,
+      "child": 1300
+     },
+     "map": {
+      "double": 7900,
+      "extraAdult": 2700,
+      "childBed": 2700,
+      "child": 1900
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "Winter (05.01.27 – 28.02.27)",
+     "cp": {
+      "double": 4800,
+      "extraAdult": 1800,
+      "childBed": 1800,
+      "child": 1300
+     },
+     "map": {
+      "double": 6400,
+      "extraAdult": 2700,
+      "childBed": 2700,
+      "child": 1900
+     }
+    },
+    {
+     "room": "Deluxe (max 3 guests)",
+     "season": "High (01.03.27 – 31.03.27)",
+     "cp": {
+      "double": 4400,
+      "extraAdult": 1800,
+      "childBed": 1800,
+      "child": 1300
+     },
+     "map": {
+      "double": 6000,
+      "extraAdult": 2700,
+      "childBed": 2700,
+      "child": 1900
+     }
+    },
+    {
+     "room": "Premiere (max 3 guests)",
+     "season": "Winter (01.11.26 – 19.12.26)",
+     "cp": {
+      "double": 5600,
+      "extraAdult": 1800,
+      "childBed": 1800,
+      "child": 1300
+     },
+     "map": {
+      "double": 7200,
+      "extraAdult": 2700,
+      "childBed": 2700,
+      "child": 1900
+     }
+    },
+    {
+     "room": "Premiere (max 3 guests)",
+     "season": "Diwali (08.11.26 – 16.11.26)",
+     "cp": {
+      "double": 5600,
+      "extraAdult": 1800,
+      "childBed": 1800,
+      "child": 1300
+     },
+     "map": {
+      "double": 7200,
+      "extraAdult": 2700,
+      "childBed": 2700,
+      "child": 1900
+     }
+    },
+    {
+     "room": "Premiere (max 3 guests)",
+     "season": "Peak (20.12.26 – 04.01.27)",
+     "cp": {
+      "double": 7100,
+      "extraAdult": 1800,
+      "childBed": 1800,
+      "child": 1300
+     },
+     "map": {
+      "double": 9100,
+      "extraAdult": 2700,
+      "childBed": 2700,
+      "child": 1900
+     }
+    },
+    {
+     "room": "Premiere (max 3 guests)",
+     "season": "Winter (05.01.27 – 28.02.27)",
+     "cp": {
+      "double": 5600,
+      "extraAdult": 1800,
+      "childBed": 1800,
+      "child": 1300
+     },
+     "map": {
+      "double": 7200,
+      "extraAdult": 2700,
+      "childBed": 2700,
+      "child": 1900
+     }
+    },
+    {
+     "room": "Premiere (max 3 guests)",
+     "season": "High (01.03.27 – 31.03.27)",
+     "cp": {
+      "double": 5200,
+      "extraAdult": 1800,
+      "childBed": 1800,
+      "child": 1300
+     },
+     "map": {
+      "double": 6800,
+      "extraAdult": 2700,
+      "childBed": 2700,
+      "child": 1900
+     }
+    },
+    {
+     "room": "Suite room (max 3 guests)",
+     "season": "Winter (01.11.26 – 19.12.26)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Suite room (max 3 guests)",
+     "season": "Diwali (08.11.26 – 16.11.26)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Suite room (max 3 guests)",
+     "season": "Peak (20.12.26 – 04.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Suite room (max 3 guests)",
+     "season": "Winter (05.01.27 – 28.02.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Suite room (max 3 guests)",
+     "season": "High (01.03.27 – 31.03.27)",
+     "cp": {
+      "double": 6400,
+      "extraAdult": 1800,
+      "childBed": 1800,
+      "child": 1300
+     },
+     "map": {
+      "double": 8000,
+      "extraAdult": 2700,
+      "childBed": 2700,
+      "child": 1900
+     }
+    }
+   ]
+  },
+  {
+   "name": "SinQ Beach Morjim",
+   "category": "Hotel only",
+   "area": null,
+   "notes": [
+    "Breakfast plan only (no dinner plan)"
+   ],
+   "fromPrice": 5050,
+   "rates": [
+    {
+     "room": "Tropical cottage (max 2 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 5050,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Tropical cottage (max 2 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 5550,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Tropical cottage (max 2 guests)",
+     "season": "Christmas & New Year (24.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Tropical cottage (max 2 guests)",
+     "season": "Republic Day (22.01.27 – 26.01.27)",
+     "cp": {
+      "double": 5550,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Tropical cottage (max 2 guests)",
+     "season": "Holi (19.03.27 – 22.03.27)",
+     "cp": {
+      "double": 5550,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Deluxe cottage (max 3 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 5550,
+      "extraAdult": 1600,
+      "childBed": 1000,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Deluxe cottage (max 3 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 6050,
+      "extraAdult": 1600,
+      "childBed": 1000,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Deluxe cottage (max 3 guests)",
+     "season": "Christmas & New Year (24.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Deluxe cottage (max 3 guests)",
+     "season": "Republic Day (22.01.27 – 26.01.27)",
+     "cp": {
+      "double": 6050,
+      "extraAdult": 1600,
+      "childBed": 1000,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Deluxe cottage (max 3 guests)",
+     "season": "Holi (19.03.27 – 22.03.27)",
+     "cp": {
+      "double": 6050,
+      "extraAdult": 1600,
+      "childBed": 1000,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Tropical suite with bathtub in balcony (max 3 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 6050,
+      "extraAdult": 1600,
+      "childBed": 1000,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Tropical suite with bathtub in balcony (max 3 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 6550,
+      "extraAdult": 1600,
+      "childBed": 1000,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Tropical suite with bathtub in balcony (max 3 guests)",
+     "season": "Christmas & New Year (24.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Tropical suite with bathtub in balcony (max 3 guests)",
+     "season": "Republic Day (22.01.27 – 26.01.27)",
+     "cp": {
+      "double": 6550,
+      "extraAdult": 1600,
+      "childBed": 1000,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Tropical suite with bathtub in balcony (max 3 guests)",
+     "season": "Holi (19.03.27 – 22.03.27)",
+     "cp": {
+      "double": 6550,
+      "extraAdult": 1600,
+      "childBed": 1000,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Sunset cottage sea view (max 3 guests)",
+     "season": "Season (01.10.26 – 31.03.27)",
+     "cp": {
+      "double": 7050,
+      "extraAdult": 1600,
+      "childBed": 1000,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Sunset cottage sea view (max 3 guests)",
+     "season": "Diwali (08.11.26 – 15.11.26)",
+     "cp": {
+      "double": 7550,
+      "extraAdult": 1600,
+      "childBed": 1000,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Sunset cottage sea view (max 3 guests)",
+     "season": "Christmas & New Year (24.12.26 – 03.01.27)",
+     "cp": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Sunset cottage sea view (max 3 guests)",
+     "season": "Republic Day (22.01.27 – 26.01.27)",
+     "cp": {
+      "double": 7550,
+      "extraAdult": 1600,
+      "childBed": 1000,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    },
+    {
+     "room": "Sunset cottage sea view (max 3 guests)",
+     "season": "Holi (19.03.27 – 22.03.27)",
+     "cp": {
+      "double": 7550,
+      "extraAdult": 1600,
+      "childBed": 1000,
+      "child": 1000
+     },
+     "map": {
+      "double": null,
+      "extraAdult": null,
+      "childBed": null,
+      "child": null
+     }
+    }
+   ]
+  }
+ ],
+ "transport": {
+  "vehicles": [
+   "Small Car (up to 3 pax)",
+   "Ertiga (up to 6 pax)",
+   "Innova Crysta (up to 6 pax)",
+   "Winger 10 - 12",
+   "13 - 17 seater",
+   "18 - 20 seater",
+   "25 - 27 seater",
+   "30 - 35 seater",
+   "40 seater bus",
+   "2 Small Car",
+   "2 Ertiga",
+   "1 Ertiga + 1 Small Car"
+  ],
+  "rows": [
+   {
+    "place": "Thivim Railway Station",
+    "prices": [
+     {
+      "pickup": 1000,
+      "drop": 1000
+     },
+     {
+      "pickup": 1200,
+      "drop": 1200
+     },
+     {
+      "pickup": 1900,
+      "drop": 1900
+     },
+     {
+      "pickup": 2600,
+      "drop": 2600
+     },
+     {
+      "pickup": 3000,
+      "drop": 3000
+     },
+     {
+      "pickup": 3500,
+      "drop": 3500
+     },
+     {
+      "pickup": 5500,
+      "drop": 5500
+     },
+     {
+      "pickup": 6200,
+      "drop": 6200
+     },
+     {
+      "pickup": 6500,
+      "drop": 6500
+     },
+     {
+      "pickup": 2000,
+      "drop": 2000
+     },
+     {
+      "pickup": 2400,
+      "drop": 2400
+     },
+     {
+      "pickup": 2200,
+      "drop": 2200
+     }
+    ]
+   },
+   {
+    "place": "Karmali Railway Station",
+    "prices": [
+     {
+      "pickup": 1200,
+      "drop": 1200
+     },
+     {
+      "pickup": 1400,
+      "drop": 1400
+     },
+     {
+      "pickup": 2000,
+      "drop": 2000
+     },
+     {
+      "pickup": 2800,
+      "drop": 2800
+     },
+     {
+      "pickup": 3400,
+      "drop": 3400
+     },
+     {
+      "pickup": 4000,
+      "drop": 4000
+     },
+     {
+      "pickup": 5300,
+      "drop": 5300
+     },
+     {
+      "pickup": 6200,
+      "drop": 6200
+     },
+     {
+      "pickup": 6700,
+      "drop": 6700
+     },
+     {
+      "pickup": 2400,
+      "drop": 2400
+     },
+     {
+      "pickup": 2800,
+      "drop": 2800
+     },
+     {
+      "pickup": 2600,
+      "drop": 2600
+     }
+    ]
+   },
+   {
+    "place": "Madgaon Railway Station",
+    "prices": [
+     {
+      "pickup": 1600,
+      "drop": 1600
+     },
+     {
+      "pickup": 1800,
+      "drop": 1800
+     },
+     {
+      "pickup": 3100,
+      "drop": 3100
+     },
+     {
+      "pickup": 4000,
+      "drop": 4000
+     },
+     {
+      "pickup": 4700,
+      "drop": 4700
+     },
+     {
+      "pickup": 5200,
+      "drop": 5200
+     },
+     {
+      "pickup": 6300,
+      "drop": 6300
+     },
+     {
+      "pickup": 7200,
+      "drop": 7200
+     },
+     {
+      "pickup": 7900,
+      "drop": 7900
+     },
+     {
+      "pickup": 3200,
+      "drop": 3200
+     },
+     {
+      "pickup": 3600,
+      "drop": 3600
+     },
+     {
+      "pickup": 3400,
+      "drop": 3400
+     }
+    ]
+   },
+   {
+    "place": "Dabolim Airport (GOI)",
+    "prices": [
+     {
+      "pickup": 1300,
+      "drop": 1300
+     },
+     {
+      "pickup": 1600,
+      "drop": 1600
+     },
+     {
+      "pickup": 2500,
+      "drop": 2500
+     },
+     {
+      "pickup": 3700,
+      "drop": 3700
+     },
+     {
+      "pickup": 4800,
+      "drop": 4800
+     },
+     {
+      "pickup": 5000,
+      "drop": 5000
+     },
+     {
+      "pickup": 6500,
+      "drop": 6500
+     },
+     {
+      "pickup": 7500,
+      "drop": 7500
+     },
+     {
+      "pickup": 8200,
+      "drop": 8200
+     },
+     {
+      "pickup": 2600,
+      "drop": 2600
+     },
+     {
+      "pickup": 3200,
+      "drop": 3200
+     },
+     {
+      "pickup": 2900,
+      "drop": 2900
+     }
+    ]
+   },
+   {
+    "place": "Mapusa bus stand",
+    "prices": [
+     {
+      "pickup": 750,
+      "drop": 750
+     },
+     {
+      "pickup": 950,
+      "drop": 950
+     },
+     {
+      "pickup": 1500,
+      "drop": 1500
+     },
+     {
+      "pickup": 2300,
+      "drop": 2300
+     },
+     {
+      "pickup": 2500,
+      "drop": 2500
+     },
+     {
+      "pickup": 3000,
+      "drop": 3000
+     },
+     {
+      "pickup": 4500,
+      "drop": 4500
+     },
+     {
+      "pickup": 5000,
+      "drop": 5000
+     },
+     {
+      "pickup": 5500,
+      "drop": 5500
+     },
+     {
+      "pickup": 1500,
+      "drop": 1500
+     },
+     {
+      "pickup": 1900,
+      "drop": 1900
+     },
+     {
+      "pickup": 1700,
+      "drop": 1700
+     }
+    ]
+   },
+   {
+    "place": "Panjim bus stand",
+    "prices": [
+     {
+      "pickup": 900,
+      "drop": 900
+     },
+     {
+      "pickup": 1100,
+      "drop": 1100
+     },
+     {
+      "pickup": 2200,
+      "drop": 2200
+     },
+     {
+      "pickup": 2500,
+      "drop": 2500
+     },
+     {
+      "pickup": 2700,
+      "drop": 2700
+     },
+     {
+      "pickup": 3200,
+      "drop": 3200
+     },
+     {
+      "pickup": 4700,
+      "drop": 4700
+     },
+     {
+      "pickup": 5200,
+      "drop": 5200
+     },
+     {
+      "pickup": 5500,
+      "drop": 5500
+     },
+     {
+      "pickup": 1800,
+      "drop": 1800
+     },
+     {
+      "pickup": 2200,
+      "drop": 2200
+     },
+     {
+      "pickup": 2000,
+      "drop": 2000
+     }
+    ]
+   },
+   {
+    "place": "Vasco railway station",
+    "prices": [
+     {
+      "pickup": 1400,
+      "drop": 1400
+     },
+     {
+      "pickup": 1600,
+      "drop": 1600
+     },
+     {
+      "pickup": 2500,
+      "drop": 2500
+     },
+     {
+      "pickup": 3500,
+      "drop": 3500
+     },
+     {
+      "pickup": 4500,
+      "drop": 4500
+     },
+     {
+      "pickup": 5000,
+      "drop": 5000
+     },
+     {
+      "pickup": 5800,
+      "drop": 5800
+     },
+     {
+      "pickup": 6500,
+      "drop": 6500
+     },
+     {
+      "pickup": 7300,
+      "drop": 7300
+     },
+     {
+      "pickup": 2800,
+      "drop": 2800
+     },
+     {
+      "pickup": 3200,
+      "drop": 3200
+     },
+     {
+      "pickup": 3000,
+      "drop": 3000
+     }
+    ]
+   },
+   {
+    "place": "Mopa Airport",
+    "prices": [
+     {
+      "pickup": 1300,
+      "drop": 1300
+     },
+     {
+      "pickup": 1600,
+      "drop": 1600
+     },
+     {
+      "pickup": 2500,
+      "drop": 2500
+     },
+     {
+      "pickup": 4200,
+      "drop": 3900
+     },
+     {
+      "pickup": 4800,
+      "drop": 4500
+     },
+     {
+      "pickup": 5200,
+      "drop": 4900
+     },
+     {
+      "pickup": 7500,
+      "drop": 7000
+     },
+     {
+      "pickup": 8700,
+      "drop": 8200
+     },
+     {
+      "pickup": 9400,
+      "drop": 8900
+     },
+     {
+      "pickup": 2600,
+      "drop": 2600
+     },
+     {
+      "pickup": 3200,
+      "drop": 3200
+     },
+     {
+      "pickup": 2900,
+      "drop": 2900
+     }
+    ]
+   },
+   {
+    "place": "South Goa sightseeing (full day)",
+    "prices": [
+     {
+      "day": 2700
+     },
+     {
+      "day": 3100
+     },
+     {
+      "day": 4500
+     },
+     {
+      "day": 4000
+     },
+     {
+      "day": 5000
+     },
+     {
+      "day": 5500
+     },
+     {
+      "day": 7000
+     },
+     {
+      "day": 8000
+     },
+     {
+      "day": 8500
+     },
+     {
+      "day": 5400
+     },
+     {
+      "day": 6200
+     },
+     {
+      "day": 5800
+     }
+    ]
+   },
+   {
+    "place": "North Goa sightseeing (full day)",
+    "prices": [
+     {
+      "day": 2200
+     },
+     {
+      "day": 2600
+     },
+     {
+      "day": 3800
+     },
+     {
+      "day": 3700
+     },
+     {
+      "day": 4500
+     },
+     {
+      "day": 5000
+     },
+     {
+      "day": 6500
+     },
+     {
+      "day": 7000
+     },
+     {
+      "day": 7500
+     },
+     {
+      "day": 4400
+     },
+     {
+      "day": 5200
+     },
+     {
+      "day": 4800
+     }
+    ]
+   }
+  ]
+ },
+ "activities": [
+  {
+   "name": "Dinner cruise – Infinity (shared)",
+   "price": 950
+  },
+  {
+   "name": "Dinner cruise – Vihaan (smaller boat)",
+   "price": 950
+  },
+  {
+   "name": "Scuba diving + water sports at Paradise Beach (shared non-AC transfer)",
+   "price": 1500
+  },
+  {
+   "name": "South Goa sightseeing (shared coach)",
+   "price": 210
+  },
+  {
+   "name": "North Goa sightseeing (shared coach)",
+   "price": 210
+  },
+  {
+   "name": "Dinner cruise – Princessa or Paradise (shared)",
+   "price": 1050
+  },
+  {
+   "name": "Dudhsagar Waterfall trip (shared)",
+   "price": 1600
+  }
+ ]
+}
